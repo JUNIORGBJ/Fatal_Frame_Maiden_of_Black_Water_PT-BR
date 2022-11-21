@@ -1,5 +1,4 @@
 
-Tradução Fatal Frame Maiden of Black Water Nintendo Switch
 <h1 align="center"><figure>
   <img src="R_logo.png">
 </figure></h1>
