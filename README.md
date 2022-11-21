@@ -1,3 +1,4 @@
+## :small_blue_diamond:Tradução: 99% Revisão: 56%
 
 <h1 align="center"><figure>
   <img src="R_logo.png">
