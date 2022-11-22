@@ -1,0 +1,14 @@
+^00Sinto que Yuri foi para a montanha.{LF}^00Se eu usar a Câmera Obscura, posso salvá-la.
+E...posso conseguir pistas de onde está minha mãe.
+^00A porta não se mexe.{LF}^00Yuri não passou por aqui.{LF}^00 E... Não quero entrar lá de novo.
+^00O caminho para o santuário termina aqui.{LF}Eu tenho que voltar e tentar outro caminho.
+^00Eu tenho que tirar a Yuri dessa montanha.{LF}Mas precisamos encontrar uma maneira de descer primeiro.{LF}^00O Teleférico deve ser o caminho mais rápido.
+^00É ela...{LF}^00Ela é muito poderosa, até mesmo a Câmera Obscura não fez nada...{LF}Nós temos que correr...
+^00Yuri não passou por aqui.{LF}Preciso seguir seu rastro.
+Esse fantasma anda pode estar perseguindo a gente.{LF}Vamos entrar no teleférico e sair daqui.
+A porta esta fechada por uma força poderosa.
+^00 Era a mãe...{LF}Preciso chegar até ela.
+^00Uma mata densa está bloqueando o caminho{LF}Não vou conseguir passar.{LF}^00Mas sem dúvida era a minha mãe.{LF}Ela passou por aqui.
+^00O que será que está acontecendo por aqui?{LF}^00Seja como for, preciso encontrar a Yuri imediatamente.{LF}Ela pode saber de algo que me ajude.
+^00Mas o que...{LF}^00A Câmera Obscura... Se Yuri pode usar isso, eu também posso.
+^00^11~12~Tutorial: Fotos com a Lente da Lentidão^10{LF}^00^11~14~Segure o botão do obturador ^20~14~^11~14~ para desacelerar os fantasmas.{LF}Isso consome Poder Espiritual{LF}^00^11~14~Quando você soltar o ^20~14~^11~14~ ou ficar sem Poder Espiritual,{LF}todos os fantasmas alvos levaram dano.

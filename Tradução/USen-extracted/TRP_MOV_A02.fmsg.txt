@@ -1,0 +1,10 @@
+^00Este encantamento o deixará à beira da morte.^01~155~{LF}^00Espero que você suporte a dor.^01~160~
+^00Este encantamento o deixará à beira da morte.^01~130~{LF}^00Espero que você suporte a dor.^01~90~
+Eu não sinto dor.^01~85~
+Você odeia sua irmã?^01~45~
+Você se odeia?^01~55~
+Muito bem.^01~45~
+Isso vai fazer você mais forte.^01~50~
+Hã? O que é isso?^01~70~
+Vá em frente, pegue.^01~55~
+^00Os que vivem na montanha...^01~65~{LF}^00Eles não suportam o brilho da{LF}Lanterna da Pedra Espiritual.^01~135~

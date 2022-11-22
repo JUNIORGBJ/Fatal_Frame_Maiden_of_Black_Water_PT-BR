@@ -1,0 +1,22 @@
+^00Não! Eu não matei ninguém^01~140~{LF}^00Não! Não olhe para mim com esses OLHOS!^01~210~
+Você está aqui por mim?^01~30~
+Hehehehehehe.^01~30~
+Teeheeheeheeheee.^01~30~
+Ahahahahahaha.^01~30~
+Em breve o Pilar falhará...^01~170~
+A Água Negra deve inundar mais uma vez.^01~130~
+Você vai servir como um belo Pilar.^01~180~
+Vamos lá, vamos voltar.^01~150~
+Tá...^01~80~
+Obrigada.^01~60~
+Por que você estava aqui?^01~60~
+Eu também posso vê-los, você sabe.{LF}Talvez até melhor do que você.^01~160~
+Oh...^01~30~
+Você se assusta ao ver coisas que outros não conseguem? ^01~100~
+Não tenho medo. Eu não tenho nada a perder,{LF}por isso não há nada a temer.^01~180~
+Eu sei que você está com medo também.{LF}Medo de ficar sozinha.^01~140~
+Eu não sei o motivo, mas há algo no{LF}pôr-do-sol me dá vontade de chorar.^01~300~
+O crepúsculo foi tão bonito... Mas eu estava assustado{LF}de estar sozinho na escuridão que surgiu em seguida.^01~270~
+Algum dia, você decidirá ir sozinho...{LF}Você terá que resolver tudo por conta própria.^01~240~
+Você sabe disso tão bem quanto eu.{LF}E ainda assim, você parece estar confuso.^01~240
+Mãe...{LF}Mãe... espera...^01~80~

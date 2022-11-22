@@ -1,0 +1,35 @@
+Ren falando.^01~30~
+Ren...^01~35~
+^00Kazuya?^01~50~{LF}^00Eu tentei entrar em contato com você,{LF}Eu estava preocupada.^01~100~{LF}^00^01~150~{LF}^00Ouça, sobre o que eu lhe disse antes...^01~120~
+^00Kazuya?^01~50~{LF}^00Eu tentei entrar em contato com você,{LF}Eu estava preocupada.^01~100~{LF}^00^01~110~{LF}^00Ouça, sobre o que eu lhe disse antes...^01~120~
+Eu vou me casar.^01~70~
+O que? Você é?^01~85~
+Sim...^01~50~
+Sim...^01~50~
+Isso é... uau.^01~100~
+Isso é... uau.^01~80~
+^00Hum, parabéns.^01~60~{LF}^00E quem é a noiva sortuda? ^01~60~
+^00Hum, parabéns.^01~80~{LF}^00E quem é a noiva sortuda? ^01~75~
+Alguém que eu conheço?^01~40~
+Alguém que eu conheço?^01~70~
+Desde que olhei a foto dela...^01~110~
+Você morreria comigo?^01~110~
+^00Não fale comigo.^01~70~{LF}^00Eu não deveria falar com os vivos. ^01~105~
+...Um homem, finalmente.^01~60~
+Você é um homem, não é?^01~110~
+Eu sou uma garota.^01~50~
+Mentira!^01~30~
+Eu sou!^01~60~
+Entendo. Nesse caso...^01~80~
+Vamos brincar.^01~40~
+Isto é uma efígie. De você.^01~90~
+Isto é uma efígie. De você.^01~130~
+Não. Farei de você uma efígie.^01~160~
+É hora de brincar!{LF}Você é o noivo, encontre sua noiva! ^01~120~
+Você me encontrou.^01~50~
+Você é aquela garota...^01~90~
+Você não o guardou consigo.^01~70~
+Meu sinal...^01~50~
+^00Você esqueceu? ^01~130~{LF}^00Mas, a nossa promessa...^01~70~
+^00Você esqueceu? ^01~100~{LF}^00Mas, a nossa promessa...^01~70~
+Hã...^01~50~

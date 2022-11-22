@@ -1,0 +1,142 @@
+Fique longe... Não tem nada aqui para você.^01~120~
+Eu não estou mais doente... Eu não estou mais doente...^01~120~
+Eu não estou mais doente... Eu não estou mais doente...^01~220~
+Eu posso ver coisas que ninguém mais pode ver.^01~120~
+Desde que minha família morreu.^01~100~
+^00Imagens dos mortos que só eu posso ver...^01~110~{LF}^00^01~85~{LF}^00Eu posso senti-los ao meu redor.^01~110~
+^00Imagens dos mortos que só eu posso ver...^01~110~{LF}^00^01~10~{LF}^00Eu posso senti-los ao meu redor.^01~110~
+^00E desde então, a morte tem estado ao meu lado. ^01~70~{LF}^00^01~90~{LF}^00Era por isso que eu sabia para onde precisava ir.^01~210~
+^00E desde então, a morte tem estado ao meu lado. ^01~100~{LF}^00^01~115~{LF}^00Era por isso que eu sabia para onde precisava ir.^01~140~
+^00Eu tenho estado neste abismo. ^01~140~{LF}^00^01~90~{LF}^00Pensando se eu deveria dar o último passo.^01~240~
+^00Eu tenho estado neste abismo. ^01~100~{LF}^00^01~100~{LF}^00Pensando se eu deveria dar o último passo.^01~150~
+Ela abre...^01~60~
+Aceite-me.^01~120~
+^00Um aparelho que pinta quadros que parecem reais...^01~190~{LF}^00^01~10~{LF}^00Ouvi dizer que os quadros que ela pinta são tão realistas,^01~160~{LF}^00você pode até ver o que está no coração de alguém.^01~140~
+^00Um aparelho que pinta quadros que parecem reais...^01~160~{LF}^00^01~10~{LF}^00Ouvi dizer que os quadros que ela pinta são tão realistas,^01~120~{LF}^00você pode até ver o que está no coração de alguém.^01~130~
+Por aqui!^01~30~
+A cerimônia é amanhã.^01~80~
+Eu gostaria de ficar aqui, escondido para sempre.^01~125~
+^00Isto é uma lembrança para lembrá-lo.^01~90~{LF}^00^01~30~{LF}^00É um pedaço da minha alma. ^01~70~
+Sempre mantenha com você.^01~110~
+Nunca se esqueça.^01~55~
+Não vá... Não me deixe...^01~120~
+Não vá... Não me deixe...^01~120~
+Eu não tenho nada...ninguém...^01~130~
+Mãe!^01~40~
+^00Você veio.^01~35~{LF}^00Você finalmente veio.^01~55~
+Vamos lá, por aqui!^01~40~
+Finalmente ficaremos juntos...^01~85~
+Veja...^01~30~
+Ahh!^01~120~
+Eu estava sozinha.^01~66~
+Eu gostaria de ficar aqui, escondido para sempre.^01~125~
+Eu era diferente das outras sacerdotisas.^01~120~
+Me disseram que eu não iria viver muito tempo.^01~120~
+^00É por isso que ninguém queria ser meu amigo. ^01~100~{LF}^00Eu estava sozinho.^01~40~
+Mas eu não estarei mais sozinho.^01~120~
+Ficaremos juntos para sempre.^01~65~
+Sem poder morrer, ficaremos juntos para sempre.^01~125~
+Não, isso não esta certo.^01~60~
+^00Eu não posso morrer.^01~45~{LF}^00^01~40~{LF}^00Serei um Pilar pela eternidade...^01~85~
+Mas você, você pode morrer.^01~120~
+Você não pode desperdiçar isso. Vá embora! ^01~95~
+Esse lugar...^01~30~
+Esse lugar...^01~45~
+O santuário em que brincavam quando crianças.{LF}Agora, não é nada além de ruínas.^01~170~
+Ela caiu no esquecimento,{LF}junto com outras sacerdotisas.^01~150~
+Você finalmente veio...^01~140~
+Você vai se unir a mim na escuridão? ^01~125~
+Eu queria vê-lo pela última vez.^01~115~
+Pensei que não teríamos essa chance.^01~80~
+Você veio aqui para acabar com isso, não foi? ^01~150~
+Sim. Para acabar com isso, juntamente com você.^01~90~
+Eu te amo.^01~35~
+^00Eu sei. Eu posso ver, em seu coração...^01~150~{LF}^00^01~20~{LF}^00Mas...eu queria ouvir você dizer isso.^01~135~
+Eu queria viver com você.{LF}Isso era tudo o que eu queria.^01~105~
+^00Eu queria viver com você.^01~60~{LF}^00^01~90~{LF}^00Isso era tudo o que eu queria.^01~80~
+Era meu desejo, e finalmente agora eu sei.^01~160~
+^00Fico feliz por finalmente poder lhe dizer.^01~70~{LF}^00^01~100~{LF}^00Depois de tanto tempo.^01~65~
+^00Queria te dizer há tanto tempo.^01~80~{LF}^00^01~80~{LF}^00Estou feliz por finalmente ter conseguido.^01~80~
+Adeus, meu amor.^01~25~
+Adeus...^01~20~
+Então você veio para se despedir...^01~120~
+^00Quando você tirou aquela foto minha...^01~70~{LF}^00^01~55~{LF}^00Você tirou uma parte da minha alma.^01~168~
+^00Me causou um grande sofrimento.^01~140~{LF}^00^01~130~{LF}^00Mesmo assim, eu ainda estava feliz. ^01~140~
+Voltarei para a escuridão.^01~90~
+^00Mas antes de ir, tire uma foto minha. ^01~105~{LF}^00^01~50~{LF}^00Salve uma parte de mim.^01~35~{LF}^00^01~42~{LF}^00Antes que eu seja selado para sempre.^01~125~
+^00Tudo que eu queria...era salvar meu irmão.^01~155~{LF}^00^01~100~{LF}^00Apenas trazê-lo de volta.^01~75~
+Ou talvez...eu quisesse mesmo voltar ao passado.^01~188~
+Voltar aos tempos mais felizes{LF}e ficar lá, para sempre.^01~120~
+^00Eu gostaria de ter...^01~50~{LF}^00alguém que possa atravessar para o outro lado comigo.^01~104~
+Ao menos você tem um Pai.^01~110~
+^00... Eu não tenho ninguém.^01~90~{LF}^00^01~40~{LF}^00 Eu estou sozinho.^01~30~
+^00Eu te odiei por muito tempo.^01~165~{LF}^00^01~45~{LF}^00Mas agora, Eu... Eu entendi isso.^01~105~{LF}^00^01~50~{LF}^00Eu compreendo.^01~30~
+^00Eu te odiei por muito tempo.^01~120~{LF}^00Mas agora, Eu... Eu entendi isso.^01~195~{LF}^00^01~65~{LF}^00Eu compreendo.^01~70~
+^00Apenas não vá.^01~45~{LF}^00Por favor.^01~35~
+^00Eu não.^01~30~{LF}^00^01~10~{LF}^00Eu não vou a lugar nenhum.^01~65~
+...Mentira.^01~40~
+Estou feliz por não ter levado você comigo.^01~120~
+^00Eu acho que sempre soube. ^01~45~{LF}^00^01~35~{LF}^00Você não pertence mais a este mundo.^01~135~{LF}^00^01~100~{LF}^00Quando eu o encontrei,{LF}você já estava sumindo.^01~130~{LF}^00^01~30~{LF}^00Apenas uma sua sombra permaneceu.^01~145~
+^00Eu acho que já sabia de tudo. ^01~85~{LF}^00^01~35~{LF}^00Você não pertence mais a este mundo.^01~95~{LF}^00^01~40~{LF}^00Quando eu o encontrei,{LF}você já estava sumindo.^01~125~{LF}^00^01~40~{LF}^00Restou apenas uma sombra de você.^01~95~
+^00Você conseguiu chegar aqui...^01~95~{LF}^00^01~75~{LF}^00Na Lagoa Negra.^01~80~
+^00Não precisa se assustar. ^01~100~{LF}^00^01~120~{LF}^00Junte-se a mim na Água Negra.^01~90~
+^00Depressa, enquanto resisto...^01~90~{LF}^00^01~155~{LF}^00Antes que a Água Negra volte a inundar...^01~140~
+^00 Depressa, enquanto resisto...^01~90~{LF}^00^01~70~{LF}^00 Antes que a Água Negra volte a inundar...^01~140~
+Ele saiu da montanha.^01~120~
+^00Eu também tenho que sair. ^01~60~{LF}^00^01~40~{LF}^00Eu sou um Pilar.{LF}Devo mergulhar na Água Negra. Para sempre. ^01~240~{LF}^00^01~130~{LF}^00Esse é o meu dever.^01~80~
+^00Continuarei descendo...para o fundo...^01~120~{LF}^00^01~65~{LF}^00Meu coração está cheio desses últimos momentos.^01~110~{LF}^00^01~62~{LF}^00Eu estou morrendo de novo... eternamente... sozinho... ^01~250~
+Alguém... por favor... me aceite.^01~170~
+Eu te amo.^01~25~
+^00Essas palavras eram muito fortes para mim.^01~100~{LF}^00^01~50~{LF}^00Eles eram...uma maldição.^01~100~
+^00Eu não queria morrer com ele.^01~130~{LF}^00^01~40~{LF}^00Eu queria viver com ele.^01~80~
+Sinto que finalmente a maldição foi removida.^01~140~
+^00Então, eu irei sozinha.^01~160~{LF}^00^01~20~{LF}^00Vou deixar a corrente negra me levar.^01~50~
+Espera...^01~45~
+^00Seu olhar salvou minha alma.^01~100~{LF}^00^01~60~{LF}^00Deixo meus últimos pensamentos com você.^01~110~
+^00Agora eu posso ir. Descerei na escuridão.^00^01~330~{LF}^00Descer cada vez mais fundo, para o infinito.^01~120~
+Estou tão feliz por ter sido você.^01~80~
+Yuri!^01~30~
+Ele saiu da montanha.^01~130~
+^00Eu também preciso ir embora.^01~60~{LF}^00^01~40~{LF}^00Eu sou um Pilar. Eu devo mergulhar na{LF}Água Negra. Para toda a eternidade.^01~240~{LF}^00^01~130~{LF}^00Esse é o meu dever.^01~80~
+^00Eu também preciso ir embora.^01~100~{LF}^00^01~45~{LF}^00Eu sou um Pilar. Eu devo mergulhar na{LF}Água Negra. Para toda a eternidade.^01~300~{LF}^00^01~85~{LF}^00Esse é o meu dever.^01~90~
+^00Continuarei descendo...para o fundo...^01~120~{LF}^00^01~65~{LF}^00Meu coração está cheio desses últimos momentos.^01~110~{LF}^00^01~62~{LF}^00Eu estou morrendo de novo... eternamente... sozinho... ^01~300~
+Alguém...me aceite...por favor...^01~180~
+Você não está sozinha.^01~90~
+^00Eu queria viver à lado dele.^01~100~{LF}^00^01~35~{LF}^00No entanto, a pessoa com quem eu quero morrer é você.^01~185~
+Nós compartilhamos a mesma dor.{LF}Podemos mergulhar juntos na escuridão.^01~200~
+Vamos.^01~30~
+^00 Eu...^01~20~{LF}^00^01~50~{LF}^00 estou sozinha.^01~20~
+Você não está sozinha.^01~80~
+Yuri!^01~25~
+Perdão...^01~13~
+^00Não se levante ainda.^01~35~{LF}^00^01~45~{LF}^00Fique aqui. Você precisa descansar.^01~80~
+^00Oh, qual é.^01~30~{LF}^00^01~20~{LF}^00Eu não vou a lugar algum.^01~50~{LF}^00^01~60~{LF}^00Confie em mim.^01~60~
+Que bom que você veio.^01~100~
+Meu caro Mestre Aso,^01~120~
+você é muito bem-vindo.^01~120~
+Agora, vamos ver sua amada noiva?^01~210~
+Eu pensei que teria medo da morte...^01~110~
+...mas nem chorar eu consigo.^01~60~
+Yuri.^01~50~
+O que estamos procurando deve estar aqui.^01~80~
+Essa é a Câmera Obscura, isso vai deixar você ver o que não vê.^01~100~
+Esse sonho outra vez...^01~50~
+Hum, Sr. Hojo...?^01~60~
+Ela achou o álbum.^01~120~
+Dê uma olhada.^01~50~
+Você viu demais.^01~120~
+Você se dissolverá em nada.^01~80~
+^00Hum, com licença...^01~80~{LF}
+^00Hum, com licença...^01~70~{LF}^00Ola^01~30~
+Eu estou procurando por Hisoka Kurosawa.^01~70~
+Tenho estado à espera de que ela me dissesse{LF}se...se...se ela pudesse me ajudar a encontrar alguém.^01~180~{LF}
+^00Ela poderia ter ido até à montanha.^01~70~{LF}^00...Monte. Hikami.^01~50~
+É um local ínfimo de suicídio, não é?^01~100~
+^00Tem uma superstição local avisando as pessoas{LF}a não subir o Monte Hikami após anoitecer.^01~170~{LF}^00Se você subir a montanha em hora do crepúsculo,^01~80~{LF}^00Irá mostrar uma forma diferente, sua verdadeira forma.^01~130~{LF}^00^01~50~{LF}^00Somente aqueles que desejam morrer vem aqui nesse horário.^01~120~
+^00Tem uma superstição local avisando as pessoas{LF}a não subir o Monte Hikami após anoitecer.^01~150~{LF}^00^01~30~{LF}^00Se você subir a montanha em hora do crepúsculo,^01~75~{LF}^00Irá mostrar uma forma diferente, sua verdadeira forma.^01~130~{LF}^00^01~45~{LF}^00Somente aqueles que desejam morrer vem aqui nesse horário.^01~120~
+^00Você não pode sair da montanha.^01~90~{LF}^00^01~90~{LF}^00Você irá dissolver até o nada.^01~70~
+^00Você não pode sair da montanha.^01~75~{LF}^00^01~85~{LF}^00Você irá dissolver até o nada.^01~70~
+Eu sei que você quer morrer.^01~55~
+Eu sei que você quer morrer.^01~45~
+Vamos cair juntas...^01~100~
+Vamos cair juntas...^01~100~

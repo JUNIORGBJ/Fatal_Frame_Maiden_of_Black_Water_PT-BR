@@ -1,0 +1,43 @@
+^00Em meu sonho, Rui estava na casa daquele folclorista,{LF}que pesquisamos antes.{LF}^00Devo verificar novamente, talvez eu encontre uma pista que me leve a Rui.
+De acordo com o mapa, deve haver neste lugar um pântano...
+O fantasma deixou algo quando desapareceu.
+^00Rui não veio aqui. Preciso ir até a casa do folclorista.
+Essa porta deve estar trancada pelo outro lado.
+O muro está caindo aos pedaços.{LF}Talvez eu consiga encontrar um meio de entrar.
+A porta esta fechada por uma força poderosa.
+Essa porta deve estar trancada pelo outro lado.
+A porta esta fechada por uma força poderosa.
+A força que estava bloqueando a porta acabou.
+A porta agora está destrancada.
+^00Há uma caixa preta no meio da sala.{LF}^00Manchas escuras marcam o chão, como se algo tivesse vazado...
+^00Onde é que eu estou?
+A porta não se mexe.
+Isso parecia com algum tipo de festa...
+^00A porta está fechada por uma força poderosa.{LF}^00A névoa está começando a entrar no prédio.{LF}A Casa Veiled está prestes a desaparecer.
+Kazuya...
+^00A névoa está ficando mais densa.{LF}Não tenho muito tempo.
+^00Rui ainda está fraca. Vamos pegar o teleférico.
+^00O mapa não mostra a localização da Casa Veiled.{LF}^00Minha única chance é atravessar novamente o túnel abaixo{LF}do Santuário das Bonecas e esperar que apareça como da última vez.
+^00Eu posso encontrar a Casa Veiled se eu passar{LF}o túnel abaixo do Santuário das Bonecas novamente.{LF}^00Não há tempo a perder. Rui está me esperando.
+^00A porta de treliça está trancada e a fechadura está quebrada.{LF}^00O caminho para a Casa Veiled fica além do porão.
+Essa porta deve estar trancada pelo outro lado.
+A porta agora está destrancada.
+A porta esta fechada por uma força poderosa.
+A força que estava bloqueando a porta desapareceu.{LF}A porta agora pode ser aberta.
+Essa porta deve estar trancada pelo outro lado.
+A porta agora está destrancada.
+Essa porta deve estar trancada pelo outro lado.
+A porta agora está destrancada.
+Essa porta deve estar trancada pelo outro lado.
+^00A porta está trancada.{LF}^00A Câmera Obscura está reagindo a ela...
+Você abriu a porta com a ^30~048~^11~09~Chave Enferrujada^10.
+^00Há algo na foto...{LF}^00Retratos...do falecido?{LF}Deve ser onde a chave está escondida.
+Os retratos das fotos devem estar em algum lugar desta casa.
+^00A porta está trancada pelo outro lado.{LF}^00Esses retratos das fotos estão em algum lugar desta casa,{LF}Tenho certeza disso.
+Algo saiu do quadro.
+Você obteve a ^11~09~Chave Enferrujada^10.
+A porta esta fechada por uma força poderosa.
+^00O mapa não mostra a localização da Casa Veiled.{LF}^00Minha única chance é atravessar novamente o túnel abaixo{LF}do Santuário das Bonecas e esperar que apareça como da última vez.
+Isso foi...Kazuya?
+^00^00Rui está agindo de forma estranha, talvez seja um dos fantasmas de novo.{LF}^00Eu devia segui-la...
+Kazuya deixou cair algo quando sumiu.

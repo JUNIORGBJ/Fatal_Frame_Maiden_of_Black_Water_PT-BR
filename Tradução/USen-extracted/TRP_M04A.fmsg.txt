@@ -1,0 +1,62 @@
+Então, você não deveria levar a Câmera Obscura?^01~60~
+Você não a usou ainda, essa pode ser sua chance.^01~120~
+As pessoas falam que tem algo... de errado neste lugar.^01~110~
+Tá...^01~45~
+Tá escurecendo. Vamos logo.^01~90~
+Sim... Bora.^01~60~
+Acho que esse é o albergue onde o álbum foi{LF}foi encontrado. Aqui deve ser a Mansão Ichiru...^01~140~
+Então, você vai conseguir usar a Câmera Obscura?^01~130~
+É melhor você tentar primeiro, só pra garantir.^01~90~
+Tá.^01~30~
+Você acha que vai ficar feliz com isso?^01~60~
+Hmm... Sim, vai ficar tudo bem.^01~120~
+A câmera está funcionando?^01~60~
+Bem, você parece com você mesma, então... sim?^01~75~
+E isso é uma coisa boa?^01~45~
+Eh, nós deveríamos ir.^01~30~
+Eu não acho que este seja o caminho para o lugar que a Hisoka mencionou.^01~125~
+Eu acho que esse é o caminho.^01~60~
+^00Eu ouvi, que a parte velha desta pousada, aquela que{LF}está mais no fundo.^01~130~{LF}^00Era uma parte de algum templo ou santuário.^01~130~
+Depois que virou uma pousada, a família do proprietário viveu aqui.^01~100~
+Teve um grande deslizamento que atingiu o Monte Hikami,{LF}talvez todos foram enterrados debaixo do escombro.^01~180~
+Ei, parece que o álbum que você perguntou foi{LF}encontrado naquela velha construção.^01~145~
+Sim.{LF}Parece ser daquele jeito.^01~90~
+Deve estar por aqui.^01~75~
+Sim.^01~60~
+Esse deve ser o quarto que Hisoka encontrou aquele álbum.^01~120~
+Sim, parece que seria mesmo.^01~90~
+Ainda pode ter algo que nos ajude.^01~90~
+As chamas estão chamando...{LF}Aquele retrato... É tudo pelo retrato...^01~360~
+Ei, você encontrou alguma coisa?^01~75~
+Sim.^01~30~
+Eu posso vê-los... Eu vejo todos eles.{LF}Chamando por mim na água. Chamando meu nome...^01~520~
+Vamos lá.^01~60~
+Tá.^01~60~
+Conforme as histórias, depois do deslizamento,{LF}o dono da pousada se mudou para o terceiro piso.^01~230~
+Dizem que ele se queimou até a morte lá,{LF}ou que ele se jogou no lago.^01~180~
+Uma história bem comum.^01~60~
+Nem me fale.^01~60~
+Desde então, eles dizem que se você olhar para a varanda do{LF}terceiro-piso, você verá alguém olhando para baixo.^01~190~
+...Rui.^01~30~
+Eu sinto muito.^01~60~
+Rui, você está bem?^01~70~
+Sim, Eu estou bem...^01~90~
+...^01~45~
+O pôr do sol... é tão lindo.{LF}A montanha parece estar derretendo...^01~330~
+Se eu pudesse derreter... naquele pôr do sol...{LF}Se eu pudesse simplesmente derreter...^01~300~
+No lago... No sol poente...^01~160~
+Parece que houve um incêndio.^01~60~
+Deve ser para onde o estalajadeiro se mudou.^01~60~
+^00Rui!^01~30~{LF}^00Pare!^01~30~{LF}^00 O que há de errado? ^01~30~{LF}^00O diabo está acontecendo?!^01~60~{LF}^00 Há...algo aí?!^01~60~
+Tem... algo aqui?!^01~90~
+Algum problema?!^01~60~
+Rui!^01~30~
+Ruiii!^01~120~
+Obrigada...^01~50~
+Estamos saindo.^01~50~
+Tá.^01~30~
+Ren, Eu...^01~30~
+Assim que voltarmos.^01~30~
+Claro.^01~30~
+Sr. Hojo...^01~30~
+Sim.^01~30~

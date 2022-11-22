@@ -1,0 +1,21 @@
+^00Fica longe, Yuri.^01~75~{LF}^00^01~20~{LF}^00Você não devia estar aqui.^01~70~
+Hisoka...^01~40~
+^00Eu me tornei um Pilar.^01~75~{LF}^00^01~40~{LF}^00É isto que eu quero.^01~40~
+^00Se eu ficar aqui, você estará a salva.^01~130~{LF}^00^01~35~{LF}^00Então, por favor, vá embora.^01~85~
+Não! Eu não vou deixar você fazer isso!^01~50~
+Não! Eu não vou deixar você fazer isso!^01~120~
+Somos tão parecidos.^01~120~
+Somos tão parecidos.^01~120~
+Se ainda quer morrer, vou morrer com você.^01~120~
+Se ainda quer morrer, vou morrer com você.^01~120~
+^00Você pode pensar que não tem ninguém...^01~85~{LF}^00^01~25~{LF}^00Mas não é verdade. Você não está sozinho.^01~95~{LF}^00^01~45~{LF}^00Eu estou aqui por você, então por favor, fique comigo. ^01~100~{LF}^00^01~25~{LF}^00Mesmo que seja só mais um pouco.^01~40~{LF}^00^01~20~{LF}^00Só mais um pouco.^01~50~
+^00Você pode pensar que não tem ninguém...^01~70~{LF}^00Mas não é verdade. Você não está sozinho.^01~158~{LF}^00Eu estou aqui por você, então por favor, fique comigo.^01~135~{LF}^00Mesmo que seja só mais um pouco.^01~60~{LF}^00Só mais um pouco.^01~60~
+^00Você se lembra daquela época?^01~90~{LF}^00^01~30~{LF}^00A promessa que nós fizemos?^01~40~
+^00Você se lembra daquela época?^01~55~{LF}^00A promessa que nós fizemos?^01~50~
+Por favor, apenas fique, mais um pouco.^01~80~
+É acolhedor e caloroso...^01~40~
+^00É algo tão pequeno, mas eu nunca notei^01~150~{LF}^00^01~45~{LF}^00o quanto uma pouco de afeto pode fazer a diferença.^01~131~
+Eu queria pular, mas agora...^01~130~
+Posso ficar aqui, por favor, por um momento?^01~120~
+Isto... Isto é o que eu precisava... neste exato momento.^01~170~
+É acolhedor e caloroso...^01~50~

@@ -1,0 +1,282 @@
+Idioma da Legenda
+Japonês
+Português
+Francês
+Alemão
+Chinês Tradicional
+Chinês Simplificado
+Selecione um idioma para a legenda.
+表示言語を切り替íまÍ。{LF}よろÈãでÍか？
+Alterar o idioma da legenda. Deseja continuar?
+Changement de la langue d'affichage.{LF}Voulez-vous continuer ?
+Anzeigesprache wird geändert.{LF}Möchtest du fortfahren?
+將切換顯示語言。{LF}確定要切換嗎？
+即将切换显示语言。{LF}确定要这样做吗？
+はã
+ããí
+Sim
+Não
+Oui
+Non
+Ja
+Nein
+確定
+取消
+是
+否
+https://www.gamecity.ne.jp/manual/zero/maiden/jp/
+▼▼▼CONTROLLER IMAGE FOR FINDER▼▼▼
+^20~42~
+%ls  %d pts.{LF}Deseja comprar isso? (Você tem: %d pts.)
+Você não tem pontos o suficiente.
+Traje de Ryza
+Chapéu de Ryze
+Chapéu de Câmera Obscura
+Chapéu de Bruxa
+%ls agora está disponível como um acessório para Yuri.
+%ls agora está disponível como um acessório para Ren.
+%ls agora está disponível como um acessório para Miu.
+https://www.koeitecmoamerica.com/manual/fatalframe-mobw/en/
+https://www.koeitecmoeurope.com/manual/zero-maiden/en/
+https://www.koeitecmoeurope.com/manual/zero-maiden/fr/
+https://www.koeitecmoeurope.com/manual/zero-maiden/de/
+https://www.gamecity.com.tw/manual/zero/maiden/
+https://www.gamecity.com.tw/manual/zero/maiden/sc/
+^20~30~
+Apontar Câmera Para Trás{LF}Correr
+Tirar foto (Ataque){LF}Libertar Fantasmas Off
+Pegar Item{LF}Foco (Leitura da Sombra)
+Modo Busca
+Modo Foto
+Função de Sensor de Movimento ^20~41~^20~10~ 
+Use a função do sensor de movimento do controle e ^20~10~ para controlar a direção da onde a câmera está apontando no Modo Foto.{LF}(Esse estilo de controle é para aqueles que querem usar o controle como uma câmera de forma intuitiva.)
+Use a função do sensor de movimento do controle e ^20~10~ para controlar a direção da onde a câmera está apontando no Modo Foto.{LF}(Esse estilo de controle é para aqueles que querem usar o controle como uma câmera de forma intuitiva.)
+Sensibilidade do Sensor de Movimento
+Ajustar sensibilidade do sensor de movimento do controle.
+O seguinte conteúdo foi adicionado:{LF}Livro de Arte Digital do 20º Aniversário{LF}O Livro de Arte pode ser acessado a partir do menu de titulo do jogo.
+O conteúdo do "Livro de Arte Digital do 20º Aniversário" foi excluído.{LF}Por favor, reinstale o conteúdo se você deseja acessá-lo.
+O seguinte conteúdo adicional foi adicionado:{LF}%ls{LF}Pode ser acessado a partir de "^20~03~: Roupa".
+O conteúdo do DLC foi excluído.{LF}Por favor, reinstale o conteúdo se você deseja acessá-lo.
+O conteúdo de roupa/acessório de DLC foi deletado.{LF}Caso estivesse equipado, os personagens serão retornados ao padrão.{LF}Por favor, reinstale o conteúdo se caso desejar acessá-lo.
+Livro de Arte Digital do 20º Aniversário
+Conjuntos de Roupas dos Protagonistas do Passado
+Yuri Fantasia Exclusiva: Roupa Ryza, Chapéu Ryza
+Yuri/Miu/Ren Fantasia Exclusiva: Chapéu da Câmera Obscura{LF}& Yuri/Miu Fantasia Exclusiva:  Chapéu de Bruxa
+^20~05~
+^20~06~
+O Snap Mode não pode ser usado aqui.
+O Snap Mode está atualmente indisponível.
+Isto desativa ou ativa efeito de vibração do controle.
+Isto ativa o efeito de vibração do controle.
+Isto desativa o efeito de vibração do controle.
+Configuração de Teclas
+Tipo de Controle
+Teclado e Mouse
+Apenas Teclado
+Modo Busca
+Modo Foto
+Outro
+Formatar Configurações
+Isso permite que você configure os controles do teclado.
+Isto possibilita que você selecione se deseja usar o teclado sozinho ou com um mouse.
+Isso permite que você altere as configurações de controle para o teclado e mouse.{LF}Selecione e confirme um item que deseja alterar e em seguida, atribua um botão.
+Isso permite que você altere as configurações do controle para o teclado.{LF}Selecione e confirme um item que deseja alterar e em seguida, atribua um botão.
+Tem certeza que deseja retornas as teclas para suas configurações originais?
+Esta ação já foi designada para a chave abaixo.{LF}Tem certeza de deseja reatribuir?{LF}%ls
+Andar (Frente)
+Andar (Trás)
+Andar (Esquerda)
+Andar (Direita)
+Olhar em volta
+Olhar em volta (Cima)
+Olhar em volta (Baixo)
+Olhar em volta (Esquerda)
+Olhar em volta (Direita)
+Correr
+Movimento Paralelo
+Foco (Leitura da Sombra)/Pegar Item
+Apontar Câmera
+Apontar Câmera Para Trás
+Ação
+Esquivar
+Preparar Câmera
+Abrir Menu
+Pausar
+Mostrar Mapa Detalhado
+Ativar Modo Snap
+Andar (Frente)
+Andar (Trás)
+Andar (Esquerda)
+Andar (Direita)
+Olhar em volta
+Olhar em volta (Cima)
+Olhar em volta (Baixo)
+Olhar em volta (Esquerda)
+Olhar em volta (Direita)
+Dê uma rápida olhada
+Mira Automática
+Tirar foto (Ataque)/Liberta Fantasma
+Usar Lentes Melhoradas
+Coloque a Câmera Longe
+Mudar Lentes Melhoradas (Cima)
+Mudar Lentes Melhoradas (Baixo)
+Trocar Filme (Esquerda)
+Trocar Filme (Direita)
+Girar a Câmera no Eixo Z (Esquerda)
+Girar a Câmera no Eixo Z (Direita)
+Modo Camera: Mover Camera (Forward)
+Modo Camera: Mover Camera (Backward)
+Modo Camera: Mover Camera (left)
+Modo Camera: Mover Camera (left)
+Modo Snap: Girar a Câmera
+Modo Snap: Girar a Câmera (Cima)
+Modo Snap: Girar a Câmera (Baixo)
+Modo Snap: Girar a Câmera (Esquerda)
+Modo Snap: Girar a Câmera (Direita)
+Modo Snap: Selecionar Item (Cima)
+Modo Snap: Selecionar Item (Baixo)
+Modo Snap: Trocar Item (Cima)
+Modo Snap: Trocar Item (Baixo)
+Modo Camera: Rolar (Esquerda)
+Modo Camera: Roll (Direita)
+Modo Camera: Levantar camera
+Modo Camera: Baixar Camera
+Modo Camera: Trocar Interface
+Modo Camera: Alternar velocidade
+Modo Camera: Tirar Foto
+Fechar o Modo Snap
+Menu: Confirmar/Próxima Página
+Menu: Selecionar (Cima)
+Menu: Selecionar (Baixo)
+Menu: Selecionar (Esquerda)
+Menu: Selecionar (Direita)
+Menu: Voltar/Fechar Janela
+Selecionar resolução de tela.
+Alterar configuração de janela.
+Selecione a qualidade geral dos gráficos.
+Selecione a qualidade da textura.
+Selecionar qualidade da sombra.
+Selecione a qualidade RLR (reflexão local em tempo real).
+Selecionar qualidade de efeito.
+Alterar a configuração de anti-serrilhado.
+Alterar a configuração de DOF (profundidade de campo).
+Alterar a configuração de oclusão de ambiente.
+Alterar configuração do bloom.
+Alterar a configuração do feixe de luz.
+Alterar a configuração de draw distance.
+Alterar a configuração da distância do ponto de luz.
+960x540
+1080x600
+1280x720
+1366x768
+1600x900
+1920x1080
+2560x1440
+3840x2160
+Personalizado
+Editar configurações de vídeo.
+Isso restaura todas as configurações para seus padrões.{LF}(Excluindo as configurações gráficas e configuração de teclas.)
+Deseja realmente sair do jogo?
+
+
+Tem certeza de que deseja redefinir as configurações gráficas para o padrão?
+Formatar Configurações
+^20~26~: Confirmar
+^20~27~: Voltar
+^20~42~ / ^20~30~: Voltar
+Os seguintes extras foram adicionados:{LF}Livro de Arte Digital do 20º Aniversário{LF}O Livro de Arte pode ser acessado a partir do menu de título do jogo.
+O item "Livro de Arte Digital do 20º Aniversário" foi excluído.{LF}Favor reinstalar os extras se você desejar acessar o livro.
+Foram adicionados os seguintes extras:{LF}%ls{LF}Pode ser acessado a partir de "^20~03~: Roupas".
+os extras foram excluídos.{LF}Favor reinstalar os extras se você desejar acessá-los.
+O conteúdo adicional de roupa/acessório foi deletado.{LF}Caso estivesse equipado, os personagens serão retornados ao padrão.{LF}Por favor, reinstale o conteúdo adicional se caso desejar acessá-lo.
+Informações de Licença
+Visualizar informação de licensa.
+^20~04~ Alterar Conta
+A conta foi alterada.{LF}Voltando para a tela do título.
+^20~25~: Formatar Configurações
+^20~03~: Formatar Configurações
+O controle foi desconectado.{LF}Por favor reconecte o controle.
+Isto desativa ou ativa efeito de vibração do controle.
+Isto ativa o efeito de vibração do controle.
+Isto desativa o efeito de vibração do controle.
+^20~44~
+^20~43~
+^20~45~
+^20~46~
+^20~47~
+^20~48~
+^20~49~
+^20~50~
+^20~51~
+^20~52~
+^20~53~
+^20~54~
+%% XBOX LIVE SDK NOTICES, INFORMATION, AND LICENSE BEGIN HERE{LF}========================================={LF}Copyright (c) Microsoft Corporation{LF}{LF}All rights reserved.{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy of this software and {LF}associated documentation files (the "Software"), to deal in the Software without restriction, including{LF}without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell {LF}copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to {LF}the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all copies or substantial {LF}portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR {LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS {LF}FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR{LF}COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN{LF}AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION{LF}WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.{LF}========================================={LF}END OF Xbox Live SDK NOTICES, INFORMATION, AND LICENSE{LF}{LF}%% XBOX LIVE SDK THIRD-PARTY SOFTWARE NOTICES AND INFORMATION BEGIN HERE{LF}#################################################################{LF}XBOX LIVE SDK THIRD-PARTY SOFTWARE NOTICES AND INFORMATION{LF}Do Not Translate or Localize
+Xbox Live SDK incorporates third party material from the projects listed below. The original copyright{LF}notice and the license under which Microsoft received such third party material are set forth below.{LF}Microsoft reserves all other rights not expressly granted, whether by implication, estoppel or otherwise.  {LF}{LF}1. Standalone Asio (http://think-async.com/Asio/AsioStandalone){LF}{LF}Boost Software License - Version 1.0 - August 17th, 2003{LF}{LF}Permission is hereby granted, free of charge, to any person or organization{LF}obtaining a copy of the software and accompanying documentation covered by{LF}this license (the "Software") to use, reproduce, display, distribute,{LF}execute, and transmit the Software, and to prepare derivative works of the{LF}Software, and to permit third-parties to whom the Software is furnished to{LF}do so, all subject to the following:
+The copyright notices in the Software and this entire statement, including{LF}the above license grant, this restriction and the following disclaimer,{LF}must be included in all copies of the Software, in whole or in part, and{LF}all derivative works of the Software, unless such copies or derivative{LF}works are solely in the form of machine-executable object code generated by{LF}a source language processor.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT{LF}SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE{LF}FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,{LF}ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER{LF}DEALINGS IN THE SOFTWARE.
+2. Websocket++ (http://www.zaphoyd.com/websocketpp/){LF}{LF}%% Websocket++ NOTICES, INFORMATION, AND LICENSE BEGIN HERE{LF}========================================={LF}Main Library:{LF}{LF}Copyright (c) 2014, Peter Thorson. All rights reserved.{LF}{LF}Redistribution and use in source and binary forms, with or without{LF}modification, are permitted provided that the following conditions are met:{LF}    * Redistributions of source code must retain the above copyright{LF}      notice, this list of conditions and the following disclaimer.{LF}    * Redistributions in binary form must reproduce the above copyright{LF}      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.{LF}    * Neither the name of the WebSocket++ Project nor the{LF}      names of its contributors may be used to endorse or promote products{LF}      derived from this software without specific prior written permission.{LF}{LF}THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"{LF}AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE{LF}IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE{LF}ARE DISCLAIMED. IN NO EVENT SHALL PETER THORSON BE LIABLE FOR ANY{LF}DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES{LF}(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;{LF}LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND{LF}ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT{LF}(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.{LF}{LF}Bundled Libraries:{LF}{LF}****** Base 64 Library (base64/base64.hpp) ******{LF}base64.hpp is a repackaging of the base64.cpp and base64.h files into a{LF}single header suitable for use as a header only library. This conversion was{LF}done by Peter Thorson (webmaster@zaphoyd.com) in 2012. All modifications to{LF}the code are redistributed under the same license as the original, which is{LF}listed below.{LF}{LF}base64.cpp and base64.h{LF}{LF}Copyright (C) 2004-2008 Ren・Nyffenegger
+This source code is provided 'as-is', without any express or implied{LF}warranty. In no event will the author be held liable for any damages{LF}arising from the use of this software.{LF}{LF}Permission is granted to anyone to use this software for any purpose,{LF}including commercial applications, and to alter it and redistribute it{LF}freely, subject to the following restrictions:{LF}{LF}1. The origin of this source code must not be misrepresented; you must not{LF}  claim that you wrote the original source code. If you use this source code{LF}  in a product, an acknowledgment in the product documentation would be{LF}  appreciated but is not required.{LF}{LF}2. Altered source versions must be plainly marked as such, and must not be
+  misrepresented as being the original source code.{LF}{LF}3. This notice may not be removed or altered from any source distribution.{LF}{LF}Ren・Nyffenegger rene.nyffenegger@adp-gmbh.ch{LF}{LF}****** SHA1 Library (sha1/sha1.hpp) ******{LF}sha1.hpp is a repackaging of the sha1.cpp and sha1.h files from the shallsha1{LF}library (http://code.google.com/p/smallsha1/) into a single header suitable for{LF}use as a header only library. This conversion was done by Peter Thorson{LF}(webmaster@zaphoyd.com) in 2013. All modifications to the code are redistributed{LF}under the same license as the original, which is listed below.{LF}{LF} Copyright (c) 2011, Micael Hildenborg
+ All rights reserved.{LF}{LF} Redistribution and use in source and binary forms, with or without{LF} modification, are permitted provided that the following conditions are met:{LF}    * Redistributions of source code must retain the above copyright{LF}      notice, this list of conditions and the following disclaimer.{LF}    * Redistributions in binary form must reproduce the above copyright{LF}      notice, this list of conditions and the following disclaimer in the{LF}      documentation and/or other materials provided with the distribution.{LF}    * Neither the name of Micael Hildenborg nor the{LF}      names of its contributors may be used to endorse or promote products{LF}      derived from this software without specific prior written permission.{LF}{LF} THIS SOFTWARE IS PROVIDED BY Micael Hildenborg ''AS IS'' AND ANY
+ EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED{LF} WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE{LF} DISCLAIMED. IN NO EVENT SHALL Micael Hildenborg BE LIABLE FOR ANY{LF} DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES{LF} (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;{LF} LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND{LF} ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT{LF} (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS{LF} SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.{LF}{LF}****** MD5 Library (common/md5.hpp) ******{LF}md5.hpp is a reformulation of the md5.h and md5.c code from{LF}http://www.opensource.apple.com/source/cups/cups-59/cups/md5.c to allow it to{LF}function as a component of a header only library. This conversion was done by
+Peter Thorson (webmaster@zaphoyd.com) in 2012 for the WebSocket++ project. The{LF}changes are released under the same license as the original (listed below){LF}{LF}Copyright (C) 1999, 2002 Aladdin Enterprises.  All rights reserved.{LF}{LF}This software is provided 'as-is', without any express or implied{LF}warranty.  In no event will the authors be held liable for any damages{LF}arising from the use of this software.{LF}{LF}Permission is granted to anyone to use this software for any purpose,{LF}including commercial applications, and to alter it and redistribute it{LF}freely, subject to the following restrictions:{LF}{LF}1. The origin of this software must not be misrepresented; you must not
+ claim that you wrote the original software. If you use this software{LF} in a product, an acknowledgment in the product documentation would be{LF} appreciated but is not required.{LF}2. Altered source versions must be plainly marked as such, and must not be{LF} misrepresented as being the original software.{LF}3. This notice may not be removed or altered from any source distribution.{LF}{LF}L. Peter Deutsch{LF}ghost@aladdin.com{LF}{LF}****** UTF8 Validation logic (utf8_validation.hpp) ******{LF}utf8_validation.hpp is adapted from code originally written by Bjoern Hoehrmann{LF}<bjoern@hoehrmann.de>. See http://bjoern.hoehrmann.de/utf-8/decoder/dfa/ for{LF}details.
+The original license:{LF}{LF}Copyright (c) 2008-2009 Bjoern Hoehrmann <bjoern@hoehrmann.de>{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy{LF}of this software and associated documentation files (the "Software"), to deal{LF}in the Software without restriction, including without limitation the rights{LF}to use, copy, modify, merge, publish, distribute, sublicense, and/or sell{LF}copies of the Software, and to permit persons to whom the Software is{LF}furnished to do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in{LF}all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE{LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER{LF}LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,{LF}OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE{LF}SOFTWARE.{LF}========================================={LF}END OF Websocket++ NOTICES, INFORMATION, AND LICENSE{LF}{LF}3. Alamofire (https://github.com/Alamofire/Alamofire){LF}{LF}Copyright (c) 2014-2018 Alamofire Software Foundation (http://alamofire.org/)
+Permission is hereby granted, free of charge, to any person obtaining a copy{LF}of this software and associated documentation files (the "Software"), to deal{LF}in the Software without restriction, including without limitation the rights{LF}to use, copy, modify, merge, publish, distribute, sublicense, and/or sell{LF}copies of the Software, and to permit persons to whom the Software is{LF}furnished to do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in{LF}all copies or substantial portions of the Software.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE{LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,{LF}OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN{LF}THE SOFTWARE.{LF}{LF}4. SwiftyJSON (https://github.com/SwiftyJSON/SwiftyJSON){LF}{LF}The MIT License (MIT){LF}{LF}Copyright (c) 2017 Ruoyu Fu{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy{LF}of this software and associated documentation files (the "Software"), to deal{LF}in the Software without restriction, including without limitation the rights{LF}to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is{LF}furnished to do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in{LF}all copies or substantial portions of the Software.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE{LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER{LF}LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,{LF}OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN{LF}THE SOFTWARE.
+5. OpenSSL (https://github.com/openssl/openssl/){LF}{LF}  LICENSE ISSUES{LF}  =============={LF}{LF}  The OpenSSL toolkit stays under a double license, i.e. both the conditions of{LF}  the OpenSSL License and the original SSLeay license apply to the toolkit.{LF}  See below for the actual license texts.{LF}{LF}  OpenSSL License{LF}  ---------------{LF}{LF}/* ===================================================================={LF} * Copyright (c) 1998-2017 The OpenSSL Project.  All rights reserved.
+ *{LF} * Redistribution and use in source and binary forms, with or without{LF} * modification, are permitted provided that the following conditions{LF} * are met:{LF} *{LF} * 1. Redistributions of source code must retain the above copyright{LF} *    notice, this list of conditions and the following disclaimer. {LF} *{LF} * 2. Redistributions in binary form must reproduce the above copyright{LF} *    notice, this list of conditions and the following disclaimer in{LF} *    the documentation and/or other materials provided with the{LF} *    distribution.{LF} *{LF} * 3. All advertising materials mentioning features or use of this
+ *    software must display the following acknowledgment:{LF} *    "This product includes software developed by the OpenSSL Project{LF} *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"{LF} *{LF} * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to{LF} *    endorse or promote products derived from this software without{LF} *    prior written permission. For written permission, please contact{LF} *    openssl-core@openssl.org.{LF} *{LF} * 5. Products derived from this software may not be called "OpenSSL"{LF} *    nor may "OpenSSL" appear in their names without prior written{LF} *    permission of the OpenSSL Project.{LF} *{LF} * 6. Redistributions of any form whatsoever must retain the following
+ *    acknowledgment:{LF} *    "This product includes software developed by the OpenSSL Project{LF} *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"{LF} *{LF} * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY{LF} * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE{LF} * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR{LF} * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR{LF} * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,{LF} * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT{LF} * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;{LF} * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION){LF} * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,{LF} * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED{LF} * OF THE POSSIBILITY OF SUCH DAMAGE.{LF} * ===================================================================={LF} *{LF} * This product includes cryptographic software written by Eric Young{LF} * (eay@cryptsoft.com).  This product includes software written by Tim{LF} * Hudson (tjh@cryptsoft.com).{LF} *{LF} */{LF}{LF} Original SSLeay License{LF} -----------------------{LF}{LF}/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * All rights reserved.{LF} *{LF} * This package is an SSL implementation written{LF} * by Eric Young (eay@cryptsoft.com).{LF} * The implementation was written so as to conform with Netscapes SSL.{LF} * {LF} * This library is free for commercial and non-commercial use as long as{LF} * the following conditions are aheared to.  The following conditions{LF} * apply to all code found in this distribution, be it the RC4, RSA,{LF} * lhash, DES, etc., code; not just the SSL code.  The SSL documentation{LF} * included with this distribution is covered by the same copyright terms{LF} * except that the holder is Tim Hudson (tjh@cryptsoft.com).{LF} * {LF} * Copyright remains Eric Young's, and as such any Copyright notices in
+ * the code are not to be removed.{LF} * If this package is used in a product, Eric Young should be given attribution{LF} * as the author of the parts of the library used.{LF} * This can be in the form of a textual message at program startup or{LF} * in documentation (online or textual) provided with the package.{LF} * {LF} * Redistribution and use in source and binary forms, with or without{LF} * modification, are permitted provided that the following conditions{LF} * are met:{LF} * 1. Redistributions of source code must retain the copyright{LF} *    notice, this list of conditions and the following disclaimer.{LF} * 2. Redistributions in binary form must reproduce the above copyright{LF} *    notice, this list of conditions and the following disclaimer in the{LF} *    documentation and/or other materials provided with the distribution.
+ * 3. All advertising materials mentioning features or use of this software{LF} *    must display the following acknowledgement:{LF} *    "This product includes cryptographic software written by{LF} *     Eric Young (eay@cryptsoft.com)"{LF} *    The word 'cryptographic' can be left out if the rouines from the library{LF} *    being used are not cryptographic related :-).{LF} * 4. If you include any Windows specific code (or a derivative thereof) from {LF} *    the apps directory (application code) you must include an acknowledgement:{LF} *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"{LF} * {LF} * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND{LF} * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE{LF} * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE{LF} * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL{LF} * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS{LF} * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION){LF} * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT{LF} * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY{LF} * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF{LF} * SUCH DAMAGE.{LF} * {LF} * The licence and distribution terms for any publically available version or{LF} * derivative of this code cannot be changed.  i.e. this code cannot simply be{LF} * copied and put under another distribution licence{LF} * [including the GNU Public Licence.]{LF} */{LF} =========================================
+END OF OpenSSL NOTICES, INFORMATION, AND LICENSE{LF}{LF}6. zLib (https://github.com/madler/zlib){LF}{LF}Copyright notice:{LF}{LF} (C) 1995-2017 Jean-loup Gailly and Mark Adler{LF}{LF}  This software is provided 'as-is', without any express or implied{LF}  warranty.  In no event will the authors be held liable for any damages{LF}  arising from the use of this software.{LF}{LF}  Permission is granted to anyone to use this software for any purpose,{LF}  including commercial applications, and to alter it and redistribute it
+  freely, subject to the following restrictions:{LF}{LF}  1. The origin of this software must not be misrepresented; you must not{LF}     claim that you wrote the original software. If you use this software{LF}     in a product, an acknowledgment in the product documentation would be{LF}     appreciated but is not required.{LF}  2. Altered source versions must be plainly marked as such, and must not be{LF}     misrepresented as being the original software.{LF}  3. This notice may not be removed or altered from any source distribution.{LF}{LF}  Jean-loup Gailly        Mark Adler{LF}  jloup@gzip.org          madler@alumni.caltech.edu{LF}{LF}If you use the zlib library in a product, we would appreciate *not* receiving
+lengthy legal documents to sign.  The sources are provided for free but without{LF}warranty of any kind.  The library has been entirely written by Jean-loup{LF}Gailly and Mark Adler; it does not include third-party code.{LF}{LF}If you redistribute modified sources, we would appreciate that you include in{LF}the file ChangeLog history information documenting your changes.  Please read{LF}the FAQ for more information on the distribution of modified source versions.{LF}{LF}7. Boost (https://www.boost.org/){LF}{LF}Boost Software License - Version 1.0 - August 17th, 2003{LF}{LF}Permission is hereby granted, free of charge, to any person or organization{LF}obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,{LF}execute, and transmit the Software, and to prepare derivative works of the{LF}Software, and to permit third-parties to whom the Software is furnished to{LF}do so, all subject to the following:{LF}{LF}The copyright notices in the Software and this entire statement, including{LF}the above license grant, this restriction and the following disclaimer,{LF}must be included in all copies of the Software, in whole or in part, and{LF}all derivative works of the Software, unless such copies or derivative{LF}works are solely in the form of machine-executable object code generated by{LF}a source language processor.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT{LF}SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE{LF}FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,{LF}ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER{LF}DEALINGS IN THE SOFTWARE.{LF}{LF}8. doctest (https://github.com/onqtam/doctest){LF}{LF}The MIT License (MIT){LF}{LF}Copyright (c) 2016-2018 Viktor Kirilov{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy{LF}of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights{LF}to use, copy, modify, merge, publish, distribute, sublicense, and/or sell{LF}copies of the Software, and to permit persons to whom the Software is{LF}furnished to do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all{LF}copies or substantial portions of the Software.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE{LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER{LF}LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,{LF}OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.{LF}{LF}9. lua.org (https://www.lua.org/manual/5.3/readme.html#license){LF}{LF}Copyright © 1994-2018 Lua.org, PUC-Rio.{LF}Permission is hereby granted, free of charge, to any person obtaining a copy of this software and {LF}associated documentation files (the "Software"), to deal in the Software without restriction, including{LF}without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell {LF}copies of the Software, and to permit persons to whom the Software is furnished to do so, subject {LF}to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all copies or substantial {LF}portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR {LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS {LF}FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS {LF}OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, {LF}WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR {LF}IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.{LF}{LF}10. u-test (https://github.com/IUdalov/u-test/blob/master/LICENSE){LF}{LF}MIT License{LF}{LF}Copyright (c) 2017-2018 Ilia Udalov <UdalovIlia@gmail.com>{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal{LF}in the Software without restriction, including without limitation the rights{LF}to use, copy, modify, merge, publish, distribute, sublicense, and/or sell{LF}copies of the Software, and to permit persons to whom the Software is{LF}furnished to do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all{LF}copies or substantial portions of the Software.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR{LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,{LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE{LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER{LF}LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE{LF}SOFTWARE.{LF}{LF}11. rapidJson (https://github.com/Tencent/rapidjson){LF}{LF}Tencent is pleased to support the open source community by making RapidJSON available. {LF} {LF}Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip.  All rights reserved.{LF}{LF}If you have downloaded a copy of the RapidJSON binary from Tencent, please note that the {LF}RapidJSON binary is licensed under the MIT License.{LF}If you have downloaded a copy of the RapidJSON source code from Tencent, please note that {LF}RapidJSON source code is licensed under the MIT License, except for the third-party components {LF}listed below which are subject to different license terms.
+Your integration of RapidJSON into your own projects may require compliance with the MIT License, {LF}as well as the other licenses applicable to the third-party components included within RapidJSON. {LF}To avoid the problematic JSON license in your own projects, it's sufficient to exclude the {LF}bin/jsonchecker/ directory, as it's the only code under the JSON license.{LF}A copy of the MIT License is included in this file.{LF}{LF}Other dependencies and licenses:{LF}{LF}Open Source Software Licensed Under the BSD License:{LF}--------------------------------------------------------------------{LF}{LF}The msinttypes r29 {LF}Copyright (c) 2006-2013 Alexander Chemeris {LF}All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted {LF}provided that the following conditions are met:{LF}{LF}* Redistributions of source code must retain the above copyright notice, this list of conditions and {LF}* the following disclaimer. Redistributions in binary form must reproduce the above copyright notice, {LF}* this list of conditions and the following disclaimer in the documentation and/or other materials {LF}* provided with the distribution. Neither the name of  copyright holder nor the names of its {LF}* contributors may be used to endorse or promote products derived from this software without {LF}* specific prior written permission.{LF}{LF}THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND ANY {LF}EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED {LF}WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE {LF}DISCLAIMED. IN NO EVENT SHALL THE REGENTS AND CONTRIBUTORS BE LIABLE FOR ANY {LF}
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES {LF}(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; {LF}LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND {LF}ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT {LF}(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS {LF}SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.{LF}{LF}Open Source Software Licensed Under the JSON License:{LF}--------------------------------------------------------------------{LF}json.org {LF}Copyright (c) 2002 JSON.org{LF}All Rights Reserved.{LF}{LF}JSON_checker
+Copyright (c) 2002 JSON.org{LF}All Rights Reserved.{LF}{LF}Terms of the JSON License:{LF}---------------------------------------------------{LF}{LF}Permission is hereby granted, free of charge, to any person obtaining a copy of this software and {LF}associated documentation files (the "Software"), to deal in the Software without restriction, {LF}including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, {LF}and/or sell copies of the Software, and to permit persons to whom the Software is furnished to {LF}do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all copies or substantial {LF}portions of the Software.
+The Software shall be used for Good, not Evil.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR {LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, {LF}FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE {LF}AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER {LF}LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, {LF}OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN {LF}THE SOFTWARE.{LF}{LF}{LF}Terms of the MIT License:{LF}--------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and {LF}associated documentation files (the "Software"), to deal in the Software without restriction, {LF}including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, {LF}and/or sell copies of the Software, and to permit persons to whom the Software is furnished to {LF}do so, subject to the following conditions:{LF}{LF}The above copyright notice and this permission notice shall be included in all copies or substantial {LF}portions of the Software.{LF}{LF}THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR {LF}IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS{LF}FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS {LF}OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, {LF}WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR {LF}
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.{LF}#################################################################{LF}END OF XBOX LIVE SDK THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+^20~45~^20~46~ ou ^20~19~: Página ^20~05~: Próxima
+Caminhar com ^20~44~^20~45~^20~43~^20~46~.
+Mover com ^20~44~^20~45~^20~43~^20~46~.
+Enquanto estiver no Modo Busca, para ligar a câmera, use ^20~47~,{LF}e para desligar a câmera, use ^20~48~.
+Enquanto estiver no Modo Busca, para ligar a câmera, use ^20~48~,{LF}e para desligar a câmera, use ^20~47~.
+Enquanto estiver no Modo Busca, para virar a câmera para a direita, use ^20~50~,{LF}e para virar a câmera à esquerda, use ^20~49~.
+Enquanto estiver no Modo Busca, para virar a câmera para a direita, use ^20~49~,{LF}e para virar a câmera à esquerda, use ^20~50~.
+Enquanto estiver no Modo Foto, para ligar a câmera, use ^20~47~,{LF}e para desligar a câmera, use ^20~48~.
+Enquanto estiver no Modo Foto, para ligar a câmera, use ^20~48~,{LF}e para desligar a câmera, use ^20~47~.
+Enquanto estiver no Modo Foto, para virar a câmera para a direita, use ^20~50~,{LF}e para virar a câmera à esquerda, use ^20~49~.
+Enquanto estiver no Modo Foto, para virar a câmera para a direita, use ^20~49~,{LF}e para virar a câmera à esquerda, use ^20~50~.
+Enquanto estiver no Modo Busca, para ligar a câmera, use ^20~47~,{LF}e para desligar a câmera, use ^20~48~.
+Enquanto estiver no Modo Busca, para ligar a câmera, use ^20~48~,{LF}e para desligar a câmera, use ^20~47~.
+Enquanto estiver no Modo Busca, para virar a câmera para a direita, use ^20~50~,{LF}e para virar a câmera à esquerda, use ^20~49~.
+Enquanto estiver no Modo Busca, para virar a câmera para a direita, use ^20~49~,{LF}e para virar a câmera à esquerda, use ^20~50~.
+Enquanto estiver no Modo Foto, para ligar a câmera, use ^20~47~,{LF}e para desligar a câmera, use ^20~48~.
+Enquanto estiver no Modo Foto, para ligar a câmera, use ^20~48~,{LF}e para desligar a câmera, use ^20~47~.
+Enquanto estiver no Modo Foto, para virar a câmera para a direita, use ^20~50~,{LF}e para virar a câmera à esquerda, use ^20~49~.
+Enquanto estiver no Modo Foto, para virar a câmera para a direita, use ^20~49~,{LF}e para virar a câmera à esquerda, use ^20~50~.
+^00Neste modo, seu personagem se move através do{LF}mundo, pega itens etc.{LF}                        - Movimento -{LF}{LF}Caminhando: Mova ^11~00~^20~09~^10 para caminhar.{LF}{LF}Correr: Segure ^11~00~^20~34~^10 para correr na direção{LF}que você estiver olhando.{LF}{LF}Direção: Segure ^11~00~^20~15~^10 e mova ^11~00~^20~09~^10 para direcionar.{LF}^00                     - Controles da Câmera -{LF}{LF}Olhando ao Redor: Mover ^11~00~^20~10~^10.{LF}{LF}Centralizando: Aperte ^11~00~^20~~36~^10.{LF}{LF}^00                     - Controles de Busca -{LF}{LF}Foco: Segure ^11~00~^20~29~^10.{LF}{LF}Objetos Interativos: Segure ^11~00~^20~29~^10 ao lado de{LF}o objeto que você quer tocar.{LF}{LF}Interação: Aperte ^11~00~^20~40~^10.{LF}{LF}Mude para o Modo Foto: Aperte ^11~00~^20~33~^10.
+^00Neste modo, você usa a Câmera Obscura.{LF}{LF}                  - Controles da Câmera 1 -{LF}{LF}Mudar Posição: Mova usando ^11~00~^20~09~^10.{LF}{LF}Mudando de Foco: Mova a câmera usando ^11~00~^20~10~^10,{LF}ou ^11~00~^20~25~^10 se ^11~00~^20~25~^20~16~^20~10~^10 estiver definido em Configurações Gerais.{LF}^00                    - Controles da câmera 2 -{LF}{LF}Mudança Rápida de Foco: Segure ^11~00~^20~07~^10{LF}e mova ^11~00~^20~10~^10.{LF}{LF}Mudança de Ângulo: 　^11~00~^20~37~^10 / ^11~00~^20~38~^10.{LF}^00                    - Tirando fotos 1 -{LF}{LF}Disparo: Pressione o disparador com ^11~00~^20~14~^10.{LF}{LF}Travando: Para travar em ^20~32~, mantenha pressionado ^11~00~^20~32~^10.{LF}{LF}Mudando o Filme: Trocar o filme usando ^11~00~^20~19~^10.{LF}^00                    - Tirando Fotos 2 -{LF}{LF}Mudança de Lentes: Trocar lentes usando ^11~00~^20~18~^10.{LF}{LF}Disparos Especiais: Pressione ^11~00~^20~35~^10 para ativar{LF}a habilidade de uma lente.{LF}{LF}Mudar para o Modo de Busca: Pressione ^11~00~^20~33~^10.
+MUITO FÁCIL: Para jogadores que querem curtir a história com segurança.{LF}(A pontuação não será gravada)
+Reiniciar do Ponto de Verificação na dificuldade MUITO FÁCIL
+Reinicie o jogo do último ponto de controle no MUITO FÁCIL.{LF}( Os pontos não são registrados em MUITO FÁCIL.)
+MUITO FÁCIL

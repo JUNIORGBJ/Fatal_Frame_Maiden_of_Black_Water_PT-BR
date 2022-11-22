@@ -1,0 +1,43 @@
+^00Monte Hikami...^01~70~{LF}^00Um lugar onde muitos se suicidam.^01~100~{LF}^00Eu estou positiva que Fuyuhi deve ter vindo aqui.^01~150~
+Fuyuhi!^01~25~
+Haruka, ela está aqui na montanha.^01~103~
+Você à viu?^01~30~
+^00Não, mas... ela está aqui.^01~115~{LF}^00Eu... Eu tenho que encontra-lá.^01~85~
+Eu me pergunto...^01~30~
+^00Por que nós duas sobrevivemos...^01~160~{LF}^00^01~107~{LF}^00Nós fizemos uma promessa que todas morreríamos juntas.^01~166~
+^00Por que nós duas sobrevivemos...^01~120~{LF}^00Nós fizemos uma promessa que todas morreríamos juntas.^01~166~
+^00Quando nós vamos ter a chance^01~135~{LF}^00para juntar aos outros?^01~55~
+Ei, eu irei procurar pela Haruka.^01~83~
+Vamos voltar.^01~47~
+Yuri?^01~120~
+Fuyuhi, onde você está?^01~75~
+Feche os olhos, pense naquele dia...^01~120~
+Fuyuhi?^01~30~
+^00Brinque comigo para sempre...^01~130~{LF}^00^01~30~{LF}^00Eu sei que irei te lembrar^01~200~{LF}^00^01~370~
+Brinque comigo para sempre.^01~90~
+Brinque comigo para sempre.^01~120~
+Eu sei que vou me lembrar de você...^01~210~
+Eu sei que vou me lembrar de você...^01~120~
+Para todo sempre-^01~175~
+Para todo sempre-^01~100~
+Ah...^01~120~
+Haruka!^01~60~
+Você viu demais.^01~70~
+^00Você não pode sair da montanha.^01~90~{LF}^00^01~65~{LF}^00Você irá dissolver até o nada.^01~80~
+^00Você não pode sair da montanha.^01~67~{LF}^00Você irá dissolver até o nada.^01~60~
+Hum, com licença...^01~45~
+Hum, com licença...{LF}Ola^01~45~
+^00Eu procuro Hisoka Kurosawa.^01~70~{LF}^00Ela está aqui?^01~40~
+Oh, Eu sinto muito, mas ela saiu.^01~120~
+^00Meu nome é Fuyuhi Himino.^01~90~{LF}^00Eu venho esperando para ela me dizer se...se...se ela poderia{LF}me ajudar a encontrar uma pessoa.^01~180~{LF}^00Eu ainda não consegui uma resposta dela...^01~60~
+Você está procurando por alguém^01~40~
+^00Ela poderia ter ido até à montanha.^01~70~{LF}^00...Monte. Hikami.^01~50~
+Monte. Hikami...^01~50~
+^00Alguém me disse^01~65~{LF}^00que viram minha amiga lá.^01~55~
+É um local ínfimo de suicídio, não é?^01~100~
+^00Eu não sei por quê Haruka iria para um lugar como aquele.^01~155~{LF}^00E sem dizer uma palavra para mim...^01~95~
+Não se preocupe. O quão antes Hisoka voltar, eu irei falar para ela...^01~85~
+Não, está bem. Eu não posso esperar mais.^01~100~
+Irei procurá-la eu mesma.^01~70~
+Huh? Volte aqui!^01~50~
+Huh? Volte aqui!^01~110~

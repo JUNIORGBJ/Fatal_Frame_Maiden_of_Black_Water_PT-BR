@@ -1,0 +1,24 @@
+Isso deve servir.
+^00Rui parece estar inconsciente...{LF}Ou talvez apenas dormindo.{LF}Me pergunto o que foi esse barulho.{LF}Algo deve estar acontecendo na montanha.{LF}^00Yuri e Miu foram afetadas pelo barulho.{LF}Eu preciso ter certeza de que elas estão bem.
+^00Rui ainda está dormindo.{LF}^00 Espero que Yuri e Miu estejam bem.{LF}Eu preciso verificar a transmissão da câmera de segurança.
+^00Algo estranho está acontecendo.{LF}^00Inspecionar os corredores não vai ajudar muito.{LF}Será mais fácil checar as câmeras de segurança.
+^00Haruka Momose, a garota que Yuri salvou, foi levada{LF}pelo fantasma de uma garota que se suicidou.{LF}^00Pode ter acontecido algo novamente.{LF}Preciso checar a câmera de segurança para ver se as meninas estão bem.
+Vamos ver se tem algum livro nesta sala sobre o Monte Hikami.
+Eu preciso investigar o Monte Hikami e descobrir{LF}o que está acontecendo por lá.
+Eu preciso checar se a Yuri e Miu estão bem.
+^00Parece que ambas estão bem. Mas eu deveria{LF}verificar de vez em quando, só para ter certeza.{LF}^00Elas estão agindo de forma estranha desde daquele sinistro barulho.{LF}O que está acontecendo no Monte Hikami?{LF}^00Eu deveria investigar a história da montanha.{LF}Devem ter alguns livros a respeito do assunto.
+^00^11~14~Pressione ^20~31~ para parar de assistir a gravação e levantar.{LF}^00^11~14~Se algo de estranho acontecer com a câmera,{LF}levante e investigue isso.
+^00Há estática na transmissão no quarto da Yuri.{LF}É melhor eu ir e verificar.
+Ela está bem?
+Ela parece estar tendo um pesadelo, mas parece estar bem.
+Devo voltar a assistir à câmera de segurança.
+Há uma interferência na transmissão vinda do quarto do Miu.{LF}É melhor eu ir verificar.
+Tudo parece normal.{LF}Talvez tenha sido apenas estática.
+Eu deveria ir checar a Miu, só por precaução.
+Porque a TV está ligada?
+Não há nada além de estática na tela.
+Eu provavelmente deveria desligar a TV.
+^00A câmera no quarto da Yuri está desligada.{LF}O que está acontecendo?{LF}^00Eu deveria ir verificar.
+Espere, cadê...? Rui deve ter despertado...
+A câmera no quarto da Yuri está desligada.{LF}Alguma coisa pode estar acontecendo lá dentro...
+^00Tenho que ficar aqui dentro e checar as imagens da câmera{LF}para garantir que as meninas estejam bem.

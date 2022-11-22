@@ -1,0 +1,54 @@
+
+A porta está trancada.
+Não quer abrir. {LF}Está mantido fechado por uma força poderosa.
+A porta agora está destrancada.
+Chamar o trem para a plataforma?
+Escolha um destino.
+Hisoka está do outro lado.
+Você obteve %ls x%d.
+ 
+ 
+ 
+Você encontrou %ls x%d.
+Você não pode levar mais desses.
+Segure ^20~14~ para ver o Rastro.
+Nada de interessante aqui.
+Não há nada de útil aqui.
+^00O caminho forrado de lanternas termina de repente.{LF}^00Me pergunto onde isso costumava levar...
+A força que estava bloqueando a porta acabou.
+A porta não abre. {LF}Deve estar bloqueada pelo outro lado.
+^00É uma caixa de madeira preta bem decorada.{LF}^00A tampa está fechada e não consigo abri-la.
+^00É uma caixa de madeira preta bem decorada.{LF}^00A tampa está fechada e não consigo abri-la.
+^00É uma caixa de madeira preta bem decorada.{LF}^00A tampa está fechada e não consigo abri-la.
+^00A porta está trancada.{LF}Uma flor de camélia está gravada na fechadura.
+^00A porta está trancada.{LF}Uma flor de lírio está gravada na fechadura.
+^00É um altar, mas parece uma caixa enorme.{LF}A tampa foi transformada em uma porta.{LF}^00Há um buraco grande nela.{LF}O que poderia estar dentro?{LF}^00Suponho que a única maneira de descobrir é pegar a chave e entrar.
+^00A porta está trancada.{LF}^00Há duas fechaduras, uma com uma entalhe de uma flor de cerejeira{LF}e na outra um entalhe de uma lua.
+Comprimidos feitos de miríades de ervas.{LF}Consumi-los irá restaurar parte de sua saúde.
+Água limpa utilizada para purificação.{LF}Restaura sua saúde completamente.
+Uma pedra negra que emite uma luz misteriosa.{LF}Se acabar sua vida, irá lhe proteger.
+Uma garrafa de tinta usada para artes escuras.{LF}A magia da tinta aproxima seu usuário da morte.
+Carvão que acende a Chama Proibida.{LF}Ele te seca e remove a contaminação da Água Negra.
+Filme antigo. Não é eficaz em exorcizar fantasmas,{LF}e leva muito tempo para carregar.
+Filme novo em boa condição. Ele é efetivo para exorcizar fantasmas.
+Filme com um símbolo de purificação. É muito{LF}efetivo em exorcizar fantasmas e recarrega rápido.
+Filme especial. É o filme mais eficaz para{LF}exorcizar fantasmas, mas demora para recarregar.
+^00Você conseguiu a Lente da ^11~09~Lentidão^10, uma lente {LF}que atrasa o sujeito fotografado por um período de tempo definido.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Limitante^10, uma lente que{LF}congela o sujeito fotografado por um tempo.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Prêmio^10, uma lente que aumenta{LF}o número de pontos ganhos por tirar fotos em um período curto de tempo.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Atordoante^10, uma lente que{LF}imobiliza forçadamente o sujeito fotografado.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Golpe^10, uma lente que faz{LF}você dar dano em dobro aos alvos.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Esmagadora^10, uma lente que dá mais{LF}dano nos alvos dependendo do nível deles.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Zero^10, uma lente que dá mais{LF}dano nos alvos dependendo do quão baixa está sua saúde.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Restauradora^10, uma lente que restaura{LF}sua saúde dependendo do dano deferido ao alvo.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Fatal^10, uma lente que ativa o{LF}Tempo Fatal se uma foto for tirada enquanto o Obturador estiver ativado.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Borboleta^10, uma lente que causa os{LF}Fragmentos de Espírito aparecerem duas vezes mais que o normal.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você conseguiu a Lente ^11~09~Falante^10, uma lente que deixa{LF}você ouvir a voz de um sujeito focado e fotografado.{LF}^00Para usá-la, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você obteve a Lente ^11~09~Visão^10, uma lente que irá exorcizar{LF}um fantasma em um disparo se estiver visível e brilhando palidamente.{LF}^00Para usar, equipe-a na sua Câmera Obscura{LF}e pressione ^20~35~ quando tiver Poder Espiritual suficiente.
+^00Você obteve a melhoria de ^11~09~Troca^10.{LF}Isto permite que você equipe lentes diferentes e tire fotos com elas.
+^00Você obteve a melhoria ^11~09~Medir^10.{LF}Isto exibe a saúde atual de um inimigo focado.
+^00Você obteve a melhoria ^11~09~Evasão^10.{LF}Isto te permite detectar ameaças capazes de serem esquivadas.
+^00Você obteve a melhoria ^11~09~Otimização^10.{LF}Faz com que cada foto fique perfeita, causando o Fatal Frame.
+^00Você obteve a melhoria ^11~09~Infinito^10.{LF}Isto permite que você tire fotos sem usar nenhum filme.
+É o interruptor do teleférico...{LF}Não preciso ir a lugar nenhum no momento.
+A Câmera Obscura não tem efeito...

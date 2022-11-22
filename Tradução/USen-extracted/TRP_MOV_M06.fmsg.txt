@@ -1,0 +1,44 @@
+Aqui está a Lagoa Negra.^01~90~
+Aqui está a Lagoa Negra.^01~60~
+Mas está do outro lado...^01~120~
+Mas está do outro lado...^01~70~
+Oh, você me achou.^01~50~
+Você também não pode morrer, hein?^01~50~
+Eu...^01~35~
+^00Ah, você quer ir lá embaixo.^01~105~{LF}^00Eu sei que você quer morrer.^01~55~
+Mas antes disso, que tal um jogo?^01~80~
+^00Mas antes disso, que tal um jogo?^01~85~{LF}^00O que?^01~30~
+^00Isto é você.^01~90~{LF}^00É uma efígie.^01~60~
+Me encontre, se você puder.^01~130~
+Haruka...^01~25~
+Ainda posso vê-lo.^01~40~
+Ainda posso vê-lo.^01~60~
+^00Que lindo pôr-do-sol...^01~65~{LF}^00^01~10~{LF}^00No dia em que apenas nós dois sobrevivemos...^01~115~
+^00Que lindo pôr-do-sol...^01~65~{LF}^00^01~10~{LF}^00No dia em que apenas nós dois sobrevivemos...^01~115~
+Não! Naão!^01~100~
+Haruka!^01~40~
+Fuyuhi...^01~120~
+(Suspiro surpreso)^01~120~
+Fique comigo, Haruka!^01~40~
+Estou derretendo...^01~25~
+O que você estava fazendo lá?^01~40~
+^00Eu vi o pôr-do-sol.^01~80~{LF}^00Foi...me atraindo. Eu estava...^01~85~{LF}^00se tornando parte dele...^01~75~{LF}^00Como se eu estivesse...^01~85~{LF}^00derretendo.^01~30~
+^00Eu vi o pôr-do-sol.^01~80~{LF}^00Foi...me atraindo. Eu estava...^01~85~{LF}^00se tornando parte dele...^01~75~{LF}^00Como se eu estivesse...^01~30~{LF}^00derretendo.^01~30~
+Bem, o que importa é que você voltou.^01~60~
+É um milagre você não estar ferido.^01~25~
+Onde está Fuyuhi?^01~45~
+Ela está aqui?^01~40~
+...^01~50~
+Eu escuto uma canção... Essa canção...^01~120~
+Haruka, por favor, tente descansar um pouco, OK?^01~120~
+Certo...^01~75~
+Obrigada.^01~42~
+Feche seus olhos,{LF}lembre-se daquele dia.{LF}^00Na primavera nós brincávamos,{LF}As cerejeiras florescendo,{LF}Com todo o seu esplendor. {LF}^00Eu sei que vou me lembrar de você, {LF}Brinque comigo para sempre.^01~120~
+Eu... a matei? ^01~110~
+Não... Não olhe para mim...^01~100~
+Ren.^01~120~
+Está na hora.^01~20~
+^00 Vamos embora agora.^01~60~{LF}^00 Você precisa descansar um pouco.^01~50~
+Eu sei... Boa noite.^01~120~
+Está fechado...^01~40~
+Haruka?^01~50~

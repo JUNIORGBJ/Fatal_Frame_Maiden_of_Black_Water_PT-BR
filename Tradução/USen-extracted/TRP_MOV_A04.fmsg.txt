@@ -1,0 +1,4 @@
+^00Você está sofrendo por causa da sua irmã.^01~140~{LF}^00^01~225~{LF}^00Ela sabe como você se sente, eu juro.^01~120~{LF}^00^01~135~{LF}^00Ela é sua família...^01~100~
+^00Pode não parecer agora, mas não se preocupe.^01~90~{LF}^00^01~65~{LF}^00Ela cuida de você com muita dedicação. ^01~80~{LF}^00^01~130~{LF}^00Isso é o que as famílias são:{LF}pessoas que cuidam umas das outras.^01~135~
+^00Está tudo bem.^01~65~{LF}^00Você ficará mais forte.^01~55~
+^00Eu vou...^01~45~^00^01~120~^00 Eu vou ser forte.^01~100~

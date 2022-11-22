@@ -1,0 +1,56 @@
+Vamos começar com uma prática simples.^01~60~
+Funciona igual a uma câmera normal.^01~90~
+Tenta aí. Basta segurar a câmera.^01~90~
+Algum problema?^01~60~
+É tipo uma câmera normal.^01~90~
+Apenas olhe pelo visor e pressione o botão do obturador.^01~120~
+A Câmera Obscura te permite{LF}fotografar o sobrenatural.
+Mesmo quando algo estiver perdido, ele deixa{LF}pistas, rastros... Isso irá capturá-los.^01~210~
+Então? Viu alguma coisa?^01~90~
+As coisas por aqui parecem ter mudado.^01~90~
+Não estava exatamente bombando, mas nunca ficou assim.^01~210~
+A montanha era reverenciada como um solo sagrado.{LF}Então virou um ponto turístico...{LF}Agora é conhecido como um local para cometer suicídio.^01~390~
+Aparentemente só esse tipo de pessoa{LF}vêm pra montanha esses dias.^01~180~
+A Câmera Obscura fotografa o Submundo,{LF}um mundo completamente separado do nosso.^01~240~
+O mundo que vemos pelas lentes da câmera{LF}não é tão diferente do além.^01~180~
+Tenha certeza de não ser atraída pelas{LF}coisas que você ver.^01~180~
+Se não tomar cuidado, você será levada ao{LF}próprio Submundo de verdade.^01~180~
+Tome isto.^01~60~
+É um "sinal". Irá te ajudar com o que estamos procurando.^01~240~
+A Câmera Obscura vai fazer você{LF}sentir a presença de coisas ocultas{LF}^00com uma forte conexão ao sinal.^01~240~
+Não entre em pânico, mas fique alerta.{LF}Vamos entrar.^01~180~
+Não se preocupe. Estou bem aqui com você.^01~120~
+Tá, vamos.{LF}Vamos fazer isso antes do anoitecer.^01~120~
+^00Esta é uma Fotografia Post Mortem. Não é uma foto{LF}normal, foi tirada para lamentar sua morte.^01~150~{LF}^00É por isso que o Ren nos enviou aqui.^01~105~
+Era comum por esta área deixar este tipo{LF}de fotografia para trás.^01~180~
+Já ouvi que outras partes deste país{LF}tinham costumes similares.^01~180~
+Mas parece que a foto veio de algum lugar por aqui,{LF}e ele pediu pra ver se a gente encontra outras.^01~210~
+Yuri, espere.^01~75~
+Estou sentindo algo.^01~75~
+Vamos seguir aquela sombra.^01~75~
+É chamado de "rastro", uma sombra do passado.{LF}O sinal está mostrando o caminho.^01~240~
+Esses rastros podem te levar ao caminho correto.^01~120~
+Talvez esteja nesta sala.^01~90~
+Parece que precisamos de uma chave.^01~60~
+Tente usar a Câmera Obscura.^01~75~
+Yuri, vá na frente e procure a chave da porta.{LF}Eu vou ficar esperando aqui.^01~210~
+Está em algum lugar desta sala.{LF}Dê uma olhada.^01~180~
+Tente procurar com a Câmera Obscura.^01~120~
+Pode estar "oculto", invisível ao olho nu.^01~150~
+Calma.{LF}Tem algo lá.^01~180~
+Tem alguma coisa lá.^01~135~
+^00Yuri,^01~45~{LF}^00procurar por objetos assim pode ser fácil,{LF}mas procurar pessoas é bem pior.^01~210~
+Elas podem te levar direto ao Submundo.^01~120~
+Yuri.^01~60~
+A psicometria te permite ver uma{LF}assinatura psíquica como uma "sombra".^01~210~
+Nunca siga a sombra de alguém{LF}que desapareceu.^01~150~
+Você pode acabar vendo algo que possa se arrepender.^01~150~
+Está ficando tarde.{LF}Bora, vamos voltar.^01~75~
+Yuri, tem mais um uso bem importante{LF}da Câmera Obscura.^01~150~
+Se um ser do Submundo aparecer,{LF}tenha certeza de usar a Câmera Obscura.^01~210~
+Ela tem o poder de expelir criaturas nascidas das trevas.^01~180~
+Hisoka!^01~60~
+Yuri! A Câmera Obscura!^01~90~
+Vamos, por aqui.^01~60~
+Yuri, calma.{LF}Não fique muito longe de mim.^01~150~
+Vamos voltar.^01~100~

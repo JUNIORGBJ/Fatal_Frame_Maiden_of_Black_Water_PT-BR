@@ -1,0 +1,998 @@
+
+▼▼BUTTON FLAGS▼▼
+Pegar
+Abrir
+Checar
+Pegar
+Abrir
+Checar
+Prosseguir
+Olhar
+Tocar
+Agachar
+Câmera Obscura
+Desviar
+Conversar
+Pegar
+Confirmar
+Vigiar
+▼▼▼BOTÃO DE AJUDA▼▼▼
+^20~40~
+^20~31~
+^20~03~
+^20~04~
+^20~00~
+^20~18~
+^20~19~
+^20~09~
+^20~09~
+^20~09~
+^20~07~
+^20~10~
+^20~10~
+^20~10~
+^20~08~
+^20~01~
+^20~02~
+^20~14~
+^20~13~
+^20~17~
+^20~11~
+^20~ff~
+^20~ff~
+^20~ff~^20~ff~
+^20~16~
+^20~05~: Confirmar
+^20~05~: Mudar
+^20~06~: Voltar
+^20~03~: Mapa
+^20~09~ ou ^20~00~: Selecionar
+^20~09~ ou ^20~00~: Selecionar
+^20~09~ ou ^20~00~: Mudar
+^20~09~: Selecionar
+^20~09~: Mover
+^20~10~: Zoom
+^20~18~: Andar
+^20~00~: Local
+^20~08~: Posição Atual
+^20~03~: Fechar
+^20~04~: Mover
+^20~03~: Gerenciar
+^20~03~: Mudar
+^20~10~: Rolar
+^20~00~: Mudar
+^20~03~: Roupas
+^20~09~ ou ^20~19~: Página ^20~05~: Próxima
+^20~06~: Fechar
+^20~05~: Próximo
+^20~05~: Próximo
+^20~13~ ou ^20~14~: Página
+^20~04~: Organizar
+^20~03~: Gerenciar
+^20~31~: Levantar
+
+^20~04~: Mostrar o Mapa
+^20~ff~: Mudar a Tela
+^20~ff~: Mudar ^20~00~: Rolar
+^20~09~: Rolar
+^20~03~: Tocar o Vídeo
+^20~22~: Girar o Personagem
+▼▼▼UNITS▼▼▼
+- / -
+h
+m
+s
+pts.
+Tipo
+FÁCIL
+NORMAL
+DIFÍCIL
+PESADELO
+RANQUE
+PONTOS
+▼▼▼Character Names▼▼▼
+Kozukata
+Yuri
+Yuri Kozukata
+Hinasaki
+Miu
+Miu Hinasaki
+Hojo
+Ren
+Ren Hojo
+Ayane
+Kurosawa
+Hisoka
+Hisoka Kurosawa
+Himino
+Fuyuhi
+Fuyuhi Himino
+Momose
+Haruka
+Haruka Momose
+Miku
+Miku Hinasaki
+Kagamiya
+Rui
+Rui Kagamiya
+Ose
+Ose Kurosawa
+Aso
+Kunihiko
+Kunihiko Aso
+Watarai
+Keiji
+Keiji Watarai
+Sakaki
+Kazuya
+Kazuya Sakaki
+Shiragiku
+???
+▼▼▼ITEM NAMES AND DESCRIPTIONS▼▼▼
+Câmera Obscura
+Uma câmera antiga com fole dobrável.{LF}Tem o poder de fotografar o sobrenatural.
+Erva Medicinal
+Comprimidos feitos de miríades de ervas.{LF}Consumi-los irá restaurar parte de sua saúde.
+Água Benta
+Água benzida para purificação.{LF}Restaura sua vida completamente.
+Cristal Espelhado
+Uma pedra negra que emite uma luz misteriosa.{LF}Se acabar sua vida, irá lhe proteger.
+Frasco de Tinta
+Um frasco de tinta usado para magia negra.{LF}A magia desta tinta traz seu usuário Próximo da morte.
+Brasa Purificada
+Carvão que acende a Chama Proibida.{LF}Ele te seca e remove a contaminação da água Negra.
+Filme Tipo-07
+Filme antigo. Está em más condições, e perdeu{LF}o máximo do seu poder de exorcismo.
+Filme Tipo-14
+Filme antigo. Não é muito efetivo em exorcizar fantasmas{LF}e demora muito para recarregar.
+Filme Tipo-61
+Filme novo e em boa condição. Bom em exorcizar fantasmas.
+Filme Tipo-90
+Filme com um símbolo de purificação.{LF}É em efetivo em exorcizar fantasmas e recarrega rápido.
+Filme Tipo-00
+Filme Especial. É o filme mais efetivo em exorcizar{LF}fantasmas, mas demora para recarregar.
+Lente da Lentidão
+Lente da Lentidão:{LF}Uma lente que desacelera o alvo fotografado por um tempo definido.
+Lente de Fixação
+Lente de Fixação:{LF}Uma lente que congela o objeto fotografado por um tempo.{LF}Tirar outra foto vai desfazê-la.
+Lentes de Visão
+Lentes de Visão:{LF}Uma lente que exorcizará um fantasma em um disparo quando está em estado de " brilho " e branco pálido.
+Lente Premiada
+Lente Premiada:{LF}Uma lente que aumenta o número de pontos{LF}ganhos ao tirar fotos por um curto período de tempo.
+Lente de Atordoamento
+Lente de Atordoamento:{LF}Uma lente que força o alvo fotografado ficar atordoado.
+Lente de Impulso
+Lente de Impulso:{LF}Uma lente que permite o dobro do dano normal aos alvos.
+Lente da Destruição
+Lente da Destruição:{LF}Uma lente que provoca mais danos aos alvos, com base em seu nível.
+Lente Zero
+Lente Zero:{LF}Uma lente que provoca mais danos a alvos com pouca saúde.
+Lentes de Restauração
+Lente Restauradora:{LF}Uma lente que recupera sua saúde com base na quantidade de danos causada no alvo.
+Lente Fatal
+Lente Fatal:{LF}Uma lente que dispara o Tempo Fatal se uma foto for tirada durante uma Chance de Disparo.
+Lente Borboleta
+Lente Borboleta:{LF}Uma lente que proporciona o dobro de Fragmentos Espirituais do que o normal.
+Lente de Voz
+Lente Vocal:{LF}Uma lente que permite ouvir a voz presa de{LF}um, alvo fotografado.
+Lentes de Visão
+Lentes de Visão:{LF}Uma lente que exorcizará um fantasma em um disparo quando está em estado de " brilho " e branco pálido.
+Esquivar
+Evasão:{LF}Uma melhoria de equipamento que permite detectar{LF}ameaças capazes de serem esquivadas.
+
+
+
+
+Troca
+Troca:{LF}Uma melhoria de equipamento que permite equipar{LF}e tirar fotos com lentes diferentes.
+Troca:{LF}Uma melhoria de equipamento que permite equipar e tirar fotos com lentes diferentes.{LF}(Não compatível com a câmera de Ren.)
+Avaliar
+Avaliar:{LF}Uma melhoria de equipamento que exibe a atual saúde de um inimigo travado.
+Esquivar
+Evasão:{LF}Uma melhoria de equipamento que permite detectar{LF}ameaças capazes de serem esquivadas.
+
+
+Otimização
+Otimização:{LF}Uma melhoria de equipamento que faz cada disparo seja perfeito, ativando o Fatal Frame.
+Infinito
+Infinito:{LF}Uma melhoria de equipamento que permite tirar{LF}fotos sem consumir filme.
+Lente Psíquica
+Uma lente que permite presenciar fenômenos espirituais.
+Câmera Obscura do Ren
+Uma câmera velha passada pela família Hojo.{LF}Dizem que é uma antiguidade valiosa, porem mais detalhes sobre ela são desconhecidos.
+Lanterna da Pedra Espiritual
+Uma lanterna que emite uma luz misteriosa.{LF}Ela tem o poder de afastar temporariamente as criaturas que habitam a escuridão.
+Lanterna
+Uma antiga lanterna elétrica.{LF}É capaz de iluminar lugares escuros.
+▼▼▼ITENS DE EVENTO（Excluindo Fotos e Arquivos）▼▼▼
+Álbum de Fotos
+Um álbum antigo de fotografias em preto-e-branco.{LF}Cada pessoa tem um rosto lindo, mas um pouco solitário.
+Chave com Chaveiro Amarelo
+Uma chave presa a uma placa de identificação amarela.{LF}Ela estava jogada perto da porta de serviço da pousada abandonada.
+Chave de Chaveiro Vermelho
+Uma chave bem enferrujada junta de uma etiqueta vermelha nomeada.{LF}Foi deixada dentro de um armário em uma pousada abandonada.
+Chave Enferrujada
+Uma chave encontrada na casa do folclorista.{LF}Estava escondida atrás de uma foto de uma pessoa falecida na capela da família.
+Chave Pequena
+Uma pequena chave que tinha caído debaixo de uma cama no depósito.{LF}Parece ser o tipo de chave que abriria a gaveta de uma escrivaninha.
+Folheto do Monte Hikami
+Um folheto de quando o Monte Hikami era um lugar turístico.{LF}Ele contém uma lista de locais e instalações na montanha.
+Envelope Grande
+Um envelope grande, que estava no quarto de Hisoka.{LF}Diversos arquivos sobre as pessoas que ela estava procurando se encontravam dentro.
+Manual da Haruka
+O manual do estudante pertencente a uma menina chamada Haruka Momose.{LF}Foi entregue com a esperança de que ajudasse na busca por ela.
+Chave Placa Íris
+Encontrado dentro de uma caixa na caverna subterrânea.{LF}Uma íris estilizada foi gravada no metal.
+Chave Placa Peônia
+Deixado para trás no Santuário das Bonecas depois que a garota partiu.{LF}Uma peônia estilizada foi gravada no metal.
+Efígie
+Uma boneca velha encontrada no Santuário das Bonecas.{LF}Ela se parece um pouco com Yuri.
+Chave Placa Camélia
+Uma camélia estilizada foi gravada no metal.
+Chave Placa Lírio
+Um lírio estilizado foi gravada no metal.
+Chave do Reliquário
+Um objeto em forma de chave com uma forma especial.{LF}Parece exatamente como os ornamentos dos Relíquários.
+Chave Placa Cerejeira
+Uma flor de cerejeira estilizada foi gravada no metal.
+Chave Placa Lua
+Uma lua estilizada foi gravada no metal.
+Amuleto da Hisoka
+Um acessório que Hisoka gosta de usar.{LF}Foi levado para as margens do rio, na Floresta Abismal.
+Feixe de Cabelos Brancos
+Um feixe de cabelos brancos.{LF}Aquela garota do Santuário das Bonecas tinha enfeites de cabelo exatamente como estes.
+Fica Cassete do Keiji 1
+Uma fita cassete antiga encontrada na casa do folclorista.
+Fica Cassete do Keiji 2
+Uma fita cassete antiga encontrada na casa do folclorista.
+Fica Cassete do Keiji 3
+Uma fita cassete antiga encontrada na casa do folclorista.
+Chamada de um Cliente
+Uma fita cassete que Hisoka tinha escondido.{LF}É a gravação de voz de uma chamada telefônica de um cliente.
+Fita Cassete Antiga 1
+Uma fita cassete antiga, encontrada no estudio privado de Ren.
+Fita Cassete Antiga 2
+Uma fita cassete antiga, encontrada no estudio privado de Ren.
+Envelope
+Encontrado no estudo particular de Ren. Diversas fotos antigas de paisagens estão dentro.
+Efígie 1
+Um boneco de madeira que foi deixado pelo fantasma de uma criança.{LF}Foi coberto com um pano vermelho.
+Efígie 2
+Um boneco de madeira que foi deixado pelo fantasma de uma criança.{LF}Foi coberto com um pano vermelho.
+Efígie 3
+Um boneco de madeira que foi deixado pelo fantasma de uma criança.{LF}Foi coberto com um pano vermelho.
+▼▼▼ARQUIVOS▼▼▼
+Notas do Proprietário
+Parte de um caderno esfarrapado.{LF}Parece ser um diário deixado pelo proprietário da pousada abandonada.
+Notas do Folclorista
+Um antigo livro, encadernado de forma simples.{LF}Parece ser parte da coleção dos trabalhos do folclorista.
+Carta da Hisoka
+Uma carta enviada com a Camera Obscura quando Hisoka a enviou de volta para Ren.
+Carta da Fuyuhi
+Uma carta de Fuyuhi endereçada a Hisoka.{LF}Nela, há um pedido de investigação para Haruka Momose.
+Relatório da Yuri
+Um relatório sobre a leitura das sombras que Ren pediu a Hisoka.{LF}Yuri a escreveu, portanto não está bem escrita.
+Nota Estragada
+Um pedaço de um caderno que estava ensopado de água.{LF}Uma parte do texto desfocado é legível.
+Espelho do Sol Negro
+Um espelho antigo que parece ter sido feito de pedra.{LF}Ele reflete a cor de um por do sol.
+Registros de Caixão
+Textos antigos encontrados no Santuário do Efêmero.{LF}Eles explicam a abertura dos caixões.
+A Casa Velada
+A fita de vídeo que Rui encontrou.{LF}Parece ter sido filmada em algum lugar do Monte Hikami.
+Notas da Rui
+Notas escrita sobre a fita de vídeo.{LF}Contém as anotações de Rui sobre o vídeo.
+Fita Cassete úmida
+Uma fita cassete encontrada no Monte Hikami.{LF}Não há nada escrito na etiqueta.
+▼▼▼EVENT PHOTOS▼▼▼
+Foto de uma Ponte
+Uma antiga fotografia Post mortem, em preto e branco.{LF}A noiva com um quimono branco parece solitária.
+Fotografia Post Mortem
+Uma fotografia antiga, em preto e branco.{LF}A mulher na foto parece que está dormindo.
+Duas Colegiais
+Uma foto mostrando duas garotas no colegial.{LF}Elas estão sorrindo, mas de alguma forma parecem solitárias.
+Miu Hinasaki
+Uma foto de uma mulher elegante.{LF}Esta é uma bela fotografia, tirada por um profissional.
+Sombra na Água
+Uma foto deixada na Câmera Obscura.{LF}Embora embaçada, uma sombra pode ser vista sobre a água.
+Sorriso do Ose
+Uma foto que Ren tirou depois de fotografar Ose.{LF}Sua expressão é solitária, mas ela parece estar sorrindo.
+Miku Hinasaki
+Uma foto da mãe de Miu. Foi amassada.{LF}Ela deve ter sido tirada há muito tempo.
+Foto de Casamento
+Uma foto que ficou para trás depois que Miku desapareceu.{LF}Nela há uma noiva e um noivo, ambos de branco.
+Uma Garota de Uniforme
+Uma foto antiga que Hisoka tinha escondido.{LF}Ela está muito amarrotada e manchada demais para ver o que é claramente.
+Tsumugi
+A foto de uma garota, um dos casos de pessoas desaparecidas.{LF}"Tsumugi Katashina" está escrito atrás.
+Haruka Momose
+Uma foto de uma garota supostamente sendo procurada.{LF}"Haruka Momose" está escrita no verso.
+Kazuya Sakaki
+Uma foto de um homem da idade de Ren.{LF}"Kazuya Sakaki" está escrito no verso.
+Yuri
+Uma foto de Yuri em seu uniforme escolar.{LF}Foi tirada por volta da época em que ela foi salva por Hisoka.
+▼▼▼GENERAL DIALOGUE/BUTTON USE▼▼▼
+Sim
+Não
+^20~05~: OK
+▼▼▼GENERAL DIALOGUE/EXPLANATION TEXT▼▼▼
+Você quer usar %ls?
+Você quer equipar %ls?
+Redefinir todas as configurações para o padrão?
+▼▼▼OPTION SCREEN TEXT▼▼▼
+Configurações Gerais
+Sensibilidade Da Câmera
+Tela e Som
+Voltar ao Padrão
+Alterar as configurações de jogabilidade e controle.
+Definir a velocidade de controle da câmera no jogo.
+Definir configurações de vídeo e de volume.
+Redefinir todas as configurações para o padrão.
+Controles da Câmera
+Vibração
+Modo Busca: Vertical
+Modo Busca: Horizontal
+Modo Foto: Vertical
+Modo Foto: Horizontal
+Isso permite que você configure os controles de câmera no Modo Foto.
+Isto desativa ou ativa efeito de vibração do controle.
+Definir movimento vertical da câmera no Modo Busca.
+Definir movimento horizontal da câmera no Modo Busca.
+Definir movimento vertical da câmera no Modo Foto.
+Definir movimento horizontal da câmera no Modo Foto.
+Função de Sensor de Movimento ^20~41~^20~10~ 
+^20~10~
+Use a função do sensor de movimento do controle e ^20~10~ para controlar a direção da onde a câmera está apontando no Modo Foto.{LF}(Esse estilo de controle é para aqueles que querem usar o controle como uma câmera de forma intuitiva.)
+Usar apenas ^20~10~ para controlar a câmera no Modo Foto.{LF}(Para jogadores experientes.)
+LIGADO
+DESLIGADO
+Isto ativa o efeito de vibração do controle.
+Isto desativa o efeito de vibração do controle.
+Normal
+Invertido
+Enquanto estiver no Modo Busca, para virar a câmera para cima, mova ^20~10~ para cima,{LF}e para virar a câmera para baixo, mova ^20~10~ para baixo.
+Enquanto estiver no Modo Busca, para virar a câmera para cima, mova ^20~10~ para baixo,{LF}e para virar a câmera para baixo, mova ^20~10~ para cima.
+Normal
+Invertido
+Enquanto estiver no Modo Busca, para virar a câmera para direita, mova ^20~10~ para direita,{LF}e para virar a câmera para esquerda, mova ^20~10~ para esquerda.
+Enquanto estiver no Modo Busca, para virar a câmera para direita, mova ^20~10~ para esquerda,{LF}e para virar a câmera para esquerda, mova ^20~10~ para direita.
+Normal
+Invertido
+Enquanto estiver no Modo Foto, para virar a câmera para cima, mova ^20~10~ para cima,{LF}e para virar a câmera para baixo, mova ^20~10~ para baixo.
+Enquanto estiver no Modo Foto, para virar a câmera para cima, mova ^20~10~ para baixo,{LF}e para virar a câmera para baixo, mova ^20~10~ para cima.
+Normal
+Invertido
+Enquanto estiver no Modo Foto, para virar a câmera para direita, mova ^20~10~ para direita,{LF}e para virar a câmera para esquerda, mova ^20~10~ para esquerda.
+Enquanto estiver no Modo Foto, para virar a câmera para direita, mova ^20~10~ para esquerda,{LF}e para virar a câmera para esquerda, mova ^20~10~ para direita.
+Modo Busca: Vertical
+Modo Busca: Horizontal
+Modo Foto: Vertical
+Modo Foto: Horizontal
+Definir velocidade de movimento vertical da câmera no Modo Busca.
+Definir velocidade de movimento horizontal da câmera no Modo Busca.
+Definir velocidade de movimento vertical da câmera no Modo Foto.
+Definir velocidade de movimento horizontal da câmera no Modo Foto.
+Legendas
+Brilho
+Volume
+LIGA/DESLIGA as legendas.
+Definir brilho da tela.
+Defina o brilho para que você possa ver o rosto do fantasma ao lado da seta.
+Ajuste o volume do jogo.
+LIGADO
+DESLIGADO
+As legendas serão exibidas durante o diálogo.
+As legendas não serão exibidas durante o diálogo.
+Configurações de Exibição
+Configurações do Jogo
+Configurações de Audio
+Isso permite que você altere as configurações visuais.
+Isso permite que você altere as configurações de jogabilidade e controle.
+Isso permite que você altere as configurações de som.
+Redefinir todas as configurações para o padrão.
+Dispositivo de Saída
+Legendas
+Brilho
+Tamanho da Tela
+Isso permite que você configure o estilo de exibição da tela.
+Isso define se as legendas serão exibidas durante o diálogo.
+Defina o brilho para que você possa ver o rosto{LF}do fantasma ao lado da seta.
+Isso permite que você defina o tamanho da tela e a posição.
+TV & Wii U GamePad
+Wii U GamePad
+LIGADO
+DESLIGADO
+The game will be displayed on both the TV screen and Wii U GamePad.
+Display on Wii U GamePad only.{LF}(Sound will also come only from the Wii U GamePad.)
+As legendas serão exibidas durante o diálogo.
+As legendas não serão exibidas durante o diálogo.
+Estilo de Controle
+Roonc
+Modo Busca: Vertical
+Modo Busca: Horizontal
+Modo Foto: Vertical
+Modo Foto: Horizontal
+Isso permite que você configure os controles de câmera no Modo Foto.
+Isto desativa ou ativa efeito de vibração do controle.
+Isto permite que você defina o movimento vertical da câmera enquanto estiver no Modo Busca.
+Isso permite que você configure o movimento horizontal da câmera no Modo Busca.
+Isto permite que você defina o movimento vertical da câmera enquanto estiver no Modo Foto.
+Isso permite que você configure o movimento horizontal da câmera no Modo Foto.
+^20~25~^20~16~^20~10~
+^20~10~
+LIGADO
+DESLIGADO
+Normal
+Invertido
+Normal
+Invertido
+Normal
+Invertido
+Normal
+Invertido
+Use a função do sensor de movimento do controle e ^20~10~ para controlar a direção da onde a câmera está apontando no Modo Foto.{LF}(Esse estilo de controle é para aqueles que querem usar o controle como uma câmera de forma intuitiva.)
+Use ^20~10~ para mover a câmera no Modo Foto.{LF}(A HUD da câmera também será exibido na tela da TV.)
+Isto ativa o efeito de vibração do controle.
+Isto desativa o efeito de vibração do controle.
+Enquanto estiver no Modo Busca, para virar a câmera para cima, mova ^20~10~ para cima,{LF}e para virar a câmera para baixo, mova ^20~10~ para baixo.
+Enquanto estiver no Modo Busca, para virar a câmera para cima, mova ^20~10~ para baixo,{LF}e para virar a câmera para baixo, mova ^20~10~ para cima.
+Enquanto estiver no Modo Busca, para virar a câmera para direita, mova ^20~10~ para direita,{LF}e para virar a câmera para esquerda, mova ^20~10~ para esquerda.
+Enquanto estiver no Modo Busca, para virar a câmera para direita, mova ^20~10~ para esquerda,{LF}e para virar a câmera para esquerda, mova ^20~10~ para direita.
+Enquanto estiver no Modo Foto, para virar a câmera para cima, mova ^20~10~ para cima,{LF}e para virar a câmera para baixo, mova ^20~10~ para baixo.
+Enquanto estiver no Modo Foto, para virar a câmera para cima, mova ^20~10~ para baixo,{LF}e para virar a câmera para baixo, mova ^20~10~ para cima.
+Enquanto estiver no Modo Foto, para virar a câmera para direita, mova ^20~10~ para direita,{LF}e para virar a câmera para esquerda, mova ^20~10~ para esquerda.
+Enquanto estiver no Modo Foto, para virar a câmera para direita, mova ^20~10~ para esquerda,{LF}e para virar a câmera para esquerda, mova ^20~10~ para direita.
+Dispositivo de Saída
+Output Type
+Volume da Música
+Volume dos Efeitos Sonoros
+Volume das Vozes
+TV & Wii U GamePad
+Wii U GamePad
+Estéreo
+Mono
+Permite selecionar o dispositivo de saída do qual você quer reproduzir o áudio do jogo.
+Isso permite que você configure o estilo de saída do áudio do jogo a partir da sua TV.
+Isso permite que você ajuste o volume da música do jogo.
+Isso permite que você ajuste o volume dos efeitos sonoros do jogo.
+Isso permite que você ajuste o volume das vozes do jogo.
+Play sound from both the TV and Wii U GamePad.
+Play sound from the Wii U GamePad only.
+O som reproduzido pela sua TV ira ser estéreo.
+O som reproduzido pela sua TV ira ser mono.
+Ajustar o volume da música do jogo.
+Ajustar o volume dos efeitos sonoros do jogo.
+Ajuste o volume das vozes do jogo.
+▼▼▼INVENTORY TOP SCREEN TEXT▼▼▼
+Isto permite que você possa ver sua posição atual e destino.
+Isto permite que você use e veja informações de itens que você possua.
+Isto permite que você atualize a Câmera Obscura,{LF}e também mude os filme e lentes.
+Permite atualizar a Câmera Obscura da Ren,{LF}assim como mudar o filme.
+Isto permite que você confira e salve fotos que você tirou.
+Isto permite que você veja uma lista de fantasmas que você fotografou.
+▼▼▼INVENTORY PHOTO MODE TEXT▼▼▼
+Mudar o equipamento da Câmera Obscura.
+Mudar o equipamento da Câmera Obscura da Ren.
+Pontos para atualizar as funcionalidades da Câmera Obscura.
+Pontos para atualizar as funcionalidades da Câmera Obscura da Ren.
+Mudar o filme em uso.
+Mudar lente em uso.
+Alteração das atualizações que estão em uso.
+Pontos para atualizar as funcionalidades básicas da Camera Obscura.
+Pontos para atualizar as funcionalidades básicas da Câmera Obscura da Ren.
+Gaste pontos para melhorar a funcionalidade das lentes.
+Selecione um slot para equipar a lente.
+Lente da Lentidão Nv.0{LF}Poder Espiritual Usado: 20%{LF}Ligeiramente desacelera o sujeito por 10 segundos
+Lente da Lentidão Nv.1{LF}Poder Espiritual Usado: 20%{LF}Ligeiramente desacelera o sujeito por 10 segundos
+Lente da Lentidão Nv.2{LF}Poder Espiritual Usado: 20%{LF}Ligeiramente desacelera o sujeito por 15 segundos
+Lente da Lentidão Nv.3{LF}Poder Espiritual Usado: 20%{LF}Ligeiramente desacelera o sujeito por 15 segundos
+Lente de Fixação Nv.0{LF}Poder Espiritual Usado: 40%{LF}Deixa o alvo paralisado por 10 segundos
+Lente de Fixação Nv.1{LF}Poder Espiritual Usado: 40%{LF}Deixa o alvo paralisado por 15 segundos
+Lente de Fixação Nv.2{LF}Poder Espiritual Usado: 40%{LF}Deixa o alvo paralisado por 20 segundos
+Lente de Fixação Nv.3{LF}Poder Espiritual Usado: 40%{LF}Deixa o alvo paralisado por 30 segundos
+Lente Captora Nv.0{LF}Poder Espiritual Usado: 20%{LF}Captura o alvo onde quer que esteja (10 segundos)
+Lente Captora Nv.1{LF}Poder Espiritual Usado: 20%{LF}Captura o alvo onde quer que esteja (15 segundos)
+Lente Captora Nv.2{LF}Poder Espiritual Usado: 20%{LF}Captura o alvo onde quer que esteja (20 segundos)
+Lente Captora Nv.3{LF}Poder Espiritual Usado: 20%{LF}Captura o alvo onde quer que esteja (30 segundos)
+Lente Premiada Nv.0{LF}Poder Espiritual Usado: 20%{LF}Aumenta os pontos ganhos por 10 segundos
+Lente Premiada Nv.1{LF}Poder Espiritual Usado: 20%{LF}Aumenta os pontos ganhos por 15 segundos
+Lente Premiada Nv.2{LF}Poder Espiritual Usado: 20%{LF}Aumenta os pontos ganhos por 20 segundos
+Lente Premiada Nv.3{LF}Poder Espiritual Usado: 20%{LF}Aumenta os pontos ganhos por 30 segundos
+Lentes de Atordoamento Nv.0{LF}Poder Espiritual Usado: 100%{LF}Atordoa fortemente o sujeito
+Lentes de Atordoamento Nv.1{LF}Poder Espiritual Usado: 80%{LF}Atordoa fortemente o sujeito
+Lentes de Atordoamento Nv.2{LF}Poder Espiritual Usado: 60%{LF}Atordoa fortemente o sujeito
+Lentes de Atordoamento Nv.3{LF}Poder Espiritual Usado: 40%{LF}Atordoa fortemente o sujeito
+Lente de Impulso Lv.0{LF}Poder Espiritual Utilizado: 100%{LF}Os ataques têm o dobro de poder
+Lente de Impulso Lv.1{LF}Poder Espiritual Utilizado: 60%{LF}Os ataques têm o dobro de poder
+Lente de Impulso Lv.2{LF}Poder Espiritual Utilizado: 40%{LF}Os ataques têm o dobro de poder
+Lente de Impulso Lv.3{LF}Poder Espiritual Utilizado: 20%{LF}Os ataques têm o dobro de poder
+Lente de Destruição Lv.0{LF}Poder Espiritual Utilizado: 100%{LF}Os ataques têm o dobro de poder.
+Lente da Destruição Lv.1{LF}Poder Espiritual Utilizado: 100%{LF}Os ataques têm 2,5 vezes mais poder.
+Lente de Destruição Lv.2{LF}Poder Espiritual Utilizado: 100%{LF}Os ataques têm três vezes mais poder.
+Lente da Destruição Lv.3{LF}Poder Espiritual Utilizado: 100%{LF}Os ataques têm quatro vezes mais poder.
+Lente Zero Lv.0{LF}Poder Espiritual Utilizado: 20%{LF}À medida que a saúde diminui, o ataque aumenta (Max 2x)
+Lente Zero Lv.1{LF}Poder Espiritual Utilizado: 20%{LF}À medida que a saúde diminui, o ataque aumenta (Max 2,25x)
+Lente Zero Lv.2{LF}Poder Espiritual Utilizado: 20%{LF}À medida que a saúde diminui, o ataque aumenta (Max 2,5x)
+Lente Zero Lv.3{LF}Poder Espiritual Utilizado: 20%{LF}À medida que a saúde diminui, o ataque aumenta (Max 3x)
+Lentes Restauradoras Nv.0{LF}Poder Espiritual Usado 40%{LF}Recupera vida igual a 0.5x de dano causado.
+Lentes Restauradoras Nv.1{LF}Poder Espiritual Usado 40%{LF}Recupera vida igual a 0.75x de dano causado.
+Lentes Restauradoras Nv.2{LF}Poder Espiritual Usado 40%{LF}Recupera vida igual ao dano causado.
+Lentes Restauradoras Nv.3{LF}Poder Espiritual Usado 40%{LF}Recupera vida igual a 1.5x de dano causado.
+Lente Fatal Nv.0{LF}Poder Espiritual Usado: 100%{LF}Chance de Disparo aciona o Tempo Fatal.
+Lente Fatal Nv.1{LF}Poder Espiritual Usado: 80%{LF}Chance de Disparo aciona o Tempo Fatal.
+Lente Fatal Nv.2{LF}Poder Espiritual Usado: 60%{LF}Chance de Disparo aciona o Tempo Fatal.
+Lente Fatal Nv.3{LF}Poder Espiritual Usado: 40%{LF}Chance de Disparo aciona o Tempo Fatal.
+Lentes de Borboleta Nv.0{LF}Poder Espiritual Usado: 80%{LF}O Dobro de Fragmentos Espirituais apareceram.
+Lentes de Borboleta Nv.1{LF}Poder Espiritual Usado: 60%{LF}O Dobro de Fragmentos Espirituais apareceram.
+Lentes de Borboleta Nv.2{LF}Poder Espiritual Usado: 40%{LF}O Dobro de Fragmentos Espirituais apareceram.
+Lentes de Borboleta Nv.3{LF}Poder Espiritual Usado: 20%{LF}O Dobro de Fragmentos Espirituais apareceram.
+Lente Vocal{LF}Poder Espiritual Usado: 0%{LF}Você pode ouvir as vozes dos alvos travados.
+Lentes de Visão {LF}Poder Espiritual Usado: 60%{LF}Exorciza os fantasmas se eles estiverem em estado de "relance".
+Lentes de Visão {LF}Poder Espiritual Usado: 40%{LF}Exorciza os fantasmas se eles estiverem em estado de "relance".
+Lentes de Visão {LF}Poder Espiritual Usado: 20%{LF}Exorciza os fantasmas se eles estiverem em estado de "relance".
+Lentes de Visão {LF}Poder Espiritual Usado: 0%{LF}Exorciza os fantasmas se eles estiverem em estado de "relance".
+Sensor
+Melhora a capacidade dos sensores da Camera Obscura,{LF}aumentando a distância de ataque.
+Carregador
+Melhora a velocidade de carregamento da Camera Obscura,{LF}reduzindo o tempo entre as fotos.
+Saída
+Melhora a potência de desempenho da Camera Obscura,{LF}aumentando os danos causados pelas fotos.
+Absorção
+Melhora a capacidade de absorção da Camera Obscura,{LF}aumentando o Poder Espiritual absorvido.
+Foto Instant.
+Desacelera o inimigo enquanto tira fotos{LF}usando o recurso de 4 fotos consecutivas.
+Desbloqueia o recurso de 8 fotos contínuas, e{LF}encurta o intervalo entre disparos consecutivos.
+Desacelera o inimigo enquanto tira fotos{LF}usando o recurso de 8 fotos consecutivas.
+Melhorar a Lente da Lentidão fara o sujeito se mover mais devagar.
+Melhorar a Lente da Lentidão aumentando a duração{LF}do efeito de 10 para 15 segundos.
+Melhora a Lente da Lentidão fara o alvo se mover mais devagar.
+Melhora a Lente de Fixação aumentando a duração{LF}do efeito de 10 para 15 segundos.
+Melhora a Lente de Fixação aumentando a duração{LF}do efeito de 15 para 20 segundos.
+Melhora a Lente de Fixação aumentando a duração{LF}do efeito de 20 para 30 segundos.
+Melhora a Lente Captora aumentando a duração{LF}do efeito de 10 para 15 segundos.
+Melhora a Lente Captora aumentando a duração{LF}do efeito de 15 para 20 segundos.
+Melhora a Lente Captora aumentando a duração{LF}do efeito de 20 para 30 segundos.
+Melhora a Lente Premiada aumentando a duração{LF}do efeito de 10 para 15 segundos.
+Melhora a Lente Premiada aumentando a duração{LF}do efeito de 15 para 20 segundos.
+Melhora a Lente Premiada aumentando a duração{LF}do efeito de 20 para 30 segundos.
+Melhorar as Lentes de Atordoamento, reduzindo o custo de Poder Espiritual de 100% para 80%.
+Melhorar as Lentes de Atordoamento, reduzindo o custo de Poder Espiritual de 80% para 60%.
+Melhorar as Lentes de Atordoamento, reduzindo o custo de Poder Espiritual de 60% para 40%.
+Melhora a Lente de Impulso, reduzindo o custo de Energia Espiritual de 100% para 60%.
+Melhora a Lente de Impulso, reduzindo o custo de Energia Espiritual de 60% para 40%.
+Melhora a Lente de Impulso, reduzindo o custo de Energia Espiritual de 40% para 20%.
+Melhora a Lente da Destruição, aumentando o dano de 2x para 2,5x.
+Melhora a Lente da Destruição, aumentando o dano de 2x para 3x.
+Melhora a Lente da Destruição, aumentando o dano de 3x para 4x.
+Melhora a Lente Zero, aumentando o máximo{LF}o dano de 2 vezes a 2,25 vezes.
+Melhora a Lente Zero, aumentando o máximo{LF}o dano de 2.25 vezes a 2,5 vezes.
+Melhora a Lente Zero, aumentando o máximo{LF}o dano de 2.5 vezes a 3 vezes.
+Melhora a Lente Restauradora, aumentando a saúde{LF}recuperada de 0,5x a 0,75x de danos.
+Melhora a Lente Restauradora, aumentando a saúde{LF}recuperada de 0,75x a 1x de danos.
+Melhora a Lente Restauradora, aumentando a saúde{LF}recuperada de 1x a 1.5x de danos.
+Melhora a Lente Fatal, reduzindo o custo da Energia Espiritual de 100% para 80%.
+Melhora a Lente Fatal, reduzindo o custo da Energia Espiritual de 80% para 60%.
+Melhora a Lente Fatal, reduzindo o custo da Energia Espiritual de 60% para 40%.
+Melhora a Lente Borboleta, reduzindo o custo de Energia Espiritual de 80% para 60%.
+Melhora a Lente Borboleta, reduzindo o custo de Energia Espiritual de 60% para 40%.
+Melhora a Lente Borboleta, reduzindo o custo de Energia Espiritual de 40% para 20%.
+Melhora as Lentes de Visão, reduzindo o custo de Poder Espiritual de 60% para 40%.
+Melhora as Lentes de Visão, reduzindo o custo de Poder Espiritual de 40% para 20%.
+Melhorar as Lentes de Visão, reduzindo o custo de Poder Espiritual de 20% para 0%.
+Não é possível melhorar mais.
+Você quer gastar %d pontos{LF}para melhorar a Camera Obscura's {LF}Função %ls?
+Você quer gastar %d pontos{LF}para melhorar o %ls?
+Pts Necessários
+Nível Máximo
+Valor Máximo
+▼▼▼SELECIONAR EPISÓDIO▼▼▼
+Dificuldade
+Começar Episódio
+Checar Itens
+Arquivo do Caso
+Selecione o episódio que deseja jogar.
+Iniciar o episódio.
+FÁCIL: Para jogadores que só querem aproveitar a história{LF}(as pontuações não serão gravadas)
+NORMAL: Para jogadores que só querem aproveitar o jogo
+DIFÍCIL: Para jogadores que querem desfrutar de uma verdadeira batalha
+PESADELO: Para jogadores dispostos a superar seus piores medos
+Permite verificar a quantidade de cada item que você tem no início do{LF}episódio. Você pode gastar pontos para comprar mais itens.
+Verifique as informações relacionadas à sua busca.
+Qtd. Pts. Atual:
+Total de Pontos Gastos:
+Pequenas pílulas que restauram alguma saúde.{LF}500 pontos por 1 recipiente.
+Água pura que recupera totalmente a sua vida.{LF}1.000 pontos por 1 garrafa.
+Uma pedra negra que revive você ao morrer.{LF}10.000 pontos por pedra.
+Chamas purificantes que removem a umidade e as manchas.{LF}5.000 pontos por 1 lanterna.
+Filme antigo. Perdeu a maior parte do seu poder de exorcizar fantasmas.{LF}200 pontos por 1 foto.
+Filme antigo. Não é muito efetivo em exorcizar fantasmas e demora muito para recarregar.{LF}500 pontos por 1 foto.
+Filme santificado que carrega rapidamente.{LF}800 pontos por 1 foto.
+Filme especial que é extremamente poderoso, mas lento para carregar.{LF}5000 pontos por 1 disparo.
+Tinta especial que permite que seu portador se esconda de fantasmas.{LF}10.000 pontos por 1 garrafa.
+Você quer sair sem adicionar itens?
+Você deseja adicionar itens antes de iniciar o episódio?{LF}Seu novo saldo de itens e pontos será atualizado assim que o episódio começar.
+Só pode ser comprado uma vez.{LF}Uma lente que permite experienciar fenômenos espirituais. 10.000 pontos por 1 lente.
+Só pode ser comprado uma vez.{LF}Um anel que permite você escutar a música "Nessa Jaula". 1.000 pontos por 1 anel.
+Só pode ser adquirido uma única vez.{LF}Uma roupa exclusiva para Yuri. 30.000 pontos por 1 traje.
+Só pode ser adquirido uma única vez.{LF}Uma roupa exclusiva para Miu. 30.000 pontos por 1 traje.
+Só pode ser adquirido uma única vez.{LF}Uma roupa exclusiva para Ren. 30.000 pontos por 1 traje.
+Só pode ser adquirido uma única vez.{LF}Um acessório exclusivo para a Yuri. 5.000 pontos por 1 acessório.
+Só pode ser adquirido uma única vez.{LF}Um acessório exclusivamente para Miu. 5.000 pontos por 1 acessório.
+Só pode ser adquirido uma única vez.{LF}Um acessório exclusivo para Ren. 5.000 pontos por 1 acessório.
+Retornar ao Menu Principal?
+
+Prólogo
+Uma garota chamada Miu acorda inundada.{LF}{LF}Enquanto levanta, incontáveis corpos{LF}boiam ao redor dela.{LF}{LF}Os corpos se mexem, notando sua presença...
+Fuja do prédio.
+
+Primeira Gota
+Um novelista enviou Yuri e Hisoka{LF}para um caso num velho albergue.{LF}{LF}Yuri recebe a Câmera Obscura{LF}e o primeiro trabalho de leitura das sombras começa.{LF}Elas foram pedidas para recuperar as{LF}"Fotografias Post Mortem."
+Encontre as Fotografias Post Mortem.
+
+Segunda Gota
+Já se passaram vários dias desde o incidente{LF}na pousada. Hisoka está fora em um caso. {LF}Uma jovem vem à loja{LF}e encontra a Yuri preocupada.{LF}{LF}Yuri recebe um caso de pessoa desaparecida,{LF}algo que Hisoka proibiu.
+Ache a Fuyuhi Himino.
+
+Terceira Gota
+Ren Hojo, o autor que enviou Hisoka{LF}para procurar as fotografias, se aproximou{LF}para olhar o álbum.{LF}{LF}Uma foto chama sua atenção, e ele decide{LF}investigar melhor. Ele vai com seu assistente Rui {LF}em direção a pousada levando a Câmera Obscura.
+Procure por informações.
+
+Interlúdio
+Essa montanha...{LF}{LF}Depois da morte de Fuyuhi, inúmeros corpos{LF}foram arrastados para o Poço da Purificação,{LF}junto com a Câmera Obscura.{LF}Hisoka deve estar algum lugar.{LF}{LF}Yuri começa a procurar por pistas.
+Encontre um sinal que te leve para Hisoka.
+
+Quarta Gota
+Fuyuhi estava procurando por sua amiga,{LF}uma garota chamada Haruka Momose.{LF}{LF}Yuri encontra uma foto de Haruka na mesa de Hisoka, e a usa para seguir seu rastro,{LF}levando-a de volta ao Monte Hikami.
+Encontre a Haruka Momose.
+
+Sexta Gota
+Yuri encontrou a Haruka presa no subsolo{LF}em um relicário e a trouxe de volta, apenas{LF}para vê-la ser levada por um fantasma.{LF}{LF}Yuri dirige-se ao Monte Hikami para procurar{LF}por novas pistas e para encontrar outra{LF}pessoa desaparecida, Miu Hinasaki.
+Encontre Miu Hinasaki.
+
+Quinta Gota
+Dos artigos que ele encontrou na{LF}Mansão Ichiru, Ren descobre um folclorista{LF}que vivia no Monte Hikami.{LF}{LF}Ren parte para a Floresta Abismal para{LF}ver se os rumores de uma{LF}"casa desaparecida" são verdadeiras.
+Encontre a Casa Velada.
+
+Sétima Gota
+Yuri encontra Miu no{LF}Templo do Efêmero, mas não Hisoka.{LF}{LF}A última esperança de Yuri é seguir o{LF}rio acima, onde ela encontrou{LF}a Câmera Obscura até sua fonte,{LF}o Lago da Partida.
+Encontre a Hisoka Kurosawa.
+
+Oitava Gota
+Miu e Yuri dormem após voltar{LF}do Monte Hikami.{LF}{LF}Sabendo que Haruka foi levada{LF}por um espírito, Ren e Rui mantêm a{LF}atenção nas meninas para prevenir{LF}que aconteça novamente.
+Fique atento.
+
+
+
+
+
+Nona Gota
+Yuri desapareceu da loja.{LF}{LF}Miu leva a Câmera Obscura e dirige-se{LF}ao Monte Hikami para procurá-la.
+Encontre Yuri Kozukata.
+
+Décima Gota
+Ren vai à procura da Rui, que desapareceu{LF}da loja de antiguidades. Ele vai para a{LF}Casa Veiled, que é onde ele viu Rui{LF}no sonho que teve.
+Encontre Rui Kagamiya.
+
+Décima Segunda Gota
+Resgatada por Miu, Yuri decide continuar{LF}procurando por Hisoka.{LF}{LF}Do outro lado da névoa no Lago da Partida{LF}fica um torii maciço, que leva ao{LF}Santuário sobre a Água.
+Encontre a Hisoka Kurosawa.
+
+Décima Primeira Gota
+A mãe de Miu, Miku, está no Monte Hikami.{LF}{LF}Convencida disso, Miu pega a{LF}Câmera Obscura do quarto da Yuri{LF}enquanto ela dorme.
+Encontre Miku Hinasaki.
+
+Décima Terceira Gota
+Rui, Miu, Miku, Hisoka e Yuri{LF}retornaram do Monte Hikami.{LF}{LF}O Sol Negro os seguiu.{LF}A montanha não os deixará ir.{LF}{LF}Ren deve protegê-las, sozinho.
+Impeça os fantasmas de entrarem na loja.
+
+Última Gota
+Presa na loucura do Monte Hikami,{LF}Yuri, Miu, e Ren vão todos para lá,{LF}cada um por seus próprios motivos.{LF}{LF}Um forte nevoeiro desce, como se fosse para acabar com a{LF}toda a esperança de fuga.
+Yuri, Ren e Miu vão ao encontro de seus destinos.
+
+Primeiro Fio
+Ayane se empenha na busca de uma garota{LF}chamado Tsumugi, que desapareceu.{LF}{LF}Seguindo seu rastro, Ayane se dirige{LF}para a pousada abandonada, e encontra{LF}o impossível.
+Encontre Tsumugi.
+
+Segundo Fio
+O que não deveria existir:{LF}os espíritos dos mortos.{LF}{LF}Incapazes de detectar sua presença,{LF}Ayane se protege com amuletos protetores{LF}e volta para a montanha.
+Siga o rastro de Tsumugi.
+
+Terceiro Fio
+O Fio Púrpuro ligado a Tsumugi{LF}desaparece no Santuário do Efêmero{LF}no topo do Monte Hikami.{LF}{LF}Ayane segue seu caminho.
+Encontre Tsumugi.
+
+Último Fio
+Ayane resgata Tsumugi do santuário,{LF}mas os duas estão cercadas por criaturas{LF}do submundo.{LF}{LF}Ayane leva Tsumugi com ela{LF}e planeja a fuga delas.
+Fuja com a Tsumugi.
+▼▼▼MENU DE PAUSA▼▼▼
+Retornar ao Jogo
+Feche a tela de pausa e continue jogando.
+Retornar à Cinemática
+Feche a tela de pausa e continue assistindo a cinemática.
+Pular a Cinemática
+Pule a cinemática atual e volte ao jogo.
+Opções
+Ajuste as opções do jogo.
+Carregar Último Ponto Salvo
+Reinicie o jogo atual do ponto salvo mais recente.
+Selecionar Novo Episódio
+Saia do jogo e retorne à seleção de episódios.{LF}(Itens comprados para este episódio serão perdidos.)
+Sair do Jogo
+Saia do jogo e retorne à tela-título.{LF}(Seu progresso será salvo até o ponto salvo mais recente.)
+Última Vez Salvo
+Há menos de 1m
+Há quase %dm
+Mais de 1 hora atrás
+O jogo irá recomeçar no ponto mais recente.{LF}Você deseja prosseguir?
+Você irá retornar à seleção de episódios.{LF}Você quer sair do episódio atual?{LF}(Itens comprados neste episódio serão perdidos.)
+Você vai sair do episódio atual e retornar para a tela do título.{LF}Você pode retomar o episódio a partir do ponto salvo mais{LF}recente selecionando "Carregar jogo."
+Reiniciar do Ponto Salvo na dificuldade FÁCIL
+Reiniciar o jogo do último ponto salvo no FÁCIL.{LF}(Pontos não são registrados no FÁCIL)
+Carregar Último Ponto Salvo
+Reiniciar o jogo do ponto salvo mais recente.
+Selecionar Novo Episódio
+Isso vai sair do episódio atual.{LF}Você retornará a seleção de episódios.
+Voltar para a Tela Inicial
+Sair e voltar para a tela de título{LF}Carregue o último ponto salvo selecionando "Carregar Jogo."
+Isso mudará a dificuldade para FÁCIL{LF}e reiniciar o jogo do ponto salvo{LF}mais recente.{LF}(Pontuações não são registradas no FÁCIL.)
+▼▼▼MENU DE FOTOS▼▼▼
+Fatal Frame
+Chance de Disparo
+Fotografia de Fantasma
+Retrato
+Paisagem
+Psicometria
+Fotografia Espiritual
+Fotografia Psíquica
+Exposição Fantasma
+Foto de uma Boneca
+-
+Lento
+Vincular
+Capturar
+Recompensa
+Atordoar
+Golpe
+Esmagar
+Zero
+Restaurar
+Fatal
+Borboleta
+Voz
+Ver
+Lanterna da Pedra Espiritual
+Ordenar por
+Data da Foto
+Pontos da Foto
+Dano
+Lista De Fantasmas
+Onde Foi Tirada
+Episódio
+Página %d / %d
+Salvar
+Salvar e Bloquear
+Bloquear
+Desbloquear
+Deletar
+Deseja salvar{LF}a foto selecionada?
+Deseja salvar e bloquear{LF}a foto selecionada?
+Você quer destravar a foto{LF}selecionada?
+Você deseja excluir{LF}a foto selecionada?
+Fotos bloqueadas não podem{LF}ser deletadas.
+Salvando a foto selecionada...
+Você não pode salvar{LF}mais fotos.
+Travando foto{LF}selecionada...
+Destravando foto{LF}selecionada...
+Deletando foto{LF}selecionada...
+A foto falhou em carregar.
+A foto não foi salva e será removida.
+▼▼▼TITLE SCREEN▼▼▼
+Esse jogo é uma obra de ficção. Qualquer semelhança {LF}com pessoas reais ou organizações é mera coincidência.{LF}Também, esteja ciente que esse jogo inclui algumas imagens gráficas.
+Parece que há um episódio em andamento.{LF}Deseja continuar de onde parou?
+Deseja selecionar um novo episódio?{LF}Os dados do episódio em progresso serão{LF}substituídos durante o próximo salvamento automático.
+Começar um novo jogo.{LF}Todo seu progresso será deletado.{LF}Deseja prosseguir?
+▼▼▼COSTUME SELECTION▼▼▼
+Traje padrão
+Quimono Branco
+Biquíni
+Uniforme Escolar
+Roupa da Mio Amakura
+Roupa da Rei Kurosawa
+Conjunto Punk
+Conjunto Gótico Fofo (Preto)
+Maiô (Azul)
+Roupa de Triatlo
+Traje padrão
+Quimono
+Roupa do Kei Amakura
+Roupa de Cozinheiro
+Traje padrão
+Quimono Branco
+Biquíni da Moda
+Roupa da Miku Hinasaki 1
+Roupa da Miku Hinasaki 2
+Roupa da Mayu Amakura
+Roupa da Miku Hinasaki (O Atormentado)
+Conjunto Gótico Fofo (Branco)
+Maiô (Amarelo)
+Maiô (Rosa)
+Óculos Preto
+Óculos Calico
+Óculos Quadrados
+Óculos de Sol
+Sem Óculos
+Óculos Vermelho
+Óculos Prateado
+Orelhas de Coelhinho
+Orelhas de Raposa
+Orelhas de Gato
+Rabo de Coelho
+Cauda de Raposa
+Rabo de Coelho
+Lírio Branco
+Lírio Negro
+Lírio Branco
+Lírio Negro
+Tiara de Empregada
+Anel "Nessa Jaula"
+Anel "Nessa Jaula"
+Muda a roupa do personagem para o item selecionado.
+Mude o óculos do personagem para os óculos selecionados.
+Equipe os óculos selecionado no personagem atual.
+Remover os óculos selecionados do personagem atual.
+Equipar o acessório selecionado no personagem.
+Remover o acessório selecionado do personagem atual.
+Deseja aplicar as mudanças de roupas?
+Você agora pode usar %ls.
+%ls{LF}agora está disponível para a Yuri.
+%ls{LF}agora está disponível para o Ren.
+%ls{LF}agora está disponível para a Miu.
+Os acessórios de Yuri agora estão disponíveis.
+Os acessórios do Ren estão agora disponíveis.
+Os acessórios da Miu agora estão disponíveis.
+%ls{LF}agora está disponível para a Yuri.
+%ls{LF}agora está disponível para o Ren.
+%ls{LF}agora está disponível para a Miu.
+A dificuldade PESADELO foi desbloqueada.
+O episódio secreto{LF}"Estranho na Chuva"{LF}já está disponível.
+%ls{LF}agora está disponível no modo Foto Instantânea.
+Olhar Fatal
+Há dados dalvos da versão de teste do jogo.{LF}Para continuar a partir da versão de teste,{LF}por favor selecione "Novo Jogo."{LF}
+Existem dados salvos para a versão experimental do jogo.{LF}Você quer continuar a partir destes dados salvos?
+Deseja começar um novo jogo?{LF}(Salve os dados para a versão de teste ou{LF}para a versão download não será excluída.)
+Existem dados salvos para a versão completa do jogo.{LF}Você tem certeza de que quer sobrescrever os dados?{LF}(As fotografias salvas também serão sobrescritas.)
+Pontos
+Qtd
+Assunto
+Data
+Local
+Pontos
+Página
+Pontuação
+
+
+Idioma do Áudio
+Inglês
+Japonês
+Você pode configurar o áudio para o Inglês ou para a versão original em Japonês.
+TRIAL VERSION
+Thank you for playing the free trial version!{LF}To continue, you can purchase the full game upgrade{LF}from Nintendo eShop.{LF}Would you like to leave the game and go to{LF}the eShop page for more information?
+FULL GAME UPGRADE
+You can purchase the full game upgrade from {LF}Nintendo eShop. Would you like to leave the game{LF}and go to the eShop page for more information?
+
+FULL GAME UPGRADE
+Voltar para a Tela Inicial
+Successfully upgraded to the full version of the game.{LF}Select "Load Game" from the menu to continue playing.
+There is save data for the downloadable version of{LF}the game. To continue, please select "New Game"{LF}from the menu.
+There is save data for the downloadable version{LF}of the game. Do you wish to continue?
+Iniciar um novo jogo ira deletar todos os dados de salvamento anteriores.{LF}Você deseja continuar?
+Os dados salvos da versão de varejo do jogo foi{LF}detectado. Você deseja salvar dados para o{LF}versão para download?{LF}(Os dados de gravação para a versão de varejo serão substituídos.)
+Sobrescrevendo dados salvos...
+Começar um novo jogo
+Continuar
+Sobrescrever dados salvos
+Deseja sobrescrever os dados salvos?{LF}(Qualquer progresso não salvo na versão de teste gratuito{LF}será perdido.)
+Começar um novo jogo
+Pontuação Máxima
+Episódio
+Categoria
+Filme
+Lentes
+Fotógrafo
+Dano
+Alvo
+
+Já existem dados salvos para a versão completa do jogo.{LF}Se você iniciar um novo jogo, estes dados serão perdidos.{LF}Você deseja continuar?
+Os dados salvos atualmente são para a versão completa do jogo.{LF}Para carregar este jogo, por favor vá para Nintendo eShop{LF}e faça o download da atualização completa do jogo.
+Atualizado com sucesso para a versão completa do jogo.
+Roupas
+Acessórios
+Excluir fotografias salvas na{LF}versão completa do jogo.
+Copiando fotografias para a versão de varejo do jogo.
+Não há espaço suficiente para as fotografias.{LF}Interrompendo transferência de dados.
+Câmera %02d
+Como o conteúdo baixável para este jogo tem sido {LF}excluído, se você selecionar "Carregar Jogo" apenas os episódios {LF}a partir da versão de teste estará disponível.
+Para jogar a versão completa do jogo, {LF}você deve primeiro fazer o download da atualização completa do jogo {LF}da Nintendo eShop.
+Você quer começar o jogo?
+Existem dados salvos para a versão baixável{LF}do jogo. Você deseja continuar?{LF}(Fotografias salvas serão apagadas.)
+Deseja começar um novo jogo?{LF}(Salve os dados para a versão de teste ou{LF}para a versão download não será excluída.)
+Andar
+Olhar em volta
+Correr
+Movimento Paralelo
+Foco (Leitura das Sombras)
+Pegar Item
+Dar zoom
+Apontar Câmera
+Apontar Câmera Para Trás
+Ação
+Esquivar
+Preparar Câmera
+Abrir Menu
+Pausar
+Mostrar Mapa Detalhado
+Andar
+Olhar em volta
+Dê uma rápida olhada
+Mira Automática
+Tirar Foto (Atacar)
+Afastar Fantasmas Off
+Esquivar
+Usar Lentes Melhoradas
+Coloque a Câmera Longe
+Mudar Lentes Melhoradas
+Trocar de Filme
+Girar câmera no eixo Z
+Girar câmera no eixo X
+Selecionar
+Confirmar
+Próxima Página
+Voltar
+Fechar Janela
+Correr/Mira Automática
+Preparar Câmera/Guardar Câmera
+Estilo de Jogo
+Clássico
+Ação
+Sensibilidade do Sensor de Movimento
+Selecionar modo de controle.
+Usar um estilo de controle semelhante aos jogos anteriores.
+Usar um estilo de controle de jogo de ação.
+Ajustar sensibilidade do sensor de movimento do controle.
+Manual
+Entre no link para maiores informações sobre como jogar e sobre os controles.{LF}Esse link pode ser acessado pelo PC ou por um celular.
+Resolução da Tela
+Configuração da Tela
+Qualidade Geral da Renderização
+Qualidade da Textura
+Qualidade de Sombras
+Qualidade dos Reflexos Locais
+Qualidade dos Efeitos
+Suavização de Serrilhado
+Profundidade de Campo
+Oclusão de Ambiente
+Bloom
+Feixes de Luz
+Distância de Detalhe
+Distância de Exibição dos Pontos de Luz
+Padrão
+Sem Bordas
+Tela cheia
+Baixo
+Normal
+Alto
+LIGADO
+DESLIGADO
+Curto
+Normal
+Longo
+Cannot be selected while the game installation is incomplete.
+Verificar informações manuais.
+Mostrar Visor da Câmera
+Você pode ativar/desativar a moldura do visor no modo foto.
+LIGADO
+DESLIGADO
+Mostrar o visor da câmera durante o modo fotográfico.
+Esconder a moldura do visor durante o modo fotografia.
+Função Vibração
+Vibração

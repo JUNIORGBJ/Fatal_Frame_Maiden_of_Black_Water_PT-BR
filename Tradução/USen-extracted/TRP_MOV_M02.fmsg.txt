@@ -1,0 +1,27 @@
+Eu pensei que iria ter medo da morte...^01~110~
+...mas nem chorar eu consigo.^01~60~
+Estou sozinha.^01~25~
+No final, estou sozinha.^01~100~
+Eu vou acabar com isso, sozinha.^01~80~
+Yuri.^01~50~
+O que estamos procurando deve estar aqui.^01~80~
+Esta é uma chance excelente de você assumir a liderança.^01~80~
+Aqui, tome isso.^01~50~
+^00Essa é a Câmera Obscura, ela vai te deixar ver o oculto.^01~100~{LF}^00Incluindo as pistas que irá nos ajudar a{LF}encontrar o que estamos procurando aqui.^01~130~
+Essa é a sua oportunidade, seu primeiro caso.^01~80~
+Tenho certeza que vai dar tudo certo.^01~50~
+Hisoka!^01~50~
+Era isto o que estávamos procurando.^01~70~
+Não devemos ficar por aqui mais do que precisamos.^01~85~
+
+Você tá certa.^01~30~
+Vamos voltar antes que fique tarde.^01~60~
+Tá.^01~30~
+^00Me desculpa.^01~55~{LF}^00Eu... eu não deveria ter te trazido aqui.^01~100~
+Eu estou... sozinha.^01~90~
+Esse sonho outra vez...^01~50~
+^00Hã, Sr. Hojo...?^01~60~{LF}^00A Hisoka veio aqui um tempinho atrás...^01~70~
+Hã... a Hisoka? O que ela queria?^01~80~
+Ela achou o álbum.^01~120~
+Sério?!^01~120~
+Sim, aqui. Dê uma olhada.^01~50~

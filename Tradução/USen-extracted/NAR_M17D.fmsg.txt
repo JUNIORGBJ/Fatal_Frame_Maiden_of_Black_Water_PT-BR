@@ -1,0 +1,8 @@
+A mamãe se foi...
+Será que ela voltou para montanha?
+Ela está aqui?
+A Câmera Obscura... O que isto está fazendo aqui?
+^00Você pegou a ^30~004~^11~14~^11~09~Câmera Obscura^10^11~14~.{LF}^00Tem uma foto sobre a cama.
+^00Essa foto está muito desgastada. É da mãe?{LF}Ela o mostra com um homem... Isso é...{LF}Não pode ser...{LF}^00Eu tenho que encontrá-la.{LF}{LF}{LF}^00Eu não posso deixar que ela me abandone novamente.
+Eu tenho que ir atrás da minha mãe.
+A cena nessa foto...

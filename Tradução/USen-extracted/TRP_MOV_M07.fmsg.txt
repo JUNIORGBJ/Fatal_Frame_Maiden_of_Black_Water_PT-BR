@@ -1,0 +1,15 @@
+M...Mãe...^01~50~
+Mamae... Mamae...^01~150~
+Vamos cair juntas...^01~90~
+^00Ninguém atende na casa da Miu.^01~105~{LF}^00Vou tentar amanhã.^01~55~
+Tenho que ir... novamente...^01~100~
+Ren, você tem um momento?^01~100~
+Sim...^01~30~
+Mãe...^01~60~
+^00Você acredita mesmo que eu possa conseguir?^01~65~{LF}^00^01~25~{LF}^00Eu não sou ninguém.^01~90~{LF}^00^01~45~{LF}^00Estou vazio.^01~100~{LF}^00É assim que posso me tornar alguma coisa.^01~95~
+^00Você acredita mesmo que eu possa conseguir?^01~65~{LF}^00^01~25~{LF}^00Eu não sou ninguém.^01~40~{LF}^00^01~20~{LF}^00Estou vazio.^01~50~{LF}^00^01~110~{LF}^00É assim que posso me tornar alguma coisa.^01~95~
+^00Eu faço o que me mandam.^01~120~{LF}^00Eu sei o que você deseja...é tão idiota.^01~155~
+^00É tudo mentira. ^01~80~{LF}^00E mentir só dói mais, certo? ^01~170~{LF}^00Tão idiota.^01~35~
+Fique longe... Não tem nada aqui para você.^01~120~
+Eu não estou mais doente... Eu não estou mais doente...^01~350~
+Não faça isso de novo. Nunca.^01~120~

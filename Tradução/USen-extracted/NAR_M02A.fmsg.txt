@@ -1,0 +1,13 @@
+Você conseguiu a ^11~09~Fotografia Post Mortem^10.
+^00Tem algo na foto...{LF}^00É uma luz saindo do armário, e tem{LF}uma boneca em cima da cômoda.{LF}^00Deve ser lá onde a chave está.
+Preciso encontrar a chave...
+^00Você conseguiu a ^11~09~Chave de Chaveiro Vermelho^10.{LF}^00Ela pode abrir a porta de antes.{LF}De volta à Hisoka.
+Você abriu a porta com a ^30~046~^11~09~Chave de Chaveiro Vermelho^10.
+Essa é... uma sombra do passado?
+^00O fantasma recuou quando você tirou uma foto dele.{LF}^00Talvez se eu continuar irá exorcizá-lo pra valer...
+
+
+
+A foto mostra um quarto japonês bem antigo.{LF}Eu deveria procurar por ele no albergue.
+Peguei a chave. Tenho que me encontrar com a Hisoka.
+Ainda não achei o que estamos procurando.{LF}Ainda deve estar na sala.

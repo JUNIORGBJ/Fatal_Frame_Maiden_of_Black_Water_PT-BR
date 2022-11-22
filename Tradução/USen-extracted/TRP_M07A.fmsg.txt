@@ -1,0 +1,44 @@
+^00Acabou. Está tudo acabado. As águas da montanha estão contaminadas.^01~270~{LF}^00A Flor Imortal murchará e a Água Negra transbordará.^01~210~
+Eles eram todos... E-ele os matou. Todos eles.^01~120~
+Eu tenho que matá-los... Tenho que matá-los...{LF}TENHO que matá-los...^01~120~
+Você não deve olhar para o pôr do sol.^01~75~
+É um crepúsculo imutável{LF}que lança uma luz escura no Netherworld.^01~150~
+Permita que seu próprio coração derreta.{LF}Só então você pode realmente olhar para as almas dos outros.^01~350~
+Quando o coração de uma sacerdotisa está cheio de dor{LF}daqueles que ela olhou, ela volta para a água.^01~370~
+Miu, vamos sair daqui.^01~100~
+Quem é você?^01~45~
+Vamos lá, precisamos ir.^01~45~
+Você vai acabar comigo?^01~220~
+As mãos na água. Muitas delas...{LF}Estão todos acenando.^01~190~
+Me dizendo para me juntar a eles.^01~60~
+Todos eles derreteram na água.^01~90~
+A água conecta todos eles.^01~90~
+Eu vim aqui para salvar minha mãe. Mas eu falhei...{LF}Eu não podia fazer nada.^01~260~
+Devemos sair daqui.^01~90~
+Esta montanha não é Segura.^01~120~
+Eu sei...^01~50~
+Então...por que você veio aqui?^01~45~
+Eu sou igual a você, você sabe.^01~55~
+...^01~45~
+Você é Miu. Miu Hinasaki, certo?^01~90~
+Sua família parecia muito preocupada...^01~60~
+Não.^01~45~
+Essa mulher não é minha família.^01~75~
+...?^01~45~
+Não.^01~60~
+Eu sinto muito...^01~90~
+Obrigada.^01~60~
+Talvez depois disso... eu possa até salvar a{LF}Mãe de alguma forma.^01~180~
+Deve haver outro caminho que possamos seguir.^01~75~
+Eu tenho que encontrá-la logo, antes que ela desapareça.^01~170~
+Eu preciso encontrar minha mãe.^01~60~
+Minha mãe está esperando.^01~60~
+Mãe... Onde você está?^01~60~
+Eu fui lá para salvar minha mãe.{LF}Mas eu não podia fazer nada.^01~210~
+O que eu devo fazer?^01~50~
+Hngh... HngAAARGH!^01~360~
+^00Aaagh... ugggggh... AAAAAARGH!^01~340~{LF}^00Eu não posso... ficar de pé... M-minhas pernas... não vou...^01~370~
+Eu não posso... suportar... M-minhas pernas... não...^01~150~
+Por favor... Me leve...com você...^01~150~
+^00Mamãe...^01~60~{LF}^00Mamãe... espera...^01~120~
+Mãe... espera...^01~75~

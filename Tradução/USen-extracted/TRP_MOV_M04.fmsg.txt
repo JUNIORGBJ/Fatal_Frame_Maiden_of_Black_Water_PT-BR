@@ -1,0 +1,16 @@
+Você morreria comigo?^01~80~
+^00Ela é bonita.^01~45~{LF}^00Mas, ela parece triste, também.^01~75~
+Sim.^01~23~
+^00Ela não é o tipo de mulher^01~60~{LF}que você fica nervoso por perto?^01~60~
+Sim...^01~23~
+Talvez deva ter mais dessas coisas por aí.^01~100~
+Devo ligar para Hisoka?^01~120~
+^00Não, vamos nós lá mesmo.^01~49~{LF}^00Desse jeito será mais rápido.^01~45~
+NESSA hora?!^01~55~
+Não vai demorar tanto.^01~30~
+^00Tem uma superstição local avisando as pessoas{LF}a não subir o Monte Hikami após anoitecer.^01~150~{LF}^00^01~45~{LF}^00Se você subir a montanha em hora do crepúsculo,^01~55~{LF}^00~01~20~{LF}^00Irá mostrar uma forma diferente, sua verdadeira forma.^01~130~{LF}^00^01~50~{LF}^00Somente aqueles que desejam morrer vem aqui nesse horário.^01~120~
+Rui!^01~13~
+O que você está fazendo?!^01~45~
+Você não se lembra de nada?^01~40~
+Vamos para casa.^01~45~
+^00Você não pode sair da montanha.^01~90~{LF}^00^01~90~{LF}^00Você irá dissolver até o nada.^01~60~

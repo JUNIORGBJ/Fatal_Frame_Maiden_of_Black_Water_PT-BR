@@ -1,0 +1,39 @@
+^00^30~074~Haruka Momose...{LF}Essa é a garota que a Fuyuhi estava procurando.{LF}^00Hisoka deve estar tentando encontrar ela.
+^00A porta está fechada por uma força poderosa.{LF}Haruka está lá dentro. Deve haver outra maneira de entrar.
+^00A porta está fechada por uma força poderosa.
+^00A porta está fechada por uma força poderosa.
+^00Há escadas abaixo do mostruário de bonecas.{LF}Haruka pode ter descido até lá.{LF}^00A grade de madeira não se mexe.{LF}Deve haver uma maneira de abri-la.
+^00Esta grade de madeira não se mexe.{LF}Deve haver uma maneira de abri-la.
+Esta foto pode mostrar onde encontrar a efígie escondida.
+^00Encontrei isto ^11~09~Efígie^10 no chão.{LF}^00Eu deveria colocá-lo de volta no mostruário de bonecas.
+Eu provavelmente deveria ficar por aqui.
+^00Acabei de falar com o Sr. Hojo.{LF}^00Ele concordou que devíamos aparecer mais frequentemente{LF}até que a Sra. Kurosawa volte.{LF}^00Ter alguém ao seu lado e de grande{LF}conforto em momentos como este.
+^00Faremos tudo o que pudermos para ajudá-lo a encontrar a Sra. Kurosawa.{LF}Caso precisa de alguma coisa não hesite em perguntar.{LF}^00Tenho certeza de que a Sra. Kurosawa está bem.{LF}Ela é uma pessoa muito forte e inteligente.{LF}^00...Diferente do Sr. Hojo.
+^00Você diz que...{LF}A Sra. Himino cortou sua própria garganta?{LF}^00O Sr. Hojo estava me dizendo...{LF}Ele disse que eu tentei me enforcar no telhado da pousada.{LF}^00Felizmente, ele estava lá para me salvar.{LF}^00A sacerdotisa que apareceu depois do suicídio da Sra. Himino{LF}pode ser a mesma que vimos no telhado.{LF}^00Algo muito estranho está acontecendo naquela montanha.
+^00Se você está procurando o Sr. Hojo, ele está no escritório.{LF}^00Ele parecia bastante exausto, então ele pode estar cochilando.{LF}^00Ele não tem vergonha... Oh, desculpe-me.{LF}Pode acordá-lo se precisar dele.
+^00Não há ninguém no quarto de Hisoka.{LF}^00Direi a Ren e Rui que ela ainda não voltou.
+^00Que sonho... Era exatamente como a memória que eu vi{LF}quando toquei na Haruka na caverna. {LF}^00Preciso saber mais. Talvez se eu lhe perguntar...
+^00A porta está trancada.{LF}A fechadura está quebrada, não consigo abrir.
+^00A porta está trancada.{LF}^00Uma flor de íris está gravada na fechadura.{LF}Parece que não consigo sair por aqui.
+Ele deve estar tendo um pesadelo terrível.
+^00O vestígio de Haruka me trouxe a esta sala.{LF}^00Deve haver pistas aqui.
+De qualquer maneira não há sinal da Haruka.{LF}Preciso seguir seu rastro.
+^00Haruka não veio por aqui.{LF}Seu rastro me levou para dentro do prédio.
+Uma antiga boneca apareceu no local mostrado na fotografia.
+^00Eu preciso seguir o rastro da Haruka.
+^00Eu não consigo me livrar desses fantasmas.{LF}Tenho que pensar em algo...
+^00^30~044~Você colocou a ^11~09~Efígie^10 no mostruário de bonecas.
+^00Parece que algo se moveu abaixo do mostruário de bonecas.{LF}^00A grade de madeira que bloqueava a escadaria escondida se abriu.
+A câmera está reagindo a alguma coisa...
+^00A menina estava sentada no meio do mostruário de bonecas.{LF}Eu posso tentar colocar a boneca ali.
+Haruka está em algum lugar nesse santuário...
+^00Tem algo na foto...{LF}^00Parece uma pessoa...enforcada na árvore.
+^00Era...Haruka?{LF}^00Existe algo abaixo do mostruário de bonecas?
+^00A caixa preta belamente decorada está submersa na água.{LF}^00A tampa está fechada...
+^00É outra caixa preta como a que Haruka estava, está submersa.{LF}^00A tampa está fechada.{LF}Tem alguém dentro desta também?
+^00A caixa de onde o fantasma saiu está aberta.{LF}Está cheia de água escura.{LF}^00Algo perturbador com cabelos está flutuando na superfície.
+^00Haruka...{LF}É melhor eu esperar ela se recuperar.{LF}^00Tenho que contar a Ren e Rui sobre Hisoka...
+Parece que algo caiu nos arbustos.
+Tem uma boneca nas escadas.
+^00Haruka...{LF}É melhor eu esperar ela se recuperar.{LF}^00Tenho que contar a Ren e Rui sobre Hisoka...
+Eu encontrei Haruka.{LF}Precisamos sair dessa montanha.

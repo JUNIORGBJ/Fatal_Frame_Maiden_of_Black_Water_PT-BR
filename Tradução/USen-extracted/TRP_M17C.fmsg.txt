@@ -1,0 +1,3 @@
+Você vai servir como um belo Pilar.^01~200~
+O caixão sagrado vai proteger você.{LF}Ele vai manter você seguro.^01~300~
+Mergulhe na água...{LF}Deixe suas feridas abertas dissolverem por completo...^01~150~

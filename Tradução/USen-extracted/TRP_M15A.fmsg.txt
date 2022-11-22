@@ -1,0 +1,13 @@
+Script (Risos da batalha)^01~60~
+Script (Risos da batalha)^01~60~
+Yuri... Me desculpa, mas eu vou ter que{LF}pegar sua Câmera Obscura mais uma vez.^01~240~
+Usando a Camera Obscura me faz sentir{LF}mais perto do outro lado.^01~240~
+Minha família também tinha um, mas agora só restou o caso.^01~240~
+Foi por isso que minha mãe se afastou de mim?{LF}Porque ela usou uma Câmera Obscura?^01~240~
+Me deixa sair...por favor...^01~120~
+Essa caixa A-A caixa, Isso é... Aaagh... Nggggh!^01~120~
+^00Os Casamentos Espirituais chegaram ao fim,^01~280~{LF}^00mas as noivas continuam esperando por um noivo.^01~310~{LF}^00Elas ficarão esperando por toda a eternidade...^01~80~
+Mãe... Vamos pra casa.^01~180~
+Miu. É tarde demais para mim.^01~180~
+Vamos lá, vamos. Juntas.{LF}Venha para casa comigo... Por favor...^01~270~
+Mafuyu...^01~60~

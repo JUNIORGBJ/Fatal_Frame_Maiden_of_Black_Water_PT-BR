@@ -1,0 +1,629 @@
+É um sofá bem antigo.
+^00É um sofá bem antigo. Está por aqui desde que visitei a loja pela primeira vez.{LF}Não acho que alguém queira comprar, mas duvido que a Hisoka liga pra isso.
+É uma bandeja de tabaco de forma elaborada.
+^00É uma bandeja de tabaco. Parece mais um estojo de acessórios {LF}antigo do que uma bandeja de tabaco.
+Uma fileira de xícaras cuidadosamente polidas.
+Algumas xícaras estão bem polidas e estão bem alinhadas.{LF}{LF}Depois que eu acidentalmente quebrei alguns itens valiosos,{LF}tem sido o trabalho de Hisoka limpá-los.
+Fora da loja está escuro e silencioso.
+Fora da loja está escuro e silencioso.{LF}{LF}O bairro fica bastante movimentado durante o dia,{LF}mas ao cair da noite, somos os únicos abertos.{LF}{LF}Perguntei por que nos incomodamos em manter as luzes acesas,{LF}Hisoka sorriu e disse que ela tem medo do escuro.
+A chuva ainda está caindo lá fora.{LF}Parece que não tem ninguém na rua.
+A chuva ainda está caindo lá fora.{LF}{LF}Normalmente eu desligaria as luzes e limparia,{LF}mas eu penso que vou deixá-los por enquanto.
+Os últimos raios de sol estão se transmitindo pelo lado de fora.{LF}A mercadoria bem organizada emite um brilho polido.
+^00A estrada em frente à loja leva ao Monte Hikami.{LF}^00Foi construída para os turistas, mas as únicas pessoas que a usam agora{LF}são as pessoas que vivem aqui.
+^00O pêndulo do antigo relógio do avô balança lentamente.{LF}Os ponteiros não se movem. Devem estar quebrados.
+^00O pêndulo do antigo relógio do avô balança lentamente.{LF}O próprio relógio pode estar quebrado, mas funciona bem como decoração.{LF}^00Hisoka disse que gosta do som rítmico do pêndulo,{LF}e os sinos que marcam a hora.
+É um relógio com um sino grande.
+Há uma variedade de tigelas e copos dentro do armário.
+O armário está cheio de copos que não são mais utilizados.
+^00Há um grande rádio no balcão.{LF}Parece bem velho, mas ainda faz um ruído.
+^00Este rádio foi colocado como uma decoração.{LF}O sintonizador não funciona mais, portanto, ele só emite ruído intenso.
+^00Este rádio foi colocado como uma decoração.{LF}O sintonizador não funciona mais, portanto, ele só emite ruído intenso.
+A geladeira está bem abastecida com água, refrigerantes e algumas cervejas.
+^00O refrigerador está cheio de água, refrigerantes e algumas cervejas.{LF}O álcool não está no menu, mas às vezes o servimos aos clientes regulares.
+Aqui é onde os ingredientes para o café e o chá servidos na cafeteria{LF}são mantidos.
+^00Aqui é onde guardamos os vários cafés e chás.{LF}Hisoka só compra coisas de regiões e marcas que ela gosta.{LF}^00Estes ingredientes não são para as bebidas que servimos na cafeteria,{LF}mas para as pessoas que vêm comprar o grão e as folhas de chá para usar em casa.
+Uma fila de canecas de café bem polidas. São para os clientes.
+^00Uma fileira de canecas de café bem polidas. Os clientes podem escolher{LF}qual eles querem, mas nossos clientes habituais têm copos reservados apenas para eles.{LF}Ainda não sei quais são as xícaras para determinados clientes.
+Um cardápio curto e simples está em cima da mesa.
+^00A mesa está aqui para atrair mais alguns clientes não regulares.{LF}Hisoka já foi muito bem atendida, ela é frequentemente encontrada aqui sentada lendo.
+^00É um relógio antigo em cima de uma cômoda antiga.{LF}A cômoda está vazia. Deve estar à venda, também.
+^00É um relógio antigo em cima de uma cômoda antiga.{LF}^00Hisoka tem uma queda por relógios; a loja está cheia deles.{LF}Ela disse que os acha reconfortantes.
+O balcão foi limpo.
+^00Eu ainda estou nervosa por estar aqui sozinha, porque nunca fui{LF}boa em lidar com os clientes.{LF}^00Eu acabei de aprender a fazer café, e eu nunca havia atendido a um cliente antes.
+Parece que são nessas gavetas que são mantidos os recibos e registros financeiros da loja.
+^00Estas gavetas parecem ser onde os recibos e registros financeiros da loja{LF}são mantidos. Ainda não dei uma boa olhada neles.
+É uma planta decorativa.
+^00É uma planta decorativa. Augusta é uma espécie de planta de baixa manutenção,{LF}mas as folhas ainda murcharam um pouco.
+A estante está repleta de volumes grossos.
+^00A estante está repleta de tomos grossos.{LF}A maioria deles vieram de graça com outras antiguidades, e foram guardados{LF}na esperança de que possamos vendê-los.
+O monitor das câmeras de vigilância está sobre a mesa.
+^00O monitor da câmera de segurança está na mesa.{LF}Hisoka foi obrigada a comprá-lo, mas ela não vê muito utilidade na realidade.
+Uma televisão e um rádio ambos novos.
+^00Uma nova televisão e um rádio novo.{LF}Ambos foram comprados depois que vim morar aqui.
+A parede da casa ao lado é apenas visível através do vidro fosco.
+A ventoinha do computador está fracamente audível.
+^00Bambu e pequenas árvores lotam o pátio.{LF}O pátio não foi projetado de forma especial, mas tem sido limpo e arrumado.
+Bambu e pequenas árvores lotam o pátio. O velho poço{LF}capta água limpa da montanha, mas não a utilizamos.
+A chuva está batendo no vidro fino da janela.
+Há escadas aqui que levam ao jardim.
+^00Aqui há escadas que levam ao jardim.{LF}Eu não entro muito no jardim, a não ser para arrumá-lo.
+^00Há uma cama no meio do que parece ser um depósito.{LF}Não há vestígios de poeira, ela deve ser limpa regularmente.
+^00Esta sala normalmente é usada para armazenar, mas tem sido arrumada{LF}para ser usado como quarto de hóspedes. Eu fiquei neste quarto quando cheguei aqui pela primeira vez.{LF}^00Agora que penso nisso, Hisoka deve manter{LF}como lugar onde as pessoas que ela encontra possam ficar.
+Uma cortina de estilo japonês foi pendurada aqui. A fábrica{LF}parece que foi reaproveitado de outra coisa.
+Há cestos e cestos empilhados.{LF}Todos parecem vazios.
+^00Um relógio em cima de uma cômoda velha. O painel está desgastado e desbotado,{LF}mas parece estar funcionando.
+^00Há um relógio em cima de uma cômoda velha. O painel está desgastado e desbotado.{LF}Hisoka parece gostar muito deste relógio.
+Isto leva até o banheiro.
+^00Isto leva até o banheiro. Hisoka prefere uma grande banheira,{LF}mas é muito grande para eu relaxar facilmente.
+A porta dos fundos está trancada.
+A porta dos fundos está trancada, como de costume.
+Você pode olhar para baixo na loja a partir daqui.
+^00Há uma cama no meio do que parece ser um depósito.{LF}Não há vestígios de poeira, ela deve ser limpa regularmente.
+^00Esta sala costumava ser usada como depósito, mas agora foi limpa para ser{LF}usada como quarto de hóspedes. Rui dorme aqui sempre que Ren aparecia.
+É uma pilha de sacolas e cestos velhos.
+Um lindo quimono está pendurado em um rack.
+Várias antiguidades estão alinhadas em uma cômoda velha.
+Uma pequena planta em vaso está em cima de uma cômoda baixa.
+Um pequeno lírio de banana em vaso fica em cima de uma cômoda baixa.
+Esta janela dá para o pátio.
+A chuva está batendo no vidro fino da janela.
+Um rádio antigo fica em cima de uma cômoda velha.
+^00Um rádio antigo fica em cima de uma cômoda velha.{LF}Ao contrário do que está na loja, este está morto,{LF}e é apenas uma decoração.
+É um antigo espelho de corpo inteiro em estilo japonês.
+^00É um antigo espelho de corpo inteiro em estilo japonês.{LF}Eu nunca gostei de olhar em espelhos.
+As ferramentas para fazer café ficam em cima de uma escrivaninha.
+^00As ferramentas para fazer café ficam em cima de uma escrivaninha.{LF}Hisoka disse que acha mais relaxante sentar no tatame do que em uma cadeira.
+Uma bandeja de tabaco e um estojo de acessórios ficam em cima de um conjunto baixo de prateleiras.
+^00Uma bandeja de tabaco e um estojo de acessórios ficam em cima de uma cômoda baixa.{LF}A bandeja de tabaco também está sendo usada como estojo de acessórios.
+Há uma cama escondida atrás da mesa.
+^00A cama foi escondida atrás da mesa.{LF}^00Este quarto costumava ser um escritório, e a cama ficava em outro quarto.{LF}Hisoka mudou a cama aqui para que eu pudesse ficar no quarto dela.{LF}^00Hisoka diz que prefere quartos aconchegantes.{LF}Espero que ela não esteja apenas fazendo isso por mim.
+Um livro velho está aberto sobre a mesa.
+^00Um velho livro está aberto sobre a mesa. Não tenho certeza do que se trata,{LF}mas alguém parece estar pesquisando a montanha.
+Os livros foram amontoados em uma estante.
+^00Livros foram amontoados em uma estante. Estes vieram com os outros{LF}antiguidades, mas agora fazem parte da coleção particular de Hisoka.
+^00É uma cama de madeira. Foi deixado desarrumada.
+Hisoka não gosta quando eu não arrumo minha cama...{LF}Eu vou fazer isso mais tarde.
+É uma grande pilha de caixas de papelão.{LF}Parece que há algumas roupas velhas neles.
+^00É uma grande pilha de caixas de papelão. Eu não toquei neles desde que me mudei.
+Há algumas cestas e pastas de arquivo em cima da cômoda.
+Há algumas cestas e pastas de arquivo em cima da cômoda.{LF}Hisoka os colocou para mim, mas não tenho certeza do que fazer com eles.
+^00Há flores murchas em cima de uma prateleira.
+^00Estas flores começaram a murchar. Hisoka me dá um novo{LF}arranjo de flores toda semana. São apenas restos de decoração{LF}da loja, mas tê-los no meu quarto me ajuda a relaxar.
+Uma luz suave brilha para a sala através da janela de vidro fosco.
+^00A janela com vista para o pátio é de vidro fosco.{LF}Deixamos ela aberta em dias ensolarados.
+O som dos pingos da chuva na janela ecoa suavemente.
+^00O som dos pingos da chuva na janela ecoa suavemente.{LF}Na verdade, eu não me importo com os dias de chuva.
+Luz laranja ilumina através da janela.
+Uma lâmpada antiga foi colocada sobre uma escrivaninha plana.
+Esta é a casa de banho dos clientes. Eu e Hisoka nos revezamos para limpá-lo.
+O banheiro do cliente encontra-se embaixo das escadas.
+^00Hisoka colocou esta escrivaninha aqui para mim.{LF}Este costuma o ser quarto da Hisoka, mas ela liberou para eu usar.
+^00Eu posso ver uma pousada abandonada coberta de hera do outro lado do lago.{LF}Há um corredor ao lado que desaparece na encosta da montanha,{LF}o edifício que costumava ficar foi enterrado por um deslizamento de terra.
+Há uma cerca de madeira ao longo da trilha da lagoa.
+^00A superfície da água ondula suavemente.{LF}Dizem que esta lagoa costumava ser bastante cristalina,{LF}mas depois do deslizamento de terra, as águas se tornaram lamacentas.
+^00Uma velha pousada de três andares permanece em silêncio.{LF}O deslizamento de terra percorreu a montanha e atravessou a pousada,{LF}jogando tudo o que pegou na lagoa.
+^00O sol poente reflete na superfície da água, pintando o ambiente{LF}em um brilho de pôr do sol. Deve ter sido uma bela visão para os convidados.{LF}A cor do pôr do sol me faz sentir só.
+^00A hera se agarra firmemente na parede de concreto. Parte da varanda do terceiro andar{LF}caiu, e o corrimão parece estar quebrado.
+^00É a estrutura de madeira de uma porta deslizante estilhaçada.{LF}Não sei dizer se foi queimada ou manchada de preto pelo mofo.
+^00Isto parece ser algum tipo de prateleira, feita em{LF}o concreto. Eles provavelmente utilizavam para armazenamento.
+^00A água penetra na janela. Ela deve estar vazando das{LF}fundações. É só uma questão de tempo até que este lugar desmorone.
+Tábuas foram pregadas nas janelas. Alguma luz está penetrando{LF}através das rachaduras, mas o interior do edifício ainda é muito escuro.
+Plantas parecidas com juncos estão saindo da superfície da água.
+^00A madeira das portas de correr e outras luminárias se amontoaram. Estão empilhadas{LF}e caindo aos pedaços. É provável que se desmorone com um toque.
+Acho que é aqui que deve ser a entrada de serviço,{LF}mas está enterrado debaixo de um monte de escombros.
+Pedaços grossos de madeira foram pregados na janela.{LF}Talvez eles estejam aqui para proteger contra deslizamentos de terra.
+^00Um ramo de árvore está atravessando uma fenda nas tábuas pregadas.
+^00Há um monte de pedaços de madeira no final do corredor.{LF}A água deve ter lavado tudo aqui para baixo.{LF}^00Há um buraco na parede. Eu posso ver a sala ao lado;{LF}parece estar totalmente inundada.
+^00Há um grande buraco na parede que leva ao lago. A água é mais funda{LF}perto do buraco. Eu não deveria me aproximar muito.
+Há um grande buraco na parede que leva ao lago. A luz do pôr do sol{LF}está refletindo na água, iluminando a sala em um brilho assustador.
+^00Há uma pequena porta de ferro na parte inferior da parede.{LF}Talvez seja uma escotilha para a manutenção do encanamento.
+^00Há um conjunto de prateleiras metálicas na parte de trás da sala. Está uma bagunça,{LF}parece ser aço inoxidável. Pode ter sido a despensa.
+As janelas deste corredor foram todas fechadas com pregos.
+^00O final do corredor desabou e eu não consigo passar.{LF}Parece que há um espaço nela, mas acho que não caberia.
+^00O teto desmoronou, bloqueando o corredor. Há algum espaço{LF}no fundo, talvez eu consiga passar e ir mais adiante lá dentro.
+Há um andar aqui em cima, com tábuas de assoalho.{LF}Acho que esta foi uma alcova de exposição.
+O teto empenou, portanto a tela não abrirá deste lado.
+Não tem nada no armário.
+^00Esta cômoda estilo japonês está apodrecida, e está caindo aos pedaços. Está cheia de{LF}livros e roupas velhas, as quais foram encharcadas e têm mau cheiro.
+^00Eu vejo chão sobre as tábuas de madeira. As paredes e o teto são empenadas,{LF}e todos eles estão rangendo. O edifício inteiro deve ter sido soterrado.
+^00A janela não abre deste lado.{LF}Pode ser porque o prédio tenha empenado.
+^00O reboco descascou no interior do closet.
+^00A parede da alcova se soltou, revelando uma terra escura por trás dela.{LF}Toda esta sala deve ter sido soterrada.
+^00Há um grande buraco na parte inferior da parede.{LF}Eu posso ver a terra da montanha a través dela.
+^00A cômoda está molhada, escurecida, ao estilo japonês.{LF}Está cheia de roupas, mas não vou tocar nelas.
+^00A janela foi coberta com tábuas grossas, fixadas no lugar{LF}por grandes grampos de metal. A pressão fez com que as tábuas se partissem e caíssem soltas.
+^00O pesado teto de concreto desabou, bloqueando as escadas{LF}para o terceiro andar. Não sei como as coisas estão mais acima.
+Eu posso ver a água no primeiro andar através de brechas no piso.{LF}Acho que não consigo passar por aqui.
+^00Eu não consigo ver nada na janela grossa e fosca de vidro.{LF}Talvez o deslizamento de terra tenha soterrado o prédio inclusive este andar.
+^00O teto cedeu e bloqueou o corredor.{LF}Os escombros parecem ter terra misturada com o concreto do teto.
+^00Eu posso ver a água no primeiro andar através de um buraco no chão.{LF}^00Todas as paredes caíram; os quartos de hóspedes agora parecem estar todos conectados.
+Eu posso ver a água no primeiro andar através de brechas no piso.{LF}Acho que não consigo passar por aqui.
+^00Uma luz de cor azul claro é visível através da janela.{LF}Parece a luz da lua.
+^00A luz azul clara é visível através da janela.{LF}A janela não está danificada, provavelmente devido a sua estrutura metálica.
+^00Esta janela tem um buraco enorme dentro dela, deixando o ar entrar pelo lado de fora.{LF}Parece que foi quebrada por algo de fora.
+Há grandes buracos no piso e nas paredes.{LF}Eu posso ver a água do primeiro andar.
+^00O teto desmoronou, bloqueando o corredor. Acho que não consigo voltar{LF}até a escada sem cortar pelas salas.
+^00Uma janela de vidro fosco colocada em uma armação de ferro. Eu posso sentir o frio do lado de fora em uma luz azul clara que atravessa a janela.
+^00Eu posso ver o primeiro andar através do grande buraco no meio da sala.{LF}Acho que estou logo acima da sala pela qual entrei pela primeira vez.
+^00Minha lanterna não atravessará o vidro grosso.{LF}Talvez o deslizamento de terra tenha enterrado o edifício até este andar.
+^00Minha lanterna não atravessará o vidro grosso.{LF}Talvez o deslizamento de terra tenha enterrado o edifício até este andar.
+^00As escadas que descem estão enterradas na terra.{LF}Não vou conseguir descer por aqui.
+^00A escada se ramifica e há uma porta do outro lado.{LF}A luz está entrando por uma janela na porta.
+^00A porta da sala foi arrombada. Acho que não consigo entrar{LF}por aqui. As tábuas foram queimadas. Deve ter acontecido um incêndio.
+^00O muro caiu, permitindo-me ver mais além.{LF}Talvez haja uma maneira de entrar.
+^00Há marcas de queimaduras nas paredes e no teto, e o teto queimado{LF}entrou em declínio. Deve ter havido um incêndio após o deslizamento de terra.
+^00Tábuas grossas foram pregadas na porta. Eu não posso entrar por aqui.
+^00Essa janela ficou sem vidro, e foi revestida.{LF}^00Eu posso quase ver lá dentro, mas não consigo ver o que está lá fora.
+^00A varanda tem vista para o lago inteiro. A Ponte Mikomori{LF}atravessa a lagoa, levando ao caminho de volta para o fim da montanha.
+O corrimão da varanda quebrou, deixando um buraco.
+^00Eu posso ver dentro da sala através da janela quebrada.{LF}Foi completamente queimada, não sobrou nada.
+^00O final do corredor vai em direção à montanha e desaparece.{LF}Antigamente levava ao antigo prédio, mas agora só há árvores e terra.
+^00A parede externa está intacta, mas as paredes internas da sala e o teto{LF}desapareceram quase completamente. Não vejo nenhum traço de móveis ou sinais de vida.
+^00As plantas estão crescendo através do piso carbonizado. Parece ter ocorrido um incêndio{LF}há muito tempo. Espero que a pousada tenha sido abandonada, antes do incêndio.
+A estrutura metálica da janela deformou-se com o calor e soltou-se.{LF}Sobrou um pouco de vidro.
+^00Eu posso ver o corredor que passa pela parede desmoronada.{LF}Acho que não consigo passar por aqui.
+^00As paredes e o teto desmoronaram, bloqueando a escadaria.{LF}Não consigo descer até o segundo andar a partir daqui.
+Há um corrimão ao longo do caminho, depois dele há uma grande descida.{LF}Está escuro e não consigo ver o fundo.
+^00A estrada desabou e as escadas de pedra estão bloqueadas.{LF}Deve ter sido o deslizamento de terra.{LF}^00A velha estrada parece continuar subindo a beira do penhasco.
+A água que jorra das rochas se acumulou aqui, formando um pequeno lago.
+Água cristalina desce pela superfície da rocha.
+^00A cachoeira é linda enquanto flui rio abaixo.. Muita gente deve ter vindo{LF}ver isto quando a montanha era um ponto turístico.
+^00Um antigo monumento de pedra foi colocado na cavidade rochosa.{LF}Está coberto de musgo, portanto não posso dizer se há alguma inscrição nele.{LF}^00Deve ser um memorial para aqueles que perderam suas vidas no deslizamento de terra.
+^00Tem uma grande queda d'água do outro lado do penhasco. A correnteza da água desaparece. na escuridão, o som dela batendo nas rochas ecoa para cima.
+^00A estrada está enterrada embaixo de terra e rocha.{LF}^00Grama e árvores saltam de dentro dela.{LF}Deve ter desabado há muito tempo.
+As velhas lanternas de pedra foram acesas.
+^00Posso ver uma piscina ao pé do penhasco. Há filas de lanternas,{LF}e a pia foi arrancada.
+^00Estas rochas impedem o fluxo da água. Isto deve ter sido um rio{LF}antes do deslizamento de terra.
+A piscina foi isolada por uma velha corda de ala. Existem escadas{LF}na água que leva à cachoeira. Será que este foi um local de purificação?
+^00Daqui você pode ver toda a área abaixo da cachoeira.{LF}Ali está a estrada do santuário, devastada pelo deslizamento de terra,{LF}e o caminho que leva até aqui.
+^00A correnteza de água desaparece na escuridão.
+^00Entre as rochas eu posso ver as lanternas de pedra na piscina.{LF}Parece que está deserta.
+^00 Há uma bifurcação na estrada. As plantas aqui são um pouco diferentes{LF}do que os abaixo da piscina. Devo estar perto da Floresta abismal.
+^00Uma cerca alta bloqueia o caminho. Além é uma extensão de floresta.{LF}Não parece haver nenhuma maneira de contornar.
+^00Há um buraco na cerca que bloqueia o caminho. O caminho continua{LF}para a floresta além. Eu deveria ser capaz de me encaixar e continuar.
+A estrada para o santuário que se estende pela encosta da montanha está enterrada{LF}debaixo da terra e da rocha. O caminho desmoronado provavelmente se juntou a ele aqui.
+Há uma placa de sinalização antiga aqui, mas está tão coberta de musgo que{LF}Não consigo ler o que diz.
+As lanternas de pedra ao longo da estrada para o santuário foram todas acesas.
+As lanternas de pedra ao longo da estrada para o santuário foram todas acesas.{LF}Se eu seguir estas luzes, não devo me perder.
+^00A ponte que leva ao santuário desabou.{LF}A água é profunda, não consigo ver o leito do rio.
+^00O vento ecoa do buraco nas rochas. Está explodindo do subsolo.{LF}O uivo baixo do vento soa quase como a voz de alguém.
+Pequenas estátuas de Jizo foram organizadas em torno do buraco aéreo.{LF}Este deve ter sido um lugar de algum significado.
+^00Uma pequena barraca esfarrapada foi montada. Eu posso ver o que parece ser{LF}um saco de dormir dentro.
+Uma pequena estátua de Jizo está na base de uma árvore.
+^00É uma pequena estátua de Jizo com uma expressão calma.{LF}^00Já vi essas mesmas estátuas por toda a floresta.{LF}Este lugar tinha algum tipo de significado espiritual?
+Uma pequena estátua de Jizo fica na beira da estrada.{LF}Talvez eles estejam aqui para orientar as pessoas que se perdem na floresta.
+^00Uma corda grossa está pendurada no galho desta árvore grande e murcha.{LF}A corda balança ao vento, fazendo um rangido.
+^00É um beco sem saída. Eu posso ver um rio além das árvores.{LF}O santuário deve estar nessa direção.
+^00Rochas bloquearam a estrada para o santuário. Esta estrada leva direto a{LF}a estação do teleférico. Deve haver uma maneira de contornar isso.
+^00A superfície da água se estende além das árvores.{LF}Mais além, parece um pântano.
+^00De repente fica mais profundo aqui. Não consigo ver nada nas profundezas escuras.
+Eu posso ver uma lanterna acesa através da água. A estrada para o santuário deve ser{LF}nessa direção.
+^00Várias rochas grandes foram colocadas aqui.{LF}Quase parece um cemitério.
+^00Pequenas e antigas estátuas de Jizo se alinham na beira da estrada.{LF}Muitos estão quebrados, vários perderam a cabeça.
+^00Um vento frio sopra de um grande buraco na rocha.{LF}Parece que há uma caverna lá. Talvez eu possa passar por isso.
+^00Eu posso ver o santuário da frente do outro lado do rio.{LF}A ponte a jusante deve ser a estrada do santuário.{LF}^00A montante, há uma passarela atravessando o rio.{LF}O santuário principal deve ser mais profundo na floresta.
+A ponte que leva ao Poço da Purificação desabou.{LF}Se eu não conseguir encontrar outra ponte, não poderei voltar.
+^00Há um caminho ao longo da margem do rio, acho que me permitirá descer até{LF}a água.
+^00Além daqui a água fica muito profunda para ser segura. Observando a corrente suave{LF}me faz sentir como se estivesse sendo puxado para dentro.
+Há um buraco nas raízes da grande árvore.
+^00Esta fileira de árvores parece fazer um caminho secreto.{LF}Eu poderia ser capaz de passar por isso.
+^00Uma árvore caída bloqueia o caminho. Eu provavelmente poderia agachar{LF}e fazê-lo passar.
+^00Vejo uma grande área cheia de água mais adiante. Parece um grande pântano.{LF}É muito profundo aqui para passar. Talvez eu encontre outro caminho.
+^00Há um buraco cavernoso aberto no chão. Parece água{LF}recolheu no fundo. Se eu caísse, acho que não conseguiria sair.
+Há uma poça de água entre as árvores.
+Bonecos de palha foram pregados na árvore grossa.
+Posso ver o santuário através das árvores.{LF}Não parece que posso chegar mais perto daqui.
+^00A água do enorme pântano está emitindo uma luz azul.{LF}Olhar para a água límpida me faz sentir que vou ser puxada para dentro.
+A água do pântano é clara, e posso ver várias árvores antigas{LF}que afundaram até o fundo.
+Há uma floresta submersa de raízes de árvores mortas há muito tempo{LF}nas águas do pântano.
+As rochas bloquearam a estrada para o santuário.{LF}Talvez haja outra maneira de passar.
+^00Incontáveis bonecas estão alinhadas em torno do santuário.{LF}Talvez esse santuário tenha usado bonecas em suas cerimônias.{LF}^00Elas parecem estar aqui há algum tempo,{LF}expostos aos elementos.
+^00Bonecas de vários tamanhos foram colocadas ao redor do santuário. Rostos brancos{LF}com sorrisos fracos, olham para fora dos quimonos sujos e cabelos pretos.
+As inúmeras bonecas sorriem vagamente.
+Várias bonecas estão alinhadas no suporte de boneca iluminado.
+^00Bonecas grandes são dispostas no suporte de bonecas contra a parede.{LF}Este deve ser o salão de culto do santuário.
+^00Eu posso ver a água através de um buraco no chão da passagem.{LF}^00Algumas bonecas estão faltando na prateleira.{LF}Eles devem ter sido lavados.
+^00Vários bonecos pequenos são colocados no suporte de bonecas.{LF}Muitos deles foram danificados.
+É uma pilha de lâmpadas e caixas de papel empoeiradas.
+^00Peças de bonecas estão espalhadas sobre a mesa simples. As prateleiras ao redor{LF}também estão cheios de cabeças de bonecas quebradas e outras partes.
+As peças da boneca estão espalhadas em cima da prateleira.
+^00Há um velho cômodo em estilo japonês.{LF}O interior é embalado com pequenas peças de boneca.
+Um pano vermelho está pendurado na prateleira.
+Há uma velho cômodo em estilo japonês no armário.
+^00Eu posso ver o rosto branco de uma grande boneca atrás das cortinas.{LF}Esse deve ser o santuário principal.
+^00Há uma sala atrás das prateleiras com as bonecas.{LF}Talvez haja uma maneira de entrar.
+É uma boneca do tamanho de uma criança.
+Uma boneca grande com cabelos compridos em pé sozinha.
+A boneca grande tem um sorriso vago.
+É uma boneca do tamanho de uma criança em pé, sorrindo.
+Eu posso ver uma boneca grande através de uma fresta na porta.
+Há muitas bonecas alinhadas nas prateleiras.{LF}Esta sala deve ser onde as bonecas oferecidas eram mantidas.
+Há muitas bonecas alinhadas nas prateleiras.{LF}Parece que eles foram organizados por tamanho.
+Há muitas bonecas alinhadas nas prateleiras.
+Há um buraco no chão; Eu posso ver o chão abaixo.
+Várias bonecas estão penduradas nas grandes árvores.{LF}Devem ter servido a algum propósito cerimonial.
+Várias bonecas estão penduradas nas cordas esticadas entre as árvores.
+Há uma caixa de madeira em cima da cômoda baixa.{LF}A caixa parece estar embalada com peças de boneca.
+^00Inúmeras bonecas foram colocadas em prateleiras que ficaram submersas na água.{LF}Deve ter sido um depósito que foi inundado.
+Inúmeras bonecas estão alinhadas nas prateleiras.{LF}Há também muitos que caíram na água.
+^00Eu posso ver outra caverna através de um buraco na parede.{LF}A passagem parece estar iluminada com luzes elétricas.{LF}^00Para onde essa passagem leva?
+A passagem é iluminada com luzes elétricas. Aonde essa passagem leva?
+Uma caixa preta fica em um buraco ao longo da passagem.
+A água está saindo de dentro da caverna.{LF}Parece haver uma grande área aberta no interior.
+^00É um beco sem saída. Há uma queda, e a água está fluindo para baixo.{LF}Parece que algo está flutuando lá embaixo.
+Uma boneca está flutuando no final do riacho.
+Há uma caixa preta no espaço ao lado da passagem.
+Há uma lanterna entre as estalactites.
+Há caixas pretas submersas na água.{LF}Tentei um deles, mas não consegui abri-lo.
+Há caixas pretas submersas na água.
+^00Atrás da caixa o chão desce e a água está fluindo para baixo.{LF}A caixa está lacrada e não consigo abri-la.
+Atrás da caixa o chão desce e a água está fluindo para baixo.
+^00Além da caixa, o chão desce, e a água está fluindo para baixo.{LF}Há um guincho. Talvez tenha sido usado para puxar algo para cima.
+Há um guincho ao lado de onde a água está caindo.
+^00Há uma caixa parcialmente aberta submersa na água.{LF}^00...Aqui é onde Haruka...
+^00Há uma caixa parcialmente aberta submersa na água.{LF}Parece que está cheio de água escura.
+^00Atrás da caixa o chão desce e a água está fluindo para baixo.{LF}A caixa está bem selada.
+Atrás da caixa o chão desce e a água está fluindo para baixo.
+A água está fluindo para um nível mais baixo.
+^00Um guincho se projeta para fora da água, há um gancho pendurado em sua corrente.{LF}Talvez isso tenha sido usado para tirar as coisas daqui.
+Um guincho se projeta para fora da água. Talvez isso foi usado para transportar coisas{LF}fora daqui.
+^00A água está fluindo para um nível mais baixo. Está muito escuro para eu ver{LF}o fundo do buraco que está fluindo.
+^00A casa é cercada por uma floresta densa. É difícil fazer qualquer coisa fora{LF}através da névoa.
+É difícil fazer qualquer coisa através da névoa.
+Uma jarra velha fica em cima de um simples conjunto de prateleiras. Parece uma sapateira.
+^00Há uma caixa preta na entrada. Uma mancha escura leva para dentro da casa,{LF}como se algo rastejasse para fora da caixa.
+Uma mancha escura entra na casa, como se algo tivesse saído da caixa.
+Tábuas grossas foram pregadas na janela.{LF}É impossível ver o que está acontecendo lá fora.
+Placas grossas são pregadas na janela.
+Há xícaras e uma bandeja de tabaco sobre uma mesa empoeirada.
+Há xícaras e uma bandeja de tabaco sobre uma mesa.
+^00É um pequeno conjunto de gavetas.{LF}^00Eles se expandiram com a umidade e não abrem.
+É um pequeno conjunto de gavetas.
+A televisão antiga está ligada.{LF}A tela está borrada com estática; Não consigo decifrar nada.
+A televisão antiga está ligada.
+Há uma caixa de madeira em cima de uma cômoda baixa.{LF}A dobradiça enferrujou e não abre.
+Há uma caixa de madeira em cima de uma cômoda baixa.
+^00Eu posso ver a sala através da porta de correr rasgada.{LF}Não há ninguém dentro.
+Eu posso ver o quarto através da porta de correr rasgada.
+É um velho telefone de disco preto.
+^00Um altar do lar foi consagrado na parte superior da parede.{LF}A madeira da sala escureceu e exala um cheiro estranho.
+Um altar do lar foi consagrado na parte superior da parede.
+Algo que se parece com uma caixa de acessórios está na prateleira.{LF}A caixa está vazia.
+Algo que se parece com uma caixa de acessórios está na prateleira.
+^00Eu posso ver a água através de uma brecha no chão. A água é preta e turva,{LF}e é difícil de ver além da superfície. Há vestígios de água ao redor,{LF}como se algo tivesse sido arrastado para fora.
+Parece que algo foi arrastado para fora do buraco no chão.
+^00Um pergaminho está pendurado na alcova. A aparência está muito esfarrapada para que eu possa ver o que estava nele.
+Um pergaminho está pendurado na alcova.
+Há duas tábuas memoriais e uma estátua de Buda no altar.
+^00Retratos do falecido revestem o lintel. A umidade tem{LF}estragado as fotos, dificultando distinguir os rostos.
+Retratos do defunto revestem o lintel.
+^00Um velho futon está amontoado no armário. A umidade tem{LF}deixou o futon preto, e está exalando um cheiro estranho.
+Um futon velho foi espremido no armário.
+A janela do escritório foi quebrada, e eu posso ver o corredor{LF}por outro lado.
+^00Dois pergaminhos pendurados foram pendurados na alcova.{LF}^00Eles apresentam plantas sazonais, como flores de cerejeira e folhas de bordo.
+Dois pergaminhos pendurados com fotos de plantas sazonais{LF}foram pendurados na alcova.
+^00A veneziana de madeira da varanda se soltou e posso ver lá fora.{LF}Não há nada além de floresta densa. Não posso sair assim.
+Não há nada além de floresta densa. Acho que não consigo sair assim.
+Eu posso ver a água no primeiro andar através do buraco no chão.
+^00Um velho futon está amontoado no armário. A umidade tem{LF}deixou o futon preto, e está exalando um cheiro estranho.
+Um futon velho está amontoado no armário.
+^00Textos antigos estão espalhados sobre e ao redor da mesa de leitura. Estão todas{LF}danificado pela umidade, não consigo distinguir nada da escrita.
+Textos antigos estão espalhados sobre e ao redor da mesa.
+^00Este conjunto simples de prateleiras está repleto de estojos de acessórios.{LF}^00Eles parecem estar cheios de instrumentos de escrita antiquados.
+Este conjunto de prateleiras feito de forma simples está repleto de estojos de acessórios.
+^00Há uma pilha de textos antigos no final do corredor.{LF}As páginas estão grudadas com umidade, não consigo abri-las.
+Há uma pilha de textos no final do corredor.
+A janela quebrada tem vista para a floresta lá fora.{LF}Deve ser o teleférico que vejo acima das árvores.
+^00A estante está cheia de livros, pergaminhos e caixas de madeira.{LF}Os livros estão grudados com umidade e são ilegíveis.
+A estante está repleta de livros, pergaminhos e caixas de madeira.
+Vários livros e pergaminhos estão empilhados em um lado da mesa.
+^00A estante está amontoada com mais livros do que ela pode guardar.{LF}Eu não consigo entender nenhum desses livros antigos.
+A estante está empilhada com mais livros do que ela pode guardar.
+^00A fila de estantes está repleta de textos antigos e caixas minúsculas.{LF}Estão desbotadas, mas parecem ser sobre lugares na montanha,{LF}tais como a Floresta Abismal e o Santuário das Bonecas.
+O texto que está escurecido, sujo é desbotado, mas parece{LF}ser sobre lugares no Monte Hikami, tais como a Floresta Abismal.
+^00A fileira de estantes está cheia de textos antigos e pequenas caixas.{LF}A escrita nas lombadas enegrecidas está desbotada, mas consigo distinguir algumas.{LF}Eles são sobre purificação, rituais e sacerdotisas.
+A escrita nas lombadas enegrecidas e sujas está desbotada, mas posso distinguir{LF}algum. Eles são sobre purificação, rituais e sacerdotisas.
+As estantes desta sala estão repletas de inúmeros livros.{LF}Deve ter sido um arquivo.
+^00 A coluna das estantes está repleta de textos antigos e caixas minúsculas.{LF}As colunas escurecidas têm títulos como " Fotografia Postmortem".{LF}"Suicídio", e "Duplo suicídio."
+A fileira de estantes está cheia de textos antigos e pequenas caixas. As espinhas{LF}trazem títulos como "Fotografia Postmortem", "Suicídio",{LF}e "Duplo Suicídio"
+^00A fileira de estantes está cheia de textos antigos e pequenas caixas.{LF}A umidade fez as páginas grudarem, então não consigo ler o interior.{LF}^00As lombadas trazem títulos como "Sacrifício Humano", "Caixas",{LF}e "O Mundo Inferior"
+^00A fileira de estantes está cheia de textos antigos e pequenas caixas.{LF}A umidade fez as páginas grudarem, então não consigo ler o interior.{LF}^00As lombadas trazem títulos como "Sacrifício Humano", "Caixas",{LF}e "O Mundo Inferior"
+As prateleiras são forradas com caixas de madeira cheias de utensílios e{LF}vários ornamentos.
+As prateleiras estão repletas de pequenas caixas, bonecas e enfeites.
+Há uma velha katana japonesa em uma prateleira.
+^00Há uma caixa preta no meio da sala. Manchas escuras marcam o chão,{LF}como se algo rastejasse para fora da caixa.
+Há uma caixa preta no meio da sala.
+Há uma pilha de madeira podre ao lado da estrada.
+É um caminhão enferrujado e abandonado.{LF}Não há vidro nas janelas, e está cheio de folhas.
+É um caminhão enferrujado e abandonado. A cama está em ruínas,{LF}e cheio de folhas mortas.
+Materiais de construção foram deixados na estrada bloqueada.{LF}A estrada faz uma curva para a esquerda, desaparecendo na neblina.
+Placas de metal pesadas e enferrujadas estão apoiadas aqui.
+^00Parece ser um recipiente, coberto por um lençol. Um cheiro estranho{LF}está vindo de dentro, mas não consigo ver o que está dentro.
+Recipientes de tambor enferrujados foram alinhados. Há furos nas tampas{LF}e fundos, e eles parecem estar vazios.
+Material de sucata, como sacos de areia e recipientes de tambor{LF}acabaram de ser deixados aqui.
+^00É um recipiente de tambor enferrujado. Há uma poça no chão,{LF}como se o conteúdo vazasse por um buraco no fundo.
+Recipientes de tambor enferrujados foram deixados aqui.
+^00A água está fluindo para um grande buraco no chão.{LF}Está muito escuro para ver o que está no fundo.
+As luzes da rua emitem um brilho pálido.
+^00O túnel está meio enterrado sob terra e rocha. Talvez tenha havido um desmoronamento{LF}após a construção? Uma grande quantidade de água derramou dos detritos{LF}e no chão.
+O bulbo desta lâmpada está começando a morrer.
+Uma cerca foi colocada para proteger a terra e a rocha.{LF}Além da cerca, a área parece aberta.
+Uma carroça de metal foi deixada aqui, cheia de pedras.
+É um monte de madeira podre.
+^00Uma grande quantidade de água está escoando pelas costuras do concreto.{LF}Este lugar pode desabar também.
+^00Um carro com o capô severamente amassado foi abandonado.{LF}Foi abandonado após um acidente?{LF}^00O para-brisa sumiu do lado do motorista, mas alguns vidros{LF}permanece no banco do passageiro, como se tivesse sido atingido por fora.
+Este carro surrado foi abandonado aqui após um acidente. O pára-brisa{LF}o vidro está rachado e parece que foi atingido por fora.
+A floresta se estende além do trilho da guarda, afundando na escuridão.
+Uma extensão de floresta vem até o lado da estrada.{LF}Isso provavelmente leva à Floresta Insondável.
+A grade de proteção foi fortemente distorcida, como se algo a tivesse atingido.
+^00Há um velho banco de madeira no ponto de ônibus.{LF}Já não há autocarros por aqui.
+Há um velho banco de madeira no ponto de ônibus.
+Luz branca vaza para fora da antiga cabine telefônica.
+A estrada está bloqueada, eu não posso ir mais longe.
+Uma árvore caída bloqueou o caminho. Não consigo passar por aqui.
+Lanternas linha ambos os lados, levando ao santuário.
+A corda foi amarrada entre dois grandes cedros.
+A porta está fechada e não vai abrir.
+Um enorme sino está pendurado na torre de sino.
+Uma veneziana de madeira de aparência pesada bloqueia o caminho a seguir.{LF}Não consigo passar por aqui.
+É uma grande caixa de doação.
+^00Há um dossel sobre um grande altar, decorado com flores.{LF}O altar reflete a luz de inúmeras lanternas, dando-lhe um brilho dourado.
+O altar coberto reflete a luz dourada das lanternas.
+^00Um grande conjunto de prateleiras é decorado com inúmeras lanternas acesas. Uma montanha{LF}padrão é desenhado nas lanternas, a luz vermelha brilhando como o pôr do sol.
+Lanternas em forma de montanha alinhadas nas prateleiras,{LF}emitem um brilho vermelho do pôr do sol.
+Uma grande estrutura, em forma de caixa, está atrás da cerca.{LF}Será que tem algo dentro?
+Uma estrutura grande, em forma de caixa, está atrás da cerca.
+Uma grande estátua de Buda está atrás da cerca.
+Uma grande estátua de Buda está em cima da plataforma de pedra.
+Do outro lado da grade de bambu, parece haver uma caverna.{LF}Dentro da escuridão existem muitas estátuas pequenas de Buda.
+Do outro lado da grade de bambu, parece haver uma caverna.{LF}Há várias estátuas de Buda sem cabeça ou sem outras partes do corpo.
+Uma Estátuas de Jizo sem cabeça se encontra fora da grade.
+Inúmeras lanternas não iluminadas estão alinhadas nas prateleiras escurecidas pela umidade.
+Há uma porta do outro lado das prateleiras. Talvez haja alguma maneira de entrar.
+Há uma grande porta atrás das prateleiras. Talvez haja uma maneira de entrar.
+^00Uma caixa preta lindamente decorada está no alto do pedestal em forma de altar.{LF}A tampa é bem fechada.
+^00Uma caixa preta lindamente decorada está no alto do pedestal em forma de altar.{LF}^00Eu fui... colocada dentro disso...
+O que parece ser uma tampa de caixa está no alto do altar, rodeado por lanternas.{LF}A tampa é muito pesada para abrir sozinha.
+A tampa atrás do altar foi aberta e eu posso ver dentro da caverna.{LF}Ela parece levar ao teto da sala abaixo.
+^00Parece haver uma tampa da caixa atrás do altar. O altar tem algum tipo de{LF}plataforma para colocar decorações, mas está vazia no momento.
+Um espelho em forma de sol foi colocado no meio do altar.
+A luz azul pálida do lado de fora brilha através da janela de treliça.
+^00Há pincéis e potes de tinta na mesa.{LF}Não há poeira, parece que foi usado recentemente.
+Há pincéis e tinteiros em cima da mesa.
+^00Há um espaço parecido com um pátio dentro do prédio.{LF}Posso ver um corredor circundando o pátio, correndo ao longo das paredes.
+Parece que o corredor continua até o outro lado{LF}do pátio.
+^00Eu posso ver folhas no final do corredor. Parece ser o pátio.{LF}O corredor parece que percorre todo o perímetro.
+O corredor percorre o perímetro do pátio de desembarque.
+^00Talismãs pendurados em uma caixa cheia de água escura.{LF}Parece que tem alguma coisa aí.
+Algo está submerso na caixa cheia de água escura.
+^00A caixa aberta está cheia de água. A água é negra como tinta,{LF}mesmo com minha lanterna não consigo ver o que tem dentro.
+A água dentro da caixa é preta como tinta, mesmo com minha lanterna{LF}Não consigo ver o que tem dentro.
+^00Há água escura dentro da caixa aberta. Algo grande aparece{LF}estar dentro, mas mesmo com minha lanterna não consigo ver o que tem dentro.
+Um grande objeto foi submerso na água.
+^00Algo é pouco visível sob a superfície da água escura na caixa.{LF}Parece quase uma pessoa.
+Algo pouco visível está sob a superfície da água escura{LF}na caixa.
+^00A caixa aberta está cheia de água. A água é negra como tinta,{LF}mesmo com minha lanterna não consigo ver o que tem dentro.
+A caixa aberta está cheia de água preta como tinta.
+^00Há um velho poço no centro da sala. Eu posso ouvir água lá embaixo.{LF}Parece que eles cavaram diretamente através da rocha, até lá embaixo.
+Há um velho poço no centro da sala. Eu posso ouvir a água de dentro{LF}o poço, mas está muito escuro para ver dentro.
+^00As cortinas de bambu do outro lado do pátio estão abertas,{LF}deixando-me ver dentro do quarto. As luzes estão acesas na sala, eu posso ver{LF}a silhueta de alguém segurando os joelhos.
+Eu posso ver a silhueta de alguém ajoelhado na sala{LF}com as persianas de bambu abertas.
+^00As cortinas de bambu do outro lado do pátio estão abertas,{LF}deixando-me ver pela janela. As luzes parecem estar acesas no interior.{LF}Eu posso ver a silhueta de alguém lá dentro.
+As cortinas de bambu do outro lado do pátio estão abertas,{LF}deixando-me ver dentro do quarto. As luzes parecem estar acesas no interior.
+^00The statue of the shrine maiden is looking this way.{LF}It's looking in the direction of the Shrine on the Water.
+A estátua na sala com as cortinas de bambu está olhando para este lado.
+^00Eu vejo o que parece ser uma ponte na base da escada.{LF}Talvez haja alguma maneira de contornar.
+Eu posso ver o que parece ser uma ponte sobre a água abaixo.
+Uma estátua está sentada segurando os joelhos, no que parece ser um altar.
+A estátua no altar está olhando pela janela.
+Eu posso ver um espaço aberto que parece uma caverna através da janela de treliça.
+^00Parece uma caverna do lado de fora da janela de treliça.{LF}As estátuas de Buda de pedra estão alinhadas no escuro.
+Uma corda de proteção grossa foi esticada pelas paredes da caverna.
+Eu posso ver um corredor através da janela de treliça.
+^00Existem várias flores cerimoniais grandes na superfície.{LF}Além deles, posso ver um portão, aparentemente flutuando na água.{LF}^00Não há nada além de névoa além do portão.
+Existem várias grandes flores cerimoniais na superfície.{LF}Além deles, posso ver um portão, aparentemente flutuando na água.
+Grandes flores cerimoniais alinham o jardim dos fundos.
+^00A ampla, área aberta se estende além da treliça.{LF}Eu posso ver várias estátuas de Buda.
+Existem várias estátuas de Buda no espaço cavernoso fora da treliça.
+Há uma caixa preta em frente às prateleiras com as lanternas.
+Uma estátua está sentada segurando os joelhos no meio de uma cabana de pedra.
+^00Um caixão foi colocado no chão. O caixão está cheio de água,{LF}e posso ver algo com a forma de uma pessoa submersa.
+Algo em forma de pessoa está dentro do caixão.
+Um caixão foi colocado no chão.
+A estátua de uma mulher está sentada segurando os joelhos no topo do altar.
+^00Um pequeno barco flutua no pátio. A água se estende por todo o caminho{LF}para o pátio. Eu provavelmente posso entrar no barco daqui.
+^00Um pequeno barco flutua no pátio.
+Consigo ver a plataforma do teleférico através das árvores.
+Um corrimão enferrujado bloqueia o caminho para a plataforma.
+O obturador está abaixado. Esta deve ter sido uma das lojas da estação.
+^00É um mapa de rotas para o Monte Hikami e arredores.{LF}Não consigo distinguir os detalhes devido a toda a ferrugem e pintura descascada.
+É um mapa de rotas para o Monte Hikami e arredores,{LF}mas é muito sujo para eu entender os detalhes.
+^00A placa na máquina de bilhetes diz "Fechado",{LF}e a energia foi desligada. Um cartaz foi colocado{LF}explicando que o serviço foi interrompido.
+A placa na máquina de bilhetes diz "Fechado", e a energia foi{LF}desligada.
+Há luzes na rua, passando pela árvore caída.{LF}Este provavelmente costumava ser o estacionamento.
+A estrada para o estacionamento está bloqueada por uma árvore caída.
+Há luzes de rua na estrada passando pela árvore caída.{LF}Esta era provavelmente a entrada.
+Há luzes de rua na estrada passando pela árvore caída.
+^00As luzes da rua lançam um brilho pálido. Há outro edifício mais para trás,{LF}mas não consigo chegar perto por causa das árvores.
+As luzes da rua emitem um brilho pálido.
+^00Há um buraco na janela do balcão de informações.{LF}A cortina está fechada, não consigo ver o interior. A cortina estremece silenciosamente.
+A cortina da cabine de informações estremece silenciosamente.
+Vários avisos e horários foram colados aqui.
+Há uma escada estreita, com cerca de um metro de largura, que leva à plataforma.{LF}Esta é provavelmente a plataforma para a tripulação e os trabalhadores de manutenção.
+Há um poste e uma grande polia enrolada com cabo{LF}no final da pista.
+^00Vários anúncios de metal foram colocados atrás do banco.{LF}Esses negócios e lojas provavelmente não existem mais.
+Vários anúncios de metal foram colocados atrás do banco.{LF}Imagino que nenhuma dessas coisas esteja mais por aí.
+^00Anúncios de metal enferrujado foram colocados atrás do banco.{LF}Todos eles parecem ser voltados para os turistas.
+Anúncios de metal sobre vários destinos turísticos foram colocados{LF}atrás do banco.
+A trilha desaparece para cima na névoa, não consigo ver nada.
+Uma luz no compartimento do motorista está acesa.
+Posso ver a superfície da água através das árvores.{LF}Parece haver um pequeno lago.
+A trilha desaparece para cima na névoa.{LF}Não vejo nada de anormal por aqui.
+A pista à frente está envolta em neblina espessa. Não consigo ver a Estação Mikomori{LF}no sopé da montanha daqui.
+Está escrito "Estação Florestal" na placa enferrujada.
+As luzes da plataforma iluminam toda a área.
+As luzes da plataforma estão apagadas. Talvez o relâmpago derrubou a energia.
+Uma luz no compartimento do motorista está acesa.
+^00As luzes do compartimento do condutor estão apagadas.{LF}Deve haver uma queda de energia. Vou ter que andar daqui.
+Apertei o botão de chamada, mas nada aconteceu.{LF}A energia deve estar desligada para toda a estação.
+^00A cerca de arame diz "Não entre".{LF}Há escadas além dele, com uma porta na parte inferior.{LF}^00A cerca foi travada com segurança. Eu não posso abri-lo.
+A cerca de arame diz "Não entre".{LF}Ele foi bloqueado com segurança. Eu não posso abri-lo.
+^00A placa na máquina de bilhetes diz "Fechado",{LF}e a energia foi desligada. Um poster{LF}foi colocado explicando que o serviço foi interrompido.
+A placa na máquina de bilhetes diz "Fechado", e a energia foi{LF}desligada.
+^00Há um buraco na janela do balcão de informações.{LF}A cortina está fechada, não consigo ver o interior. A cortina estremece silenciosamente.
+A cortina da cabine de informações estremece silenciosamente.
+^00Cartazes e anúncios de metal enferrujado cobrem as paredes de concreto.{LF}Lembranças, comida e bebida, serviços de guia, tudo voltado para os turistas.
+Propagandas de metal destinadas a turistas revestem as paredes de concreto.
+A porta de metal enferrujado está bem fechada. Parece ser o escritório da estação,{LF}mas não consigo entrar.
+^00Há um extintor de incêndio velho aqui. A coisa toda está enferrujada e quebradiça.{LF}Eu provavelmente não deveria tocá-lo.
+É um extintor enferrujado.
+Há uma escada estreita, com cerca de um metro de largura, que leva à plataforma.{LF}Esta é provavelmente a plataforma para a tripulação e os trabalhadores de manutenção.
+A trilha desaparece na névoa, e não consigo distinguir nada.
+Uma luz no compartimento do motorista está acesa.
+^00As luzes do compartimento do condutor estão apagadas. Deve haver um poder{LF}interrupção. Talvez haja um interruptor principal por aqui em algum lugar.
+Apertei o botão de chamada, mas nada aconteceu.{LF}A energia deve estar desligada para toda a estação.
+Documentos e instrumentos de escrita estão espalhados pela mesa de escritório enferrujada.
+^00Existe um telefone sujo e uma calculadora na mesa do escritório.{LF}A umidade parece ter estragado os dois.
+Um telefone quebrado e uma calculadora de mesa estão em cima da mesa do escritório.
+^00Os documentos das estantes estão espalhados.{LF}Parece ser todos os registros de serviço e trabalho, mas é muito sujo para ler.
+Os documentos das prateleiras enferrujadas estão espalhados.
+^00Os documentos das prateleiras enferrujadas estão espalhados.{LF}^00Eles parecem ser sobre controles e manutenção,{LF}mas eles são muito técnicos para eu entender.
+Os documentos das prateleiras enferrujadas estão espalhados.
+É um painel com vários medidores e botões.{LF}Eu não deveria mexer muito com isso.
+^00É um painel com vários medidores e botões. Tentei pressionar alguns,{LF}mas nada aconteceu. A energia deve estar fora.
+É um painel com vários medidores e botões.{LF}Eu não deveria mexer muito com isso.
+^00A floresta densa se estende do lado de fora da janela. Há pouca luz,{LF}tudo o que posso ver é a neblina e as sombras das árvores.
+^00A trilha atrás de mim está envolta em névoa. Não consigo ver as luzes da estação.{LF}É quase como se a pista fosse tudo o que pode passar pela névoa.
+^00As luzes do teleférico não podem penetrar na névoa. Provavelmente vai demorar um pouco{LF}antes de ver as luzes da próxima estação.
+A luz do piloto automático brilha suavemente.
+^00Dentro da treliça de madeira há uma estátua de Jizo. O Jizo está envolto em{LF}pano branco, sob o qual posso ver metade de seu rosto encharcado de chuva.
+Há uma estátua de Jizo envolta em pano branco dentro da treliça de madeira.
+^00Um cemitério se estende atrás do muro de pedra. eu não acho{LF}Eu posso passar por aqui. Deve haver uma maneira que eu possa contornar isso.
+Um cemitério se estende por trás do muro de pedra.{LF}Deve haver uma maneira que eu possa contornar isso.
+^00As inúmeras lápides formam um enorme outeiro cinza.{LF}^00Aqui e ali há pequenas estátuas de Jizo, e nenhuma das lápides tem{LF}escrita ou esculturas de qualquer tipo.
+As inúmeras lápides formam um enorme outeiro cinza.
+Lírios de aranha vermelha florescem em ambos os lados do caminho forrado de lanternas.
+^00Dentro da treliça de madeira há uma estátua de Jizo. O Jizo é drapeado{LF}em pano branco, sob o qual posso ver metade de seu rosto encharcado de chuva.
+Há uma estátua de Jizo envolta em pano branco dentro da treliça de madeira.
+^00Eu posso ver mais lápides além da cerca, entre as árvores.{LF}Este lugar deve ser cercado por sepulturas.
+Posso ver mais lápides além da cerca, entre as árvores.
+^00Uma linda cerejeira está em flor, cercada{LF}por pequenas lápides. As pessoas devem ser enterradas aqui.
+Uma linda árvore de cerejeira está em flor.{LF}Parece que as pessoas estão enterradas aqui.
+^00Eu posso ver mais lápides além da cerca.{LF}Este lugar deve ser cercado por sepulturas.
+Posso ver mais lápides além da cerca.
+Uma grande lápide caiu, bloqueando o caminho.
+Várias serpentinas de papel estão penduradas na corda que circunda o túmulo.
+Uma grande lápide caiu, bloqueando o caminho.{LF}Vou ter que encontrar outro caminho.
+^00Há uma estátua de Jizo cercada por uma treliça de madeira{LF}à sombra da lápide. O Jizo está envolto em pano branco,{LF}sob o qual você pode ver metade de sua face pela chuva.
+Há uma estátua de Jizo envolta em pano branco dentro da treliça de madeira.
+A floresta parece se abrir além da lápide,{LF}mas não consigo passar daqui.
+^00Há uma estátua de Jizo cercada por uma treliça de madeira{LF}em um canto do cemitério. O Jizo dentro é envolto em pano branco,{LF}sob o qual você pode ver metade de sua face pela chuva.
+Há uma estátua de Jizo envolta em pano branco dentro da treliça de madeira.
+^00Há flores de cerejeira em frente à fileira de estupas.{LF}Não parece que posso chegar às flores de cerejeira deste lado.
+Há flores de cerejeira em frente às stupas. Não parece que eu posso{LF}chegar a eles deste lado.
+^00Uma lápide caída bloqueia o caminho. A floresta parece se abrir além dela.{LF}Talvez haja alguma outra maneira de contornar.
+A floresta parece se abrir para além da lápide caída.{LF}Talvez haja uma forma de contorná-la.
+^00Grandes estátuas Jizo se alinham na estrada. Estão muito desgastadas,{LF}e a alguns estão sem cabeça.
+Grandes estátuas de Jizo se alinham na estrada.
+As grandes lanternas de pedra foram acesas.
+^00O que parece ser uma grande quantidade de túmulos foram feitos aqui.{LF}O texto neles está desgastado e ilegível. Muita gente deve estar{LF}enterrado neste local.
+O que parece ser uma grande quantidade de túmulos foram feitos aqui.
+Os cata-ventos nas rochas fazem um som de chocalho enquanto giram.
+^00Dentro do santuário há uma estátua de Jizo de aparência amigável.{LF}Várias pequenas figuras foram colocadas em torno dela.
+^00 Várias pequenas figuras foram colocadas ao redor do Jizo sentado.{LF}A cena dá uma certa vibe de "mãe e filhos".
+^00Vários cata-ventos foram colocados ao redor do pequeno santuário. Talvez este santuário{LF}foi usado para homenagear os espíritos das crianças.
+Vários cata-ventos foram colocados ao redor do pequeno santuário.
+^00Vários panos brancos são amarrados ao redor do tronco da árvore.{LF}Talvez eles sejam uma espécie de proteção.
+Vários panos brancos são amarrados ao redor do tronco da árvore.
+^00Os vários panos brancos amarrados à árvore tremem com o vento.{LF}Talvez eles sejam uma espécie de proteção.
+Os vários panos brancos amarrados à árvore tremem com o vento.
+^00Os panos brancos amarrados à árvore tremem com o vento.{LF}Talvez eles sejam uma espécie de proteção.
+Os vários panos brancos amarrados à árvore tremem com o vento.
+^00Inúmeras caixas pretas foram empilhadas entre as pedras.{LF}As caixas estão todas bem fechadas, e não consigo ver o que tem dentro.
+Inúmeras caixas pretas foram empilhadas entre as pedras.
+^00Inúmeras caixas pretas foram empilhadas entre as pedras.{LF}^00As caixas estão todas lindamente decoradas com finos detalhes. Talvez{LF}aqui era onde eles se desfaziam das caixas.
+Inúmeras caixas pretas foram empilhadas aqui.
+^00Inúmeras caixas pretas foram empilhadas entre as pedras.{LF}As caixas estão todas bem fechadas, e não consigo ver o que tem dentro.
+Inúmeras caixas pretas foram empilhadas entre as pedras.
+Vários cata-ventos foram colocados em torno de uma Estátua de Jizo coberta de pano.{LF}Eles fazem um som de chocalho enquanto giram ao vento que sai do lago.
+Vários cata-ventos foram colocados em torno de uma Estátua de Jizo coberta de pano.
+Vários cata-ventos foram colocados na praia.
+Vários cata-ventos foram colocados na praia.
+Vários cata-ventos foram colocados na praia.
+^00Uma substância amarela formou uma crosta ao redor das rochas liberando vapor.{LF}O fedor de enxofre preenche o ar.
+O enxofre cobre a área ao redor das rochas liberando vapor.
+O vapor quente sobe das rachaduras entre as rochas,{LF}Posso senti-lo no meu rosto, mesmo a esta distância.
+O vapor quente sobe das rachaduras entre as rochas.
+^00O vapor quente sobe das rachaduras entre as rochas amareladas.{LF}O ar próximo é quente e coberto com o fedor do enxofre.
+O vapor sobe, cheirando a enxofre.
+^00O vapor sobe da superfície da água avermelhada. Parece exatamente como{LF}uma poça de sangue. Deve ter sido um local turístico muito popular.
+O vapor sobe da poça vermelho-sangue.
+Escondidas, quase invisíveis contra as rochas irregulares, estão várias Estátuas de Jizo.
+Uma fileira de cinco Estátuas de Jizo cobertas de pano.
+Uma fileira de cinco Estátuas de Jizo cobertas de pano.
+A névoa envolve o interior da floresta de bambu.
+Um par de urnas de tamanhos diferentes.{LF}Parece ter algo dentro delas.
+Um par de urnas de tamanhos diferentes.
+Lírios de aranha vermelhos florescem na borda do caminho. Parecem ter sido{LF}cuidadosamente plantadas ao redor da estrada e da casa.
+Lírios de aranha vermelhos crescem ao longo do caminho coberto por lanternas.
+O fogo nas lanternas de papel emite uma luz acolhedora.
+Uma imagem de um pinheiro junto à costa enfeita o biombo.
+^00Consagrado no altar iluminado com velas vermelhas há uma pequena caixa,{LF}atrás dela uma foto de um casal se casando.{LF}^00Incontáveis imagens de casamento decoram as paredes e o teto,{LF}mas todos eles estão um pouco sujos e parecem bastante antigos.
+Consagrado no altar iluminado com velas vermelhas há uma pequena caixa,{LF}atrás dela uma foto de um casal se casando.
+^00Talismãs pendurados nas paredes e no teto,{LF}em meio às imagens de casais se casando.{LF}Panos vermelhos estão amarrados a uma corda que se estende por toda parte.
+Talismãs pendurados nas paredes e no teto,{LF}em meio às imagens de casais se casando.
+Há pequenas caixas e urnas sob as escadas.{LF}Parecem estar cheias de utensílios para a realização de banquetes.
+Há pequenas caixas e urnas sob as escadas.
+Um biombo divide o corredor. A corda pendurada no teto,{LF}decorada com vários panos vermelhos. Talvez seja algum tipo de proteção.
+Uma tela divisória divide o corredor. A tela parece ter sido{LF}colocado de cabeça para baixo, como se fosse um funeral.
+Um grande quimono masculino está pendurado aqui.
+Uma chaleira de ferro está colocada sobre o hibachi no chão.{LF}Não parece estar acesa.
+Há um pergaminho pendurado na alcova.
+Há um pergaminho pendurado na alcova.
+Uma boneca japonesa com roupas verdes foi colocada na plataforma.
+Um grande quimono masculino está pendurado aqui.
+Prateleiras e cestos de transporte estão empilhadas atrás da boneca.
+Uma velha armadura está na sala.
+^00Katanas antigas e estojos cheios de sandálias japonesas são embalados{LF}nas prateleiras. Todas as caixas parecem estar cheias de roupas masculinas.
+Katanas antigas e estojos cheios de sandálias japonesas{LF}são embalados nas prateleiras.
+Uma tela de partição com flores de cerejeira pintada sobre ela fica aqui.
+A luz suave brilha através da janela redonda na porta de correr.
+Um lindo kimono está em exposição.
+Um lindo kimono está em exposição.
+Um lindo kimono está em exposição.
+Um lindo kimono está em exposição.
+Um pergaminho com a imagem de um galo e uma galinha está pendurado.
+Um pote branco foi colocado nas prateleiras estagadas ao lado da alcova.
+Lindas peças de laca estão expostas em cima da cômoda.{LF}Não há poeira, parece que alguém estava usando recentemente.
+Lindas peças de laca estão expostas em cima da cômoda.
+^00Belos pratos decorativos estão nas prateleiras de ébano finamente decoradas.{LF}Não há poeira, parece que eles são limpos regularmente.
+Lindas placas decorativas em pé nas prateleiras de ébano finamente decoradas.
+Tigelas foram colocadas, como se fossem um banquete.{LF}Parecem estar vazios.
+^00Tigelas foram colocadas, como para um banquete.{LF}A sala parece ter sido decorada para um banquete elegante,{LF}mas o arranjo das tigelas lembra mais um funeral.
+^00Uma grande tela dobrável fica atrás do pano cerimonial vermelho.{LF}A tela parece ter sido colocada de cabeça para baixo, como se fosse um funeral.
+^00Uma grande tela dobrável fica atrás do pano cerimonial vermelho.{LF}^00Parece ser para um banquete, mas a tela está de cabeça para baixo,{LF}como se fosse para um funeral.
+O jardim do outro lado da lagoa foi muito bem mantido.
+^00Um quimono branco lindamente bordado está em exibição.{LF}O brilho do tecido faz com que pareça novo.
+Um kimono branco lindamente bordado está em exposição.
+Vinho sagrado e outros acessórios para uma cerimônia de casamento{LF}estão dispostos diante da tela dourada.
+Uma caixa preta fica em cima de um pano cerimonial vermelho atrás das cortinas de bambu.
+^00Há um pequeno olho mágico aberto na parede. não parece abrir{LF}deste lado. Provavelmente é usado para espionar a sala.
+O olho mágico não vai abrir deste lado.{LF}Provavelmente só abre do outro lado.
+^00Há um grande santuário do outro lado da água. acho que posso chegar lá{LF}pelo corredor da esquerda.
+Há um grande santuário do outro lado da água.
+^00O chão está despedaçado. Não consigo passar por aqui.{LF}^00Há lacunas nas tábuas do piso, mas não consigo ver o leito do lago.
+O chão está amassado. Eu não posso passar por isso.
+^00O chão está despedaçado. Eu não posso passar por isso.{LF}Vou ter que encontrar outra rota.
+O chão está amassado. Eu não posso passar por isso.
+^00O chão é esmagado, revelando a água abaixo.{LF}Parece que não vou conseguir atravessar aqui.{LF}Vou ter que encontrar outra maneira de entrar.
+O chão é esmagado, revelando a água abaixo.{LF}Parece que não vou conseguir atravessar aqui.
+Há um pequeno santuário submerso na água atrás da cerca quebrada.
+O fim do corredor desabou. A maior parte da metade oriental{LF}do corredor caiu.
+Há um pequeno santuário dentro da treliça quebrada.
+Três grandes estátuas de Buda estão alinhadas do outro lado da treliça.
+Grandes estátuas de Buda estão alinhadas do outro lado da treliça.
+^00O final do corredor desabou. A metade oriental do edifício{LF}também parece ter desmoronado, com a maior parte afundada na água.
+Há um grande tambor taiko. Eles devem ter usado isso em seus rituais.
+^00Uma caixa preta está guardada no centro da sala.{LF}Foi aqui que encontrei Hisoka...
+Uma caixa preta está consagrada no centro da sala.
+As grandes lanternas foram acesas.
