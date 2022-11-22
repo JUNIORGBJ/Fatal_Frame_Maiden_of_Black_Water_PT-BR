@@ -1,0 +1,51 @@
+^00My Camera Obscura is on the desk.{LF}Hisoka sent it back after appraising it for me.{LF}^00I should take that shadow reading report with me, too.{LF}It may come in handy.{LF}^00...Rui's always complaining about me leaving things on the sofa.
+There's an antique-looking camera on the desk.
+^30~005~You got ^11~09~Ren's Camera Obscura^10.
+I left the shadow reading report on the sofa.{LF}I should take it with me, just in case.
+It may have some information that I could use.{LF}Who knows when I might need it.
+I can't go without the Camera Obscura.{LF}I left it on the desk.
+^00Where did I put that book about Mt. Hikami...{LF}^00Has Rui been tidying up again?{LF}It might be on one of the shelves.
+^00I can't go without the Camera Obscura.{LF}^00I left it on the desk after I got it back from Hisoka.
+^00I should take the shadow reading report.{LF}I think I left it on the sofa.
+^00I'm sure I had a book on Mt. Hikami. I might need it on this trip.{LF}^00Rui must have tidied the place up and put it on one of the shelves.
+^00^11~12~Tutorial: Ren's Camera Obscura^10{LF}^00^11~14~This type of Camera Obscura allows you to take multiple photos at once.{LF}^00^11~14~Use the multi-shot (^10^20~35~^11~14~) function to take four photos at once,{LF}dealing more damage to the ghosts that you photograph.{LF}^00^11~14~Taking multiple photos at once also helps to get Fatal Frame shots.{LF}^00^11~14~After a multi-shot, the Camera Obscura will take longer{LF}than usual to reload the film.{LF}^00^11~14~Keep in mind that multi-shots quickly use up a lot of film.{LF}Also, standard Camera Obscura lenses do not work with{LF}Ren's Camera Obscura.
+The camera is reacting to something...
+^00The Camera Obscura has the power to photograph the invisible.{LF}^00I wonder if this is the same as the power{LF}Hisoka uses for her shadow reading.
+^00The hatch on the duct has shut itself.{LF}It must have been the wind...
+^00Was that... Did the camera's abilities let me see that?{LF}That man was looking at something.{LF}Maybe I can try shadow reading...
+^00The camera is reacting to something...{LF}^00Maybe I can see something through the viewfinder.
+^00The camera is reacting to something...{LF}^00If I take photos of this room maybe{LF}I'll get a picture of something invisible.
+There must be something in that room.{LF}I should investigate it using the camera.
+A crumpled old note has materialized.{LF}This must be what the camera was reacting to.
+^00The camera is reacting to the note.{LF}^00Using this note as a token I might find a trace{LF}that will lead me to some info about that photograph.
+^00Was that the "Netherworld" that Hisoka was talking about?
+^00It's locked, I can't open it.{LF}^00The camera is reacting to the door.
+^00There's something in the photo...{LF}^00The photograph shows the duct with its hatch open.
+^00This photo might be showing me the location of the key to this door.
+It's locked, I can't open it.
+^30~038~You opened the door using the ^11~09~Key on Yellow Keychain^10.
+The door is being held shut by a powerful force.
+The hatch to the duct is now open.
+^00There's something in there among the pipes...
+You found a ^11~09~Key on Yellow Keychain^10.
+The ghost left something behind when it disappeared.
+^00Was that the man who wrote this note?{LF}^00Maybe I'll find something upstairs.
+^00The window below is shattered.{LF}Did that man...jump from here?
+^00The whole room is charred.{LF}^00That man might have left something behind.{LF}If he did, it'll likely be hidden.
+^00The camera is reacting to something...{LF}^00It might be the thing that's manipulating Rui!
+^00A woman dressed like a shrine maiden...{LF}^00Is she connected to the note that I found?
+^00Keiji Watarai, a folklorist who lived on Mt. Hikami...{LF}Hisoka probably has some books about him.{LF}^00We should get back, Rui needs to rest.
+^00The door won't budge.{LF}Something must be blocking it from the inside.
+There's another door above the stairs on the other side.
+^00There might be something hidden here.{LF}^00I'd better check using the camera.
+The door is being held shut by a powerful force.
+I have to save Rui!
+The door must be locked from the other side.
+The door is being held shut by a powerful force.
+The door is being held shut by a powerful force.
+The force that was blocking the door is gone.
+There's something on the floor below.
+^00I can't get the hatch to the duct open.{LF}It's being held shut by a powerful force.{LF}^00The camera is reacting to it...
+^00^11~12~Tutorial: Synch Shots^10{LF}^00^11~14~Taking photos identical to the psychic photographs taken with{LF}the Camera Obscura can break seals blocking your access.
+Hisoka was investigating the inn.{LF}I should head straight there.
+There must be some clues in the inn.{LF}I should take another look.

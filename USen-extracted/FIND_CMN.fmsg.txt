@@ -1,0 +1,629 @@
+It's a big antique sofa.
+^00It's a big antique sofa. It's been here since I first came to the shop.{LF}I don't think it will sell, but Hisoka doesn't seem to mind.
+It's an elaborately decorated tobacco tray.
+^00It's a tobacco tray. It looks more like an antique accessory case{LF}than a functional tobacco tray.
+A row of carefully polished cups.
+^00Some well-polished cups are neatly lined up.{LF}After I accidentally broke a few valuable items,{LF}it's been Hisoka's job to clean them.
+Outside the shop it is dark and quiet.
+^00Outside the shop it is dark and quiet.{LF}The neighborhood gets quite busy during the day,{LF}but come nightfall, we're the only ones open.{LF}^00I asked why we bother keeping the lights on,{LF}Hisoka smiled and said she's afraid of the dark.
+^00The rain is still pouring outside.{LF}It doesn't look like there's anyone out on the street.
+^00The rain is still pouring outside.{LF}Ordinarily I'd turn the lights off and clean up,{LF}but I think I'll leave them on for now.
+^00The last rays of sunlight are streaming in from outside.{LF}The neatly organized merchandise gives off a polished sheen.
+^00The road in front of the shop leads to Mt. Hikami.{LF}^00It was built for the tourists, but the only people who use it now{LF}are the people who live here.
+^00The pendulum of the old grandfather clock sways slowly.{LF}The hands don't seem to be moving. It must be broken.
+^00The pendulum of the old grandfather clock sways slowly.{LF}The clock itself may be broken, but it works well as a decoration.{LF}^00Hisoka said she likes the rhythmic sound of the pendulum,{LF}and the chimes that mark the hour.
+It's a clock with a large bell.
+There are a number of bowls and cups inside the cupboard.
+The cupboard is filled with cups that we don't use anymore.
+^00There's a large radio on the counter.{LF}It looks quite old, but it still makes a noise.
+^00This radio has been set out as a decoration.{LF}The tuner doesn't work anymore, so it only ever puts out white noise.
+There are various antique cans and storage jars under a shelf of coffee cups.
+The refrigerator is well-stocked with water, soft drinks, and a few beers.
+^00The refrigerator is full of water, soft drinks, and a few beers.{LF}Alcohol isn't on the menu, but we sometimes serve it to the regulars.
+This is where the ingredients for the coffee and tea served in the café area{LF}are kept.
+^00This is where we keep the various coffees and teas.{LF}Hisoka only buys things from regions and brands that she likes.{LF}^00These ingredients aren't for the drinks we serve in the café,{LF}but for the people who come to buy the beans and tea leaves to use at home.
+A row of neatly polished coffee mugs. These are for the customers.
+^00A row of neatly polished coffee mugs. Customers can choose{LF}which one they want, but our regulars have cups set aside just for them.{LF}I still don't know which cups are for which customers.
+A short, simple menu is on the table.
+^00The table is here to attract some more non-regular customers.{LF}Hisoka has taken to the spot, she'll often be found sitting here reading.
+^00It's an antique clock on top of an old dresser.{LF}The dresser is empty. It must be for sale, too.
+^00It's an antique clock on top of an old dresser.{LF}^00Hisoka has a thing for clocks; the shop is full of them.{LF}She said she finds them comforting.
+The counter has been wiped clean.
+^00I'm still nervous about standing here by myself, as I've never been{LF}good at handling customers.{LF}^00I've only just learned how to make coffee, and I've never actually{LF}served a customer yet.
+These drawers seem to be where the shop's receipts and financial records{LF}are kept.
+^00These drawers seem to be where the shop's receipts and financial records{LF}are kept. I've not taken a proper look through them yet.
+It's a decorative house plant.
+^00It's a decorative house plant. Augusta is a low-maintenance plant species,{LF}but the leaves have still wilted a little bit.
+The bookshelf is packed with thick tomes.
+^00The bookshelf is packed with thick tomes.{LF}Most came free with other antiques, and they've been kept{LF}in the hope that we can sell them too.
+The monitor for the surveillance cameras is on the desk.
+^00The monitor for the surveillance camera is on the desk.{LF}Hisoka was badgered into buying it, but it doesn't see much actual use.
+A new television and a new radio.
+^00A new television and a new radio.{LF}These were both bought after I came to live here.
+The wall of the house next door is just visible through the frosted glass.
+The computer's fan is faintly audible.
+^00Bamboo and narrow trees dot the courtyard.{LF}The yard hasn't been especially designed, but it's been kept neat and tidy.
+Bamboo and narrow trees dot the courtyard. The old well{LF}draws clean water from the mountain, but we don't use it.
+Rain is pounding the thin glass of the window.
+There are stepping stones here leading down into the garden.
+^00There are stepping stones here leading down into the garden.{LF}I don't go into the garden much, other than to tidy it up.
+^00There's a bed in the middle of what looks like a storeroom.{LF}There's no trace of dust, it must get cleaned regularly.
+^00This room is usually used for storage, but it's been tidied up{LF}for use as a guest bedroom. I stayed in this room when I first came here.{LF}^00Now that I think about it, Hisoka must keep it{LF}as a place the people she finds can stay in.
+A Japanese-style blind has been hung here. The fabric{LF}looks like it has been repurposed from something else.
+There are hampers and baskets piled up.{LF}They all appear to be empty.
+^00It's a clock on top of an old dresser. The face is worn and faded,{LF}but it seems to be working.
+^00There's a clock on top of an old dresser. The face is worn and faded.{LF}Hisoka seems to really like this clock.
+This leads to the bathroom.
+^00This leads to the bathroom. Hisoka prefers a large bathtub,{LF}but it's too large for me to relax in very easily.
+The back door is locked.
+The back door is locked, as usual.
+You can look down on the shop from here.
+^00There's a bed in the middle of what looks like a storeroom.{LF}There's no trace of dust, it must get cleaned regularly.
+^00This room used to be used for storage, but now it's been tidied up for use{LF}as a guest bedroom. Rui sleeps here whenever Ren comes over.
+It's a pile of old bags and hampers.
+A pretty kimono hangs on a rack.
+Several antiques are lined up on an old dresser.
+A small potted plant is on top of a low dresser.
+A small potted plantain lily sits on top of a low dresser.
+This window looks down into the courtyard.
+Rain is pounding the thin glass of the window.
+An antique radio sits on top of an old dresser.
+^00An antique radio sits on top of an old dresser.{LF}Unlike the one in the store, this one has gone dead,{LF}and is only a decoration.
+It's an old Japanese-style full-length mirror.
+^00It's an old Japanese-style full-length mirror.{LF}I've never liked looking into mirrors.
+The tools for making coffee sit on top of a writing desk.
+^00The tools for making coffee sit on top of a writing desk.{LF}Hisoka said she finds it more relaxing to sit on the tatami than sit in a chair.
+A tobacco tray and an accessory case sit on top of a low set of shelves.
+^00A tobacco tray and an accessory case sit on top of a low chest of drawers.{LF}The tobacco tray is also being used as an accessory case.
+There's a bed tucked away behind the desk.
+^00The bed has been tucked away behind the desk.{LF}^00This room used to be a study, and the bed was in another room.{LF}Hisoka moved the bed in here so I could take her room.{LF}^00Hisoka says that she prefers cozy quarters.{LF}I hope she's not just doing it for my sake.
+An old book lies open on the desk.
+^00An old book lies open on the desk. I'm not sure what it's about,{LF}but someone seems to be researching the mountain.
+Books have been crammed into a bookcase.
+^00Books have been crammed into a bookcase. These came with the other{LF}antiques, but they are now a part of Hisoka's private collection.
+^00It's a wooden bed. It has been left unmade.
+Hisoka doesn't like it when I don't make my bed...{LF}I'll do it later.
+It's a big pile of cardboard boxes.{LF}Looks like there're some old clothes in them.
+^00It's a big pile of cardboard boxes. I haven't touched them since I moved in.
+There are some baskets and file cases on top of the dresser.
+There are some baskets and file cases on top of the dresser.{LF}Hisoka set them out for me, but I'm not sure what to do with them.
+^00There are wilting flowers on top of a shelf.
+^00These flowers have begun to wither. Hisoka gets me a new{LF}flower arrangement every week. They're just leftover decorations from{LF}the shop, but having them in my room helps me relax.
+Pale light shines into the room through the frosted glass window.
+^00The window looking into the courtyard is frosted glass.{LF}We leave it open on sunny days.
+The sound of raindrops on the window echoes faintly.
+^00The sound of raindrops on the window echoes faintly.{LF}I actually don't mind rainy days.
+Orange light floods in through the window.
+An antique lamp has been placed on a plain writing desk.
+This is the customer restroom. Hisoka and I take turns cleaning it.
+The customer restroom is tucked underneath the stairs.
+^00Hisoka put this desk here for me.{LF}This used to be Hisoka's bedroom, but she freed it up for me to use.
+^00I can see an abandoned inn covered in ivy across the pond.{LF}There's a connecting hallway that disappears into the mountainside,{LF}the building it used to lead to was buried by a landslide.
+There's a wood-post fence along the road by the pond.
+^00The water's surface ripples quietly.{LF}It's said that this pond used to be remarkably clear,{LF}but after the landslide the waters became muddied.
+^00An old, three-story inn stands in silence.{LF}The landslide raced down the mountain and through the inn,{LF}dumping all it picked up into the pond.
+^00The setting sun reflects off the water's surface, painting the surroundings{LF}in a sunset glow. It must have been a lovely sight for the guests.{LF}The color of the sunset makes me feel lonely.
+^00Ivy clings tenaciously to the concrete wall. Part of the third-floor veranda{LF}has collapsed, and the railing appears to be broken.
+^00It's the wooden frame of a tattered sliding door.{LF}I can't tell whether it's been burned or blackened by mold.
+^00This looks like it was a shelf of some sort, hammered directly into{LF}the concrete. They probably used this for storage.
+^00The water gets deeper closer to the window. It must be leaking from{LF}the foundations. It's only a matter of time before this place collapses.
+Boards have been nailed to the windows. Some light is seeping in{LF}through the cracks, but the inside of the building is still quite dark.
+Reed-like plants are jutting from the water's surface.
+^00Wood from sliding doors and other fixtures has piled up. It's waterlogged{LF}and falling apart. It would probably crumble at the touch.
+I think this is where the service entrance should be,{LF}but it's buried under a slew of rubble.
+Thick pieces of wood have been nailed to the window.{LF}Maybe they're here to protect against landslides.
+^00A tree branch is poking through a crack in the boards nailed here.
+^00There's a heap of scrap wood at the end of the hallway.{LF}The water must have washed it all down here.{LF}^00There's a hole in the wall. I can see the next room over;{LF}it looks to be just as flooded.
+^00There's a big hole in the wall leading to the pond. The water's even deeper{LF}closer to the hole. I shouldn't get too close.
+There's a big hole in the wall leading to the pond. The light from the sunset{LF}is reflecting off the water, illuminating the room in an eerie glow.
+^00There's a small iron door at the bottom of the wall.{LF}Maybe it's a maintenance hatch for plumbing.
+^00There's a set of metal shelves at the back of the room. It's a mess now,{LF}it looks like stainless steel. It must have been the pantry.
+The windows in this hallway have all been nailed shut.
+^00The end of the hallway has collapsed and I can't get through.{LF}It looks like there's some space in there, but I don't think I can fit.
+^00The ceiling has collapsed, blocking the hallway. There's some space{LF}at the bottom, I might be able to fit through and get further inside.
+There is a step up here, and this part has floorboards.{LF}I think this was a display alcove.
+The ceiling has warped, so the screen won't open on this side.
+There's nothing in the closet.
+^00This Japanese-style dresser is rotted, and is falling apart. It's full of{LF}old books and clothes, but they've been drenched, and they smell bad.
+^00I see soil on the other side of the boards. The walls and ceiling are warped,{LF}and they're all creaking. The entire building must be buried.
+^00The screen won't open from this side.{LF}It may be because the building itself has warped.
+^00The plaster has peeled away inside the closet.
+^00The alcove wall has come loose, revealing black soil behind it.{LF}This whole room must be buried.
+^00There's a large hole at the bottom of the wall.{LF}I can see soil from the mountain through it.
+^00It's a wet, blackened, Japanese-style dresser.{LF}It's full of clothes, but I won't touch them.
+^00The window was boarded up with thick planks, held in place{LF}by big metal clamps. Pressure has caused the boards to snap and fall loose.
+^00The heavy concrete ceiling has collapsed, blocking the stairs{LF}to the third floor. I'm not sure what things will be like further up.
+I can see the water on the first floor through gaps in the floor.{LF}I don't think I can get through here.
+^00I can't see anything outside the thick, frosted glass window.{LF}Perhaps the landslide buried the building even up to this floor.
+^00The ceiling has caved in and blocked the hallway.{LF}The rubble looks to have earth mixed in with the concrete from the ceiling.
+^00I can see the water on the first floor through a hole in the floor.{LF}^00The walls have all collapsed; the guest rooms now all seem to be connected.
+I can see the water on the first floor through gaps in the floor.{LF}I don't think I can get through here.
+^00Pale blue light is visible through the window.{LF}It looks like moonlight.
+^00Pale blue light is visible through the window.{LF}The window isn't in bad shape, probably thanks to its metal frame.
+^00This window has a massive hole in it, letting air in from the outside.{LF}It looks like it was broken by something smashing in from outside.
+There are big holes in the floor and walls.{LF}I can see the water down on the first floor.
+^00The ceiling has collapsed, blocking the hallway. I don't think I can get back{LF}to the stairway without cutting through the rooms.
+^00A frosted glass window sits in an iron frame. I can feel the outside chill{LF}in the pale blue light coming through the window.
+^00I can see the first floor through the big hole in the middle of the room.{LF}I think I'm directly above the room I first came in through.
+^00My flashlight won't penetrate the thick glass.{LF}Perhaps the landslide buried the building even up to this floor.
+^00My flashlight won't penetrate the thick glass.{LF}Perhaps the landslide buried the building even up to this floor.
+^00The stairs leading down are buried under earth.{LF}It doesn't look like I can get down this way.
+^00The stairs branch off, and there's a door on the other side.{LF}Light is streaming in through a window in the door.
+^00The door to the room has been boarded off. I don't think I can get in{LF}through here. The boards are burned. There must have been a fire.
+^00The wall has fallen, allowing me to see the space beyond.{LF}Maybe there's a way I can get in.
+^00There are scorch marks on the walls and ceiling, and the ceiling is burned{LF}and has collapsed. There must have been a fire after the landslide.
+^00Thick boards have been nailed to the door. I can't get in this way.
+^00This window has lost its glass, and has been boarded up.{LF}^00I can just about see inside, but I can't make anything out.
+^00The veranda looks down on the whole pond. Mikomori Bridge{LF}crosses the pond, leading to the road back down the mountain.
+The veranda's railing has broken, leaving a hole.
+^00I can see into the room through the shattered window.{LF}It has been completely burned, there is nothing left.
+^00The end of the hallway goes into the mountain and disappears.{LF}It once led to the old building, but now there's just trees and earth.
+^00The outer wall is intact, but the room's inner walls and ceiling{LF}have almost completely gone. I see no trace of furniture or signs of life.
+^00Plants are growing through the charred floor. There must have been a fire{LF}a long time ago. I hope the inn was abandoned, before the fire.
+The metal window frame has warped from heat and has come loose.{LF}There's little glass left.
+^00I can see the hallway past the collapsed wall.{LF}I don't think I can get through here.
+^00The walls and ceiling have collapsed, blocking the staircase.{LF}I can't get down to the second floor from here.
+There's a railing along the path, beyond it is a sheer drop.{LF}It's dark and I can't see the bottom.
+^00The road has collapsed and the stone stairs are cut off.{LF}It must have been the landslide.{LF}^00The old road seems to carry on up the edge of the cliff.
+Water flowing from the rocks has pooled here, forming a small pond.
+Beautifully clear water flows down the bare surface of the rock.
+^00The waterfall is beautiful as it flows down. A lot of people probably came{LF}to see this back when the mountain was a tourist destination.
+^00An old stone monument has been set in the rocky hollow.{LF}It's covered in moss, so I can't tell if there's any writing on it.{LF}^00It must be a memorial for those who lost their lives in the landslide.
+^00There's a big waterfall across from the cliff. The rush of water vanishes{LF}into the darkness, the sound of it hitting the rocks echoes upward.
+^00The road is buried under earth and rock.{LF}^00Grass and trees jut out from amongst it.{LF}It must have collapsed a long time ago.
+The old stone lanterns have been lit.
+^00I can see a pool at the foot of the cliff. There are rows of lanterns,{LF}and the basin has been roped off.
+^00These rocks stop the flow of the water. This must have been a river{LF}before the landslide.
+The pool has been cordoned off by an old warding rope. There are stairs{LF}in the water that lead to the waterfall. Was this a place of purification?
+^00From here you can see the whole area below the waterfall.{LF}There's the shrine road, wiped out by the landslide,{LF}and the path that leads up here.
+^00The rush of water disappears into the darkness.
+^00Between the rocks I can see the stone lanterns by the pool.{LF}It looks like it's deserted.
+^00There's a fork in the road. The plants here are slightly different{LF}than the ones below the pool. I must be close to the Unfathomable Forest.
+^00A tall fence blocks the path. Beyond is an expanse of forest.{LF}There doesn't appear to be any way around.
+^00There's a hole in the fence that blocks the path. The path continues{LF}to the forest beyond. I should be able to fit through and carry on.
+The road to the shrine stretching down the mountainside is buried{LF}under earth and rock. The collapsed pathway probably joined it here.
+There's an old signpost here, but it's so caked in moss that{LF}I can't read what it says.
+The stone lanterns along the road to the shrine have all been lit.
+The stone lanterns along the road to the shrine have all been lit.{LF}If I follow these lights, I shouldn't get lost.
+^00The bridge leading to the shrine has collapsed.{LF}The water is deep, I can't see the riverbed.
+^00Wind echoes from the hole in the rocks. It's blowing up from underground.{LF}The low howl of the wind sounds almost like somebody's voice.
+Small Jizo statues have been arranged around the air hole.{LF}This must have been a place of some significance.
+^00A small, tattered tent has been put up. I can see what appears to be{LF}a sleeping bag inside.
+A small Jizo statue stands at the base of a tree.
+^00It's a small Jizo statue with a calm expression.{LF}^00I've seen these same statues all over the forest.{LF}Did this place have some sort of spiritual significance?
+A small Jizo statue stands at the roadside.{LF}Maybe they're here to guide people who get lost in the woods.
+^00A thick rope hangs from the branch of this big, withered tree.{LF}The rope sways in the wind, making a creaking sound.
+^00It's a dead end. I can see a river past the trees.{LF}The shrine must be in that direction.
+^00Rocks have blocked the road to the shrine. This road leads straight to{LF}the cable car station. There must be a way around this.
+^00The surface of the water stretches beyond the trees.{LF}Further beyond, it looks like marshland.
+^00It gets suddenly deeper here. I can't see a thing in the murky depths.
+I can see a lit lantern across the water. The road to the shrine must be{LF}in that direction.
+^00Several large rocks have been set up here.{LF}It almost looks like a graveyard.
+^00Tiny, old Jizo statues line the side of the road.{LF}Many are broken, several have lost their heads.
+^00A cold wind blows from a large hole in the rock.{LF}It looks like there's a cavern in there. Maybe I can fit through it.
+^00I can see the front shrine across the river.{LF}The bridge downstream must be the shrine road.{LF}^00Upstream, there's a walkway across the river.{LF}The main shrine must be deeper in the forest.
+The bridge leading to the Pool of Purification has collapsed.{LF}If I can't find another bridge back across, I won't be able to get back.
+^00There's a path along the riverbank, I think it will let me get down to{LF}the water.
+^00Beyond here the water gets too deep to be safe. Watching the gentle current{LF}makes me feel like I'm being pulled in.
+There's a hole within the roots of the big tree.
+^00This row of trees seems to make a secret path.{LF}I might be able to make it through.
+^00A fallen tree blocks the path. I could probably crouch down{LF}and make it through.
+^00I see a large body of water further on. It looks like a huge swamp.{LF}It's too deep here to make it through. Maybe I can find another way around.
+^00There's a cavernous hole open in the ground. It looks like water{LF}has collected at the bottom. If I fell in, I don't think I could climb back out.
+There's a puddle of water amidst the trees.
+Straw dolls have been nailed to the thick tree.
+I can see the shrine through the trees.{LF}It doesn't look like I can get any closer from here.
+^00The water of the huge marsh is emitting a blue light.{LF}Looking at the clear water makes me feel like I'll get pulled right in.
+The water of the marsh is clear, and I can see several old trees{LF}that have sunk to the bottom.
+There is a submerged forest of the roots of trees long-dead{LF}within the waters of the swamp.
+Rocks have blocked the road to the shrine.{LF}Maybe there's some other way through.
+^00Countless dolls are lined up around the shrine.{LF}Maybe this shrine used dolls in its ceremonies.{LF}^00They look like they've been out here for quite some time,{LF}exposed to the elements.
+^00Dolls of various sizes have been placed around the shrine. White faces{LF}with faint smiles gaze out from the dirty kimonos and black hair.
+The countless dolls smile vacantly.
+A number of dolls are lined up on the illuminated doll stand.
+^00Large dolls are arranged on the doll stand against the wall.{LF}This must be the shrine's hall of worship.
+^00I can see water through a hole in the passageway floor.{LF}^00Some of the dolls are missing from the shelf.{LF}They must've been washed away.
+^00A number of small dolls are set on the doll stand.{LF}Many of them have been damaged.
+It's a pile of dusty paper lamps and boxes.
+^00Doll parts are strewn about on the plain desk. The surrounding shelves{LF}are also full of broken dolls' heads and other parts.
+Doll parts are scattered atop the shelf.
+^00There's an old Japanese-style dresser.{LF}The inside is packed with tiny doll parts.
+A red cloth hangs from the shelf.
+There's an old Japanese-style dresser in the closet.
+^00I can see the white face of a large doll behind the blinds.{LF}That must be the main shrine.
+^00There is a room behind the shelves with the dolls.{LF}Maybe there's a way inside.
+It's a doll about the size of a child.
+A large doll with long hair standing on its own.
+The large doll has a vacant smile.
+It's a child-sized doll standing, smiling.
+I can see a large doll through a crack in the door.
+There are many dolls lined up on the shelves.{LF}This room must be where dolls being offered up were kept.
+There are many dolls lined up on the shelves.{LF}It looks like they've been arranged by size.
+There are many dolls lined up on the shelves.
+There's a hole in the floor; I can see the ground beneath.
+Several dolls hang from the large trees.{LF}They must have served some ceremonial purpose.
+Several dolls hang from the ropes stretched between the trees.
+There's a wooden box on top of the low dresser.{LF}The box appears to be packed with doll parts.
+^00Countless dolls have been placed on shelves that have sunk into the water.{LF}This must have been a storeroom that got flooded.
+Countless dolls are lined up on the shelves.{LF}There are also many that have fallen into the water.
+^00I can see another cave through a hole in the wall.{LF}The passage appears to be lit with electric lights.{LF}^00Where does that passage lead to?
+The passage is lit with electric lights. Where does this passage lead to?
+A black box sits in a hollow along the passageway.
+Water is pouring out from within the cave.{LF}There appears to be a big, open area inside.
+^00It's a dead end. There's a drop off, and water is flowing down.{LF}It looks like something is floating down there.
+A doll is floating at the end of the stream.
+There's a black box in the space beside the passageway.
+There is a lantern among the stalactites.
+There are black boxes submerged in the water.{LF}I tried one of them, but I couldn't open it.
+There are black boxes submerged in the water.
+^00Behind the box the ground drops off, and the water is flowing down.{LF}The box is sealed shut, and I can't open it.
+Behind the box the ground drops off, and the water is flowing down.
+^00Beyond the box the ground drops off, and the water is flowing down.{LF}There's a winch. Maybe it was used to pull something up.
+There is a winch next to where the water is falling.
+^00There's a partially open box submerged in the water.{LF}^00...This is where Haruka...
+^00There's a partially open box submerged in the water.{LF}It looks like it's filled with dark water.
+^00Behind the box the ground drops off, and water is flowing down.{LF}The box is sealed tight.
+Behind the box the ground drops off, and the water is flowing down.
+Water is flowing down to a lower level.
+^00A winch juts out of the water, there is a hook hanging from its chain.{LF}Maybe this was used to haul things out of here.
+A winch juts out of the water. Maybe this was used to haul things{LF}out of here.
+^00Water is flowing down to a lower level. It's too dark for me to see{LF}the bottom of the hole it's flowing into.
+^00The house is surrounded by dense forest. It is hard to make anything out{LF}through the mist.
+It is hard to make anything out through the mist.
+An old jar sits on top of a simple set of shelves. It looks like a shoe rack.
+^00There's a black box in the entranceway. A dark stain leads into the house,{LF}as if something crawled out from the box.
+A dark stain leads into the house, as if something crawled out from the box.
+Thick boards have been nailed to the window.{LF}It's impossible to see what's going on outside.
+Thick boards are nailed to the window.
+There are teacups and a tobacco tray upon a dusty table.
+There are teacups and a tobacco tray upon a table.
+^00It's a small set of drawers.{LF}^00They have expanded with moisture and won't open.
+It's a small set of drawers.
+The old television is switched on.{LF}The screen is blurred with static; I can't make anything out.
+The old television is switched on.
+There's a wooden box on top of a low chest of drawers.{LF}The hinge has rusted over, and will not open.
+There's a wooden box on top of a low chest of drawers.
+^00I can see into the room through the torn sliding door.{LF}There isn't anyone inside.
+I can see into the room through the torn sliding door.
+It's an old, black rotary telephone.
+^00A household altar has been enshrined at the top of the wall.{LF}The wood in this room has blackened, and gives off an odd smell.
+A household altar has been enshrined at the top of the wall.
+Something that looks like an accessory case is set on the shelf.{LF}The case itself is empty.
+Something that looks like an accessory case is set on the shelf.
+^00I can see water through a gap in the floor. The water is black and murky,{LF}and it's hard to see past the surface. There are traces of water about,{LF}as if something was dragged out.
+It looks like something has been dragged out of the hole in the floor.
+^00A scroll hangs in the alcove. The surface is too tattered for me to see{LF}what was on it.
+A scroll hangs in the alcove.
+There are two memorial tablets and a Buddha statue on the altar.
+^00Portraits of the deceased line the lintel. The dampness has{LF}blackened the photos, making it hard to make out the faces.
+Portraits of the deceased line the lintel.
+^00An old futon is crammed into the closet. The dampness has{LF}turned the futon black, and it's giving off an odd smell.
+An old futon has been crammed into the closet.
+The study window has been broken, and I can see the hallway{LF}on the other side.
+^00Two hanging scrolls have been hung in the alcove.{LF}^00They feature seasonal plants, such as cherry blossoms and maple leaves.
+Two hanging scrolls with pictures of seasonal plants{LF}have been hung in the alcove.
+^00The wooden shutter to the porch has come loose and I can see outside.{LF}There's nothing but thick forest. I can't get out this way.
+There's nothing but thick forest. I don't think I can get out this way.
+I can see the water on the first floor through the hole in the floor.
+^00An old futon is crammed into the closet. The dampness has{LF}turned the futon black, and it's giving off an odd smell.
+An old futon is crammed into the closet.
+^00Old texts are scattered on and around the reading desk. They are all{LF}damaged from moisture, I can't make out any of the writing.
+Old texts are scattered on and around the desk.
+^00This simply made set of shelves is crammed with accessory cases.{LF}^00They appear to be filled with old-fashioned writing implements.
+This simply made set of shelves is crammed with accessory cases.
+^00There's a pile of old texts at the end of the hallway.{LF}The pages are stuck together with moisture, I can't open them.
+There's a pile of texts at the end of the hallway.
+The broken window overlooks the forest outside.{LF}That must be the cable car I can see above the trees.
+^00The bookshelf is packed with books, scrolls, and wooden boxes.{LF}The books are stuck together with moisture, and are unreadable.
+The bookshelf is packed with books, scrolls, and wooden boxes.
+Several books and scrolls are piled to one side of the desk.
+^00The bookshelf is piled with more books than it can hold.{LF}I can't make out any of the old writing they're written in.
+The bookshelf is piled with more books than it can hold.
+^00The row of bookshelves is packed with old texts and tiny boxes.{LF}The spines are faded, but they seem to be about places on the mountain,{LF}such as the Unfathomable Forest and the Shrine of Dolls.
+The writing on the blackened and soiled spines is faded, but they seem{LF}to be about places on Mt. Hikami, such as the Unfathomable Forest.
+^00The row of bookshelves is packed with old texts and tiny boxes.{LF}The writing on the blackened spines is faded, but I can make out some.{LF}They are about purification, rituals, and shrine maidens.
+The writing on the blackened and soiled spines is faded, but I can make out{LF}some. They are about purification, rituals, and shrine maidens.
+The bookshelves in this room are packed with countless books.{LF}It must have been an archive.
+^00The row of bookshelves is packed with old texts and tiny boxes.{LF}The faded spines bear titles such as "Postmortem Photography,"{LF}"Suicide," and "Double Suicide."
+The row of bookshelves is packed with old texts and tiny boxes. The spines{LF}bear titles such as "Postmortem Photography," "Suicide,"{LF}and "Double Suicide."
+^00The row of bookshelves is packed with old texts and tiny boxes.{LF}The moisture has made the pages stick together, so I can't read inside.{LF}^00The spines bear titles such as "Human Sacrifice," "Boxes,"{LF}and "The Netherworld."
+The row of bookshelves is packed with old texts and tiny boxes. I see titles{LF}like "Human Sacrifice," "Boxes," and "The Netherworld."
+The shelves are lined with wooden boxes full of utensils and{LF}various ornaments.
+The shelves are lined with small boxes, dolls, and ornaments.
+There's an old Japanese katana on a shelf.
+^00There's a black box in the middle of the room. Dark stains mark the floor,{LF}as if something crawled out from the box.
+There's a black box in the middle of the room.
+There's a pile of rotten wood by the side of the road.
+It's a rusted-out, abandoned truck.{LF}There's no glass left in the windows, and it is full of leaves.
+It's a rusted-out, abandoned truck. The bed is in shambles,{LF}and full of dead leaves.
+Construction materials have been left down the blocked-off road.{LF}The road curves to the left, disappearing into the mist.
+Heavy, rusted metal plates are propped up here.
+^00It appears to be a container, covered in a sheet. A strange smell{LF}is coming from the inside, but I can't get a look at what's in it.
+Rusted drum containers have been lined up. There are holes in the lids{LF}and bottoms, and they appear to be empty.
+Scrap material such as sandbags and drum containers{LF}have just been left here.
+^00It's a rusty drum container. There's a pool on the ground,{LF}as if the contents leaked out through a hole in the bottom.
+Rusted drum containers have been left here.
+^00Water is flowing into a big hole in the ground.{LF}It's too dark to see what's at the bottom.
+The lights give off a pale glow.
+^00The tunnel is half-buried under earth and rock. Maybe there was a cave-in{LF}after construction? A large amount of water has poured out from the debris{LF}and onto the ground.
+The bulb in this lamp is beginning to die.
+A fence has been put up to keep back the earth and rock.{LF}Beyond the fence, the area looks open.
+A metal cart has been left here, piled with rocks.
+It's a pile of rotten wood.
+^00A large amount of water is seeping through the seams in the concrete.{LF}This place might come crashing down as well.
+^00A car with a severely dented hood has been abandoned.{LF}Was it abandoned after an accident?{LF}^00The windshield is gone on the driver's side, but some glass{LF}remains on the passenger's seat, as if it was hit from the outside.
+This beat-up car has been abandoned here after an accident. The windshield{LF}glass is cracked, and it looks like it was hit from the outside.
+The forest stretches out beyond the guard rail, sinking into darkness.
+An expanse of forest comes right up to the side of the road.{LF}This probably leads to the Unfathomable Forest.
+The guard rail has been severely warped, as if something has struck it.
+^00There's an old wooden bench at the bus stop.{LF}No buses come this way anymore.
+There's an old wooden bench at the bus stop.
+White light spills out of the old phone booth.
+The road is blocked off, I can't go any further.
+A fallen tree has blocked the path. I can't make it through here.
+Lanterns line both sides, leading to the shrine.
+Rope has been strung between two large cedars.
+The door is shut tight and won't open.
+A huge bell hangs in the bell tower.
+A heavy-looking wooden shutter blocks the way forward.{LF}I can't get through here.
+It's a large donation box.
+^00There's a canopy over a large altar, decorated with flowers.{LF}The altar reflects the light of countless lanterns, giving it a gold sparkle.
+The canopied altar reflects the golden light of the lanterns.
+^00A large set of shelves is arrayed with numerous lit lanterns. A mountain{LF}pattern is drawn on the lanterns, the red light glowing like sunset.
+Lanterns with a mountain pattern line the shelves,{LF}giving off a red sunset glow.
+A large, box-like structure is behind the fence.{LF}I wonder if there's anything inside?
+A large, box-like structure is behind the fence.
+A large Buddha statue stands behind the fence.
+A large Buddha statue stands atop a stone platform.
+On the other side of the bamboo lattice there seems to be a cave.{LF}Within the darkness stand many small Buddha statues.
+On the other side of the bamboo lattice there seems to be a cave.{LF}There are several Buddha statues missing their heads or other body parts.
+A headless Jizo statue stands outside the lattice.
+Countless unlit lanterns are lined up on the moisture-blackened shelves.
+There is a door across from the shelves. Maybe there's some way inside.
+There is a large door behind the shelves. Maybe there's some way inside.
+^00A beautifully decorated black box sits atop the altar-like pedestal.{LF}The lid is tightly sealed.
+^00A beautifully decorated black box sits atop the altar-like pedestal.{LF}^00I was... put inside this...
+What seems to be a box lid rests atop the altar, surrounded by lanterns.{LF}The lid is too heavy to open by myself.
+The lid behind the altar has been opened and I can see into the cave inside.{LF}It seems to lead to the ceiling of the room below.
+^00There appears to be a box lid behind the altar. The altar has some sort of{LF}platform for placing decorations, but it is currently empty.
+A mirror shaped like the sun has been set in the middle of the altar.
+Pale blue light from the outside shines through the lattice window.
+^00There are brushes and inkstones on the desk.{LF}There's no dust, it seems it was used recently.
+There are brushes and inkstones on the desk.
+^00There's a space resembling a courtyard within the building.{LF}I can see a hallway encircling the courtyard, running along the walls.
+It looks like the hallway continues all the way to the other side{LF}of the courtyard.
+^00I can see leaves at the end of the hallway. It seems to be the courtyard.{LF}The hallway looks like it runs around the whole perimeter.
+The hallway runs around the perimeter of the landing courtyard.
+^00Talismans hang from a box filled with dark water.{LF}It looks like there's something in there.
+Something is submerged in the box filled with dark water.
+^00The open box is filled with water. The water is as black as ink,{LF}even with my flashlight I can't see what's inside.
+The water inside the box is as black as ink, even with my flashlight{LF}I can't see what's inside.
+^00There is dark water inside the open box. Something large appears{LF}to be inside, but even with my flashlight I can't see what's inside.
+A large object has been submerged in the water.
+^00Something is barely visible beneath the surface of the dark water in the box.{LF}It looks almost like a person.
+Something barely visible lies beneath the surface of the dark water{LF}in the box.
+^00The open box is filled with water. The water is as black as ink,{LF}even with my flashlight I can't see what's inside.
+The open box is filled with water black as ink.
+^00There's an old well in the center of the room. I can hear water down below.{LF}It seems they dug straight through the rock, leading below.
+There's an old well in the center of the room. I can hear water from inside{LF}the well, but it's too dark to see inside.
+^00The bamboo blinds on the other side of the courtyard are open,{LF}letting me see into the room. The lights are on in the room, I can see{LF}the silhouette of someone clutching their knees.
+I can see the silhouette of someone kneeling in the room{LF}with the open bamboo blinds.
+^00The bamboo blinds on the other side of the courtyard are open,{LF}letting me see through the window. The lights appear to be on inside.{LF}I can see the silhouette of someone in there.
+The bamboo blinds on the other side of the courtyard are open,{LF}letting me see into the room. The lights appear to be on inside.
+^00The statue of the shrine maiden is looking this way.{LF}It's looking in the direction of the Shrine on the Water.
+The statue in the room with the bamboo blinds is looking this way.
+^00I see what looks like a bridge at the bottom of the stairs.{LF}Maybe there's some way around.
+I can see what looks like a bridge over the water down below.
+A statue sits clutching its knees, on what looks like an altar.
+The statue on the altar is looking out the window.
+I can see an open space that looks like a cave through the lattice window.
+^00It looks like a cave outside the lattice window.{LF}Stone Buddha statues are lined up in the dark.
+A thick warding rope has been stretched across the cavern walls.
+I can see a hallway through the lattice window.
+^00There are several large ceremonial flowers lying on the surface.{LF}Beyond them I can see a gate, seemingly floating on the water.{LF}^00There is nothing but mist beyond the gate.
+There are several large ceremonial flowers lying on the surface.{LF}Beyond them I can see a gate, seemingly floating on the water.
+Large ceremonial flowers line the rear garden.
+^00A wide, open area extends beyond the lattice.{LF}I can see several Buddha statues.
+There are several Buddha statues in the cavernous space outside the lattice.
+There is a black box across from the shelves with the lanterns.
+A statue sits clutching its knees in the middle of a stone hut.
+^00A casket has been laid out on the floor. The casket is full of water,{LF}and I can see something shaped like a person submerged within.
+Something shaped like a person lies inside the casket.
+A casket has been laid out on the floor.
+A statue of a woman sits clutching its knees atop the altar.
+^00A small boat floats in the courtyard. The water extends all the way{LF}into the courtyard. I can probably get onto the boat from here.
+^00A small boat floats in the courtyard.
+I can see a cable car platform through the trees.
+A rusty handrail blocks the way to the platform.
+The shutter is down. This must have been one of the shops at the station.
+^00It's a route map for Mt. Hikami and the surrounding area.{LF}I can't make out the details due to all the rust and peeling paint.
+It's a route map for Mt. Hikami and the surrounding area,{LF}but it's too dirty for me to make out the details.
+^00The sign at the ticket machine reads "Closed,"{LF}and the power has been turned off. A poster has been put up{LF}explaining that service has been stopped.
+The sign at the ticket machine reads "Closed," and the power has been{LF}turned off.
+There are street lights down the road past the fallen tree.{LF}This probably used to be a parking lot.
+The road to the parking lot is blocked by a fallen tree.
+There are street lights down the road past the fallen tree.{LF}This was probably the entrance.
+There are street lights down the road past the fallen tree.
+^00The street lights cast a pale glow. There's another building further back,{LF}but I can't get close due to the trees.
+The street lights give off a pale glow.
+^00There's a hole in the window at the information booth.{LF}The curtain is shut, I can't see inside. The curtain flutters silently.
+The curtain at the information booth flutters silently.
+Various notices and schedules have been pasted up here.
+There is a narrow stairway, about a meter wide, leading to the platform.{LF}This is probably the platform for crew and maintenance workers.
+There's a bumping post and a large pulley wound with cable{LF}at the end of the track.
+^00Several metal advertisements have been put up behind the bench.{LF}These businesses and stores probably don't exist anymore.
+Several metal advertisements have been put up behind the bench.{LF}I imagine none of these things are around anymore.
+^00Rusted metal advertisements have been put up behind the bench.{LF}They all seem to be aimed at the tourists.
+Metal advertisements about various tourist destinations have been put up{LF}behind the bench.
+The track vanishes upward into the mist, I can't see a thing.
+A light in the driver's compartment is glowing.
+I can see the water's surface through the trees.{LF}There appears to be a small pond.
+The track vanishes upward into the mist.{LF}I don't see anything unusual around here.
+The track ahead is enveloped in thick fog. I can't see Mikomori Station{LF}at the foot of the mountain from here.
+"Forest Station" is written on the rusted sign.
+The platform lights illuminate the whole area.
+The platform lights are out. Maybe the lightning knocked the power out.
+A light in the driver's compartment is glowing.
+^00The lights in the driver's compartment are out.{LF}There must be a power outage. I'll have to walk from here.
+I pressed the call button, but nothing happened.{LF}The power must be out for the whole station.
+^00The wire fence says "Do Not Enter."{LF}There are stairs beyond it, with a door at the bottom.{LF}^00The fence has been securely locked. I can't open it.
+The wired fence says "Do Not Enter."{LF}It has been securely locked. I can't open it.
+^00The sign at the ticket machine reads "Closed,"{LF}and the power has been turned off. A poster{LF}has been put up explaining that service has been stopped.
+The sign at the ticket machine reads "Closed," and the power has been{LF}turned off.
+^00There's a hole in the window at the information booth.{LF}The curtain is shut, I can't see inside. The curtain flutters silently.
+The curtain at the information booth flutters silently.
+^00Posters and rusted metal advertisements line the concrete walls.{LF}Souvenirs, food and drink, guide services, everything aimed at the tourists.
+Metal advertisements aimed at tourists line the concrete walls.
+The rusted metal door is shut tight. It appears to be the station office,{LF}but I can't get in.
+^00There's an old fire extinguisher here. The whole thing is rusted and brittle.{LF}I probably shouldn't touch it.
+It's a rusty fire extinguisher.
+There is a narrow stairway, about a meter wide, leading to the platform.{LF}This is probably the platform for crew and maintenance workers.
+The track disappears into the mist, and I can't make anything out.
+A light in the driver's compartment is glowing.
+^00The lights in the driver's compartment are out. There must be a power{LF}outage. Maybe there's a main power switch around here somewhere.
+I pressed the call button, but nothing happened.{LF}The power must be out for the whole station.
+Documents and writing implements are strewn about the rusty office desk.
+^00There is a grimy phone and a desk calculator on the office desk.{LF}The moisture seems to have ruined them both.
+A broken phone and desk calculator sit atop the office desk.
+^00The documents from the shelves have been scattered about.{LF}It seems to be all service and work records, but it's all too dirty to read.
+The documents from the rusty shelves have been scattered about.
+^00The documents from the rusty shelves have been scattered about.{LF}^00They seem to be about controls and maintenance,{LF}but they're far too technical for me to understand.
+The documents from the rusty shelves have been scattered about.
+It's a panel with several gauges and buttons on it.{LF}I shouldn't mess around with it too much.
+^00It's a panel with several gauges and buttons on it. I tried pressing a few,{LF}but nothing happened. The power must be out.
+It's a panel with several gauges and buttons on it.{LF}I shouldn't mess around with it too much.
+^00Dense forest stretches out outside the window. There's little light,{LF}all I can see is the fog and the shadows of trees.
+^00The track behind me is engulfed in mist. I can't see the lights of the station.{LF}It's almost like the track is all that can pass through the mist.
+^00The cable car's lights cannot penetrate the mist. It'll probably be a while{LF}before I see the lights of the next station.
+The autopilot light glows softly.
+^00Within the wooden lattice there is a Jizo statue. The Jizo is draped in{LF}white cloth, under which I can see half of its rain-weathered face.
+There's a Jizo statue draped in white cloth inside the wooden lattice.
+^00A graveyard stretches out behind the stone wall. I don't think{LF}I can get through here. There must be a way I can get around it.
+A graveyard stretches out behind the stone wall.{LF}There must be a way I can get around it.
+^00The countless gravestones form an enormous gray hillock.{LF}^00Here and there are tiny Jizo statues, and none of the gravestones bear{LF}writing or carvings of any sort.
+The countless gravestones form an enormous gray hillock.
+Red spider lilies bloom to either side of the lantern-lined path.
+^00Within the wooden lattice there is a Jizo statue. The Jizo is draped{LF}in white cloth, under which I can see half of its rain-weathered face.
+There's a Jizo statue draped in white cloth inside the wooden lattice.
+^00I can see more gravestones beyond the fence, amongst the trees.{LF}This place must be surrounded by graves.
+I can see more gravestones beyond the fence, amongst the trees.
+^00A beautiful cherry blossom tree is in bloom, surrounded{LF}by small gravestones. People must be buried here.
+A beautiful cherry blossom tree is in bloom.{LF}It looks like people are buried here.
+^00I can see more gravestones beyond the fence.{LF}This place must be surrounded by graves.
+I can see more gravestones beyond the fence.
+A large gravestone has fallen, blocking the path.
+Several paper streamers hang from the rope encircling the grave.
+A large gravestone has fallen, blocking the path.{LF}I'll have to find another way around.
+^00There's a Jizo statue surrounded by a wooden lattice{LF}in the shadow of the gravestone. The Jizo is draped in white cloth,{LF}under which you can see half of its rain-weathered face.
+There's a Jizo statue draped in white cloth inside the wooden lattice.
+The forest appears to open up past the gravestone,{LF}but I can't get through from here.
+^00There's a Jizo statue surrounded by a wooden lattice{LF}in a corner of the graveyard. The Jizo within is draped in white cloth,{LF}under which you can see half of its rain-weathered face.
+There's a Jizo statue draped in white cloth inside the wooden lattice.
+^00There are cherry blossoms across from the row of stupas.{LF}It doesn't look like I can get to the cherry blossoms from this side.
+There are cherry blossoms across from the stupas. It doesn't look like I can{LF}get to them from this side.
+^00A fallen gravestone blocks the path. The forest seems to open up beyond it.{LF}Maybe there's some other way around.
+The forest seems to open up beyond the fallen gravestone.{LF}Maybe there's a way around it.
+^00Large Jizo statues line the road. They are deeply weathered,{LF}and some are missing their heads.
+Large Jizo statues line the road.
+The large stone lanterns have been lit.
+^00What appear to be a number of grave markers have been placed here.{LF}The writing on them is worn away and illegible. A lot of people must be{LF}buried here as well.
+What appear to be a number of grave markers have been placed here.
+The pinwheels on the rocks make a rattling sound as they spin.
+^00Within the shrine sits a friendly looking Jizo statue.{LF}Several small figures have been set around it.
+^00Several small figures have been set around the sitting Jizo.{LF}The scene gives off a certain "mother and children" vibe.
+^00Several pinwheels are set around the small shrine. Perhaps this shrine{LF}was used to pay respects to the spirits of children.
+Several pinwheels are set around the small shrine.
+^00Several white cloths are tied around the tree trunk.{LF}Perhaps they're meant as some sort of ward.
+Several white cloths are tied around the tree trunk.
+^00The many white cloths tied to the tree flutter in the wind.{LF}Perhaps they're meant as some sort of ward.
+The many white cloths tied to the tree flutter in the wind.
+^00The white cloths tied to the tree flutter in the wind.{LF}Perhaps they're meant as some sort of ward.
+The many white cloths tied to the tree flutter in the wind.
+^00Countless black boxes have been piled up amongst the rocks.{LF}The boxes are all shut tight, and I can't see what's inside.
+Countless black boxes have been piled up amongst the rocks.
+^00Countless black boxes have been piled up amongst the rocks.{LF}^00The boxes are all beautifully decorated with fine details. Perhaps{LF}this is where they disposed of these boxes.
+Countless black boxes have been piled up here.
+^00Countless black boxes have been piled up amongst the rocks.{LF}The boxes are all shut tight, and I can't see what's inside.
+Countless black boxes have been piled up amongst the rocks.
+^00Several pinwheels have been set up around a cloth-covered Jizo statue.{LF}They make a rattling sound as they spin in the wind from the lake.
+Several pinwheels have been set up around a cloth-covered Jizo statue.
+Several pinwheels have been set on the beach.
+Several pinwheels have been set on the beach.
+Several pinwheels have been set on the beach.
+^00A yellow substance has crusted around the rocks venting steam.{LF}The stench of sulfur fills the air.
+Sulfur cakes the area around the rocks venting steam.
+Hot steam rises from cracks between the rocks,{LF}I can feel it on my face even from this distance.
+Hot steam rises from cracks between the rocks.
+^00Hot steam rises from cracks between the yellowed rocks.{LF}The air nearby is hot and filled with the stench of sulfur.
+Steam rises, stinking of sulfur.
+^00Steam rises from the surface of the red-tinged water. It looks just like{LF}a pool of blood. This must have been a popular tourist destination.
+Steam rises from the blood-red pool.
+Hidden, almost invisible against the jagged rocks, stand several Jizo statues.
+It's a row of five Jizo statues draped in cloth.
+It's a row of five Jizo statues draped in cloth.
+Mist engulfs the interior of the bamboo grove.
+It's a pair of urns of different sizes.{LF}They appear to have something in them.
+It's a pair of urns of different sizes.
+Red spider lilies bloom at the edge of the path. They appear to have been{LF}carefully planted around the road and the house.
+Red spider lilies grow along the lantern-lined path.
+The fire in the paper lanterns gives off a warm light.
+An image of a pine by the coast adorns the partition screen.
+^00Enshrined on the altar lit with red candles is a small box,{LF}behind which is an image of a couple getting married.{LF}^00Countless more wedding images adorn the walls and ceiling,{LF}but they are all somewhat dirty and appear quite old.
+Enshrined on the altar lit with red candles is a small box,{LF}behind which is an image of a couple getting married.
+^00Talismans hang from the walls and ceiling,{LF}amidst the images of couples getting married.{LF}Red cloths are tied to a rope stretching across.
+Talismans hang from the walls and ceiling,{LF}amidst the images of couples getting married.
+There are small boxes and urns under the stairs.{LF}They seem to be filled with utensils for holding banquets.
+There are small boxes and urns under the stairs.
+^00A partition screen divides the hallway. Rope hangs from the ceiling,{LF}decorated with several red cloths. Perhaps it's some sort of ward.
+A partition screen divides the hallway. The screen appears to have been{LF}set upside-down, as though for a funeral.
+A large men's kimono is hanging here.
+An iron kettle sits on the hibachi on the floor.{LF}It doesn't appear to be lit.
+There is a scroll hanging in the alcove.
+There is a scroll hanging in the alcove.
+A Japanese doll in green clothing has been placed on the platform.
+A large men's kimono is hanging here.
+Carrying racks and hampers are piled up behind the doll.
+An old suit of armor sits in the room.
+^00Old katanas and cases filled with Japanese sandals are packed{LF}into the shelves. The boxes all appear to be filled with menswear.
+Old katanas and cases filled with Japanese sandals{LF}are packed into the shelves.
+A partition screen with cherry blossoms painted on it stands here.
+Soft light shrines through the round window in the sliding door.
+A beautiful kimono is on display.
+A beautiful kimono is on display.
+A beautiful kimono is on display.
+A beautiful kimono is on display.
+A scroll with an image of a rooster and hen hangs on display.
+A white pot has been placed on the staggered shelves next to the alcove.
+Beautiful lacquerware is on display on top of the dresser.{LF}There's no dust, it seems someone was using it quite recently.
+Beautiful lacquerware is on display on top of the dresser.
+^00Beautiful decorative plates stand on the finely decorated ebony shelves.{LF}There's no dust, it looks like they're cleaned regularly.
+Beautiful decorative plates stand on the finely decorated ebony shelves.
+Bowls have been set out, as if for a banquet.{LF}They seem to be empty.
+^00Bowls have been set out, as if for a banquet.{LF}The room looks to have been decorated for an elegant feast,{LF}but the arrangement of the bowls is more reminiscent of a funeral.
+^00A large folding screen stands behind the red ceremonial cloth.{LF}The screen looks to have been placed upside-down, as though for a funeral.
+^00A large folding screen stands behind the red ceremonial cloth.{LF}^00It appears to be for a feast, but the screen is upside-down,{LF}as though for a funeral.
+The garden across the pond has been beautifully kept.
+^00A beautifully embroidered white kimono is on display.{LF}The fabric's sheen makes it appear new.
+A beautifully embroidered white kimono is on display.
+Sacred wine and other accoutrement for a wedding ceremony{LF}are arranged before the gilded screen.
+A black box sits atop a red ceremonial cloth behind the bamboo blinds.
+^00There's a small peephole open in the wall. It doesn't look like it opens{LF}from this side. It's probably used to spy on the room.
+The peephole won't open from this side.{LF}It probably only opens from the other side.
+^00There's a large shrine across the water. I think I can get there{LF}through the left-hand corridor.
+There's a large shrine across the water.
+^00The floor is smashed up. I can't make it past this way.{LF}^00There are gaps in the floorboards, but I can't see the lakebed.
+The floor is smashed up. I can't make it through this way.
+^00The floor is smashed up. I can't make it through.{LF}I'll have to find another route.
+The floor is smashed up. I can't make it through this way.
+^00The floor is smashed up, revealing the water beneath.{LF}It doesn't look like I'll be able to cross here.{LF}I'll have to find another way to get inside.
+The floor is smashed up, revealing the water beneath.{LF}It doesn't look like I'll be able to cross here.
+There's a small shrine submerged in water behind the broken fence.
+The end of the hallway has collapsed. Most of the eastern half{LF}of the corridor has fallen in.
+There's a small shrine within the broken lattice.
+Three large Buddha statues are lined up on the other side of the lattice.
+Large Buddha statues are lined up on the other side of the lattice.
+^00The end of the corridor has collapsed. The eastern half of the building{LF}also seems to have collapsed, with most of it sunken in the water.
+There's a large taiko drum. They must have used this in their rituals.
+^00A black box is enshrined in the center of the room.{LF}This is where I found Hisoka...
+A black box is enshrined in the center of the room.
+The large lanterns have been lit.

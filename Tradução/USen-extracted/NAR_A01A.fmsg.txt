@@ -1,6 +1,0 @@
-^00Tsumugi...{LF}^00O Fio Púrpuro parece levar ao albergue abandonado.{LF}^00Espero não chegar tarde demais...
-Pra onde...?
-...Por aqui.
-^00^11~12~Tutorial: Fio Púrpuro^10{LF}^00^11~14~O Fio Púrpuro mostra o caminho mais curto até a Tsumugi. {LF}Siga o fio para encontrar a Tsumugi.^10
-^00Os entulhos estão bloqueando o caminho. {LF}Eu vou procurar outra rota.{LF}^00Talvez posso ir pelo andar de cima.
-O Fio Púrpuro não está apontando por aqui.{LF}Não tenho tempo para desvios.{LF}Eu tenho que achar a Tsumugi logo...

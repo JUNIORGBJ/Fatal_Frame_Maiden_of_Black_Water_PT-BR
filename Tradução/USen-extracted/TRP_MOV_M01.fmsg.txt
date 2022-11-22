@@ -1,7 +1,0 @@
-...Onde estou?^01~40~
-A Miu Hinasaki desapareceu.^01~120~
-Ninguém pode ouvir os gritos de socorro enquanto{LF}estava presa em um tempo no topo da montanha.^01~150~
-Esta montanha é onde os eventos desta histùria acontecem.^01~120~
-Seguiremos os destinos de três pessoas:^01~120~
-Yuri, Ren e Miu.^01~90~
-É um conto horripilante do sobrenatural.^01~120~

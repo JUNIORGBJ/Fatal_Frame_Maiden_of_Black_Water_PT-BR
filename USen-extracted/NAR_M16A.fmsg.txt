@@ -1,0 +1,33 @@
+^00That light...{LF}^00It might be a sign of something strange happening on Mt. Hikami.{LF}Something might be on its way here again.{LF}^00I should keep an eye on the surveillance camera feeds.
+
+^00The door is being held shut by a powerful force.{LF}It's probably the owner of that black hair I saw out of the window.{LF}^00I have to watch over the girls.{LF}Checking the camera feeds is more efficient than patrolling.
+I've got to make sure the girls are safe here.{LF}Besides, I can't get out...
+^00That's the room Miu and her mother are sleeping in.{LF}I've got to rescue them...
+^00I can't go in there with the ghost still chasing me.
+^00I've got to lose this ghost first.
+^00Rui is breathing quietly, in deep slumber.{LF}What's that book?{LF}^00It's about folk tales surrounding Mt. Hikami.{LF}I should probably take a look at it as well.
+^00I might as well read the book Rui found.{LF}It may be helpful.
+^00Rui is all right.{LF}^00The spirits aren't here yet.{LF}I should go check on Miu and her mother.
+^00It won't open...{LF}^00I should check the camera feed.
+^00Rui's having nightmares, but seems OK otherwise.
+^00Rui's not waking up...{LF}^00I'm a bit worried, but for now I need to stay here{LF}and keep checking on everyone.
+^00Hisoka...{LF}She looks like she's having a nightmare, but otherwise seems fine.{LF}^00She spent days trapped on Mt. Hikami.{LF}I'd like to ask her about what she saw there...{LF}^00...But I've got more urgent things on my hands right now.{LF}I should keep watching the camera feeds.
+^00No ghosts in sight.{LF}^00I can't let my guard down though.{LF}I need to keep checking on everyone.
+^00Yuri is bathed in the red glow, but is still in a deep sleep.{LF}^00Everything seems to be fine in her room.
+^00Something has fallen under the bed.{LF}^00A book Yuri was reading? It might be worth checking out.
+I need to check if she's OK...
+I should check what that book under Yuri's bed is about.{LF}It may have some information about Mt. Hikami.
+^00It doesn't look like Yuri will wake up any time soon.{LF}It's got to be the influence of this disturbing light.
+^00Yuri ventured all over Mt. Hikami looking for Hisoka,{LF}and the others before that. She may have been affected by it.{LF}I need to be careful.
+^00Yuri seems fine for now.{LF}Her room is ghost-free, but they might still come.{LF}I'll keep watch over her from the office.
+^00The two Hinasakis are sleeping together.{LF}^00They deserve a rest. I have to watch over everyone though, not just them.
+^00Miku Hinasaki... She looks so young,{LF}you could mistake her for Miu's sister.{LF}^00She's been on Mt. Hikami for years,{LF}trapped on the border between the worlds of the living and the dead.{LF}^00In a place where time stands still.
+^00They seem to be all right. Except for the nightmares...{LF}^00The ghost I saw walk in is nowhere to be seen.
+^00Something's definitely coming this way from the mountain.{LF}^00It's too dangerous to just walk around.{LF}I should return to the office and watch the surveillance feed.
+^00I saw a ghost entering this room...{LF}^00Are the Hinasakis okay?
+The ghost is gone for now, but I should check out her room just in case.
+^00Inhabitants of Mt. Hikami have long held peculiar beliefs{LF}about life and death.{LF}^00People would go there for special rituals and offer their lives{LF}to the dark waters of the mountain lake.{LF}^00Mt. Hikami has always been known for the many suicides{LF}that take place there.
+^00The religion practiced on Mt. Hikami relied on the shrine maidens.{LF}They were the ones guarding the border between worlds.{LF}^00They had two main duties. The first one was to oversee{LF}the deaths of those who made the pilgrimage to Mt. Hikami.{LF}^00And the second one...
+^00I've been here before. This is where the Ghost Marriage{LF}ceremonies were held.
+^00The door is being held shut by a powerful force.
+^00I'm worried about what's going on in the other rooms.{LF}I should check the camera feed.

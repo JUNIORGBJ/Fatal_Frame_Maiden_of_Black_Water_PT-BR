@@ -1,0 +1,6 @@
+^00Tsumugi...{LF}^00The Purple Thread seems to lead to that abandoned inn.{LF}^00I hope I'm not too late...
+Which way...?
+...That way.
+^00^11~12~Tutorial: Purple Thread^10{LF}^00^11~14~The Purple Thread shows the quickest route to Tsumugi's location. {LF}Follow the thread to find Tsumugi.^10
+^00The rubble is blocking the way. {LF}I've got to find another route.{LF}^00I could try going upstairs.
+The Purple Thread isn't pointing that way. {LF}I don't have time for a detour.{LF}I have to find Tsumugi...

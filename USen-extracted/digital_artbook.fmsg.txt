@@ -1,0 +1,1000 @@
+Exit
+Turn Page
+Zoom
+Select
+Contents
+Audio
+Pause Music
+Hide
+Back
+Play/Stop
+Turn Title
+^20~15~
+^20~17~
+^20~03~
+Loop On/Off
+Return to the Title Screen?
+YES
+NO
+^20~05~
+^20~06~
+Chapters
+Fatal Frame
+Fatal Frame Ⅱ{LF}Crimson Butterfly
+Fatal Frame Ⅲ{LF}The Tormented
+FATAL FRAME{LF}Maiden of BlackWater
+^20~08~
+Show track title
+^20~04~
+Play
+
+Artworks & Snaps
+Design Works
+World Materials
+MovieList
+Audio
+
+
+
+
+
+Fish Pond
+Wind
+Garden
+Shallows
+Path to the Shrine
+Backyard
+Rain
+Distant Thunder
+Game Over
+Entrance
+Rope Hallway
+Large Hall
+Fish Pond
+Sitting Room Cage
+Rope Mansion
+Path to Purification
+Himuro Mansion 1
+Himuro Mansion 2
+Earthquake SFX
+Photo Point SFX
+Tape SFX
+SE: Koto
+Wind from the Well SFX
+Ball Falling SFX
+Waterwheel SFX
+Clock Chime SFX
+SE: Bells from Kirie's Childhood
+SE: Shrine Maiden Bells during Kirie's Appearance
+Spirit
+Hand Reaching for Feet
+Ash Ghost
+Tenaga
+People Who Died to the Miasma
+SE: Bells
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fukado Buddhist Hymn
+Sacrificial Seat
+Hellish Abyss
+Decayed Tree
+Kureha Shrine
+Osaka's House
+Kiryu's House
+Tachibana's House
+Kurosawa's House
+On Bridge
+Rhythmical
+Sae
+Butterfly
+Open Place
+Narrow Place
+Inside Room
+Misono
+Village
+Path to the Shrine
+Family Chapel
+Puzzle
+Place Facing Garden
+Something's There
+Storyboard
+Thunder
+Lightning
+Underground Cave
+Something's There 2
+Title Screen
+Save/Load
+Episode Selection
+Game Complete
+Episode: Victory
+Episode: Failure
+Episode: Begin
+Completion Data
+Game Over
+Opening Gate SFX
+Closing Gate SFX
+Child Running Away SFX 1
+Child Running Away SFX 2
+Opening Sliding Door SFX
+Closing Sliding Door SFX
+Sensing Closed Door SFX
+Kurosawa's House: Main Entrance Opening SFX
+Kurosawa's House: Main Entrance Closing SFX
+Doll Display Puzzle Activation SFX
+Lightning SFX
+Passing Footsteps SFX
+Trees and Grass Rustling in Wind SFX
+Burning Talisman SFX
+Falling Ball SFX
+Door to Large Sitting Room Falling SFX
+SE: Bell Sounds
+Buddhist Hymn
+Environmental SFX and Buddhist Hymn
+Door Being Struck Violently SFX
+Something Running SFX
+Something Walking SFX
+Chitose
+Woman in Box Appearance SFX
+Blade Falling SFX
+Collapsing Spirit SFX
+SE: Chapter Title Card
+Miyako
+Person in Dark
+Villager
+Sunken Woman
+Kusabi
+Woman in Box
+Masumi
+Chief Priest
+Mourner
+Broken Neck Woman
+Japanese Doll
+Puppeteer
+Sae 1
+Sae 2
+Mother
+Sae 3
+Short Version (Promotional Use)
+Full Version (Promotional Use)
+SE: Project Logo
+SE: Sealed Door
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Waking House: Rain SFX
+Slumbering House: Entrance, Hallway to Staircase
+Slumbering House: Hearth Room, Hallway Room
+Slumbering House: Courtyard 1
+Slumbering House: Entrance
+Slumbering House: Courtyard 2
+Waking House: Night Rain
+Reality: Something's There, Tension
+Owner's Room
+Carpenter's Hallway
+Kuze Shrine: Attic
+In Front of Kuze Shrine
+Under Floorboards
+Watery Hallway
+Spiral Staircase
+Water Hall
+Kei Stalked 1
+Kei Stalked 2
+Something's There 1
+Something's There 2
+Mute 1
+Mute 2
+Maiden's Room
+Hotaru Episode
+Wind
+Menu 1
+Menu 2
+Game Complete
+Episode Selection
+Begin Mission
+Successful Mission
+Failed Mission
+Game Over
+Extra
+SE: Handmaiden's Hammer
+Crawling Woman Moving SFX
+Episode Title SFX
+Gong SFX
+Footsteps Running Away SFX
+Clock in Hallway Room SFX
+Begin Game SFX
+Lullaby
+Moving Bookshelf SFX
+Projector Turning SFX
+Creaking Footsteps SFX
+Child Crying
+Walking Upstairs SFX
+Orb Slotting into Place SFX
+Cage Being Raised SFX
+Specters Walking
+Pulling Ladder Down from Ceiling SFX
+Passing Human Shadow SFX
+Pot Shaking SFX
+Piece of Wood Falling SFX
+Snow
+Master Carpenter
+Behind Hearth
+Parent/Child
+Menu 3
+Partitioned Room
+Young Female Survivor
+Courtyard 1
+Entrance
+Courtyard 2
+Carpenter
+Hanging Bell Entrance
+Mute (Broad)
+Child
+SE: Koto Lullaby
+Night
+Long Hair Woman
+Something's There
+Mute (Narrow)
+Shadow
+Parent
+Candle
+Engraver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forbidden Valley
+In Front of the Shrine of the Ephemeral 
+Cable Car 1
+Cable Car 2
+Caves
+Disquiet 1
+Disquiet 2
+Womb Cavern
+Unfathomable Forest
+Curio: Old Book, Kurosawa
+Shrine of the Ephemeral
+House of Joining 
+Watarai Residence 
+Hall of Fire
+Hall of Fire 2
+Shrine of Dolls
+Pool of Purification 
+Outside 1
+Outside 2
+Outside 3
+Outside 4
+Indoors 1
+Indoors 2
+Indoors 3
+Indoors 4
+Twilit Peak
+Mikomori Hot Springs
+Mikomori Hot Springs 2
+Mikomori Hot Springs 3
+Mountain Trail 
+Shrine on the Water
+Hikami Tunnel 1
+Hikami Tunnel 2
+Mountain Path
+Mission Complete
+Game Over
+Menu
+Leak
+Mission Title: Summary
+Inventory/Pause
+Mission Selection
+Title Screen
+Darkness Spilling Out
+Darkness Spilling for All Ghosts
+Ose Kurosawa 1
+Ose Kurosawa 2
+Shadow-touched
+Flamekeeper
+Twisted Guardian
+Isame
+Fuyuhi
+Self-injury
+Man in Car Crash
+Pale Mistress
+Woman with Umbrella
+Hanging 1
+Hanging 2
+Child
+Man With a Blade
+Haruka
+Folklorist
+Ghost Marriage Failure
+Funeral Celebrant
+Wedding Celebrant
+Black Water Maiden
+Murdered Shrine Maiden 1
+Murdered Shrine Maiden 2
+Murdered Shrine Maiden 3
+Shiragiku
+Tall Woman
+Jumping Down 1
+Jumping Down 2
+Captive Child 1
+Captive Child 2
+Captive Child 3
+Captive Child 4
+Captive Child 5
+Cable Car Announcement 1
+Cable Car Announcement 2
+Cable Car Announcement 3
+Cable Car Announcement 4
+Cable Car Announcement 5
+Inn 1
+Love after Life
+Black Water Spirit
+Episode Title Screen
+Alluring Song
+Inn2
+Success
+Failure
+Ayane
+SE: Black Water
+SE: Ghost Hand
+SE: Ritual
+SE: Gods of Sin
+
+
+Hall of Fire (The Veiled House: The Forbidden Flame 2)
+Setting Sun
+
+Main Visuals
+Moon and Miku
+Miku with Camera Obscura
+Ghosts in Background
+Sakura and Mafuyu
+Neck
+Children in Background
+Editor's Final Moments
+Ominous Feelings
+Doll Room
+Absorbed by the Camera
+Prologue: Himuro Mansion
+Final Chapter: Kirie
+Miku Wearing a Kimono
+Ghosts
+Miku
+Miku and Mafuyu
+
+
+
+Main Visuals
+Sisters Back to Back
+Woman Slumped Over
+Mio with a Camera Obscura
+Sae Approaching
+Flittering Crimson Butterfly
+Twins Sitting Facing Away
+Mio Sensing Something Behind...
+Mio and Mayu Illustration
+Mio and Mayu Searching the Building
+Unconscious Mayu
+Waning Twins
+Peaking Eye
+Sisters Peering from Trees
+Mio Confronting a Ghost
+Two Escaping from Ghosts
+Endless Slaughter
+Broken Neck Woman
+Kureha Shrine Entrance
+Camera Obscura: Makabe 1
+Camera Obscura: Makabe 2
+Map Carved into a Wall
+Mio Lost in the Forest
+Sisters on the Lake Shore 1
+Sisters on the Lake Shore 2
+Mio & Mayu 1
+Mio & Mayu 2
+Mio & Mayu 3
+Mio & Mayu 4
+Mayu: An Empty Shell
+Girl Reflected in Eyes
+Invitation
+The Ceremony Begins
+Floating Woman
+Mio and Mayu Concept
+Bond
+Road Home
+Lost Road
+Twilight
+Hope
+Between Worlds
+Moonlight
+Crimson Butterfly
+Profound
+Chitose
+Twin Maidens
+Confrontation
+A Great Cost
+Light Through the Trees
+Nocturn
+Promise
+Fatal Frame II: Crimson Butterfly Image 1
+Fatal Frame II: Crimson Butterfly Image 2
+Fatal Frame II: Crimson Butterfly Image 3
+Fatal Frame II: Crimson Butterfly Image 4
+Fatal Frame II: Crimson Butterfly Image 5
+Fatal Frame II: Crimson Butterfly Image 6
+Fatal Frame II: Crimson Butterfly Image 7
+Fatal Frame II: Crimson Butterfly Image 8
+Fatal Frame II: Crimson Butterfly Image 9
+Fatal Frame II: Crimson Butterfly Image 10
+Fatal Frame II: Crimson Butterfly Image 11
+Fatal Frame II: Crimson Butterfly Image 12
+Fatal Frame II: Crimson Butterfly Image 13
+Gilded Screen 1
+Gilded Screen 2
+Gilded Screen 3
+Gilded Screen 4
+Gilded Screen 5
+Gilded Screen 6
+Gilded Screen 7
+
+
+
+
+Main Visuals
+Rei, Kei, Miku
+Lingering Ghosts
+Sundering Woman
+Ghosts Attack
+Rei Kurosawa 1
+Rei Kurosawa 2
+Rei Kurosawa 3
+Rei Kurosawa 4
+Miku Hinasaki
+The Nightmare Begins
+The Curse Takes Hold
+The Curse Gnaws Away at a Woman
+Kei in a Pinch
+Kei Hiding in the Shadows
+Grinning Girl
+A Request for Miku
+Miku and the Nightmare Mansion
+Rei in Yuu's Room
+Crouching Girl
+Rei Waking from a Nightmare
+Miku and a Cat
+Miku's Room
+Ghost under the Floorboards
+The Many Sides of the Mansion
+Rei, Miku, Tattoo
+
+
+
+Main Visuals
+Packaging
+First Camera Obscura
+Token
+Kurosawa's
+Acquiring a Camera Obscura
+Searching in the Rain 1
+Searching in the Rain 2
+Yuri on the Lake
+A Clue...
+The Pale Mistress Approaches
+Maiden in the Mist
+Maiden's Memories
+Effigies and Shiragiku
+Bride on the Lake
+Maiden of Black Water Heading to The Netherworld
+Hisoka at Ichiru Manor
+Ren and Rui
+Fuyuhi's Search
+Miu and Yuri
+Yuri Gazing at the Sunset
+Ghosts Lurking in the Forest
+Box and Pillars
+Watarai Residence Box
+The Pale Mistress Drifting
+Maiden of Black Water on the Lake
+Ghosts in the Hallway
+Twilit Peak Box
+Ghost Marriage
+Miu and Miku
+Shadows Creep Toward Kurosawa
+The Sinking Bride
+Countless Hands Reaching to Get You
+Rain on Mt. Hikami
+Haruka in the Sunset
+Haruka in Womb Cavern
+Fuyuhi visits Kurosawa
+Fuyuhi in Unfathomable Forest
+Pillars
+Ghost Marriage Bride
+Postmortem Photograph
+Floating Corpse
+Ghosts Attack
+Mt. Hikami & Miku
+Fuyuhi Brandishing a Blade
+Ayane Appears 1
+Ayane Appears 2
+Ayane Appears 3
+Spirit Stone Flashlight
+Tsumugi in the Sunset 1
+Tsumugi in the Sunset 2
+Tsumugi in the Sunset 3
+Shrine of the Ephemeral & Tsumugi
+
+
+Miku Illustration
+Miku Illustration 1
+Miku Illustration 2
+Miku: International Release Costume
+Miku Concept Art 1
+Miku Concept Art 2
+Miku Concept Art 3
+Mafuyu Illustration 1
+Mafuyu Illustration 2
+Sane Kirie
+Young Kirie 1
+Crawling Girl 1
+Crawling Girl 2
+Kirie Illustration
+Kirie Ghost Illustration
+Kirie Ghost
+Kirie's Sweetheart
+Kirie's Sweetheart Illustration
+Folklorist
+Folklorist Ghost
+Folklorist's Daughter
+Folklorist's Daughter Illustration
+Hinasaki (Alive)
+Hinasaki (Dead)
+Kirie's House Owner Illustration
+Kirie's House Owner (Alive)
+Kirie's House Owner's Ghost
+Headless Priest (Alive) 1
+Headless Priest (Alive) 2
+Headless Priest (Alive) 3
+Ghosts of Headless Priests 1
+Ghosts of Headless Priests 2
+Ghosts of Headless Priests 3
+Ghosts of Headless Priests 4
+Ghosts of Headless Priests 5
+Ghosts of Headless Priests 6
+Ghosts of Headless Priests 7
+Novelist's Ghost 1
+Assistant's Ghost 1
+Assistant's Ghost 2
+Spirited Away 1
+Spirited Away 2
+Ghost in the Well (Female)
+Ghost in the Well (Male) 
+Long Hair Woman 1
+Long Hair Woman 2
+Ancient Rope Maiden's Ghost
+Spirit 1
+Spirit 2
+Blinding Demon (Alive)
+Blinding Demon 1
+Blinding Demon 2
+Lost Child 1
+Lost Child 2
+Lost Child 3
+Lost Child 4
+
+
+
+
+Mio & Mayu
+Mayu 1
+Mayu 2
+Mayu 3
+Mayu 4
+Mio 1
+Mio 2
+Mio 3
+Itsuki Tachibana
+Seijiro Makabe
+Mikoto Munakata
+Yukata Costume
+Man in Dark 1
+Man in Dark 2
+Woman in Dark 1
+Woman in Dark 2
+Sae Kurosawa's Ghost 1
+Sae Kurosawa's Ghost 2
+Woman in Box 1
+Woman in Box 2
+Masumi Makimura
+Masumi Makimura's Ghost 1
+Masumi Makimura's Ghost 2
+Miyako Sudo
+Miyako Sudo's Ghost 1
+Miyako Sudo's Ghost 2
+Chitose Tachibana 1
+Chitose Tachibana 2
+Broken Neck Woman 1
+Broken Neck Woman 2
+Puppeteer 1
+Puppeteer 2
+Girl Playing Tag 1
+Girl Playing Tag 2
+Girl Playing Tag 3
+Girl Playing Tag 4
+Girl Playing Tag 5
+Girl Playing Tag 6
+Kusabi 1
+Kusabi 2
+Kusabi 2nd Form 1
+Kusabi 2nd Form 2
+Torch Wielding Villagers 1
+Torch Wielding Villagers 2
+Sickle Wielding Villagers 1
+Sickle Wielding Villagers 2
+Bamboo Wielding Villagers
+Villager
+Chief Priest 1
+Chief Priest 2
+Mourner 1
+Mourner 2
+Kusabi's Victims 1
+Kusabi's Victims 2
+Kusabi's Victims 3
+Kusabi's Victims 4
+Kurosawa's House Owner 1
+Kurosawa's House Owner 2
+Azami Kiryu 1
+Azami Kiryu 2
+Sakuya Haibara 1
+Sakuya Haibara 2
+Drowned Woman 1
+Drowned Woman 2
+Sae and Mayu
+
+
+
+
+
+Rei Kurosawa
+Miku Hinasaki
+Kei Amakura
+Costume (Black)
+Costume (Red)
+Suit
+Pinafore
+Costume (Pink)
+Costume (Blue)
+Rei's Clothes
+Pinafore
+Costume (Navy Blue)
+Costume (Brown)
+Veiled Man
+Kiseki
+Crawling Woman
+Ghost Indoors
+Sundering Woman
+Young Female Survivor
+Handmaiden
+4 Handmaidens
+Owner
+Rope Maiden
+Man in White 1
+Man in White 2
+Woman Combing Hair
+Reika (Alive)
+Maiden's Sweetheart
+Wandering Mother and Child
+Kusabi
+Woman Combing Her Hair
+Young Female Survivor
+Wandering Mother and Child
+Old Woman Pushing Pram
+Crawling Woman
+Shrine Carpenter 1
+Shrine Carpenter 2
+Shrine Carpenter 3
+Shrine Carpenter 4
+Reika Kuze
+Tattooed Maiden
+Tattooed Maiden (Final Form)
+Owner
+Kusabi
+Rope Maiden
+Handmaiden: Hisame
+Handmaiden: Shigure
+Handmaiden: Minamo
+Handmaiden: Amane
+Sundering Woman 1
+Sundering Woman 2
+Unused Illustration: Shrine Carpenter
+Unused Illustration: Bloodied Woman
+Unused Illustration: Girl 1
+Unused Illustration: Girl 2
+Unused Illustration: Girl 3
+Unused Illustration: Girl 4
+Unused Illustration: Young Female Survivor
+Unused Illustration: Girl in Red
+Unused Illustration: Girl Combing Her Hair
+Unused Illustration: Blind Woman
+Unused Illustration: Man with Hatchet
+Rei's Robe
+Miku's Robe
+Yuu Aso
+Kuze Kaname
+Mafuyu Hinasaki
+Ruri
+Rei Kurosawa Illustration 1
+Rei Kurosawa Illustration 2
+Rei Kurosawa Illustration 3
+Rei Kurosawa Illustration 4
+Miku Hinasaki Illustration 1
+Miku Hinasaki Illustration 2
+Miku Hinasaki Illustration 3
+Yuu Aso Illustration
+Rei Kurosawa Illustration 1
+Rei Kurosawa Illustration 2
+Rei Kurosawa Illustration 3
+
+
+
+
+
+
+Yuri Kozukata
+Ren Hojo
+Miu Hinasaki
+Hisoka Kurosawa
+Rui Kagamiya
+Shiragiku
+Ose Kurosawa 1
+Ose Kurosawa 2
+Yuri Kozukata Illustration
+Ren Hojo Illustration
+Miu Hinasaki Illustration
+Hisoka Kurosawa Illustration
+Rui Kagamiya Illustration
+Miku Hinasaki Illustration
+Ose Kurosawa Illustration
+Shiragiku Illustration
+Kunihiko Aso Illustration 1
+Kunihiko Aso Illustration 2
+Fuyuhi Himino Illustration 1
+Fuyuhi Himino Illustration 2
+Haruka Momose Illustration 1
+Haruka Momose Illustration 2
+Keiji Watarai Illustration 1
+Keiji Watarai Illustration 2
+Kazuya Sakaki Illustration 1
+Kazuya Sakaki Illustration 2
+Funeral Celebrant Illustration
+Wedding Celebrant Illustration
+Black Water Maiden Illustration 1
+Black Water Maiden Illustration 2
+Black Water Maiden Illustration 3
+Black Water Maiden Illustration 4
+Black Water Maiden Illustration 5
+Black Water Maiden Illustration 6
+Black Water Maiden Illustration 7
+Guardian Illustration
+Pale Mistress Illustration 1
+Pale Mistress Illustration 2
+Shizuma Amaki Illustration
+Koto Okudera Illustration
+Yurine Uno Illustration
+Shiranui Illustration
+Shion Illustration
+Flamekeeper Illustration
+Kyozo Kururugi Illustration
+Hell Being Illustration
+Kirika Reizen Illustration
+Hiori Magabuchi Illustration
+Shino Kururugi Illustration
+Yukiho Tomine Illustration 1
+Yukiho Tomine Illustration 2
+Tomoki Harakawa Illustration 1
+Tomoki Harakawa Illustration 2
+Tadahito Koizumi Illustration
+Masaki Tsujiura Illustration
+Nao Migiwa Illustration
+Hiromichi Kashima Illustration
+Shizuku Mikomori Illustration
+Captive Child Illustration 1
+Captive Child Illustration 2
+Tall Woman Illustration
+Ose Kurosawa Illustration 1
+Ose Kurosawa Illustration 2
+Ayane Illustration 1
+Ayane Illustration 2
+Tsumugi Katashina Illustration
+Yuri Kozukata (Wet) Illustration
+Yuri Kozukata (School Uniform) Illustration
+Camera Illustration
+Ren's Camera Illustration
+The Sacred Casket Illustration
+Reliquary Illustration
+Spirit Stone Flashlight Illustration
+Ose Kurosawa 3
+
+Reception
+Doll Room
+Stairs
+Moon
+Entrance
+Himuro Mansion 1
+Himuro Mansion 2
+Warped Dresser
+Screen
+Invitation 1
+Invitation 2
+Parlor 1
+Parlor 2
+Living Room
+Passageway
+
+
+
+
+
+Rough Background Sketch 1
+Rough Background Sketch 2
+Rough Background Sketch 3
+Rough Background Sketch 4
+Rough Background Sketch 5
+Rough Background Sketch 6
+Rough Background Sketch 7
+Rough Background Sketch 8
+Rough Background Sketch 9
+Rough Background Sketch 10
+Rough Background Sketch 11
+Rough Background Sketch 12
+Rough Background Sketch 13
+Lost Forest 1
+Lost Forest 2
+Minakami Entrance
+First Road
+Misono
+Altar
+Path to the Kureha Shrine
+Path to Tachibana and Osaka's Houses
+Minakami Burial Ground
+Kureha Shrine
+Behind Statue
+Inside Statue 1
+Inside Statue 2
+Chihayafuru Gate
+Whispering Bridge
+Decayed Tree
+Inside Decayed Tree
+Outside Osaka's House
+Osaka's House: Large Sitting Room
+Osaka's House: Inner Sitting Room
+Osaka's House: Hearth Room
+Osaka's House: Earthen Floor Hallway
+Osaka's House: Light and Dark Hallway
+Kiryu's House: Family Chapel
+Kiryu's House: Twins' Room
+Kiryu's House: Puppet Room
+Kiryu's House: Screen Hallway
+Kiryu's House: Passageway
+Tachibana's House: Entrance
+Tachibana's House: Sitting Room
+Tachibana's House: Twin's Room
+Tachibana's House: Light and Dark Hallway
+Tachibana's House: Puppet Room
+Tachibana's House: Consecutive Rooms
+Kurosawa's House: Grounds
+Kurosawa's House: Courtyard Stairs
+Kurosawa's House: Family Chapel
+Kurosawa's House: Passageway
+Kurosawa's House: Wedge Crafting Room
+Kurosawa's House: Doll Display Room
+Kurosawa's House: Owner's Room
+Hellish Abyss：True Form
+Hellish Abyss：Substitute
+Osaka Underground Area
+
+
+
+Female Ghost Attacking from Down a Hallway
+Black Shadow Enveloping the Background
+Nightmare Mansion: Loft
+Nightmare Mansion: Garden
+Nightmare Mansion
+Dresser in Corner of Room
+Further Inside the Mansion
+Path to Ladder
+Rei's House
+Rei's House: Foyer
+Kei Visiting Rei's House

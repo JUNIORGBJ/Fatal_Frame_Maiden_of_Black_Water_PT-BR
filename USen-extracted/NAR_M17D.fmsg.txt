@@ -1,0 +1,8 @@
+Mother's gone...
+Did she return to the mountain?
+Is she here?
+The Camera Obscura... What's it doing here?
+^00You got the ^30~004~^11~14~^11~09~Camera Obscura^10^11~14~.{LF}^00There's a photo on the bed.
+^00This photo is very worn out. Is it Mother's?{LF}It shows her with some man... Is that...{LF}No way...{LF}^00I have to find her.{LF}{LF}{LF}^00I can't let her leave me again.
+I have to go after Mother.
+The scene in this picture...

@@ -1,0 +1,17 @@
+How's Yuri?^01~75~
+She's resting at the moment.{LF}She said she saw Hisoka on the mountain.^01~210~
+Ah, I see...^01~60~
+I wanted to end it all. By myself... Alone.^01~210~
+Hisoka... {LF}She must be on the other side of the water.^01~180~
+Mother... {LF}Don't go...^01~120~
+^00Ren, I... ^01~90~{LF}^00Please, wait. Don't... Don't go.^01~120~
+...?^01~60~
+Hmm?^01~60~
+They're here.^01~75~
+Damn...^01~60~
+Where am I?^01~75~
+Rui...?^01~75~
+Rui...^01~75~
+Wait!^01~75~
+Wait up!^01~75~
+Hey, Rui!^01~75~

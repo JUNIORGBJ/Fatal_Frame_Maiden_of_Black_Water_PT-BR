@@ -1,0 +1,66 @@
+Mr. Hojo, are you all right?^01~60~
+^00Mr. Sakaki...^01~60~{LF}^00He was helping you look for{LF}Postmortem Photographs, wasn't he?^01~90~
+He went missing.^01~60~
+Did he get in touch with you?{LF}Where is he now?^01~60~
+I don't know.{LF}The phone call cut out halfway through.^01~90~
+I'm just glad to know he's still alive.^01~60~
+You're not married yet, are you?^01~90~
+Hmm?^01~45~
+Never mind. It's nothing.^01~60~
+Me, me!^01~90~
+Pick me, pick me!^01~90~
+Me, me!^01~90~
+Wanna play with me?^01~90~
+Am I...^01~90~
+For real?^01~90~
+You...you really came for me.^01~200~
+Th-thanks...{LF}You know, I...I've been waiting.^01~180~
+...Rui!^01~60~
+You...you really came for me.^01~120~
+You...you all right?^01~60~
+Yes.^01~60~
+You see...^01~60~
+I've waited for so long.^01~90~
+Th-thanks...{LF}Y-You know, I...I've been waiting.^01~180~
+Hmm?^01~60~
+For...for someone to choose me.{LF}I've been waiting...so long...for you.^01~300~
+What are you talking about?^01~70~
+I... It's not important.{LF}I understand now...^01~180~
+...Well, I don't understand it at all.^01~100~
+The girl... She's been waiting too.{LF}For the person with her token.^01~220~
+...?^01~60~
+Ren.^01~75~
+It's the Veiled House...^01~100~
+Is...is someone there?^01~80~
+Let's go in.^01~90~
+Ren. You're...too late... I... I'm already...^01~300~
+Kazuya?^01~65~
+Really? Is that him?^01~95~
+This is just like...{LF}like that picture you were looking at.^01~240~
+Kazuya...^01~65~
+The living and the dead...{LF}Bound by ceremonies of Ghost Marriage.^01~170~
+It's just like that video.^01~60~
+Yeah...^01~45~
+That black box...^01~60~
+Such beauty...^01~60~
+This box... Is there something inside of it?{LF}What lies within...and what is its purpose?^01~360~
+Have others been submerged elsewhere on the mountain, too?^01~120~
+The photo is calling to me...^01~120~
+The photo... It's smiling.{LF}Smiling at me.^01~220~
+That picture...^01~90~
+From the moment I let her draw me in,{LF}the union was already complete.^01~280~
+^00I must go.^01~90~{LF}^00I can't just keep waiting until it's too late.{LF}Even if I risk ruin...^01~240~
+Ren.^01~60~
+Was that...{LF}Was that the folklorist?^01~150~
+I guess so...^01~45~
+Just what is going on on this mountain?^01~120~
+I'm not sure.^01~60~
+Is Mr. Sakaki here on the mountain, too?^01~120~
+...^01~60~
+Just like the folklorist...^01~120~
+Enough.^01~60~
+It's about time we head back.^01~90~
+Yeah...^01~60~
+Hey, hey! Over here! C’mon! C’mon!^01~160~
+Here, over here! Let’s play...^01~160~
+Over here, over here! Let’s play!^01~130~

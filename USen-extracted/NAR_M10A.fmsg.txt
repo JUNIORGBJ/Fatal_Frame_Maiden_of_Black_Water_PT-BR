@@ -1,0 +1,24 @@
+That should do it.
+^00Rui seems to be unconscious...{LF}Or maybe just asleep.{LF}^00I wonder what that rumbling was.{LF}Something must be happening on the mountain.{LF}^00Yuri and Miu have both been affected by the noise.{LF}I should make sure that they're OK.
+^00Rui is still asleep.{LF}^00I hope Yuri and Miu are all right.{LF}I should check the surveillance camera feed.
+^00Something strange is happening.{LF}^00Patrolling the hallways won't do much good.{LF}It'd be easier to check the surveillance cameras.
+^00Haruka Momose, the girl Yuri saved, was led away{LF}by the ghost of a girl who killed herself.{LF}^00Something might have come again.{LF}I need to check the surveillance camera feeds to see if the girls are OK.
+Let's see if there are any books in this room about Mt. Hikami.
+I really need to investigate Mt. Hikami and find out{LF}what's going on there.
+I have to check if Yuri and Miu are OK.
+^00They both seem to be fine. But I should keep{LF}checking on them every now and then, just to be sure.{LF}^00They've been acting strange since that ominous rumble.{LF}What's happening on Mt. Hikami?{LF}^00I should look into the mountain's history.{LF}They must have some books about it here.
+^00^11~14~Press ^20~31~ to stop watching the feed and get up.{LF}^00^11~14~If something strange happens on the camera,{LF}get up and investigate it.
+^00There's static in the feed from Yuri's room.{LF}I'd better go and check it out.
+Is she all right?
+She seems to be having a nightmare, but is otherwise OK.
+I should get back to watching the surveillance camera feed.
+There's static in the feed from Miu's room.{LF}I'd better go and check it out.
+Everything seems normal.{LF}Maybe it was just static.
+I should go and check on Miu, just in case.
+Why is the TV on?
+There's nothing but static on the screen.
+I should probably switch the TV off.
+^00The camera in Yuri's room is off.{LF}What's going on?{LF}^00I should go check it out.
+Wait, where...? Rui must have woken up...
+The camera in Yuri's room is off.{LF}Something might be happening in there...
+^00I've got to stay in here and keep checking the camera feeds{LF}to make sure the girls are OK.

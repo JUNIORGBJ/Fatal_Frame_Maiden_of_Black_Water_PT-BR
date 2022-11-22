@@ -1,0 +1,26 @@
+^00The Shadow Sigil... A curse that allows{LF}the user to connect with the world of the dead.{LF}^00It enables the user to sense ghosts{LF}while masking their own presence.
+I sense something...
+I feel it. It's different from before.
+^00^11~12~Tutorial: Spirit Filament^10{LF}^00^11~14~The Spirit Filament will react to a ghost's presence{LF}and indicate its status.{LF}^00^11~14~Blue: Unaware. {LF}The ghost is completely unaware of Ayane's presence.{LF}^00^11~14~Yellow: Searching. {LF}The ghost has sensed Ayane and is looking for her.{LF}^00^11~14~Even when they cannot see Ayane, {LF}ghosts can hear her if she makes a noise.{LF}^00^11~14~Red: Attacking. {LF}The ghost knows where Ayane is and is ready to attack.
+If you don't run and avoid making noise, ghosts will not notice you.{LF}However, there is something you need to keep in mind.
+^00^11~12~Tutorial: Concealment^10{LF}^00^11~14~The purple gauge to the right of the screen shows the degree of your{LF}concealment. It decreases as you near ghosts that can sense you.{LF}^00^11~14~When it reaches zero, all ghosts can see you. {LF}The gauge recovers when you move out of the ghosts' detection range.
+^11~14~Ghosts will notice you when you make noise. To avoid detection,{LF}move away from the ghosts and stand still for a while.
+^00It seems ghosts can sense the Purple Thread. {LF}^00I should reel it back in before they react to it.
+^00Avoiding these guys could be tricky...{LF}I should give this thing a try.
+^00^11~12~Tutorial: Spirit Stone Flashlight^10{LF}^00^11~14~This is the only means by which Ayane can fight ghosts.{LF}^00^11~14~Flash the flashlight at ghosts multiple times to temporarily stun them.{LF}^00^11~14~You can also charge up the flashlight to stun ghosts with just one flash.{LF}^00^11~14~Ghosts will recover after a while, {LF}but they will have lost track of Ayane by then.{LF}^00^11~14~Use the Spirit Stone Flashlight wisely{LF}to get past ghosts that are in your way.
+It's noticed me. That seemed to have some effect,{LF}but I'll need to hit it with something stronger.
+^00It seems the ghost has been weakened...{LF}This is my chance to get past.
+^11~14~Your concealment gauge will not recover while you are running.{LF}To let it recover, move away from ghosts and stand still for a while.
+This one looks like trouble...
+^00It's a ghost, but it reeks of blood...{LF}^00That must be the blood of its victims.{LF}It may have been human once,{LF}but I doubt there's any humanity left now.{LF}^00I'd better make sure it doesn't notice me.
+^00Tsumugi, she's...inside...{LF}^00That was a vision. {LF}Is this another effect of the Shadow Sigil?{LF}^00Tsumugi must be trapped and close to death...{LF}That may be true of me as well...
+
+The Purple Thread isn't pointing that way. {LF}I have to stay focused.
+The thread leads towards that shrine.
+^00Was that Tsumugi?!{LF}^00N-no, it couldn't have...
+^00This is where the Purple Thread is telling me to go.{LF}^00That must have been an illusion... {LF}Or perhaps it was a vision of the past.{LF}^00Anyway, the thread will lead me to Tsumugi.{LF}I just have to trust in it.
+It hasn't noticed me... {LF}Should I wait for it to go away?
+^00^11~14~Ghosts will be drawn to any noise you make.{LF}^00^11~14~Walking will alert them more than when you stand still,{LF}and running will quickly bring them down upon you.{LF}^00^11~14~The safest option is to stand still and wait{LF}for the spirit to go past, and then walk upstairs.
+I can sense... There's three of them.
+^00^11~14~If ghosts get too close to you, even if you don't move,{LF}your concealment gauge will go down and you'll be spotted.{LF}^00^11~14~Sometimes you may have to quietly approach a ghost{LF}and stun it with the Spirit Stone Flashlight.
+I can't sense it anymore. With the flashlight and the Shadow Sigil,{LF}I'll be able to get Tsumugi out of here.

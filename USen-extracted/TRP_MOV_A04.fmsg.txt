@@ -1,0 +1,4 @@
+^00You're suffering because of your sister.^01~140~{LF}^00^01~225~{LF}^00She understands how you feel, I promise.^01~120~{LF}^00^01~135~{LF}^00She's your family...^01~100~
+^00It might not seem like it now, but don't worry.^01~90~{LF}^00^01~65~{LF}^00She cares for you very deeply.^01~80~{LF}^00^01~130~{LF}^00That's what families are:{LF}people who care for one another.^01~135~
+^00It's OK.^01~65~{LF}^00You'll get stronger.^01~55~
+^00I'll...^01~45~^00^01~120~^00I'll get strong.^01~100~

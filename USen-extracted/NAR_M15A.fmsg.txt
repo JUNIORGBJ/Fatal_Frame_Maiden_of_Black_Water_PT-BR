@@ -1,0 +1,26 @@
+^00I saw Mother's trace disappear in the cemetery.{LF}Maybe I'll be able to find something if I examine it{LF}using the Camera Obscura.{LF}^00I wonder if I can borrow it one more time...
+The camera should be in Yuri's room.
+^00^30~004~You got the ^11~09~Camera Obscura^10.{LF}^00^31~004~^11~14~You can now use the Camera Obscura.^10{LF}^00There were some notes and a photograph under the camera.
+^00I can't track down Mother without the Camera Obscura.{LF}I'll have to...borrow it from Yuri.
+^00Now I have the Camera Obscura and the photograph of my mother,{LF}I'll be able to follow her trace.{LF}^00This time, I'll find her.
+^00Mother didn't come this way.{LF}I need to follow her trace.
+^00Mother didn't come this way.{LF}I need to follow her trace.
+I've got to get off this mountain.
+It looks like she's having a bad dream.
+With the Camera Obscura at my disposal I'll find Mother for sure.
+^00^30~063~It's her photo. If I use the camera to follow her trace...{LF}I can do it. I can find her.
+Mother didn't come this way.{LF}Her trace leads higher up the mountain.
+Nothing seems out of the ordinary here.
+A votive picture celebrating someone's marriage is on the wall.
+I need to follow Mother's trace...
+^30~049~Shrine Maiden's Diary
+Contents of a shrine maiden's diary.
+^00The room with a mirror, just like in the photo.{LF}^00The shadow disappeared from the picture.
+^00Mother...
+What's he doing here...
+Was that...that guy...
+I cannot sense anything in this room.{LF}It seems no one's here.
+The ghost dropped something when it disappeared.
+Mother is in here...
+The camera is reacting to something...
+^00What? This way was blocked before.{LF}Mother must be...

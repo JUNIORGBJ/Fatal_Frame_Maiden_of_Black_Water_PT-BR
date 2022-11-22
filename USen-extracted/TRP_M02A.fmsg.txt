@@ -1,0 +1,56 @@
+Let's start with a little practice.^01~60~
+It works exactly like a normal camera.^01~90~
+Give it a try. Just hold up the camera.^01~90~
+What's wrong?^01~60~
+It's just like a normal camera.^01~90~
+Just look through the viewfinder and press the shutter button.^01~120~
+The Camera Obscura allows you{LF}to photograph the supernatural.
+Even when something is lost it leaves clues,{LF}traces... This will capture them.^01~210~
+Well? Do you see anything?^01~90~
+Things around here seem to have changed.^01~90~
+It wasn't exactly bustling, but it never used to be like this.^01~210~
+The mountain used to be revered as sacred ground.{LF}Then it became a tourist destination...{LF}Now it's known as a place to commit suicide.^01~390~
+Apparently only those kind of people come to{LF}the mountain these days.^01~180~
+The Camera Obscura photographs the Netherworld,{LF}a whole other world separate from our own.^01~240~
+That world that we see through the lens{LF}is not unlike the afterlife.^01~180~
+Make sure not to draw too much interest{LF}from the things you see.^01~180~
+If you aren't careful, you might be drawn into{LF}the Netherworld yourself.^01~180~
+Take this.^01~60~
+It's a "token." It will help lead you to what we're looking for.^01~240~
+The Camera Obscura will allow you{LF}to sense the presence of hidden things{LF}^00with a strong connection to the token.^01~240~
+Now don't panic, but be sure to stay on your guard.{LF}Go on and head inside.^01~180~
+Don't worry. I'm right here with you.^01~120~
+OK, come on.{LF}Let's do this before it gets dark.^01~120~
+^00This is a Postmortem Photograph. It's not just a normal{LF}photograph, it was taken to mourn the dead.^01~150~{LF}^00It's why Ren sent us here.^01~105~
+It was customary around this area to leave these{LF}photographs behind.^01~180~
+I've heard that other parts of the country{LF}used to observe similar customs.^01~180~
+But it seems that this photo came from somewhere around{LF}here, and he wants us to see whether we can find any more.^01~210~
+Yuri, wait.^01~75~
+I can sense something.^01~75~
+Let's follow that shadow.^01~75~
+It's called a "trace," a shadow of the past.{LF}The token is showing you the way.^01~240~
+These traces can lead you to the right path.^01~120~
+Maybe it's in this room.^01~90~
+It appears we need a key.^01~60~
+Try using the Camera Obscura.^01~75~
+Yuri, you go on ahead of me and look for the key to the{LF}door. I'll wait for you here.^01~210~
+It's somewhere in this room.{LF}Take a look around.^01~180~
+Try searching with the Camera Obscura.^01~120~
+It could be "hidden," invisible to the naked eye.^01~150~
+Hold on.{LF}There's something there.^01~180~
+There's something there.^01~135~
+^00Yuri,^01~45~{LF}^00searching for objects as we did just now might be easy,{LF}but searching for people is much more difficult.^01~210~
+They might lead you away to the Netherworld.^01~120~
+Yuri.^01~60~
+Psychometry allows you to see{LF}the psychic imprint as a "shadow."^01~210~
+Never follow after the shadow{LF}of someone who has been spirited away.^01~150~
+You might end up seeing something you wish you hadn't.^01~150~
+It's starting to get dark.{LF}Come on, let's head back.^01~75~
+Yuri, there's one more very important use of the{LF}Camera Obscura.^01~150~
+If a being from the Netherworld should appear,{LF}be sure to use the Camera Obscura.^01~210~
+It has the power to dispel creatures born of that darkness.^01~180~
+Hisoka!^01~60~
+Yuri! the Camera Obscura!^01~90~
+Come on, this way.^01~60~
+Yuri, hang on.{LF}Try not to stray too far from me.^01~150~
+Let's head back.^01~100~

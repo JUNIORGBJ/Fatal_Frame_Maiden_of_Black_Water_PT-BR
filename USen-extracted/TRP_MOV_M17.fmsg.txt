@@ -1,0 +1,142 @@
+Stay away... There's nothing here for you.^01~120~
+I'm not sick anymore... I'm not sick anymore...^01~120~
+I'm not sick anymore... I'm not sick anymore...^01~220~
+I can see things that no one else can.^01~120~
+Ever since my family died.^01~100~
+^00Images of death that only I could see...^01~110~{LF}^00^01~85~{LF}^00I could feel them surrounding me.^01~110~
+^00Images of death that only I could see...^01~110~{LF}^00^01~10~{LF}^00I could feel them surrounding me.^01~110~
+^00And since then, death has been by my side.^01~70~{LF}^00^01~90~{LF}^00That's how I knew where I needed to go.^01~210~
+^00And since then, death has been by my side.^01~100~{LF}^00^01~115~{LF}^00That's how I knew where I needed to go.^01~140~
+^00I've been standing at this precipice.^01~140~{LF}^00^01~90~{LF}^00Thinking about whether I should take that final step.^01~240~
+^00I've been standing at this precipice.^01~100~{LF}^00^01~100~{LF}^00Thinking about whether I should take that final step.^01~150~
+It opens...^01~60~
+Accept me.^01~120~
+^00A device which paints pictures that look perfectly real...^01~190~{LF}^00^01~10~{LF}^00I hear that the pictures it paints are so lifelike,^01~160~{LF}^00you can even see what is in a person's heart.^01~140~
+^00A device which paints pictures that look perfectly real...^01~160~{LF}^00^01~10~{LF}^00I hear that the pictures it paints are so lifelike,^01~120~{LF}^00you can even see what is in a person's heart.^01~130~
+Over here!^01~30~
+The ceremony is tomorrow.^01~80~
+I wish we could stay here, hidden away forever.^01~125~
+^00This is a token to remind you.^01~90~{LF}^00^01~30~{LF}^00It's a piece of my soul.^01~70~
+Always keep it with you.^01~110~
+Never forget.^01~55~
+Don't go... Don't leave me...^01~120~
+Don't go... Don't leave me...^01~120~
+I have nothing...no one...^01~130~
+Mother!^01~40~
+^00You've come.^01~35~{LF}^00You've come at last.^01~55~
+Come on, over here!^01~40~
+We'll be together at last...^01~85~
+You see...^01~30~
+Ahh!^01~120~
+I've always been alone.^01~66~
+I just wish we could stay here, hidden forever.^01~125~
+I was different from the other shrine maidens.^01~120~
+They told me I wouldn't live long.^01~120~
+^00That's why no one wanted to be my friend.^01~100~{LF}^00I was lonely.^01~40~
+But I won't be alone anymore.^01~120~
+We'll always be together.^01~65~
+Unable to die, we'll be together forever.^01~125~
+No, it won't be right.^01~60~
+^00I cannot die.^01~45~{LF}^00^01~40~{LF}^00I will be a Pillar for eternity...^01~85~
+But you, you can die.^01~120~
+You shouldn't waste that. Now go!^01~95~
+This place...^01~30~
+This place...^01~45~
+The shrine where they played as children.{LF}Now, it's nothing but ruins.^01~170~
+It has fallen into oblivion,{LF}together with its maidens.^01~150~
+You're here at last...^01~140~
+Will you join me in the darkness?^01~125~
+I wanted to see you this one last time.^01~115~
+I thought we wouldn't get the chance.^01~80~
+You came here to finish it, didn't you?^01~150~
+Yes. To end it, together with you.^01~90~
+I love you.^01~35~
+^00I know. I can see it, in your heart...^01~150~{LF}^00^01~20~{LF}^00But...I wanted to hear you say it.^01~135~
+I wanted to live with you.{LF}That was all I wanted.^01~105~
+^00I wanted to live with you.^01~60~{LF}^00^01~90~{LF}^00That was all I wanted.^01~80~
+It was my longing, and now I finally know.^01~160~
+^00I'm glad I could finally tell you.^01~70~{LF}^00^01~100~{LF}^00After so long.^01~65~
+^00I’ve wanted to tell you for so long.^01~80~{LF}^00^01~80~{LF}^00I’m glad I finally could.^01~80~
+Goodbye, my love.^01~25~
+Good bye...^01~20~
+So you have come here to say good bye...^01~120~
+^00When you took that picture of me...^01~70~{LF}^00^01~55~{LF}^00You took away a part of my soul.^01~168~
+^00It caused me a great deal of suffering.^01~140~{LF}^00^01~130~{LF}^00Even so, I was still happy.^01~140~
+I shall return to the darkness.^01~90~
+^00But before I go, photograph me.^01~105~{LF}^00^01~50~{LF}^00Save a part of me.^01~35~{LF}^00^01~42~{LF}^00Before I'm sealed away forever.^01~125~
+^00All I wanted...was to save my brother.^01~155~{LF}^00^01~100~{LF}^00To just bring him back.^01~75~
+Or maybe...I really wanted to return to the past.^01~188~
+To return to those happier times{LF}and stay there, forever.^01~120~
+^00I wish I had...^01~50~{LF}^00someone I could cross to the other side with.^01~104~
+At least you have Father.^01~110~
+^00...I don't have anyone.^01~90~{LF}^00^01~40~{LF}^00I'm alone.^01~30~
+^00I hated you for the longest time.^01~165~{LF}^00^01~45~{LF}^00But now, I...I get it.^01~105~{LF}^00^01~50~{LF}^00I understand.^01~30~
+^00I hated you for the longest time.^01~120~{LF}^00But now, I...I get it.^01~195~{LF}^00^01~65~{LF}^00I understand.^01~70~
+^00Just don't go.^01~45~{LF}^00Please.^01~35~
+^00I won't.^01~30~{LF}^00^01~10~{LF}^00I'm not going anywhere.^01~65~
+...Liar.^01~40~
+I'm glad I didn't take you with me.^01~120~
+^00I think I knew all along.^01~45~{LF}^00^01~35~{LF}^00You don't belong in this world anymore.^01~135~{LF}^00^01~100~{LF}^00When I found you,{LF}you were already disappearing.^01~130~{LF}^00^01~30~{LF}^00Only a shadow of you remained.^01~145~
+^00I think I knew all along.^01~85~{LF}^00^01~35~{LF}^00You don't belong in this world anymore.^01~95~{LF}^00^01~40~{LF}^00When I found you,{LF}you were already disappearing.^01~125~{LF}^00^01~40~{LF}^00Only a shadow of you remained.^01~95~
+^00You've made it here...^01~95~{LF}^00^01~75~{LF}^00To the Shadowspring.^01~80~
+^00There's no need to be scared.^01~100~{LF}^00^01~120~{LF}^00Join me in the Black Water.^01~90~
+^00Hurry, while I last...^01~90~{LF}^00^01~155~{LF}^00Before the Black Water overflows once more...^01~140~
+^00Hurry, while I last...^01~90~{LF}^00^01~70~{LF}^00Before the Black Water overflows once more...^01~140~
+He left the mountain.^01~120~
+^00I too must leave.^01~60~{LF}^00^01~40~{LF}^00I am a Pillar.{LF}I must fall through the Black Water. Forever.^01~240~{LF}^00^01~130~{LF}^00That is my duty.^01~80~
+^00I will keep falling...down...^01~120~{LF}^00^01~65~{LF}^00My heart is filled with those final moments.^01~110~{LF}^00^01~62~{LF}^00I am dying over and over...forever...alone...^01~250~
+Someone...please...accept me.^01~170~
+I love you.^01~25~
+^00Those words were too powerful for me.^01~100~{LF}^00^01~50~{LF}^00They were...a curse.^01~100~
+^00I did not want to die with him.^01~130~{LF}^00^01~40~{LF}^00I wanted to live with him.^01~80~
+I feel as though the curse has finally been lifted.^01~140~
+^00And so, I shall go alone.^01~160~{LF}^00^01~20~{LF}^00I'll let the dark current take me.^01~50~
+Wait...^01~45~
+^00Your glance has saved my soul.^01~100~{LF}^00^01~60~{LF}^00I leave my last thoughts with you.^01~110~
+^00Now I can go. I shall fall through the darkness.^00^01~330~{LF}^00Descend ever deeper, for eternity.^01~120~
+I am so glad it was you.^01~80~
+Yuri!^01~30~
+He left the mountain.^01~130~
+^00I too must leave.^01~60~{LF}^00^01~40~{LF}^00I am a Pillar. I must fall through the{LF}Black Water. Forever.^01~240~{LF}^00^01~130~{LF}^00That is my duty.^01~80~
+^00I too must leave.^01~100~{LF}^00^01~45~{LF}^00I am a Pillar. I must fall through the{LF}Black Water. Forever.^01~300~{LF}^00^01~85~{LF}^00That is my duty.^01~90~
+^00I will keep falling...down...^01~120~{LF}^00^01~65~{LF}^00My heart is filled with those final moments.^01~110~{LF}^00^01~62~{LF}^00I am dying over and over...forever...alone...^01~300~
+Someone...please...accept me.^01~180~
+You are not alone.^01~90~
+^00I wanted to live my life by his side.^01~100~{LF}^00^01~35~{LF}^00However, the person I want to die with is you.^01~185~
+We share the same pain.{LF}We can descend into the darkness together.^01~200~
+Come.^01~30~
+^00I...^01~20~{LF}^00^01~50~{LF}^00am alone.^01~20~
+You are not alone.^01~80~
+Yuri!^01~25~
+Forgive me...^01~13~
+^00Don't get up yet.^01~35~{LF}^00^01~45~{LF}^00Stay there. You need to rest.^01~80~
+^00Oh, come on.^01~30~{LF}^00^01~20~{LF}^00I'm not going anywhere.^01~50~{LF}^00^01~60~{LF}^00Just trust me.^01~60~
+How good of you to have come.^01~100~
+My dear Master Aso,^01~120~
+you are most welcome.^01~120~
+Now then, shall we go to see your beloved bride-to-be?^01~210~
+I thought that I'd be scared of death...^01~110~
+...but I can't even cry.^01~60~
+Yuri.^01~50~
+What we're looking for should be in here.^01~80~
+This is a Camera Obscura, it will let you see the unseen.^01~100~
+That dream again...^01~50~
+Um, Mr. Hojo...?^01~60~
+She found the photobook.^01~120~
+Take a look.^01~50~
+You've seen too much.^01~120~
+You will dissolve into nothing.^01~80~
+^00Um, excuse me...^01~80~{LF}
+^00Um, excuse me...^01~70~{LF}^00Hello^01~30~
+I'm looking for Hisoka Kurosawa.^01~70~
+I've been waiting for her to tell me{LF}if...if...if she could help me find someone.^01~180~{LF}
+^00She might have gone to the mountain.^01~70~{LF}^00...Mt. Hikami.^01~50~
+It's an infamous suicide spot, isn't it?^01~100~
+^00There's a local superstition warning people{LF}not to go up Mt. Hikami after dusk.^01~170~{LF}^00If you climb the mountain in the twilight hours,^01~80~{LF}^00it'll show you a different form, its true form.^01~130~{LF}^00^01~50~{LF}^00Only those who wish to die come here at that time.^01~120~
+^00There's a local superstition warning people{LF}not to go up Mt. Hikami after dusk.^01~150~{LF}^00^01~30~{LF}^00If you climb the mountain in the twilight hours,^01~75~{LF}^00it'll show you a different form, its true form.^01~130~{LF}^00^01~45~{LF}^00Only those who wish to die come here at that time.^01~120~
+^00You cannot leave the mountain.^01~90~{LF}^00^01~90~{LF}^00You will dissolve into nothing.^01~70~
+^00You cannot leave the mountain.^01~75~{LF}^00^01~85~{LF}^00You will dissolve into nothing.^01~70~
+I know you want to die.^01~55~
+I know you want to die.^01~45~
+Let us fall together...^01~100~
+Let us fall together...^01~100~

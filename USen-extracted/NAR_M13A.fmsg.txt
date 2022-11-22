@@ -1,0 +1,43 @@
+^00In my dream, Rui was in that folklorist's house,{LF}the one that we searched before.{LF}^00I should check it out again, I might find a clue which will lead me to Rui.
+According to the map, there should be a swamp here...
+The ghost dropped something when it disappeared.
+^00Rui didn't come here. I need to get to the folklorist's house.
+This door must be locked from the other side.
+The wall is falling apart.{LF}I might be able to find a way in.
+The door is being held shut by a powerful force.
+This door must be locked from the other side.
+The door is being held shut by a powerful force.
+The force that was blocking the door is gone.
+The door is now unlocked.
+^00There's a black box in the middle of the room.{LF}^00Dark stains mark the floor, as if something has seeped out...
+^00Where am I?
+The door won't budge.
+That sounded like some sort of a party...
+^00The door is being held shut by a powerful force.{LF}^00Mist is starting to fill the building.{LF}The Veiled House may be about to disappear.
+Kazuya...
+^00The mist is getting thicker.{LF}I don't have much time left.
+^00Rui's still so weak. We'll take the cable car.
+^00The map doesn't show the location of the Veiled House.{LF}^00My best bet is to go through the tunnel below{LF}the Shrine of Dolls again and hope it appears like last time.
+^00I may find the Veiled House if I go through{LF}the tunnel below the Shrine of Dolls again.{LF}^00There's no time to lose. Rui's waiting for me.
+^00The lattice door is locked and the lock seems to be broken.{LF}^00The way to the Veiled House is further inside the cave.
+This door must be locked from the other side.
+The door is now unlocked.
+The door is being held shut by a powerful force.
+The force that was blocking the door is gone.{LF}The door can now be opened.
+This door must be locked from the other side.
+The door is now unlocked.
+This door must be locked from the other side.
+The door is now unlocked.
+This door must be locked from the other side.
+^00The door is locked.{LF}^00The Camera Obscura is reacting to it...
+You opened the door with the ^30~048~^11~09~Rusty Key^10.
+^00There's something in the photo...{LF}^00Portraits...of the deceased?{LF}That must be where the key is hidden.
+The portraits from the photograph must be somewhere in this house.
+^00The door is locked from the other side.{LF}^00Those portraits from the photograph are somewhere in this house,{LF}I'm sure of it.
+Something fell out of the frame.
+You got the ^11~09~Rusty Key^10.
+The door is being held shut by a powerful force.
+^00The map doesn't show the location of the Veiled House.{LF}^00My best bet is to go through the tunnel below{LF}the Shrine of Dolls again and hope it appears like last time.
+Was that...Kazuya?
+^00Rui is acting strange, maybe it's one of the ghosts again.{LF}^00I should follow...
+Kazuya dropped something when he disappeared.

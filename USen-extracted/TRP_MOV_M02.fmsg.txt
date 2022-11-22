@@ -1,0 +1,27 @@
+I thought that I'd be scared of death...^01~110~
+...but I can't even cry.^01~60~
+I am alone.^01~25~
+In the end, I am alone.^01~100~
+I will end it all, alone.^01~80~
+Yuri.^01~50~
+What we're looking for should be in here.^01~80~
+This is an excellent chance for you to take the lead.^01~80~
+Here, take this.^01~50~
+^00This is a Camera Obscura, it will let you see the unseen.^01~100~{LF}^00Including the clues that will help you find{LF}what we're here for.^01~130~
+This is your opportunity, your first case.^01~80~
+I'm sure you'll do well.^01~50~
+Hisoka!^01~50~
+This is what we came here for.^01~70~
+We shouldn't stay here any longer than we need to.^01~85~
+
+You're right.^01~30~
+Let's head back before it gets dark.^01~60~
+OK.^01~30~
+^00I'm sorry.^01~55~{LF}^00I...I shouldn't have brought you here.^01~100~
+I am...alone.^01~90~
+That dream again...^01~50~
+^00Um, Mr. Hojo...?^01~60~{LF}^00Hisoka came by a little while ago...^01~70~
+Huh...Hisoka? What did she want?^01~80~
+She found the photobook.^01~120~
+She did?!^01~120~
+Yeah, here. Take a look.^01~50~

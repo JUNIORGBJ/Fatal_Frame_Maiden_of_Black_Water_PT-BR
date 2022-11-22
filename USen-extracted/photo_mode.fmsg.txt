@@ -1,0 +1,258 @@
+Lens
+Frame
+
+Depth of Field
+Focal Length
+Aperture
+NPC/Enemy
+
+
+
+Character
+Display
+Pose
+Expression
+Placement Cost
+
+None
+Low
+Medium
+High
+ON
+OFF
+Cost
+Placement Cost 2
+Placement Cost 3
+
+Default
+: Select Item
+: Switch Item
+: Move Camera
+: Rotate Camera
+: Roll
+: Raise/Lower Camera
+: Reset Camera Position
+: Character Operation Mode
+: Switch Operation Speed
+: Switch UI Display
+: Exit Snap Mode
+: Take a picture
+
+: Select Character
+: Confirm
+: Camera Operation Mode
+: Move Horizontally
+: Rotate
+: Move Vertically
+: Align with Gazing Point
+: Character Selection
+: NPC/Enemy Operation
+: Party Operation
+: Back
+: Change Displayed Character
+
+
+
+
+
+Snap Mode
+End Snap Mode?
+You cannot switch to Snap Mode now.
+You cannot place any more characters.
+Cannot be placed. The cost would exceed the maximum allowed.
+^00Welcome to Snap Mode.{LF}^00Here, you can freely position and manipulate characters{LF}and ghosts in order to take the perfect picture.{LF}^00In camera operation mode, you can adjust the lens and frame,{LF}whereas in character operation mode, you can reposition characters, etc.{LF}^00Once everything is in place, remove the menu display and get snapping!
+
+
+
+
+
+None
+High Saturation
+High Contrast
+Enhance Blue
+Enhance Green
+Enhance Red
+Sharpen (L)
+Sharpen (H)
+Blur (L)
+Blur (H)
+Monochrome
+Sepia
+Negative
+Dithering (Color)
+Dithering (Monochrome)
+Silhouette
+Miniature
+Pastel
+Default
+Psychic Lens
+Noise
+Instant Camera Style
+Shocking
+Dark
+B/W
+Film grain
+None
+Photograph
+Wooden Frame
+Luxurious Frame
+Tainted
+Bloodstained
+The Unseen
+Camera Obscura
+
+Collage
+Standard Pose
+Holding Light
+Walking
+Patrolling
+Looking Left
+Looking Right
+Camera Pose 1
+Camera Pose 2
+Camera Pose 3
+Camera Pose 4
+Camera Pose 5
+Fighting
+Dying
+Crawling
+Sitting
+Sleeping
+Drooping Head
+In Agony
+On Phone
+Inside Box
+Crouching
+Spying
+Readying Spirit Stone Flashlight
+Lying Supine
+Shocked
+Relieved
+Surprised
+Resting
+Reacting
+Looking Up
+Wandering
+Advancing
+Attacking
+Attacking (Special)
+Being Attacked
+Being Attacked (Special)
+Special Pose 1
+Special Pose 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Normal
+Normal
+Cautious
+Uneasy
+On Edge
+Stupefied
+Dying
+Unconscious
+In Agony
+Smug (Closed Eyes)
+Winking (Left)
+Winking (Right)
+Suffering
+Grinning
+Forced Smile
+Troubled
+Defeated
+Melancholic
+Determined
+Crying
+Sleeping
+Blinded
+Deceitful
+Depressed
+Bashful
+Half Asleep
+Reproachful
+Dissatisfied
+
+
+
+Yuri Kozukata
+Miu Hinasaki
+Ren Hojo
+Ayane
+Hisoka Kurosawa
+Miku Hinasaki
+Fuyuhi Himino
+Fuyuhi Himino
+Haruka Momose
+Rui Kagamiya
+Kunihiko Aso
+Keiji Watarai
+Kazuya Sakaki
+Tsumugi Katashina
+Akari Narumi
+Man Hanged by the Neck
+不来方夕莉（同行者）
+雛咲深羽（同行者）
+不来方夕莉（横たわる）
+黒澤密花（横たわる）
+雛咲深羽（横たわる）
+雛咲深紅（横たわる）
+鏡宮累［旧名：MAKI］（横たわる）
+不来方夕莉（コス選択画面用）
+雛咲深羽（コス選択画面用）
+放生蓮（コス選択画面用）
+雛咲深紅（幽婚衣装）
+Woman in a Casket
+Hisoka in a Casket
+Man From the Water 1
+Man From the Water 2
+Man From the Water 3
+Woman From the Water 1
+Woman From the Water 2
+虜子（チュートリアル用）
+Man With a Blade
+Man of Forbidden Flame
+Man Carrying a Reliquary
+Crushed Man
+Drowned Woman
+Drowned Woman
+Maiden of Black Water 1
+Maiden of Black Water 2
+Maiden of Black Water 3
+Blood-Soaked Maiden 1
+Blood-Soaked Maiden 2
+Blood-Soaked Maiden 3
+Old Woman in White
+Old Woman in Black
+Maiden in a Reliquary
+Haruka in a Reliquary
+Woman who was Hanged
+Man Hanged by the Neck
+Woman Who Jumped
+Woman Who Fell
+Woman with a Cut Throat
+Fuyuhi with a Cut Throat
+Man Stuck in a Reliquary
+Kazuya in a Reliquary
+White-haired Girl
+White-haired Girl
+Boy in White
+Girl in Yellow
+Girl in Black
+Doll 1
+Doll 2
+Woman with an Umbrella
+Tall Woman
+Bride in Black
+Bride from Black Water
+Bride of Immortal Flower
+^20~39~

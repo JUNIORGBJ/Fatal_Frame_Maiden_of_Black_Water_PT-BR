@@ -1,0 +1,13 @@
+The person you are seeking...^01~70~
+They have taken part in a Ghost Marriage.^01~100~
+You should rejoice, young lady.^01~125~
+^00You should fear nothing, child.^01~85~{LF}^00^01~10~{LF}^00For you, as a Shadowborn...{LF}You, too, must fulfill your duty and become a sacred Pillar.^01~210~
+Mother...^01~50~
+I don't have much time left.^01~160~
+^00If only I could go back to then...^01~120~{LF}^00^01~110~{LF}^00If things could just be as they were...^01~95~
+That is my last wish.^01~125~
+Mother... Mother!^01~72~
+Miu...^01~120~
+Miu... Forgive me...^01~85~
+^00No! No!^01~25~{LF}^00^01~10~{LF}^00I won't let you do it!^01~25~
+Come back with me!^01~65~

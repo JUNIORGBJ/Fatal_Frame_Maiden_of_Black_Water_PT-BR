@@ -1,0 +1,511 @@
+Kurosawa's Antiques
+Kurosawa's Antiques 1F
+Store
+Store Hallway
+Office
+Main Storeroom
+Courtyard Hallway
+Service Entrance
+Office Stairway
+Kurosawa's Antiques 2F
+Store Hallway
+Secondary Storeroom
+Central Hallway
+Hisoka's Room
+Inner Hallway
+Yuri's Room
+Hojo Residence - Study
+Hojo Residence
+Study
+Mikomori Hot Springs
+Mikomori Pond
+Entrance
+Mikomori Bridge
+Mt. Hikami Entrance
+Behind Ichiru Manor
+Exit to Cable Car
+Ichiru Manor - 1F
+Room 102
+Room 101
+Guest Room Hallway
+Lounge Hallway
+Lounge
+Linen Room
+Access Stairway
+Passageway
+Old Building - 1F
+Passageway
+Staff Area Entrance
+Staff Room
+Staff Hallway
+Owner's Room
+Ichiru Manor - 2F
+Access Stairway
+Second Floor
+Room 201
+201 & 202 Veranda
+Room 202
+Room 203
+Guest Room Hallway
+Guest Room Stairway
+Ichiru Manor - 3F
+Guest Room Stairway
+Rooftop
+Rooftop
+Third Floor
+Observation Room
+Back Door
+Exit to Hikami Tunnel
+Owner's Room
+Cable Car Interior
+Mt. Hikami Cable Car
+Mt. Hikami Cable Car
+Mikomori Station
+Mikomori Station
+Mikomori Pond Exit
+Station Square
+Station Square
+Ticket Gate
+Platform
+Platform
+Pool of Purification
+Mountain Trail
+Pool of Purification
+Mikomori Pond Path
+Mountain Trail
+Mountain Trail
+Old Path - Entrance
+Old Path - Entrance
+Behind Ichiru Falls
+Ichiru Falls Shrine
+Waterfall View Path
+Purifying Path
+Landslide Rubble
+Purifying Path
+Purifying Path
+Pool of Purification
+Pool of Purification
+Jumper's Point
+Unfathomable Path
+Unfathomable Path
+Unfathomable Path
+Unfathomable Path
+Hikami Tunnel
+Hikami Tunnel - Old Exit
+Hikami Tunnel
+Hikami Tunnel - New Exit
+Old Exit
+Bypass to Forest - W
+Blockade Entrance
+Cave-In
+Construction Site
+Womb Cavern Entrance
+Materials Storage
+New Exit
+Bypass to Forest - E
+To Forest Station
+Unfathomable Forest
+Unfathomable Forest
+To Pool of Purification
+Path to Shrine of Dolls
+Ruined Bridge
+SE - Fallen Tree Path
+SE - Bewildering Entry
+SE - Bewildering Wood
+SE - Hanging Tree
+SE - Riverview Basin
+SE - Confusing Path
+SE - Pit of Lamenting
+SE - Confusing Path
+SE - Confusing Basin
+SE - Bewildering Wood
+SE - Bewildering Byway
+SE - Bewildering Path
+Pure Water Bridge
+Near Clinging Mire
+Tunnel - East Byway
+Rubble from Landslide
+NE - Clinging Path
+NE - Clinging Path
+NE - Watery Depths
+NE - Clinging Mire
+NE - By Clinging Mire
+NE - Gravestone Basin
+NE - Behind Mire
+NE - Behind Mire
+NE - Womb Pathway
+NE - Memento Shore
+NE - Pure Water River
+Pure Water Bridge
+Shrine of Dolls Path
+Lantern Path
+SW - Riverside Path
+SW - Returning Shore
+SW - Shortcut to River
+SW - Backroad to Pit
+Submerged Path
+Casket Marsh Backroad
+SW - Throughway
+SW - Concealed Copse
+Casket Marsh
+NW - Fallen Tree Path
+NW - Diverted Path
+NW - Diverted Path
+NW - Diverted Path
+NW - Stream Path
+NW - Memento Tree
+NW - Detour
+NW - Detour
+NW - Ruined Pathway
+NW - Lookout Point
+Near Lookout Point
+Near Casket Marsh
+W - Bypass to Tunnel
+Shrine of Dolls
+Shrine Grounds
+Shrine of Dolls - 1F
+Shrine of Dolls Garden
+Grounds
+Back Door
+Front Shrine Hallway
+Front Shrine Stairway
+Front Shrine
+Front Shrine Hallway
+Returning Hallway
+Sanctum Hallway - S
+Storeroom
+Workshop
+Workshop - Closet
+Sanctum Hallway - E
+Behind Storeroom
+Sanctum Hallway - E
+Eastern Storeroom
+Rear Garden Veranda
+Hanging Yard
+Rear Garden Veranda
+Sanctum Hallway - N
+Western Storeroom
+Sanctum Hallway - W
+Hallway of Dolls
+Flooded Sanctum
+Hallway of Dolls
+Hallway of Dolls
+Path Leading Up
+Hallway of Dolls
+Lower Storeroom
+Underground Path - S
+Underground Path - S
+Underground Path - S
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Memento Cloister
+Northern Passage
+Hall of Fire
+Hall of Fire - 1F
+Foyer
+Torn Screen Hallway
+Forbidden Flame Altar
+Hallway to Staircase
+Behind Staircase
+Rear Entrance Hallway
+Rear Entrance Hallway
+Collapsed Room
+Back Staircase
+Hall of Fire - 2F
+Hallway to Staircase
+Back Staircase
+Cloister of Fire
+Casket Room
+Cloister of Fire
+2nd Floor Storeroom
+Forest Station
+Forest Station
+Hikami Tunnel Exit
+Path Under Platform
+Platform
+Path into Woodlands
+Outside the Forest
+Outside the Forest
+Forest Outskirts
+Watarai Residence - 1F
+Forest Outskirts
+Foggy Path
+Foyer
+1st Floor Hallway
+Spiral Staircase
+1st Floor Hallway
+Living Room
+Flooded Room
+Hallway with Pit
+Back Staircase
+Family Chapel
+Parlor
+Porch
+Servants' Hallway
+Servants' Entrance
+Watarai Residence - 2F
+Spiral Staircase
+Rear Staircase
+2nd Floor Hallway
+Room with Pit
+Hallway to Staircase
+Archives
+Archives
+Study
+Study
+Storeroom
+Womb Cavern
+Womb Cavern
+S - Tunnel Entrance
+S - Makeshift Bridge
+S - Excavation Ruins
+S - Woodland Entry
+Shrine of Dolls Entrance
+Submerged Passage
+Submerged Passage
+Lamplit Corridor
+Waterfall Side Road
+Corridor Exit
+Torii Passage
+Submerged Torii
+Room with Reliquary
+Shrine of the Ephemeral
+Shrine of the Ephemeral 1F
+Outer Gate
+Grounds
+Hall of Lanterns
+Hall of Lanterns
+Staircase
+Hall of Lanterns
+Staircase
+Interior Hallway - S
+Garden Hallway - W
+Lodger's Room
+Garden Hallway - W
+Outer Hallway
+Outer Hallway
+Casket Altar
+Spiral Staircase
+Garden Hallway - N
+Garden Hallway - E
+Reliquary Room
+Exterior Hallway
+Exterior Hallway
+Exterior Hallway
+Hanging Well
+Garden Hallway - E
+Garden Hallway - E
+Garden Staircase
+Garden Hallway - E
+Interior Hallway - E
+Central Staircase
+Central Staircase
+Room on the Water
+Beneath the Shrine
+Hall of Lanterns Stairs
+Hall of Lanterns Stairs
+Spiral Staircase
+Garden Staircase
+Central Staircase
+Under Hall of Lanterns
+Sealed Room
+Lattice Hallway
+Lattice Hallway
+Lattice Hallway
+Lattice Hallway
+Purification Shrine
+Black Water Hallway
+Black Water Hallway
+Black Water Hallway
+Room with Casket
+Way of the Living - W
+Black Water Hallway
+Way of the Living - N
+Black Water Hallway
+Hall of Caskets
+Black Water Hallway
+Black Water Hallway
+Womb Hallway
+Womb Hallway
+Hall of Caskets - Back
+Inner Shrine
+Way of the Departed
+Way of the Departed
+Way of the Departed
+Womb Path
+Womb Path
+Womb Path
+Womb Path
+Womb Path
+Lattice Window Hallway
+Way of the Living - E
+Way of the Living - N
+Way of the Living - S
+Wharf
+Way of the Living - S
+Path of the Ephemeral
+Mountain Path
+Torii-Lined Pathway
+Bewildering Crossroads
+Womb Cavern Entrance
+Mountain Staircase
+Path to the Shrine
+Path to Cable Car
+Underworld Pathway
+Path to the Shrine
+Stairs to the Shrine
+Collapsed Old Road
+Ephemeral Station
+Ephemeral Station
+Shrine Path Bypass
+Main Stairwell
+Outside Ticket Gate
+Station Premises
+Control Room
+Platform
+Forbidden Valley
+Forbidden Valley
+Ephemeral Entrance
+Outside Entrance
+Blank Tombs - Front
+Blank Tombs - Front
+Blank Tombs - Back
+Backroad
+Spider Lily Byway
+Northern Passageway
+Northern Passageway
+Cherry Blossom Plateau
+Passage behind Stupa
+Reed Passageway
+Paper Streamer Clearing
+Gravestone Clearing
+Gravestone Passageway
+Gravestone Passageway
+Gravestone Passageway
+Western Passageway
+Western Passageway
+Exit to Summit
+Cherry Blossom Path
+Path to the Twilit Peak
+House of Joining
+House of Joining - 1F
+Entry of the Departed
+Path of the Departed
+Outside of Foyer
+Foyer
+Wedding Votive Altar
+Circle Window Hallway
+Partitioned Hallway - S
+Circle Window Hallway
+Storeroom
+Back Staircase
+Banquet Hall
+Partitioned Hallway - N
+Pure Water Porch
+Kimono Room
+Antechamber
+Chamber of Vows
+House of Joining - 2F
+Hallway to Staircase
+Back Staircase
+2nd Floor Hallway
+Guard Room
+Interior Guest Room
+Twilit Peak
+Twilit Peak
+Lake of the Departed
+Valley Entrance
+Outside Twilight Gate
+Before Great Pillar Jizo
+Wicked Spring
+Black Water Hill
+Entry of the Living - S
+Entry of the Living - N
+Lake of the Departed
+Hill of the Departed
+Hill of the Departed
+Before Sacrificial Mound
+Sacrificial Mound
+Forked Path
+Outside Jizo Chamber
+Path to Rear Shrine
+Rear Shrine of Dolls
+Shrine on the Water
+Shrine on the Water
+Distant Stage
+Distant Stage Hallway
+Distant Banquet Hall
+Returning Hallway - W
+Returning Hallway - W
+Returning Hallway - W
+Returning Hallway - W
+Shed
+Returning Hallway - W
+Returning Hallway - W
+Returning Hallway - W
+Returning Hallway - W
+Pure Water Hall - W
+Pure Water Corridor
+Pure Water Hall - E
+Flooded Stage
+Pure Water Hallway
+Soaked Hallway
+Soaked Hallway - W
+Soaked Hallway - E
+Soaked Hallway - E
+Sanctum Anteroom
+Sanctum on the Water
+Path to the Nether
+The Shadowspring
+The Dark Sun
+To Mikomori Hot Springs
+To Mikomori Hot Springs
+To the Unfathomable Forest
+To Kurosawa's Antiques
+To Pool of Purification
+To Mikomori Station
+To Hikami Tunnel Old Exit
+To Mikomori Hot Springs
+To Womb Cavern
+To Hikami Tunnel New Exit
+To Shrine of the Ephemeral
+To Mikomori Hot Springs
+To the Unfathomable Forest
+To Mikomori Hot Springs
+To Forest Station
+To Unfathomable Forest - W
+To Unfathomable Forest - E
+To Womb Cavern
+To Hikami Tunnel Old Exit
+To Pool of Purification
+To Hikami Tunnel New Exit
+To Womb Cavern
+To Womb Cavern
+To Shrine of the Ephemeral
+To the Shrine of Dolls
+To Shrine of the Ephemeral
+To Construction Site
+To Unfathomable Forest - NE
+To Forest Outskirts
+To Mikomori Hot Springs
+To Womb Cavern
+To Womb Cavern
+To Shrine of Dolls Garden
+To Ephemeral Station
+To Forbidden Valley
+To the Shrine on the Water
+To Shrine of the Ephemeral
+To House of Joining
+To the Twilit Peak
+To Forbidden Valley
+To Forbidden Valley
+To Shrine Wharf
+To the Shadowspring
+To the Dark Sun
+To the Shrine on the Water

@@ -1,0 +1,309 @@
+Controls: Search Mode
+^00In this mode, your character moves through the{LF}world, picks up items etc.{LF}                        - Movement -{LF}{LF}Walking: Move ^11~00~^20~09~^10 to walk.{LF}{LF}Running: Hold down ^11~00~^20~34~^10 to run in the direction{LF}you are facing.{LF}{LF}Strafing: Hold down ^11~00~^20~15~^10 and move ^11~00~^20~09~^10 to strafe.{LF}^00                    - Camera Controls -{LF}{LF}Looking Around: Move ^11~00~^20~10~^10.{LF}{LF}Centering: Press ^11~00~^20~36~^10.{LF}{LF}^00                      - Search Controls -{LF}{LF}Focus: Hold down ^11~00~^20~29~^10.{LF}{LF}Touching Objects: Hold down ^11~00~^20~29~^10 next to{LF}the object you want to touch.{LF}{LF}Interaction: Press ^11~00~^20~40~^10.{LF}{LF}Switch to Photo Mode: Press ^11~00~^20~33~^10.
+How to play in Search Mode, the mode used when{LF}exploring the game world.
+Controls: Photo Mode
+^00In this mode, you operate the Camera Obscura.{LF}{LF}                  - Camera Controls 1 -{LF}{LF}Changing Position: Move about by using ^11~00~^20~09~^10.{LF}{LF}Changing Focus: Move the camera using ^11~00~^20~10~^10,{LF}or ^11~00~^20~25~^10 if ^11~00~^20~25~^20~16~^20~10~^10 is set in General Settings.{LF}^00                   - Camera Controls 2 -{LF}{LF}Quick Focus Change: Hold down ^11~00~^20~07~^10{LF}and move ^11~00~^20~10~^10.{LF}{LF}Changing Angle: 　^11~00~^20~37~^10 / ^11~00~^20~38~^10.{LF}^00                    - Taking Photos 1 -{LF}{LF}Shooting: Press the shutter with ^11~00~^20~14~^10.{LF}{LF}Locking On: To lock on to ^20~32~, hold down ^11~00~^20~32~^10.{LF}{LF}Changing Film: Switch films using ^11~00~^20~19~^10.{LF}^00                    - Taking Photos 2 -{LF}{LF}Changing Lenses: Switch lenses using ^11~00~^20~18~^10.{LF}{LF}Special Shots: Press ^11~00~^20~35~^10 to activate{LF}a lens's ability.{LF}{LF}Switch to Search Mode: Press ^11~00~^20~33~^10.
+How to play in Photo Mode, the mode used when you are taking pictures{LF}with the Camera Obscura.
+
+Yuri Kozukata
+^00A young girl with psychic abilities. After{LF}surviving a tragic accident, she has been able to{LF}see ghosts and visions of the past. Since that day{LF}she has felt death calling to her.{LF}{LF}One day she disappeared, and Hisoka was asked{LF}to find her.{LF}^00Hisoka found Yuri just as she was about to jump{LF}from a cliff. Yuri now stays with Hisoka at her{LF}antiques shop.{LF}{LF}Yuri avoids other people, terrified of seeing into{LF}their souls. She helps around the shop, mostly by{LF}cleaning. She rarely deals with customers.{LF}^00She has always found it hard to ignore those in{LF}need, and her abilities only make things worse.{LF}{LF}The only time she feels free of her worries is{LF}when she cycles.
+About Yuri Kozukata
+Yuri Kozukata - 2
+^00After losing all her family in a tragic accident,{LF}she gained the ability to glance into people's{LF}souls and read their thoughts. Doctors thought it{LF}was just shock, and that she would heal in time.{LF}She slowly became withdrawn, isolated.{LF}^00Haunted by images of death, Yuri saw only one{LF}way out. Fixated with the idea that everyone dies{LF}alone, she tried to jump off a cliff. Hisoka got to{LF}her just in time, and told her that if she really{LF}wanted it, then they could die together. Yuri has{LF}been staying with Hisoka at her shop ever since.{LF}^00The roles were reversed when Yuri had to find{LF}the missing Hisoka. Yuri never could ignore{LF}those in need.{LF}{LF}In the end she felt a kinship to Ose, after{LF}glancing the souls of the dead on Mt. Hikami.{LF}The Black Water calls to her.
+About Yuri Kozukata - 2
+Hisoka Kurosawa
+^00The owner of an antiques store, she has{LF}developed her psychic abilities by learning{LF}from local elders, and by researching the subject.{LF}{LF}One of those locals gave her a Camera Obscura,{LF}which she now uses to look for missing objects{LF}and people.{LF}^00She stopped Yuri from jumping, and brought the{LF}orphan girl back to her shop.{LF}{LF}She feels for Yuri, but Hisoka doesn't have the{LF}power she does. She can only sense the ghosts{LF}and memories, not see them.{LF}^00She tells fortunes as a hobby. She has become{LF}quite popular with the young students who{LF}frequent her café. Her coffee is renowned for its{LF}taste, and Hisoka likes to say,{LF}{LF}"Sometimes a cup of coffee{LF}can make all the difference."
+About Hisoka Kurosawa
+Hisoka Kurosawa - 2
+^00The owner of an antiques store, she has{LF}developed her shadow reading ability by learning{LF}from local elders, and by researching the subject.{LF}{LF}One of those locals gave her a Camera Obscura,{LF}which she now uses to look for missing objects{LF}and people.{LF}^00She stopped Yuri from jumping, and brought the{LF}orphan girl back to her shop.{LF}{LF}She feels for Yuri, but Hisoka doesn't have the{LF}power she does. She can only sense the ghosts{LF}and memories, not see them.{LF}^00On a missing person case, the girl she was{LF}looking for committed suicide before she could{LF}get to her. Hisoka was left broken, and she took{LF}on no more missing person cases.{LF}{LF}Until Miu, that is. Moved by her foster mother's{LF}pleas, she went to look for her.{LF}^00When she saw Yuri on the cliff, memories of the{LF}girl she couldn't save came flooding back and,{LF}overcome with emotion, she rushed to stop Yuri{LF}from jumping.{LF}{LF}The Maidens of Black Water called for Hisoka to{LF}join them, but in the end Yuri saved her.
+About Hisoka Kurosawa - 2
+Ren Hojo
+^00A writer, known for basing his novels on{LF}real events. He is very thorough in his research.{LF}{LF}He also writes cheap pulp fiction under a{LF}pen name in between projects. He acts on{LF}intuition, and has a laissez-faire attitude.{LF}^00He asked Hisoka to find Postmortem{LF}Photographs for a new book he's writing. Hisoka{LF}has helped him before to find other reference{LF}materials, such as old curios and books.{LF}^00Ren has been haunted by the memory of killing{LF}a girl in some kind of ceremony, and by{LF}recurring dreams of the girl looking back at him.{LF}{LF}For this reason, he's always felt uneasy around{LF}women, especially when they look him in the{LF}eye.
+About Ren Hojo
+Ren Hojo - 2
+^00A relative of Dr. Aso. Amongst the Postmortem{LF}Photographs he asked Hisoka to find is a photo{LF}of Ose Kurosawa.{LF}{LF}The photo awakes within Ren the feelings{LF}Dr. Aso had for Ose, and so he gets involved in{LF}the events taking place on Mt. Hikami.{LF}^00As a boy, Ren found a bundle of white hair in{LF}his family's storeroom. Upon touching it, he{LF}glanced Dr. Aso's memory of killing a{LF}young girl.{LF}{LF}Tracing Dr. Aso's footsteps to Mt. Hikami, he{LF}gets involved in a Ghost Marriage and must{LF}choose between two brides.
+About Ren Hojo - 2
+Rui Kagamiya
+^00Ren's live-in assistant, recommended to him by{LF}his publisher. Once hired, Rui moved in and{LF}took charge of preparing reference materials{LF}for Ren's books, as well as other secretarial tasks.{LF}{LF}It was a relief for Ren, who finds such things{LF}tedious.{LF}^00Rui is well-organized and well-mannered, but{LF}will scold Ren if he gets too untidy.{LF}{LF}Rui has now taken over the house chores as well.{LF}Ren has started to rely on Rui so much that he'd{LF}be lost if he ever went back to living alone.
+About Rui Kagamiya
+Rui Kagamiya - 2
+Joining Ren as his assistant, Rui found herself{LF}on Mt. Hikami. The investigation proved more{LF}dangerous than anyone suspected, and she was{LF}spirited away.{LF}{LF}After being rescued by Ren, Rui feels a deep{LF}desire to always be by his side.
+About Rui Kagamiya - 2
+Miu Hinasaki
+^00Miu went to Mt. Hikami to look for her mother,{LF}and then disappeared without a trace.{LF}{LF}Since she was little, she has had the ability to see{LF}ghosts and read the thoughts of people she{LF}touched.{LF}^00Her ability allows her to see how insincere{LF}people can be, making her distrustful and afraid{LF}of her own power.{LF}{LF}She's cold towards everyone, but misses her{LF}mother, who she thinks will be the only{LF}person out there who might understand.{LF}^00Miu ran away from her foster mother to follow{LF}the trace of her mother to Mt. Hikami.{LF}{LF}She works as an actress, and has appeared in a{LF}few shows, but she mainly works as a model for{LF}magazines.
+About Miu Hinasaki
+Miu Hinasaki - 2
+^00Miu's strong shadow reading abilities are a{LF}hallmark of the Hinasaki bloodline. Miu is a{LF}Shadowborn, a child of a human and a ghost.{LF}She was raised by the Iyamas ever since Miku{LF}went missing when Miu was only{LF}three years old.{LF}^00Miu can read other people's thoughts by{LF}touching them, so she has always been aware{LF}that her foster family only took care of her{LF}because they pity her.{LF}{LF}She went to look for the only person she felt{LF}would understand: her mother.{LF}^00Miu's ability to read people's minds makes her{LF}act coldly towards others, and even look down{LF}on them.{LF}{LF}She would like to get closer to Yuri, who has the{LF}same ability as her, but after years of shutting{LF}people out, it's difficult for her to open up.{LF}^00After saving her mother, they could finally say to{LF}each other all the things they've wanted to say{LF}over the years.
+About Miu Hinasaki - 2
+Fuyuhi Himino
+^00After coming to Hisoka for help, she went to{LF}look for her friend, Haruka Momose, on{LF}Mt. Hikami by herself.{LF}{LF}Fuyuhi was one of Hisoka's regulars. Not in the{LF}café, but for the fortunetelling. She hasn't come{LF}lately, so Yuri doesn't know her.{LF}^00Hisoka did not accept the case right away, but{LF}asked for some time to think about it.{LF}{LF}Growing impatient, Fuyuhi visited the shop.
+About Fuyuhi Himino
+Fuyuhi Himino - 2
+^00A girl who asked Hisoka to find her friend,{LF}Haruka Momose. Hisoka asked for some time to{LF}think about it.{LF}{LF}Growing impatient, Fuyuhi visited the shop and{LF}saw that Hisoka was not there. She decided to{LF}go to Mt. Hikami and search for her friend{LF}on her own.{LF}^00Fuyuhi and Haruka had once attempted a group{LF}suicide with three other girls, but they survived.{LF}{LF}They made a promise to die together, so Fuyuhi{LF}was certain that Haruka wouldn't have gone to{LF}commit suicide without her.{LF}^00Yuri found her on Mt. Hikami, but Fuyuhi cut{LF}her own throat under the influence of a ghost.{LF}{LF}The last thing she saw before dying was a{LF}kimono-clad woman who had also slit her throat{LF}and a shrine maiden with her eyes covered.
+About Fuyuhi Himino - 2
+Haruka Momose
+^00One of the people listed in Hisoka's missing{LF}persons file. Hisoka was asked to find her by{LF}Fuyuhi Himino, who later committed suicide.{LF}{LF}According to Fuyuhi, Haruka was last seen near{LF}Mt. Hikami.{LF}^00Haruka goes to the same school as Fuyuhi. She{LF}was also often seen getting her fortune told in{LF}Hisoka's shop. She's never met Yuri.{LF}{LF}She's a kind and timid girl, easily influenced by{LF}others. She only started coming to shop because{LF}of her friends.{LF}^00After attempting suicide with a group of her{LF}friends, only she and Fuyuhi survived.
+About Haruka Momose
+Haruka Momose - 2
+^00One of the girls spirited away to Mt. Hikami.{LF}Yuri found her in a reliquary submerged in the{LF}water in the Womb Cavern and brought her back{LF}to the shop, only to see her disappear again.{LF}Like Fuyuhi, a ghost brought her to the world of{LF}the dead.{LF}^00She was a very kind girl, happy to follow the{LF}crowd. She went along with everything her{LF}friends did, including a failed group suicide.{LF}{LF}She could sense the pain and sorrow of her dead{LF}friends. Unable to stand it, she went to{LF}Mt. Hikami to die.{LF}^00It seems that, just like before, she has been put{LF}in a reliquary. Only this time, there will be no{LF}escape.
+About Haruka Momose - 2
+Kunihiko Aso
+^00A 19th Century scientist. He was interested in{LF}the invisible, the intangible, such as ghosts and{LF}the Netherworld. His research led him to{LF}construct the Camera Obscura, a camera capable{LF}of photographing things not of the world of the{LF}living.{LF}^00He was an outcast in the scientific community{LF}and few of his research papers remain.{LF}{LF}He made several Camera Obscuras, misplacing{LF}some, and entrusting others to his friends. His{LF}cameras are highly sought-after antiques.
+About Kunihiko Aso
+Kunihiko Aso - 2
+^00Kunihiko grew up in a town near Mt. Kagiroi.{LF}{LF}There he befriended the young shrine maiden,{LF}Shiragiku. She was chosen to be sent to{LF}Mt. Hikami as a sacrifice. Kunihiko was tasked{LF}with obtaining a lock of her hair as a token{LF}during the sacrificial ceremony.{LF}^00After becoming a scientist he traveled{LF}all over, photographing the places he visited and{LF}the people he met.{LF}{LF}The residents of Mt. Hikami invited him to{LF}photograph the shrine maidens, as his Camera{LF}Obscura was rumored to capture the souls of the{LF}subjects.{LF}^00He took a photo of Ose Kurosawa, and just as{LF}she stole his heart, he trapped hers in a{LF}photograph. He then left, taking her soul with{LF}him.{LF}{LF}He never went back, and it is unclear whether he{LF}recalled his time with Ose Kurosawa, or his past{LF}with Shiragiku.
+About Kunihiko Aso - 2
+Keiji Watarai
+^00A folklorist who was studying Mt. Hikami. His{LF}father was English, his mother Japanese. He{LF}moved to Japan to learn more about its folklore.{LF}{LF}He moved to Mt. Hikami to study its history{LF}and religion. What became of him is still{LF}unknown.{LF}^00His findings were never widely published, but{LF}they can be found if you know where to look.{LF}{LF}His house is now known as "the Veiled House,"{LF}which has itself become a part of the folklore{LF}surrounding the mountain.
+About Keiji Watarai
+Keiji Watarai - 2
+^00A folklorist who was studying Mt. Hikami. His{LF}father was English, his mother Japanese. He{LF}moved to Japan to learn more about its folklore.{LF}{LF}Intrigued by the rituals performed on{LF}Mt. Hikami, he moved there to study the area{LF}in more detail.{LF}^00He vanished after obtaining a photograph of a{LF}bride. After attempts to turn the mountain into a{LF}tourist spot failed, both he and his house were{LF}forgotten. When the mountain gained infamy,{LF}the house, which seemed to drive people to{LF}suicide, came to be known as{LF}"the Veiled House."{LF}^00Ren found the Veiled House and followed after{LF}Keiji's trail, only to discover that he had turned{LF}into a ghost.{LF}{LF}He looked rotten, and as if he had been stuck in{LF}one of the reliquaries.
+About Keiji Watarai - 2
+Miku Hinasaki
+^00Miu Hinasaki's mother. She has been able to see{LF}ghosts since childhood.{LF}{LF}When she lost her brother, her only blood{LF}relative, she moved in with her brother's friend,{LF}and started working as his assistant.{LF}^00When she got pregnant, she moved to a house{LF}owned by an old woman she knew, and it was{LF}there she gave birth to Miu.{LF}{LF}She disappeared when Miu was just{LF}three years old.
+About Miku Hinasaki
+Miku Hinasaki - 2
+^00Miu Hinasaki's mother. She has been able to see{LF}ghosts since childhood.{LF}{LF}When she lost her brother, her only blood{LF}relative, she moved in with her brother's friend,{LF}and started working as his assistant.{LF}^00She got pregnant by the ghost of her beloved{LF}and gave birth to Miu, a Shadowborn.{LF}{LF}This all but killed Miku, so she went to{LF}Mt. Hikami to enter into a Ghost Marriage and{LF}become a Pillar. She did not age in the casket,{LF}and looks more like Miu's sister.
+About Miku Hinasaki - 2
+Kazuya Sakaki
+^00Ren's friend since high school, he now works in{LF}the city. He was helping Ren collect Postmortem{LF}Photographs when he suddenly lost contact.{LF}{LF}He's always had a tendency to go off on his own,{LF}often for days, so Hisoka isn't worried about{LF}him yet.{LF}^00He is a narcissist, which has caused issues both{LF}at work and in his private life. Hisoka has even{LF}suggested Ren might be better off if without{LF}him.{LF}{LF}Kazuya never seemed the type to settle down, so{LF}when he said he was getting married, Ren was{LF}justifiably stunned.
+About Kazuya Sakaki
+Kazuya Sakaki - 2
+^00A former schoolmate of Ren's. He was collecting{LF}Postmortem Photographs for Ren when he went{LF}missing. Some days later he called with news of{LF}his impending marriage.{LF}{LF}It was a Ghost Marriage with the bride in the{LF}photograph.{LF}^00During the ceremony he was overcome with fear{LF}of the bride, and guilt towards Ren.{LF}{LF}The Ghost Marriage failed, and by the time Ren{LF}found him he had turned into a ghost.
+About Kazuya Sakaki - 2
+Tsumugi Katashina
+^00A girl who disappeared on Mt. Hikami. Abuse{LF}from her family has left her mute. After several{LF}suicide attempts, she ran away.{LF}{LF}Her physician hired Hisoka to look for her{LF}but her family had the search dropped.{LF}^00The physician is now certain that Tsumugi's{LF}family is to blame for her disappearance.
+About Tsumugi Katashina
+Tsumugi Katashina - 2
+^00A girl who went missing on Mt. Hikami. Since{LF}her mother remarried, Tsumugi suffered verbal{LF}abuse from her family, leaving her effectively{LF}mute.{LF}{LF}After years of abuse she made several suicide{LF}attempts before finally running away from home.{LF}^00Before that, she ran into Ayane who was deeply{LF}moved by the girl's anguish, and felt a close{LF}connection to her.{LF}{LF}Tsumugi was drawn to Mt. Hikami and there{LF}almost died. Ayane saved her and inspired her to{LF}face up to her family, and to believe in herself.
+About Tsumugi Katashina - 2
+Ayane
+A ninja prodigy of the Mugen Tenshin clan's{LF}Hajinmon sect.{LF}{LF}The unfortunate circumstances of her conception{LF}led to her living her life in the shadows. She's{LF}trying to find Tsumugi, but it is unclear why.
+About Ayane
+Akari Narumi
+^00A girl Hisoka had been hired to find. Hisoka did{LF}track down the girl, but Akari killed herself by{LF}jumping off a cliff before Hisoka could reach{LF}her.{LF}{LF}Traumatized, Hisoka wonders if she's to blame.{LF}She stopped taking missing person cases after{LF}that.
+About Akari Narumi
+Shiragiku
+^00She was born in the 19th century, when{LF}Mt. Hikami was still home to strange rituals.{LF}{LF}She was born with psychic abilities, however she{LF}was very frail and she was not expected to live{LF}long. She had once been gravely ill and nearly{LF}died, but managed to recover.{LF}^00She was sent to Mt. Hikami, so that she could be{LF}made into a Pillar. It was said that those who{LF}were close to death could not die, and would{LF}make for stronger Pillars.{LF}{LF}Mt. Hikami often recruited girls from other{LF}shrines to become Pillars.{LF}^00Shiragiku chose Kunihiko Aso, her only friend,{LF}to cut a lock of her hair as a token during a{LF}special ceremony.{LF}{LF}When Dr. Aso grew up, he came to think that{LF}the surreal ceremony was just a dream.{LF}^00He visited Mt. Hikami as an adult, and passed{LF}through the Shrine of Dolls, but did not sense{LF}Shiragiku's presence.{LF}{LF}Shiragiku, now a Pillar deep underground,{LF}waited for the one who had her token. Until{LF}then, she'd play with ghosts of children killed on{LF}Mt. Hikami.
+About Shiragiku
+Ose Kurosawa
+^00Ose had exceptionally strong psychic abilities.{LF}She had been chosen to be drowned in the{LF}Shadowspring as the main Pillar of the faith.{LF}{LF}So that she did not just disappear, she needed to{LF}enter into a Ghost Marriage. A votive picture{LF}was commissioned.{LF}{LF}^00Rumors of Dr. Aso and his Camera Obscura,{LF}which could capture the subject's soul, had{LF}reached Mt. Hikami and so he was invited to{LF}take a photo of Ose. He fell in love with her,{LF}and she reciprocated. He then left the mountain,{LF}taking with him a fragment of Ose's soul trapped{LF}in the photograph.{LF}^00As Ose was shut in the casket, still yearning for{LF}Dr. Aso, Kyozo Kururugi was killing the shrine{LF}maidens, releasing the pain and anguish they had{LF}taken from others. Those dark thoughts entered{LF}Ose, causing her casket to burst open and the{LF}Black Water to flow.{LF}^00The mountain was consumed by the accursed{LF}waters. Ose, destined to endlessly relive those{LF}shrine maidens' last moments alone in the dark,{LF}withstood the pain for a time but she will not{LF}last much longer.{LF}^00The protective seal surrounding the mountain{LF}has long been maintained by turning local girls{LF}into Pillars. Ose knows that she will soon{LF}fade, and so uses her powers to call to Yuri, a{LF}kindred spirit, and Ren, in whom part of{LF}Dr. Aso lives on.
+About Ose Kurosawa
+
+Mt. Hikami
+^00A 2,300ft tall mountain close to where Hisoka{LF}and Yuri live. It used to be a holy place for a{LF}now-dead religion, and although some of the{LF}shrines and other buildings still stand, there are{LF}none now alive who keep to those practices.{LF}^00The mountain is blessed with natural beauty;{LF}it overflows with springs and is overgrown{LF}with vegetation. A company attempted to turn it{LF}into a tourist attraction. They built new{LF}buildings and a cable car, even printed out{LF}brochures, but the project was abandoned after a{LF}devastating landslide.{LF}^00Mt. Hikami was once thought of as a place only{LF}the dead could enter, and even now it attracts{LF}those who wish to end their life. Many believe{LF}that this notorious suicide spot is cursed.
+About Mt. Hikami
+Mikomori Hot Springs
+^00An old inn that has been on Mt. Hikami for as{LF}long as anyone remembers, it was refurbished{LF}and made into a hot spring resort as part of the{LF}development project. The three-floor concrete{LF}building is a new addition.{LF}^00Ichiru Manor was abandoned after the old{LF}building was lost in a massive landslide. The{LF}owner of the inn, having lost his family,{LF}committed suicide.{LF}{LF}The inn is said to be haunted by the ghosts of{LF}those who died there, including the ghost of that{LF}ill-fated innkeeper.
+About Mikomori Hot Springs
+Kurosawa's Antiques
+^00An old house renovated by Hisoka, the front hall{LF}is now an antiques shop and café.{LF}{LF}There was an antiques shop there to begin with,{LF}but Hisoka always wanted to be a café owner, so{LF}she redecorated.{LF}^00There is a very relaxed atmosphere, attracting a{LF}few regulars. Hisoka also uses it as a base for her{LF}unusual shadow reading business.{LF}{LF}Yet another draw for certain customers is her{LF}fortune telling, which Hisoka does as a hobby.
+About Kurosawa's Antiques
+Pool of Purification
+^00A spot by the old path to the shrines on{LF}Mt. Hikami. The path passes by a few waterfalls,{LF}and the pilgrims used to clean themselves in their{LF}crystal clear water before proceeding to the{LF}shrines.{LF}^00The pool below the Maiden Fall, used by shrine{LF}maidens, was particularly beautiful. For a brief{LF}time the Pool of Purification was a tourist{LF}attraction, and shrine maidens performed ritual{LF}ablutions for show, but it's been some time since{LF}tourists last came to Mt. Hikami.{LF}^00According to a legend, the true shrine maidens{LF}of Mt. Hikami had all been murdered, which{LF}might be the reason the faith abruptly died out.{LF}Their bodies are said to have washed up into the{LF}pool. Occultists like to refer to it as the{LF}"Maiden Pool."
+About the Pool of Purification
+Unfathomable Forest
+^00A forest located halfway up Mt. Hikami. The{LF}name comes from a folk tale, saying that those{LF}who wander into the forest forget who they are{LF}and where they are going.{LF}{LF}The new path to the shrines goes through this{LF}forest. It was built as part of the project aiming{LF}to turn the mountain into a tourist destination.{LF}{LF}^00However, after a landslide destroyed most of it,{LF}only parts remain. Some areas have flooded and{LF}are now fenced off.{LF}{LF}Since the mountain became infamous as a suicide{LF}spot, many curious occultists have broken{LF}through those fences.{LF}{LF}^00Belongings of missing people can be found {LF}there. Some say that those who go astray{LF}in the forest do not just get lost, but that{LF}they are killed by something.
+About the Unfathomable Forest
+Hojo Residence
+Ren and Rui's house. It used to be the Hojo{LF}family's second home, but now it's just the two{LF}of them. It's an ordinary two-story detached{LF}house. Ren's study is on the second floor. He{LF}spends most of his time in there, surrounded by{LF}his books.
+About the Hojo Residence
+Shrine of Dolls
+^00A shrine in the Unfathomable Forest, halfway up{LF}Mt. Hikami. A number of dolls are enshrined{LF}there. The true purpose of the shrine has now{LF}been forgotten, but locals all agree that it has{LF}always been associated with dolls.{LF}^00The shrine was restored for tourists and{LF}presented as a place of doll worship. It was{LF}abandoned after the landslide and now has a{LF}reputation as a shrine where the ghosts of{LF}children play. The dolls can be heard speaking,{LF}and a white-haired girl holding a doll can be{LF}seen staring out.
+About the Shrine of Dolls
+Womb Cavern
+^00An enormous lava cave which possibly stretches{LF}out to cover the whole area of Mt. Hikami.{LF}Several entrances have been discovered.{LF}{LF}Much of the cavern is flooded, so only parts are{LF}accessible without specialist equipment.{LF}^00In the past, water was deified on Mt. Hikami{LF}and the worshippers thought of the mountain as{LF}a divine being, with the cavern serving as its{LF}womb. The cavern was a most sacred place, and{LF}access to it was restricted. The entrances were{LF}cordoned off with sacred ropes.{LF}^00When the mountain was being developed for{LF}tourism, a newly made tunnel broke through{LF}one of the cavern walls. Water rushed into the{LF}tunnel, drowning dozens of workers. Many{LF}thought the disaster was brought on by a curse{LF}incurred by disturbing such a spiritual place.
+About Womb Cavern
+Watarai Residence
+^00A Japanese-style house with a shingle roof, the{LF}home of the folklorist Keiji Watarai. It had been{LF}built on the outskirts of the Unfathomable{LF}Forest, a place not easy to get to. Keiji likely{LF}wanted to avoid all disturbances as he devoted{LF}himself to studying the local religious beliefs and{LF}practices.{LF}^00When attempts to develop the mountain failed,{LF}it was shut down. Police officers stationed at the{LF}foot of the mountain came to investigate the{LF}house, and found it abandoned. No one could{LF}tell what became of the folklorist. Afterwards,{LF}the house itself disappeared, and the whole{LF}incident was forgotten.{LF}^00Now, tales of the house have resurfaced. People{LF}say it appears on foggy days, and that Keiji's{LF}works will still be found in there. Others say he{LF}is still there, continuing his research. If anyone{LF}dares enter, then Keiji, keen to study the darker{LF}local rituals, will kill them as sacrificial offerings.
+About the Watarai Residence
+Mt. Hikami Cable Car
+^00The cable car was introduced in the hopes it{LF}would increase the number of tourists. There{LF}are three stops on the line: Mikomori,{LF}the Unfathomable Forest, and the Shrine of the{LF}Ephemeral. Soon after it was opened a huge{LF}landslide hit, and it had to be shut down.{LF}^00The tourists stopped coming, and the line never{LF}reopened. Some claim the construction work,{LF}which involved leveling part of the mountain{LF}and cutting a route through the forest,{LF}desecrated the sacred ground and brought a curse{LF}upon the line.{LF}^00Nowadays fans of the occult, attracted by rumors{LF}of ghosts seen in the empty carriages, or eerie{LF}silhouettes of people glimpsed in the forest by{LF}the rail track, come to take photos of the{LF}abandoned train.
+About the Mt. Hikami Cable Car
+Hikami Tunnel
+^00A tunnel constructed as part of the project to{LF}make the mountain a tourist spot. It was{LF}supposed to go to the Twilit Peak on the{LF}summit. As the tunnel was being dug, the{LF}construction workers broke through to{LF}the Womb Cavern and the tunnel flooded.{LF}None of the workers survived.{LF}^00Work on the tunnel resumed, but the{LF}development plans for the mountain were{LF}abandoned and the tunnel was never completed.{LF}A road goes up to its eastern exit, but it has been{LF}closed due to the number of trespassers who{LF}have either died or have gone missing in and{LF}around the tunnel.{LF}^00There may still be a way to get from the tunnel{LF}into the Womb Cavern, but the locals warn that{LF}the ghosts of the accident victims and of shrine{LF}maidens await any who try to find it.
+About Hikami Tunnel
+Shrine of the Ephemeral
+^00A large shrine near the summit of Mt. Hikami.{LF}It is thought to have been the main shrine of the{LF}local faith, but little is known about it. In the{LF}brief period that the mountain was visited by{LF}tourists, the shrine doors stood open, and people{LF}could admire the countless lanterns in the main{LF}hall.{LF}^00The shrine was abandoned after the closure of{LF}the cable car line. Remains of shrine maidens are{LF}said to be found in the inner rooms. Some say{LF}if one passes by the shrine on a foggy day, the{LF}lanterns will be lit and a Maiden of Black Water{LF}will be waiting.
+About the Shrine of the Ephemeral
+Forbidden Valley
+^00A valley near the summit of Mt. Hikami which{LF}houses an ancient cemetery. It had been left{LF}undisturbed until land developers decided to{LF}create a path to the summit for the tourists. The{LF}only way was through the Forbidden Valley.{LF}A massive landslide flooded the valley,{LF}destroying the path.{LF}^00The graves were once exhumed in an attempt to{LF}establish who was buried there but no bodies{LF}were found. It is thought that the graves were{LF}erected in memory of people who did not have{LF}remains. Another theory is that the graves were{LF}for the shrine maidens who were sacrificed to the{LF}mountain.
+About the Forbidden Valley
+Twilit Peak
+^00An area of land on top of Mt. Hikami, covered{LF}in volcanic rock. It is a desolate landscape,{LF}devoid of vegetation due to volatile gases{LF}escaping from the rocks. Locals felt it looked like{LF}the underworld and, along with the Lake of the{LF}Departed, it was considered to be connected to{LF}the Netherworld.{LF}^00Locals believe it is a sacred place. A sacrificial{LF}mound erected over a pile of caskets can be{LF}found here, as well as the Rear Shrine of Dolls,{LF}with dolls much older than those from the main{LF}Shrine of Dolls, located farther down{LF}the mountain.
+About the Twilit Peak
+Lake of the Departed
+^00A crater lake located on the Twilit Peak on{LF}Mt. Hikami. The name of the lake comes from{LF}its ghostly appearance - it is surrounded by a{LF}white sandy beach and is always enshrouded in{LF}mist.{LF}^00Legend has it that a few times a year, when the{LF}last rays of the setting sun reflect off the lake,{LF}the mist clears and it becomes a link between the{LF}worlds of the living and the dead. People living{LF}near the mountain are advised to stay indoors on{LF}such days, lest a calamity befall them.{LF}^00However, it is also said that those seeking death{LF}may enter the waters of the lake and cross that{LF}dread threshold.{LF}{LF}This may refer to the practices that were part of{LF}the local faith. The pinwheels stuck in the sand{LF}might have been left there by the believers to{LF}comfort the spirits of children who crossed to{LF}the Netherworld there.
+About the Lake of the Departed
+Hall of Fire
+^00The hall where the eternal Forbidden Flame was{LF}kept. This undying fire was the source of the{LF}flames used in local rituals.{LF}{LF}The use of sacred flames is documented in many{LF}religions, but those on Mt. Hikami had a unique{LF}use for the fire.{LF}^00The Forbidden Flame kept the Black Water from{LF}pouring out of the Shadowspring. It was{LF}necessary to carry the flame in order to safely{LF}approach the Black Water. The Flamekeepers{LF}in charge of tending the fire were required to{LF}purify themselves before being allowed near it.
+About the Hall of Fire
+House of Joining
+^00The place where the wedding ceremonies for{LF}shrine maidens who became Pillars were held.{LF}{LF}The House of Joining exists between our world{LF}and the Netherworld, and is where sacrificed{LF}maidens were wed to men brought to the{LF}mountain.{LF}^00Only men chosen as suitable grooms could find{LF}the house. Once inside, they would first choose a{LF}maiden from among those whose votive pictures{LF}were hung on the wall.{LF}^00They would proceed to the Chamber of Vows,{LF}where their chosen bride would be waiting.{LF}Again, only the groom would be allowed into{LF}the chamber. Afterwards, the bride would return{LF}to her casket with the groom in tow, in order to{LF}spend eternity there with him as a Pillar.
+About the House of Joining
+Shrine on the Water
+^00A shrine built on the Lake of the Departed. It{LF}appears as if it is floating on the water's surface.{LF}The lake feeds all the springs on the mountain{LF}and the shrine is believed to give its blessing to{LF}the water.{LF}^00The large torii gate which marks the shrine{LF}entrance can be seen from the shore on days{LF}when the mist is thin. The main building was{LF}destroyed a long time ago and nothing of it now{LF}remains. There is supposed to be a spring under{LF}the shrine, but its precise location is unknown.
+About the Shrine on the Water
+The Shadowspring
+^00A vast spring of dark water, accessible through{LF}the Shrine on the Water.{LF}{LF}The Black Water is said to be from the{LF}Netherworld, to which the Shadowspring is an{LF}entrance.{LF}^00The Dark Sun hangs in the sky above,{LF}illuminating the murky waters with its eerie{LF}orange glow resembling the dying rays of light{LF}at sunset. This light lures people towards it, until{LF}they vanish into the endless dark.
+About the Shadowspring
+
+Camera Obscura
+^00A camera with the power to expose that which{LF}normally remains hidden.{LF}{LF}Invented by Dr. Kunihiko Aso, a researcher of{LF}the occult. The special film it uses captures traces{LF}of beings which are not of the world of the{LF}living.{LF}^00Several of these cameras exist, but as each was{LF}made as a prototype their appearance and{LF}capabilities differ. Most of them are broken now{LF}and no one knows how to repair them.{LF}^00The cameras are highly sought after by{LF}collectors, despite rumors of them being cursed.{LF}The collectors either see that as another unique{LF}property and a risk worth taking, or they{LF}discredit such talk as mere superstition.{LF}^00Just like Hisoka there are people who use the{LF}cameras as tools for specialist work. However,{LF}such people tend to already have the ability to{LF}sense the ephemeral. Some say that the broken{LF}cameras aren't broken at all; the users do not{LF}have the ability to make them work.
+About the Camera Obscura
+Postmortem Photography
+^00The original intention behind Postmortem{LF}Photography was to give the mourning relatives{LF}something to remember their loved ones by.{LF}The bodies were dressed in the finest clothes,{LF}and their faces made to look as if they were alive.{LF}^00At a time when photographs were a luxury very{LF}few could afford, Postmortem Photographs{LF}offered a chance to capture an image of their{LF}beloved. Dr. Kunihiko Aso, with his Camera{LF}Obscura, had been invited all over Japan to take{LF}such pictures. Most of them are on Mt. Hikami.{LF}^00Postmortem Photographs were especially{LF}treasured by those living on and around{LF}Mt. Hikami. They believed that a camera{LF}captures the soul of the photographed person,{LF}preserving it unchanged for eternity.
+About Postmortem Photography
+Shadow Reading
+^00Shadow reading, not unlike psychometry, {LF}is the ability to see the "traces" related to lost{LF}items or people who have been spirited away.{LF}In the past, this ability was fairly common in the{LF}Mt. Hikami area. Nowadays very few have the{LF}knowledge necessary to perform it.{LF}{LF}Those who still use the ability are thought to be{LF}the descendants of Mt. Hikami shrine maidens.
+About shadow reading
+Traces
+^00Shadows of the past, seen when shadow reading.{LF}Through contact with a token of the lost person{LF}or object, a person possessing psychic abilities{LF}can sense its trace, showing them where to go.{LF}{LF}People with particularly strong abilities will see{LF}the form of their quarry, and not just a shadow.{LF}^00The traces will attract malevolent ghosts, so it is{LF}dangerous to spend too long gazing at them.{LF}Yet another risk lies in following the trace of a{LF}person who has already died or has been{LF}spirited away, as you may be inadvertently{LF}following them into the world of the dead.
+About traces
+Tokens
+^00Tokens are used in shadow reading. They are{LF}objects which carry a trace of a person or object{LF}that has gone missing. {LF}{LF}A person with the shadow reading ability is able{LF}to follow that trace to find that which is lost.{LF}They can be anything: items that the subject{LF}liked, strands of hair, letters or diaries that{LF}mattered to them very much, or photographs,{LF}to name a few. {LF}^00It is also possible to use items which{LF}belonged to dead people to follow their trace to{LF}lost or hidden items, but that kind of{LF}shadow reading carries with it great risk.
+About tokens
+The Netherworld
+^00The world of the dead. It is a place of{LF}never-ending night, permanent darkness. Where{LF}the Netherworld connects to the world of the{LF}living the sky glows as if in the light of the{LF}setting sun. The light beckons those unfortunate{LF}enough to see it towards a darkness they will{LF}never escape.
+About the Netherworld
+Shrine Maidens
+^00Ghosts of shrine maidens often appear on{LF}Mt. Hikami. The shrine maidens used to look{LF}after those who came to the mountain to end{LF}their life. They were all murdered and became{LF}ghosts.{LF}{LF}There is a story that long ago the shrine maidens{LF}were killed and their bodies washed up into the{LF}Pool of Purification.{LF}^00Now dead, they continue to{LF}carry out their duties. Their dark gaze awakens{LF}suicidal thoughts within any who find themselves{LF}on Mt. Hikami.
+About the shrine maidens
+The Veiled House
+^00Disappearing houses have been the subject of{LF}many folk tales and urban legends. Some say{LF}that they hold untold riches. The Veiled House{LF}of Mt. Hikami is a different case. It is said those{LF}who enter it are never heard from again.{LF}^00The house exists on the border between our{LF}world and the Netherworld. The ghost of its{LF}owner continues to haunt it and any who enter{LF}are doomed to become trapped between worlds.
+About the Veiled House
+Effigies
+^00A doll in which a soul has been sealed. They{LF}were used in rituals in lieu of real people. When{LF}they are made to closely resemble a person, that{LF}person's spirit is said to be transferred to the{LF}doll. Then, should the doll be destroyed, the{LF}person it represented will die in the same{LF}manner.{LF}^00The custom of concealing effigies that was{LF}practiced on Mt. Hikami is said to have grim{LF}roots. In times of famine children would be led{LF}into the mountains to die, told that they were{LF}playing a game. But perhaps the custom reflects{LF}the old practice of ritual human sacrifices.
+About effigies
+Children of the Shrine
+^00These were girls up to the age of seven who{LF}served as shrine maidens. The custom of offering{LF}a young daughter to a shrine was practiced on{LF}Mt. Kagiroi, near Mt. Hikami.{LF}{LF}People used to believe that the souls of young{LF}children were not yet fully anchored in their{LF}living bodies.{LF}^00There was a saying, "The gods have your soul{LF}until seven years old," which reflected the view{LF}that young children's souls did not yet belong to{LF}the material world.
+About the Children of the Shrine
+Pillars
+^00A long time ago in Japan, when large structures{LF}such as bridges or castles were built, young{LF}maidens were buried alive under the foundations{LF}or in the walls as offerings to the gods.{LF}^00These human sacrifices were believed to make{LF}the buildings stronger and protect them from{LF}destruction, as the maidens would forever watch{LF}over them. They were called "Pillars," and would{LF}support the spells and wards that kept evil{LF}forces out of our world.
+About Pillars
+Returning to Water
+^00In the Mt. Hikami faith, souls are born from the{LF}water, so to return to it is to die.{LF}{LF}Dying in the waters of the mountain was seen as{LF}the right way to leave this world, and it was this{LF}act that was known as "Returning to Water."{LF}^00Only those who were seeking this death would{LF}be permitted onto Mt. Hikami.{LF}{LF}While it is a common belief that souls of suicides{LF}become cursed, "Returning to Water" did not{LF}carry that stigma and was thought to enable a{LF}peaceful and restful death.
+About returning to water
+Glance
+^00The ability to glance into a person's soul, read{LF}their mind, see their memories, and reveal their{LF}secrets. Only those with strong shadow reading{LF}abilities can do this, but even they will usually{LF}only see an abstract vision of the emotions of the{LF}people they touch.{LF}{LF}Yuri needs physical contact to glance into{LF}people's souls, but for especially powerful users,{LF}they merely have to look you in the eye.
+About the Glance ability
+Pure Water
+^00Crystal-clear water found on Mt. Hikami.{LF}{LF}Water was worshipped on the mountain and the{LF}clear spring water was seen as something{LF}extremely precious. The worshippers called it{LF}"Pure Water."{LF}^00Even during the mountain's development as a{LF}tourist spot, those involved believed that{LF}maintaining the high quality of the local water{LF}would please the gods of the mountain.{LF}{LF}According to legend, the Pure Water was the{LF}source of life. Its opposite was the Black Water,{LF}the source of death.
+About Pure Water
+Black Water
+^00Old tales from Mt. Hikami speak of Black Water,{LF}the waters of death which poured out from the{LF}Netherworld. It was the dark counterpart to{LF}the Pure Water.{LF}{LF}Shrine maidens performed rituals to prevent it{LF}from overflowing into our world.
+About Black Water
+Tainted
+^00If one is drenched in Black Water, the water of{LF}death, it will slowly consume a person's body.{LF}It will bring them closer to the Netherworld{LF}even as they're still alive. The Black Water taints{LF}the soul, eventually turning it into a ghost.{LF}^00Only the sacred flame can clean off the{LF}Black Water. This special fire had been carefully{LF}maintained on Mt. Hikami. Those who die from{LF}being tainted by the Black Water become ghosts,{LF}with Black Water pouring out of their mouths{LF}and eyes. They drag the living into the dark.
+About being tainted
+Boat of Passage
+^00A boat which took passengers from the Shrine{LF}of the Ephemeral to the Shrine on the Water.{LF}Only shrine maidens who had glanced into{LF}enough people's souls and were suffocated with{LF}grief could board it. It would take them over the{LF}lake without the need to steer.{LF}^00Should any other person enter the boat, it would{LF}sail into the mist and return to the shore, empty.
+About the Boat of Passage
+The Dark Sun
+^00The forever-setting sun that bathes the{LF}Shadowspring, the border between our world{LF}and the Netherworld, in its glow.{LF}{LF}It only reveals itself to those who are seeking{LF}death. Its haunting beauty guides them to the{LF}other side.{LF}^00The souls of the people who follow it to the{LF}Shadowspring resemble shadows, gazing up{LF}into the Dark Sun as they slowly vanish from{LF}our world.
+About the Dark Sun
+Ghost Marriage
+^00A posthumous wedding. The tradition of Ghost{LF}Marriage differs from place to place. It was{LF}performed mostly for those who died at a young{LF}age without ever having married, to bring them{LF}happiness in the afterlife.{LF}^00Participants would be represented by an effigy{LF}or a photograph during the ceremony in which{LF}their soul is wed to a living groom or bride. On{LF}Mt. Hikami, the weddings took place between{LF}sacrificed shrine maidens and Outsiders{LF}brought to the mountain.{LF}^00The practice was carried out in order to{LF}strengthen the maidens drowned in the{LF}Shadowspring as Pillars; they were believed{LF}to last longer when joined in the darkness{LF}by a partner.{LF}{LF}The grooms were free to choose which shrine{LF}maiden they wanted to marry.{LF}^00If the wedding was successful, the bride would{LF}take the man back with her to the casket in{LF}which she had been drowned. In the event the{LF}wedding did not go as planned, the groom{LF}would be shut in a reliquary and placed in the{LF}water.
+About Ghost Marriages
+Immortal Flowers
+^00This term refers to the shrine maidens drowned{LF}in the Shadowspring as sacrifices. The maidens{LF}were shut in boxes filled with Black Water. The{LF}water brought them close to death and gradually{LF}eroded their bodies. But if their resolve was{LF}strong they would retain their physical form.{LF}^00While in the caskets, being suspended between{LF}life and death, the shrine maidens would not age.{LF}Their beauty being immune to the effects of time{LF}inspired people to call them Immortal Flowers.
+About Immortal Flowers
+Shadowborn
+^00A child born from a union between a living{LF}person and a ghost. Tales of such children are{LF}rare but can be found in many parts of the{LF}world.{LF}^00Shadowborn were generally feared and detested{LF}as being of the Netherworld, but in some parts{LF}people revere them for their strong psychic{LF}abilities.
+About the Shadowborn
+Reliquaries
+The reliquaries were ornate wooden boxes used{LF}on Mt. Hikami for ritual sacrifices. Shrine{LF}maidens would be shut in the reliquaries, which{LF}would then be placed into the waters.{LF}{LF}The ritual was believed to preserve the beauty of{LF}the Pure Water and prevent the Black Water{LF}from tainting it.
+About the reliquaries
+Caskets
+Ornate caskets that were used for ritual{LF}sacrifices. Only the most powerful shrine{LF}maidens were put in these caskets. The caskets{LF}were bigger than the reliquaries so that the{LF}grooms from the Ghost Marriages could join the{LF}shrine maidens in them for eternity, keeping{LF}the Pillars strong.
+About caskets
+Shrine Maidens - 2
+^00Shrine maidens were central to the Mt. Hikami{LF}faith. They would accompany people who came{LF}to the mountain to end their life, and be{LF}witnesses to their last moments. Pilgrims would{LF}choose a maiden before entering the mountain.{LF}^00The maidens would absorb their feelings and{LF}thoughts. After a time, the maidens' hearts{LF}would overflow with these emotions. They{LF}would take that pain with them into the{LF}caskets and reliquaries, which would then be{LF}sunk into the water.{LF}^00Long ago a man called Kyozo Kururugi killed{LF}the shrine maidens and their bodies washed up{LF}into the Pool of Purification, tainting it with{LF}their blood. This resulted in them becoming{LF}beings of the Netherworld.{LF}^00They continued to ensure those who come to{LF}Mt. Hikami die a proper death. A few of the{LF}maidens survived and left the mountain. It is{LF}said that they settled in the villages at the foot{LF}of Mt. Hikami and that their abilities live on in{LF}their descendants.
+About the shrine maidens - 2
+Glance - 2
+^00A special ability that the shrine maidens{LF}possessed. They would glance into the souls of{LF}people who came to end their life on{LF}Mt. Hikami during their last moments and see{LF}their sins, all their secrets, making those{LF}memories their own.{LF}^00They would share in those people's sorrow, fears,{LF}and suffering, saving them from the choking{LF}desolation as they died.
+About the Glance ability - 2
+
+Prologue
+^00Miu, a girl who has been "spirited away," awakes{LF}in a flooded mansion. While searching for the{LF}exit, she comes across a room with nothing but a{LF}large, black box inside.{LF}{LF}As the box opens, what emerges from within is{LF}not of this world.{LF}^00With no one there to hear Miu's scream, her{LF}voice is lost in the mist.
+Prologue - Lurking in the Depths -
+First Drop
+^00While learning about shadow reading from{LF}Hisoka, Yuri uses the ability to retrieve an album{LF}of Postmortem Photographs from a ruined inn{LF}on Mt. Hikami. The album has been requested{LF}by a certain Ren Hojo.{LF}^00As Ren awakes from a bad dream, he finds{LF}himself tormented by uncertainty.{LF}{LF}Was it really just a dream? Or a suppressed{LF}childhood memory? This question has plagued{LF}him for some time.
+First Drop - A Vanishing Trace -
+Second Drop
+Fuyuhi Himino takes her own life. Yuri{LF}witnesses her final moments. Fuyuhi isn't alone{LF}when she dies. There is a woman there who{LF}killed herself in the same way, and a shrine{LF}maiden, sodden from the rain.{LF}{LF}Yuri finds Hisoka's Camera Obscura and a charm{LF}Hisoka always liked to wear. She has no choice{LF}but to return to the antiques shop alone.
+Second Drop - Mt. Hikami -
+Third Drop
+The photo album left by the innkeeper was put{LF}together by a folklorist who lived on{LF}Mt. Hikami.{LF}{LF}As Ren and Rui explore the inn and follow the{LF}trace of its owner, a ghost lures Rui to suicide.{LF}Then, in the rain, a shrine maiden appears.{LF}{LF}Ren and Rui leave the mountain with more{LF}questions than when they started.
+Third Drop - Postmortem Photography -
+Interlude
+Using the Camera Obscura, Yuri finds many{LF}more missing person cases in Hisoka's files. She{LF}is more determined than ever now to head back{LF}to the mountain and find Hisoka.
+Interlude - Shadow Reading -
+Fourth Drop
+^00Yuri finds the missing Haruka Momose in a{LF}reliquary in a cave beneath the Shrine of Dolls.{LF}{LF}She takes the girl back to the shop. Haruka is in{LF}no state to talk and can't explain what happened{LF}to her.{LF}^00That night, Haruka is visited by Fuyuhi's ghost,{LF}which takes her back to the mountain.
+Fourth Drop - Spirited Away -
+Fifth Drop
+^00Ren and Rui set out to find the folklorist's{LF}house, relying on clues from a video.{LF}{LF}As they pass through the Shrine of Dolls, the{LF}white-haired girl from Ren's dreams appears. She{LF}asks why he didn't bring her token, then{LF}vanishes.{LF}^00Ren and Rui arrive at the Veiled House, where{LF}they discover several of Keiji Watarai's writings{LF}on the customs and beliefs surrounding{LF}Mt. Hikami.{LF}{LF}They escape the house, only to see it vanish in a{LF}veil of mist.
+Fifth Drop - The Veiled House -
+Sixth Drop
+Miu Hinasaki is found in a reliquary within{LF}the Shrine of the Ephemeral. Yuri attempts to{LF}glance the sleeping Miu's memories, but finds{LF}the tables turned against her.{LF}{LF}It seems Miu possesses the same shadow reading{LF}abilities as Yuri.
+Sixth Drop - Immortal Flower -
+Seventh Drop
+^00Yuri follows Hisoka's trace to the shore of the{LF}Lake of the Departed, where it vanishes into the{LF}mist. In her place, a woman appears: the same{LF}dark presence seen in Hisoka's photograph.{LF}{LF}Unable to inflict any damage with the Camera{LF}Obscura, Yuri's only option is to run.{LF}^00Yuri recalls the outline of a large torii gate over{LF}the misty lake. Could that be where Hisoka was{LF}headed?
+Seventh Drop - Maiden of Black Water -
+Eighth Drop
+Ren is watching over the sleeping Yuri and Miu{LF}on the surveillance cameras, but he passes out.{LF}He has a dream where he's chasing after Rui.{LF}When he wakes up, both Yuri and Rui are gone.{LF}{LF}He finds Miu getting ready to leave for{LF}Mt. Hikami, taking Yuri's Camera Obscura with{LF}her. She heads for the door, leaving a{LF}bewildered Ren behind.
+Eighth Drop - The Witching Hour -
+Ninth Drop
+^00As Yuri wades into the mist over the Lake of the{LF}Departed, she is stopped by Miu.{LF}{LF}The girls grow closer. Losing their parents at a{LF}young age and being able to see into the souls of{LF}others... The girls have more in common than{LF}they may have first realized.{LF}^00Yuri still hasn't found Hisoka, while Miu still{LF}searches for her mother, Miku.{LF}{LF}The eerie dark figure that appeared at the lake{LF}may just hold all the answers. But why does she{LF}keep calling out to Yuri?
+Ninth Drop - The Sacred Casket -
+Tenth Drop
+^00Ren finds Rui in the Veiled House, only to be{LF}pulled into a reliquary. He awakes in an{LF}unfamiliar building.{LF}{LF}An old woman leads Ren to a room in which{LF}Rui is waiting, dressed as a bride. The room{LF}where the Ghost Marriages are held.{LF}^00Rui changes into a fearsome bride wearing black.{LF}Then, in a flash, they are back in the folklorist's{LF}house. There they encounter Kazuya, whose own{LF}wedding to a ghost went horribly wrong.{LF}{LF}The Veiled House vanishes, with Kazuya still{LF}inside.
+Tenth Drop - Ghost Marriage -
+Eleventh Drop
+^00Miu finally finds Miku on Mt. Hikami, where{LF}she had entered into a Ghost Marriage at the{LF}House of Joining.{LF}{LF}Miku explains her desire to be reunited with her{LF}beloved, pleading for forgiveness. {LF}{LF}They head back to the shop.{LF}^00Miu and Miku lay side by side and quickly fall{LF}into a deep sleep.
+Eleventh Drop - The Shadowborn -
+Twelfth Drop
+Yuri boards the Boat of Passage and is taken to{LF}the Shrine on the Water, the final destination for{LF}shrine maidens set to become Pillars.{LF}{LF}Yuri finds Hisoka inside the shrine and takes her{LF}safely back to the antiques shop.{LF}{LF}The bond between the two of them grows even{LF}stronger.
+Twelfth Drop - To the Other Side -
+Thirteenth Drop
+^00Ren learns of the true purpose of the rituals{LF}performed on Mt. Hikami.{LF}{LF}The mountain acts as a bridge between our{LF}world and the world of the dead. A place at{LF}which the souls of visitors are returned to the{LF}water from which they were born.{LF}^00Shrine maidens absorbed the memories of the{LF}dying, and when they could take no more, they{LF}were sacrificed.{LF}{LF}Ghost Marriages served to strengthen the souls{LF}of those sacrificed.{LF}^00They sunk deep into that spring of darkness that{LF}leads to the Netherworld.{LF}{LF}The water is everything.
+Thirteenth Drop - The Dark Sun -
+Bride from Black Water
+^00Having absorbed the thoughts of countless{LF}ghosts, Yuri feels the mountain calling for her.{LF}She makes her way toward the Shadowspring.{LF}{LF}Awaiting her is Ose Kurosawa, the Immortal{LF}Flower. As Yuri touches Ose, she shares in her{LF}immense pain and solitude.{LF}^00Ose, finally freed from her grief, returns to the{LF}Shadowspring alone.{LF}{LF}Entering her casket, she takes with her{LF}all the Black Water which had spilled out onto{LF}the mountain, to eternally fall into its depths.{LF}{LF}Yuri leaves the mountain with Hisoka.
+Last Drop - Bride from Black Water -
+Embrace
+^00Having absorbed the thoughts of countless{LF}ghosts, Yuri feels the mountain calling for her.{LF}She makes her way toward the Shadowspring.{LF}{LF}Awaiting her is Ose Kurosawa, the Immortal{LF}Flower. Yuri and Ose share the same pain, grief{LF}and isolation. They fall as one.{LF}^00They are no longer alone.
+Last Drop - Embrace -
+Love After Death
+^00Ren roams Mt. Hikami, following Dr. Aso's{LF}memories. The trail leads him to his own{LF}Ghost Marriage.{LF}{LF}The bride Ren has chosen is waiting for him in{LF}the House of Joining. It's the bride from the{LF}photo, Ose Kurosawa.{LF}^00As Ren embraces Ose, the scene changes and{LF}now it's Dr. Aso standing there with Ose.{LF}Kunihiko tells Ose how he feels. She disappears,{LF}happy.{LF}{LF}She returns to the darkness to continue serving{LF}as a Pillar. Ren is allowed to leave the mountain.
+Last Drop - Love after Death -
+Alone in the Casket
+^00Ren roams Mt. Hikami, following Dr. Aso's{LF}memories. The trail leads him to his own{LF}Ghost Marriage.{LF}{LF}The bride Ren has chosen is waiting for him in{LF}the House of Joining. It's the bride from the{LF}photo, Ose Kurosawa.{LF}^00As she approaches, Ren takes a picture of her,{LF}stopping her from getting close. She accepts his{LF}rejection and asks that he take one last picture.{LF}{LF}Ren grants her that wish and she disappears, to{LF}return to her duties as a Pillar, leaving Ren the{LF}picture, and her soul.
+Last Drop - Alone in the Casket -
+In the Reliquary
+^00Ren roams Mt. Hikami, following Dr. Aso's{LF}memories. The trail leads him to his own{LF}Ghost Marriage.{LF}{LF}The bride Ren has chosen is waiting for him in{LF}the House of Joining. It's the white-haired girl,{LF}Shiragiku.{LF}^00They enter her reliquary, where Ren turns into a{LF}young Dr. Aso. In this way, the vow he made to{LF}her is fulfilled. Now, Shiragiku remembers the{LF}first time they met, and pushes him away,{LF}choosing to remain alone as a Pillar.{LF}{LF}Ren wakes up outside Kagiroi Shrine, where{LF}Dr. Aso used to play with Shiragiku when they{LF}were children.
+Last Drop - In the Reliquary -
+Cherry Blossoms
+^00Ren roams Mt. Hikami, following Dr. Aso's{LF}memories. The trail leads him to his own{LF}Ghost Marriage.{LF}{LF}The bride Ren has chosen is waiting for him in{LF}the House of Joining. It's the white-haired girl,{LF}Shiragiku.{LF}^00Ren is scared of her reliquary, and defeats her{LF}with his Camera Obscura. She is thus relieved of{LF}her duties as a Pillar, and forgives both Ren and{LF}Dr. Aso. She recalls a memory of beautiful{LF}cherry blossoms, thinking of them as she fades{LF}away.
+Last Drop - Cherry Blossoms -
+The Shadowborn
+Miu and her mother watch the Dark Sun as it{LF}sinks into the Black Water. Miku promises never{LF}to leave Miu again.{LF}{LF}It's a lie.{LF}{LF}A lie that hurts more than the truth. Miu knows{LF}that her mother is no longer of this world. Her{LF}mother vanishes and Miu, now alone, cries out.
+Last Drop - The Shadowborn -
+Waking up to Dreams
+^00Miu and her mother watch the Dark Sun as it{LF}sinks into the Black Water. Miku promises never{LF}to leave Miu again.{LF}{LF}Miu wakes up. Her mother is there next to her.{LF}^00They embrace, each making sure the other is{LF}really there. Even if it's just for a while...
+Last Drop - Waking up to Dreams -
+First Thread
+Ayane agrees to look for a missing girl called{LF}Tsumugi. She learns she is on Mt. Hikami, and{LF}is severely wounded by a ghost.{LF}{LF}She makes her escape and decides the only way{LF}to fight the supernatural is with forbidden{LF}magic.
+First Thread - Stranger in the Rain -
+Second Thread
+Ayane casts a spell on herself bringing her closer{LF}to death. Shrouded in darkness, she follows the{LF}purple thread leading her to Tsumugi.{LF}{LF}The thread leads her to the Shrine of the{LF}Ephemeral, on the summit of Mt. Hikami.
+Second Thread - Purple Ties -
+Third Thread
+Ayane searches the Shrine of the Ephemeral.{LF}{LF}She finds and rescues Tsumugi, who was being{LF}swallowed by the Black Water.{LF}{LF}She can feel that they are surrounded by beings{LF}from the Netherworld.
+Third Thread - Shrine of the Ephemeral -
+Last Thread
+Ayane and Tsumugi escape from Mt. Hikami.{LF}{LF}She has something to say to the girl. She tells{LF}her to believe in herself.{LF}{LF}As Ayane turns to leave, Tsumugi replies that{LF}she will become stronger.
+Last Thread - Wash Away -
+^00In this mode, you operate the Camera Obscura.{LF}{LF}                  - Camera Controls 1 -{LF}{LF}Changing Position: Move about by using ^11~00~^20~09~^10.{LF}{LF}Changing Focus: Move the camera using ^11~00~^20~10~^10,{LF}or ^11~00~^20~25~^10 if ^11~00~^20~25~^20~16~^20~10~^10 is set in General Settings.{LF}^00                   - Camera Controls 2 -{LF}{LF}Quick Focus Change: Hold down ^11~00~^20~07~^10{LF}and move ^11~00~^20~10~^10.{LF}{LF}Changing Angle: 　^11~00~^20~30~^10.{LF}^00                    - Taking Photos 1 -{LF}{LF}Shooting: Press the shutter with ^11~00~^20~14~^10.{LF}{LF}Locking On: To lock on to ^20~32~, hold down ^11~00~^20~32~^10.{LF}{LF}Changing Film: Switch films using ^11~00~^20~19~^10.{LF}^00                    - Taking Photos 2 -{LF}{LF}Changing Lenses: Switch lenses using ^11~00~^20~18~^10.{LF}{LF}Special Shots: Press ^11~00~^20~35~^10 to activate{LF}a lens's ability.{LF}{LF}Switch to Search Mode: Press ^11~00~^20~33~^10.
+^00In this mode, you operate the Camera Obscura.{LF}{LF}                  - Camera Controls 1 -{LF}{LF}Changing Position: Move about by using ^11~00~^20~09~^10.{LF}{LF}Changing Focus: Move the camera using ^11~00~^20~10~^10,{LF}{LF}^00                   - Camera Controls 2 -{LF}{LF}Quick Focus Change: Hold down ^11~00~^20~07~^10{LF}and move ^11~00~^20~10~^10.{LF}{LF}Changing Angle: 　^11~00~^20~37~^10 / ^11~00~^20~38~^10.{LF}^00                    - Taking Photos 1 -{LF}{LF}Shooting: Press the shutter with ^11~00~^20~14~^10.{LF}{LF}Locking On: To lock on to ^20~32~, hold down ^11~00~^20~32~^10.{LF}{LF}Changing Film: Switch films using ^11~00~^20~19~^10.{LF}^00                    - Taking Photos 2 -{LF}{LF}Changing Lenses: Switch lenses using ^11~00~^20~18~^10.{LF}{LF}Special Shots: Press ^11~00~^20~35~^10 to activate{LF}a lens's ability.{LF}{LF}Switch to Search Mode: Press ^11~00~^20~33~^10.

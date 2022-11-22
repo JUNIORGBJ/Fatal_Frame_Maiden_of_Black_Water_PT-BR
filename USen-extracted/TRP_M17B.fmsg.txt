@@ -1,0 +1,28 @@
+You're...you're going, aren't you?^01~150~
+Th-that thing you're looking for?{LF}It's in your study... A-at the back.^01~275~
+Ren...{LF}You're...you're leaving, aren't you?^01~210~
+I thought I found you, but you are lost...{LF}I thought you could take it, but you fell.^01~210~
+Yuri... You'll leave me too...someday.^01~150~
+You can fight it with all your strength,{LF}but the current will sweep you away.^01~120~
+Yuri...^01~60~
+Mother...^01~90~
+Mafuyu...^01~90~
+Ren, I...^01~90~
+Please, wait.{LF}Don't... Don't go.^01~120~
+The mountain from which none return.{LF}I'll wager I'll never witness this view again.^01~360~
+Returning to the water... A proper death,{LF}in the company of a shrine maiden.^01~180~
+Dissolving into the water, merging together...{LF}A death without loneliness.^01~180~
+In the end, will I die alone?{LF}All alone... Will none of my friends be with me?^01~270~
+For seven years, I belong to the gods.^01~90~
+For seven years, I am with the unborn.^01~120~
+When I turn 7 years old, I'll become a person.^01~120~
+And then, I will become a Pillar.^01~120~
+I died once, but I came back.{LF}Because you were at my side.^01~210~
+Maidens who have returned from the dead{LF}become powerful Pillars.^01~120~
+They say becoming a Pillar means you live{LF}forever. Does that mean I will be alone forever?^01~240~
+But even so, you will...^01~150~
+Still come to see me.^01~90~
+^00When a person dies, does everything about them disappear?^01~150~{LF}^00^01~20~{LF}^00I would prefer to believe otherwise.^01~110~{LF}^00People don't disappear. They simply move on.{LF}Move on to an unseen world.^01~220~
+It is said there's a world we cannot see on this mountain.{LF}It is a hidden world, invisible to the mortal eye.^01~400~
+^00What exactly happens to a person's thoughts after they die?^01~240~{LF}^00If the soul is real, where does it go?^01~260~{LF}^00Is it to that hidden world?{LF}The one we cannot see?^01~260~
+^00What exactly happens to a person's thoughts after they die?^01~140~{LF}^00If the soul is real, where does it go?^01~100~{LF}^00Is it to that hidden world?{LF}The one we cannot see?^01~140~

@@ -1,0 +1,183 @@
+Display Language
+Japanese
+English
+French
+German
+Traditional Chinese
+Simplified Chinese
+Change text and subtitle language.
+表示言語を切り替えます。{LF}よろしいですか？
+Changing the display language. Do you want to proceed?
+Changement de la langue d'affichage.{LF}Voulez-vous continuer ?
+Anzeigesprache wird geändert.{LF}Möchtest du fortfahren?
+將切換顯示語言。{LF}確定要切換嗎？
+即将切换显示语言。{LF}确定要这样做吗？
+はい
+いいえ
+Yes
+No
+Oui
+Non
+Ja
+Nein
+確定
+取消
+是
+否
+https://www.gamecity.ne.jp/manual/zero/maiden/jp/
+▼▼▼CONTROLLER IMAGE FOR FINDER▼▼▼
+^20~42~
+%ls  %d pts.{LF}Do you want to purchase this? (Current points: %d pts.)
+You don't have enough points.
+Ryza Outfit
+Ryza Hat
+Camera Obscura Hat
+Witch's Hat
+%ls is now available as an accessary for Yuri.
+%ls is now available as an accessory for Ren.
+%ls is now available as an accessory for Miu.
+https://www.koeitecmoamerica.com/manual/fatalframe-mobw/en/
+https://www.koeitecmoeurope.com/manual/zero-maiden/en/
+https://www.koeitecmoeurope.com/manual/zero-maiden/fr/
+https://www.koeitecmoeurope.com/manual/zero-maiden/de/
+https://www.gamecity.com.tw/manual/zero/maiden/
+https://www.gamecity.com.tw/manual/zero/maiden/sc/
+^20~30~
+Aim Camera Backward{LF}Run
+Take Photo (Attack){LF}Shake Ghost Off
+Pick Up Item{LF}Focus (Shadow Reading)
+Search Mode
+Photo Mode
+Motion Sensor Function ^20~41~^20~10~ 
+Use the controller's motion sensor function and ^20~10~ to control the direction the camera is pointing while in Photo Mode.{LF}(This control style is for those who want to use the controller as a camera in an intuitive way.)
+Use the controller's motion sensor function and ^20~10~ to control the direction the camera is pointing while in Photo Mode.{LF}(This control style is for those who want to use the controller as a camera in an intuitive way.)
+Motion Sensor Sensitivity
+Adjust controller motion sensor sensitivity.
+Following content has been added:{LF}20th Anniversary Celebration Digital Art Book{LF}The Art Book can be accessed from the title menu in the game.
+The "20th Anniversary Celebration Digital Art Book" content has been deleted.{LF}Please reinstall the content is you wish to access it.
+The following additional content has been added:{LF}%ls{LF}It can be accessed from "^20~03~: Costumes".
+The DLC content has been deleted.{LF}Please reinstall the content is you wish to access it.
+The costume/accessary DLC content has been deleted.{LF}If it was equipped, character costumes will be reset to default.{LF}Please reinstall the content is you wish to access it.
+20th Anniversary Digital Artbook
+Past Protagonists Costume Set
+Yuri Exclusive Costume: Ryza Outfit, Ryza Hat
+Yuri/Miu/Ren Exclusive Costume: Camera Obscura Hat{LF}& Yuri/Miu Exclusive Costume:  Witch's Hat
+^20~05~
+^20~06~
+The Snap Mode can't be used here.
+The Snap Mode is currently unavailable.
+This turns the controller vibration effect on or off.
+This turns the controller vibration effect on.
+This turns the controller vibration effect off.
+Key Configuration
+Control Type
+Keyboard and Mouse
+Keyboard Only
+Search Mode
+Photo Mode
+Other
+Format Settings
+This allows you to set keyboard controls.
+This allows you to select whether to use the keyboard by itself or with a mouse.
+This allows you to change the control settings for the keyboard and mouse.{LF}Select and confirm an item you wish to change, then assign a key.
+This allows you to change the control settings for the keyboard.{LF}Select and confirm an item you wish to change, then assign a key.
+Are you sure you want to return keys to their original settings?
+This action has already been assigned to the key below.{LF}Are you sure you to reassign it?{LF}%ls
+Walk (Forward)
+Walk (Backward)
+Walk (Left)
+Walk (Right)
+Look Around
+Look Around (Up)
+Look Around (Down)
+Look Around (Left)
+Look Around (Right)
+Run
+Parallel Movement
+Focus (Shadow Reading)/Pick Up Item
+Aim Camera
+Aim Camera Backward
+Action
+Dodge Attack
+Ready Camera
+Show Menu
+Pause
+Show Detailed Map
+Activate Snap Mode
+Walk (Forward)
+Walk (Backward)
+Walk (Left)
+Walk (Right)
+Look Around
+Look Around (Up)
+Look Around (Down)
+Look Around (Left)
+Look Around (Right)
+Look Around Quickly
+Lock On
+Take Photo (Attack)/Shake Off Ghost
+Use Upgraded Lens
+Put Camera Away
+Switch Upgraded Lens (Up)
+Switch Upgraded Lens (Down)
+Switch Film (Left)
+Switch Film (Right)
+Rotate Camera on Z Axis (Left)
+Rotate Camera on Z Axis (Right)
+Snap Mode: Move Camera (Forward)
+Snap Mode: Move Camera (Backward)
+Snap Mode: Move Camera (Left)
+Snap Mode: Move Camera (Right)
+Snap Mode: Rotate Camera
+Snap Mode: Rotate Camera (Up)
+Snap Mode: Rotate Camera (Down)
+Snap Mode: Rotate Camera (Left)
+Snap Mode: Rotate Camera (Right)
+Snap Mode: Select Item (Up)
+Snap Mode: Select Item (Down)
+Snap Mode: Switch Item (Up)
+Snap Mode: Switch Item (Down)
+Snap Mode: Roll (Left)
+Snap Mode: Roll (Right)
+Snap Mode: Raise Camera
+Snap Mode: Lower Camera
+Snap Mode: Switch UI Display
+Snap Mode: Switch Operation Speed
+Snap Mode: Take Shot
+Close Snap Mode
+Menu: Confirm/Next Page
+Menu: Select (Up)
+Menu: Select (Down)
+Menu: Select (Left)
+Menu: Select (Right)
+Menu: Back/Close Window
+Select screen resolution.
+Change the window setting.
+Select overall graphics quality.
+Select texture quality.
+Select shadow quality.
+Select RLR (real-time local reflection) quality.
+Select effect quality.
+Change the anti-aliasing setting.
+Change the DOF (depth of field) setting.
+Change the ambient occlusion setting.
+Change the bloom setting.
+Change the light shaft setting.
+Change the draw distance setting.
+Change the point light distance setting.
+960x540
+1080x600
+1280x720
+1366x768
+1600x900
+1920x1080
+2560x1440
+3840x2160
+Custom
+Edit graphics settings.
+This restores all settings to their defaults.{LF}(Excludes graphics settings and key configuration.)
+Ending game. Are you sure?
+
+
+
+Format Settings

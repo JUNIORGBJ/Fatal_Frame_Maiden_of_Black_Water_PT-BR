@@ -1,0 +1,19 @@
+
+Pale, pale mistress!
+Who's that behind you?
+
+
+
+Soon the Pillar will fail...^01~220~
+The Black Water shall overflow once more.^01~150~
+A new Pillar must be found...^01~120~
+Is that...?
+Hisoka? Wait up!
+Hisoka!^01~60~
+Will you end yourself with me?^01~150~
+You can fight it with all your strength, but the{LF}current will overwhelm you and sweep you away.^01~240~
+You're...alone, too.^01~105~
+You, too...will fall alone.^01~120~
+The same pain... The same scars... Let us fall,{LF}together... Let our wounds combine...^01~240~
+You can fight it with all your strength, but the{LF}current will overwhelm you and sweep you away.^01~240~{LF}^00You're...alone, too.^01~105~{LF}^00You, too...will fall alone.^01~120~{LF}^00The same pain... The same scars... Let us fall,{LF}together... Let our wounds combine.^01~240~
+*whisper whisper*{LF}Teehee... Heeheeheehee...^01~90~

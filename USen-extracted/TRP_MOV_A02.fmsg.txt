@@ -1,0 +1,10 @@
+^00This enchantment will bring you to the brink of death.^01~155~{LF}^00I hope you can withstand the pain.^01~160~
+^00This enchantment will bring you to the brink of death.^01~130~{LF}^00I hope you can withstand the pain.^01~90~
+I am no stranger to pain.^01~85~
+Do you hate your sister?^01~45~
+Do you hate yourself?^01~55~
+Very well.^01~45~
+This will make you stronger.^01~50~
+Huh? What's this?^01~70~
+Go on, take it.^01~55~
+^00Those who reside on the mountain...^01~65~{LF}^00They cannot stand the brightness of the{LF}Spirit Stone Flashlight.^01~135~

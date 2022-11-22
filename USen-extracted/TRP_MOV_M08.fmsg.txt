@@ -1,0 +1,35 @@
+Ren speaking.^01~30~
+Ren...^01~35~
+^00Kazuya?^01~50~{LF}^00I've been trying to get in touch with you,{LF}I was worried.^01~100~{LF}^00^01~150~{LF}^00Listen, about what I said to you before...^01~120~
+^00Kazuya?^01~50~{LF}^00I've been trying to get in touch with you,{LF}I was worried.^01~100~{LF}^00^01~110~{LF}^00Listen, about what I said to you before...^01~120~
+I'm getting married.^01~70~
+What? You are?^01~85~
+Yeah...^01~50~
+Yeah...^01~50~
+That's...wow.^01~100~
+That's...wow.^01~80~
+^00Um, congratulations.^01~60~{LF}^00And who's the lucky bride?^01~60~
+^00Um, congratulations.^01~80~{LF}^00And who's the lucky bride?^01~75~
+Anyone I know?^01~40~
+Anyone I know?^01~70~
+Ever since I saw her picture...^01~110~
+Will you die with me?^01~110~
+^00Don't talk to me.^01~70~{LF}^00I'm not supposed to talk to the living.^01~105~
+...A man, at last.^01~60~
+You are a man, are you not?^01~110~
+I'm a girl.^01~50~
+Liar!^01~30~
+I am!^01~60~
+I see. In that case...^01~80~
+Let us play.^01~40~
+This is an effigy. Of you.^01~90~
+This is an effigy. Of you.^01~130~
+No. I'll make you into an effigy.^01~160~
+It's playtime!{LF}You're the groom, now find your bride!^01~120~
+You found me.^01~50~
+You're that girl...^01~90~
+You didn't keep it with you.^01~70~
+My token...^01~50~
+^00Did you lose it?^01~130~{LF}^00But, our promise...^01~70~
+^00Did you lose it?^01~100~{LF}^00But, our promise...^01~70~
+Huh...^01~50~

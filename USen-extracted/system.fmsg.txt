@@ -1,0 +1,998 @@
+
+▼▼BUTTON FLAGS▼▼
+Pick Up
+Open
+Check
+Pick Up
+Open
+Check
+Proceed
+Look
+Touch
+Crouch
+Camera Obscura
+Dodge
+Talk
+Take
+Confirm
+Surveillance
+▼▼▼BUTTON HELP▼▼▼
+^20~40~
+^20~31~
+^20~03~
+^20~04~
+^20~00~
+^20~18~
+^20~19~
+^20~09~
+^20~09~
+^20~09~
+^20~07~
+^20~10~
+^20~10~
+^20~10~
+^20~08~
+^20~01~
+^20~02~
+^20~14~
+^20~13~
+^20~17~
+^20~11~
+^20~ff~
+^20~ff~
+^20~ff~^20~ff~
+^20~16~
+^20~05~: Confirm
+^20~05~: Change
+^20~06~: Back
+^20~03~: Map
+^20~09~ or ^20~00~: Select
+^20~09~ or ^20~00~: Select
+^20~09~ or ^20~00~: Switch
+^20~09~: Select
+^20~09~: Move
+^20~10~: Zoom
+^20~00~: Floor
+^20~00~: Location
+^20~08~: Current Position
+^20~03~: Close
+^20~04~: Move
+^20~03~: Manage
+^20~03~: Change
+^20~10~: Scroll
+^20~00~: Change
+^20~03~: Costumes
+^20~09~ or ^20~00~: Page ^20~05~: Next
+^20~06~: Close
+^20~05~: Next
+^20~05~: Next
+^20~13~ or ^20~14~: Page
+^20~04~: Sort
+^20~03~: Manage
+^20~31~: Get up
+
+^20~04~: Show Map
+^20~ff~: Switch Screen
+^20~ff~: Switch ^20~00~: Scroll
+^20~09~: Scroll
+^20~03~: Play Video
+^20~22~: Rotate Character
+▼▼▼UNITS▼▼▼
+- / -
+h
+m
+s
+pts.
+Type
+EASY
+NORMAL
+HARD
+NIGHTMARE
+RANK
+SCORE
+▼▼▼Character Names▼▼▼
+Kozukata
+Yuri
+Yuri Kozukata
+Hinasaki
+Miu
+Miu Hinasaki
+Hojo
+Ren
+Ren Hojo
+Ayane
+Kurosawa
+Hisoka
+Hisoka Kurosawa
+Himino
+Fuyuhi
+Fuyuhi Himino
+Momose
+Haruka
+Haruka Momose
+Miku
+Miku Hinasaki
+Kagamiya
+Rui
+Rui Kagamiya
+Ose
+Ose Kurosawa
+Aso
+Kunihiko
+Kunihiko Aso
+Watarai
+Keiji
+Keiji Watarai
+Sakaki
+Kazuya
+Kazuya Sakaki
+Shiragiku
+???
+▼▼▼ITEM NAMES AND DESCRIPTIONS▼▼▼
+Camera Obscura
+An old camera with collapsible bellows.{LF}It has the power to photograph the supernatural.
+Herbal Medicine
+Pills made from a myriad of herbs.{LF}Consuming them will restore some health.
+Sacred Water
+Clean water used for purification.{LF}Restores your health completely.
+Mirrorstone
+A black stone that emits a mysterious light.{LF}If you run out of health, it will protect you.
+Ink Bottle
+A bottle of ink used for dark arts.{LF}The magic of the ink brings its user closer to death.
+Purifying Embers
+Coals that light the Forbidden Flame.{LF}They dry you and remove the taint of the Black Water.
+Type-07 Film
+Old film. It is in poor condition, and has lost{LF}most of its power to exorcize ghosts.
+Type-14 Film
+Old film. It is not effective at exorcizing ghosts,{LF}and it takes a long time to load.
+Type-61 Film
+New film in good condition. It is effective at exorcizing ghosts.
+Type-90 Film
+Film with a symbol of purification.{LF}It is very effective at exorcizing ghosts and loads quickly.
+Type-00 Film
+Special film. It is the most effective film at{LF}exorcizing ghosts, but it takes time to load.
+Slow Lens
+Slow Lens:{LF}A lens that slows down the photographed subject for a set period of time.
+Bind Lens
+Bind Lens:{LF}A lens that freezes the photographed subject for a time.{LF}Taking another photo will undo it.
+See Lens
+See Lens:{LF}A lens that will exorcize a ghost in one shot if{LF}it is in a "glance" state and glowing a pale white.
+Reward Lens
+Reward Lens:{LF}A lens that increases the number of points{LF}earned by taking photos for a short time.
+Stun Lens
+Stun Lens:{LF}A lens that forcibly staggers the photographed subject.
+Blow Lens
+Blow Lens:{LF}A lens that allows you to deal twice the normal damage output to targets.
+Crush Lens
+Crush Lens:{LF}A lens that deals more damage to targets based on its level.
+Zero Lens
+Zero Lens:{LF}A lens that deals more damage to targets the lower your health is.
+Restore Lens
+Restore Lens:{LF}A lens that restores your health based on how{LF}much damage is dealt to the target.
+Fatal Lens
+Fatal Lens:{LF}A lens that triggers Fatal Time if a photo is taken during a Shutter Chance.
+Butterfly Lens
+Butterfly Lens:{LF}A lens that causes twice as many Spirit Fragments as normal to appear.
+Voice Lens
+Voice Lens:{LF}A lens that allows you to hear the voice of a{LF}locked-on, photographed subject.
+See Lens
+See Lens:{LF}A lens that will exorcize a ghost in one shot if{LF}it is in a "glance" state and glowing a pale white.
+Evade
+Evade:{LF}An equipment upgrade that allows you to detect{LF}threats capable of being dodged.
+
+
+
+
+Switch
+Switch:{LF}An equipment upgrade that allows you to equip{LF}and take pictures with different lenses.
+Switch:{LF}An equipment upgrade that allows you to equip different lenses.{LF}(Not compatible with Ren's Camera.)
+Measure
+Measure:{LF}An equipment upgrade that displays the current{LF}health of a locked-on enemy.
+Evade
+Evade:{LF}An equipment upgrade that allows you to detect{LF}threats capable of being dodged.
+
+
+Optimal
+Optimal:{LF}An equipment upgrade that makes every shot{LF}you take perfect, triggering Fatal Frame.
+Infinite
+Infinite:{LF}An equipment upgrade that allows you to take{LF}photos without using up any film.
+Psychic Lens
+A lens that allows you to experience spiritual phenomena.
+Ren's Camera Obscura
+An old camera passed down by the Hojo family.{LF}It is said to be a valuable antique, but further details about it are unknown.
+Spirit Stone Flashlight
+A flashlight that emits a mysterious light.{LF}It has the power to temporarily fend off creatures that dwell in the darkness.
+Flashlight
+An old electric flashlight.{LF}It is able to light up dark places.
+▼▼▼EVENT ITEMS（Excluding Photos and Files）▼▼▼
+Photo Album
+An album of old black-and-white photographs.{LF}Each person therein has a lovely face, but seems somehow lonely.
+Key on Yellow Keychain
+A key attached to a yellow name tag.{LF}It had been dropped near the service door to the abandoned inn.
+Key on Red Keychain
+A very rusty key attached to a red name tag.{LF}It had been dropped in a closet inside the abandoned inn.
+Rusty Key
+A key found in the folklorist's house.{LF}It was hidden behind a photo of a deceased individual in the family chapel.
+Small Key
+A small key that had fallen underneath a bed in the storeroom.{LF}It looks like the kind of key that would open a desk drawer.
+Mt. Hikami Brochure
+A brochure from when Mt. Hikami was a tourist destination.{LF}It includes a list of facilities and locations on the mountain.
+Large Envelope
+A rather large envelope that was in Hisoka's room.{LF}A number of files on the people she was searching for were inside.
+Haruka's Handbook
+The student handbook belonging to a girl named Haruka Momose.{LF}It was sent in the hope that it could help in the search for her.
+Iris Plate Key
+Found inside a box in the underground cavern.{LF}A stylized iris has been engraved into the metal.
+Peony Plate Key
+Left behind at the Shrine of Dolls after the girl left.{LF}A stylized peony has been engraved into the metal.
+Effigy
+An old doll found at the Shrine of Dolls.{LF}It looks a little like Yuri.
+Camellia Plate Key
+A stylized camellia has been engraved into the metal.
+Lily Plate Key
+A stylized lily has been engraved into the metal.
+Reliquary Key
+A key-like object with a unique shape.{LF}It looks just like the ornaments on the Reliquaries.
+Cherry Plate Key
+A stylized cherry blossom has been engraved into the metal.
+Moon Plate Key
+A stylized moon has been engraved into the metal.
+Hisoka's Charm
+An accessory that Hisoka likes to wear.{LF}It washed up on the riverbank in the Unfathomable Forest.
+Bundle of White Hair
+A bundle of white hair.{LF}That girl from the Shrine of Dolls had hair ornaments just like this one.
+Keiji's Cassette 1
+An old cassette tape found at the folklorist's house.
+Keiji's Cassette 2
+An old cassette tape found at the folklorist's house.
+Keiji's Cassette 3
+An old cassette tape found at the folklorist's house.
+Call from a Client
+A cassette tape Hisoka had hidden.{LF}It is a voice recording of a phone call from a client.
+Old Cassette 1
+An old cassette tape, found in Ren's private study.
+Old Cassette 2
+An old cassette tape, found in Ren's private study.
+Envelope
+Found in Ren's private study. A number of old scenic photos are inside.
+Effigy 1
+A wooden doll left behind by the ghost of a child.{LF}It has been covered with a red cloth.
+Effigy 2
+A wooden doll left behind by the ghost of a child.{LF}It has been covered with a red cloth.
+Effigy 3
+A wooden doll left behind by the ghost of a child.{LF}It has been covered with a red cloth.
+▼▼▼FILES▼▼▼
+Innkeeper's Notes
+Part of a tattered notebook.{LF}It appears to be a journal left by the owner of the abandoned inn.
+Folklorist's Notes
+An old, simply bound book.{LF}It appears to be a partial collection of the folklorist's writings.
+Hisoka's Letter
+A letter included with the Camera Obscura when Hisoka sent it back to Ren.
+Fuyuhi's Letter
+A letter from Fuyuhi addressed to Hisoka.{LF}It contains a request to look for Haruka Momose.
+Yuri's Report
+A report on shadow reading that Ren requested of Hisoka.{LF}Yuri wrote it, so it's not well-written.
+Sodden Note
+A scrap from a notebook that was soaked in water.{LF}Somewhat blurry writing is visible.
+Dark Sun Mirror
+An old mirror that seems to have been worked from stone.{LF}It reflects the color of a sunset.
+Casket Records
+Old writings found at the Shrine of the Ephemeral.{LF}They detail the opening of caskets.
+The Veiled House
+A video tape that Rui found.{LF}It seems to have been shot somewhere on Mt. Hikami.
+Rui's Notes
+Commentary written about the video tape.{LF}It contains Rui's notes about the video's contents.
+Wet Video Tape
+A video tape found on Mt. Hikami.{LF}There is nothing written on the tattered label.
+▼▼▼EVENT PHOTOS▼▼▼
+Photo of a Bride
+An old, black and white Postmortem Photograph.{LF}This bride in a white kimono looks lonely.
+Postmortem Photograph
+An old, black and white photograph.{LF}The woman in the picture looks as though she's sleeping.
+Two Schoolgirls
+A photo showing two high school girls.{LF}They are smiling, but also look somehow lonely.
+Miu Hinasaki
+A photo of a slender woman.{LF}This is a lovely photograph, taken by a professional.
+Shadow on Water
+A photo left in the Camera Obscura.{LF}Although blurry, a shadow can be seen on the water.
+Ose's Smile
+A photo Ren had after he photographed Ose.{LF}Her expression is lonely, but she seems to be smiling.
+Miku Hinasaki
+A photo of Miu's mother. It has been creased.{LF}It must have been taken some time ago.
+Wedding Photo
+A photo left behind after Miku disappeared.{LF}In it are a bride and groom, both in white.
+A Girl in Uniform
+An old photo Hisoka had hidden.{LF}It is too wrinkled and smeared to see who it is clearly.
+Tsumugi
+A photo of a girl, one of the missing person cases.{LF}"Tsumugi Katashina" is written on the back.
+Haruka Momose
+A photo of a girl presumably being searched for.{LF}"Haruka Momose" is written on the back.
+Kazuya Sakaki
+A photo of a man about Ren's age.{LF}"Kazuya Sakaki" is written on the back.
+Yuri
+A photo of Yuri in her school uniform.{LF}It was taken around the time she was saved by Hisoka.
+▼▼▼GENERAL DIALOGUE/BUTTON USE▼▼▼
+Yes
+No
+^20~05~: OK
+▼▼▼GENERAL DIALOGUE/EXPLANATION TEXT▼▼▼
+Do you want to use %ls?
+Do you want to equip %ls?
+Reset all settings to their defaults?
+▼▼▼OPTION SCREEN TEXT▼▼▼
+General Settings
+Camera Sensitivity
+Display & Sound
+Reset to Default
+Change gameplay and control settings.
+Set the in-game camera control speed.
+Set screen display and volume settings.
+Restore all settings to defaults.
+Camera Controls
+Vibration Feature
+Search Mode: Vertical
+Search Mode: Horizontal
+Photo Mode: Vertical
+Photo Mode: Horizontal
+This allows you to set camera controls in Photo Mode.
+This turns the controller vibration effect on or off.
+Set vertical camera movement for Search Mode.
+Set horizontal camera movement for Search Mode.
+Set vertical camera movement for Photo Mode.
+Set horizontal camera movement for Photo Mode.
+Motion Sensor Function ^20~41~^20~10~ 
+^20~10~
+Use the controller's motion sensor function and ^20~10~ to control the direction the camera is pointing while in Photo Mode.{LF}(This control style is for those who want to use the controller as a camera in an intuitive way.)
+Only use ^20~10~ to control the camera in Photo Mode.{LF}(For experienced players.)
+ON
+OFF
+This turns the controller vibration effect on.
+This turns the controller vibration effect off.
+Normal
+Inverted
+While in Search Mode, to turn the camera up, move ^20~10~ up,{LF}and to turn the camera down, move ^20~10~ down.
+While in Search Mode, to turn the camera up, move ^20~10~ down,{LF}and to turn the camera down, move ^20~10~ up.
+Normal
+Inverted
+While in Search Mode, to turn the camera right, move ^20~10~ right,{LF}and to turn the camera left, move ^20~10~ left.
+While in Search Mode, to turn the camera right, move ^20~10~ left,{LF}and to turn the camera left, move ^20~10~ right.
+Normal
+Inverted
+While in Photo Mode, to turn the camera up, move ^20~10~ up,{LF}and to turn the camera down, move ^20~10~ down.
+While in Photo Mode, to turn the camera up, move ^20~10~ down,{LF}and to turn the camera down, move ^20~10~ up.
+Normal
+Inverted
+While in Photo Mode, to turn the camera right, move ^20~10~ right,{LF}and to turn the camera left, move ^20~10~ left.
+While in Photo Mode, to turn the camera right, move ^20~10~ left,{LF}and to turn the camera left, move ^20~10~ right.
+Search Mode: Vertical
+Search Mode: Horizontal
+Photo Mode: Vertical
+Photo Mode: Horizontal
+Set the camera's vertical movement speed in Search Mode.
+Set the camera's horizontal movement speed in Search Mode.
+Set the camera's vertical movement speed in Photo Mode.
+Set the camera's horizontal movement speed in Photo Mode.
+Subtitles
+Brightness
+Volume
+Turn subtitles ON/OFF.
+Set your screen's brightness.
+Set the brightness so you can see the ghost's face at the end of the arrow.
+Adjust the game's volume.
+ON
+OFF
+Subtitles will be shown during dialogue.
+Subtitles will not be shown during dialogue.
+Display Settings
+Game Settings
+Sound Settings
+This allows you to set the visual display.
+This allows you to set gameplay and control settings.
+This allows you to change sound settings.
+This restores all settings to their defaults.
+Output Device
+Subtitles
+Brightness
+Screen Size
+This allows you to set the screen display style.
+This sets whether subtitles will be displayed during dialogue.
+Set the brightness so you can see the image of{LF}the ghost's face at the end of the arrow.
+This allows you to set your screen size and display position.
+TV & Wii U GamePad
+Wii U GamePad
+ON
+OFF
+The game will be displayed on both the TV screen and Wii U GamePad.
+Display on Wii U GamePad only.{LF}(Sound will also come only from the Wii U GamePad.)
+Subtitles will be shown during dialogue.
+Subtitles will not be shown during dialogue.
+Control Style
+Rumble
+Search Mode: Vertical
+Search Mode: Horizontal
+Photo Mode: Vertical
+Photo Mode: Horizontal
+This allows you to set camera controls in Photo Mode.
+This turns the controller vibration effect on or off.
+This allows you to set vertical camera movement while in Search Mode.
+This allows you to set horizontal camera movement while in Search Mode.
+This allows you to set vertical camera movement while in Photo Mode.
+This allows you to set horizontal camera movement while in Photo Mode.
+^20~25~^20~16~^20~10~
+^20~10~
+ON
+OFF
+Normal
+Inverted
+Normal
+Inverted
+Normal
+Inverted
+Normal
+Inverted
+Use the controller's motion sensor function and ^20~10~ to control the direction the camera is pointing while in Photo Mode.{LF}(This control style is for those who want to use the controller as a camera in an intuitive way.)
+Use ^20~10~ to move the camera in Photo Mode.{LF}(The Camera HUD will also be displayed on the TV screen.)
+This turns the controller vibration effect on.
+This turns the controller vibration effect off.
+While in Search Mode, to turn the camera up, move ^20~10~ up,{LF}and to turn the camera down, move ^20~10~ down.
+While in Search Mode, to turn the camera up, move ^20~10~ down,{LF}and to turn the camera down, move ^20~10~ up.
+While in Search Mode, to turn the camera right, move ^20~10~ right,{LF}and to turn the camera left, move ^20~10~ left.
+While in Search Mode, to turn the camera right, move ^20~10~ left,{LF}and to turn the camera left, move ^20~10~ right.
+While in Photo Mode, to turn the camera up, move ^20~10~ up,{LF}and to turn the camera down, move ^20~10~ down.
+While in Photo Mode, to turn the camera up, move ^20~10~ down,{LF}and to turn the camera down, move ^20~10~ up.
+While in Photo Mode, to turn the camera right, move ^20~10~ right,{LF}and to turn the camera left, move ^20~10~ left.
+While in Photo Mode, to turn the camera right, move ^20~10~ left,{LF}and to turn the camera left, move ^20~10~ right.
+Output Device
+Output Type
+Music Volume
+Sound Effects Volume
+Voice Volume
+TV & Wii U GamePad
+Wii U GamePad
+Stereo
+Mono
+This allows you to select the output device you want to play the game's audio from.
+This allows you to set the output style of the game's audio from your TV.
+This allows you to adjust the volume of the game's music.
+This allows you to adjust the volume of the game's sound effects.
+This allows you to adjust the volume of the game's voices.
+Play sound from both the TV and Wii U GamePad.
+Play sound from the Wii U GamePad only.
+Sound played from your TV will be in stereo.
+Sound played from your TV will be in monaural.
+Adjust the volume of the game's music.
+Adjust the volume of the game's sound effects.
+Adjust the volume of the game's voices.
+▼▼▼INVENTORY TOP SCREEN TEXT▼▼▼
+This allows you to check your current location and destination.
+This allows you to use and view info on items in your possession.
+This allows you to upgrade the Camera Obscura,{LF}as well as change the film and lenses.
+This allows you to upgrade Ren's Camera Obscura,{LF}as well as change the film.
+This allows you to check and save photos you have taken.
+This allows you to view a list of the ghosts you have photographed.
+▼▼▼INVENTORY PHOTO MODE TEXT▼▼▼
+Change equipment for the Camera Obscura.
+Change equipment for Ren's Camera Obscura.
+Spend points to upgrade the Camera Obscura's functionality.
+Spend points to upgrade Ren's Camera Obscura's functionality.
+Change film in use.
+Change lens in use.
+Change which upgrades are in use.
+Spend points to upgrade the Camera Obscura's basic functionality.
+Spend points to upgrade Ren's Camera Obscura's basic functionality.
+Spend points to improve a lens's functionality.
+Select a slot to equip the lens to.
+Slow Lens Lv.0{LF}Spirit Power Used: 20%{LF}Slightly slows subject for 10 seconds
+Slow Lens Lv.1{LF}Spirit Power Used: 20%{LF}Slows subject for 10 seconds
+Slow Lens Lv.2{LF}Spirit Power Used: 20%{LF}Slows subject for 15 seconds
+Slow Lens Lv.3{LF}Spirit Power Used: 20%{LF}Greatly slows subject for 15 seconds
+Bind Lens Lv.0{LF}Spirit Power Used: 40%{LF}Makes subject immobile for 10 seconds
+Bind Lens Lv.1{LF}Spirit Power Used: 40%{LF}Makes subject immobile for 15 seconds
+Bind Lens Lv.2{LF}Spirit Power Used: 40%{LF}Makes subject immobile for 20 seconds
+Bind Lens Lv.3{LF}Spirit Power Used: 40%{LF}Makes subject immobile for 30 seconds
+Capture Lens Lv.0{LF}Spirit Power Used: 20%{LF}Capture subject wherever they are (10 seconds)
+Capture Lens Lv.1{LF}Spirit Power Used: 20%{LF}Capture subject wherever they are (15 seconds)
+Capture Lens Lv.2{LF}Spirit Power Used: 20%{LF}Capture subject wherever they are (20 seconds)
+Capture Lens Lv.3{LF}Spirit Power Used: 20%{LF}Capture subject wherever they are (30 seconds)
+Reward Lens Lv.0{LF}Spirit Power Used: 20%{LF}Increases points earned for 10 seconds
+Reward Lens Lv.1{LF}Spirit Power Used: 20%{LF}Increases points earned for 15 seconds
+Reward Lens Lv.2{LF}Spirit Power Used: 20%{LF}Increases points earned for 20 seconds
+Reward Lens Lv.3{LF}Spirit Power Used: 20%{LF}Increase points earned for 30 seconds
+Stun Lens Lv.0{LF}Spirit Power Used: 100%{LF}Forcibly staggers the subject
+Stun Lens Lv.1{LF}Spirit Power Used: 80%{LF}Forcibly staggers the subject
+Stun Lens Lv.2{LF}Spirit Power Used: 60%{LF}Forcibly staggers the subject
+Stun Lens Lv.3{LF}Spirit Power Used: 40%{LF}Forcibly staggers the subject
+Blow Lens Lv.0{LF}Spirit Power Used: 100%{LF}Attacks have twice as much power
+Blow Lens Lv.1{LF}Spirit Power Used: 60%{LF}Attacks have twice as much power
+Blow Lens Lv.2{LF}Spirit Power Used: 40%{LF}Attacks have twice as much power
+Blow Lens Lv.3{LF}Spirit Power Used: 20%{LF}Attacks have twice as much power
+Crush Lens Lv.0{LF}Spirit Power Used: 100%{LF}Attacks have twice as much power.
+Crush Lens Lv.1{LF}Spirit Power Used: 100%{LF}Attacks have 2.5 times as much power.
+Crush Lens Lv.2{LF}Spirit Power Used: 100%{LF}Attacks have three times as much power.
+Crush Lens Lv.3{LF}Spirit Power Used: 100%{LF}Attacks have four times as much power.
+Zero Lens Lv.0{LF}Spirit Power Used: 20%{LF}As health lowers, attack increases (Max 2x)
+Zero Lens Lv.1{LF}Spirit Power Used: 20%{LF}As health lowers, attack increases (Max 2.25x)
+Zero Lens Lv.2{LF}Spirit Power Used: 20%{LF}As health lowers, attack increases (Max 2.5x)
+Zero Lens Lv.3{LF}Spirit Power Used: 20%{LF}As health lowers, attack increases (Max 3x)
+Restore Lens Lv.0{LF}Spirit Power Used: 40%{LF}Recovers health equal to 0.5x damage dealt.
+Restore Lens Lv.1{LF}Spirit Power Used: 40%{LF}Recovers health equal to 0.75x damage dealt.
+Restore Lens Lv.2{LF}Spirit Power Used: 40%{LF}Recovers health equal to damage dealt.
+Restore Lens Lv.3{LF}Spirit Power Used: 40%{LF}Recovers health equal to 1.5x damage dealt.
+Fatal Lens Lv.0{LF}Spirit Power Used: 100%{LF}Shutter Chance triggers Fatal Time.
+Fatal Lens Lv.1{LF}Spirit Power Used: 80%{LF}Shutter Chance triggers Fatal Time.
+Fatal Lens Lv.2{LF}Spirit Power Used: 60%{LF}Shutter Chance triggers Fatal Time.
+Fatal Lens Lv.3{LF}Spirit Power Used: 40%{LF}Shutter Chance triggers Fatal Time.
+Butterfly Lens Lv.0{LF}Spirit Power Used: 80%{LF}Twice as many Spirit Fragments appear.
+Butterfly Lens Lv.1{LF}Spirit Power Used: 60%{LF}Twice as many Spirit Fragments appear.
+Butterfly Lens Lv.2{LF}Spirit Power Used: 40%{LF}Twice as many Spirit Fragments appear.
+Butterfly Lens Lv.3{LF}Spirit Power Used: 20%{LF}Twice as many Spirit Fragments appear.
+Voice Lens{LF}Spirit Power Used: 0%{LF}You can hear the voices of locked-on subjects.
+See Lens {LF}Spirit Power Used: 60%{LF}Exorcizes ghosts if they are in a "glance" state.
+See Lens {LF}Spirit Power Used: 40%{LF}Exorcizes ghosts if they are in a "glance" state.
+See Lens {LF}Spirit Power Used: 20%{LF}Exorcizes ghosts if they are in a "glance" state.
+See Lens {LF}Spirit Power Used: 0%{LF}Exorcizes ghosts if they are in a "glance" state.
+Sensor
+Upgrades the Camera Obscura's sensor capabilities,{LF}increasing attack distance.
+Loader
+Upgrades the Camera Obscura's loading speed,{LF}shortening the time between taking pictures.
+Output
+Upgrades the Camera Obscura's output potential,{LF}increasing damage dealt by photos.
+Absorption
+Upgrades the Camera Obscura's absorption capabilities,{LF}increasing Spirit Power absorbed.
+Snapshot
+Slows the enemy down whilst taking photos{LF}using the 4 continuous photos feature.
+Unlocks the 8 continuous photos feature, and{LF}shortens the gap between consecutive shots.
+Slows the enemy down whilst taking photos{LF}using the 8 continuous photos feature.
+Upgrades the Slow Lens to make subject's movements slower.
+Upgrades the Slow Lens to increase the effect's{LF}duration from 10 to 15 seconds.
+Upgrades the Slow Lens to make subject's{LF}movements even slower.
+Upgrades the Bind Lens, increasing the effect's{LF}duration from 10 to 15 seconds.
+Upgrades the Bind Lens, increasing the effect's{LF}duration from 15 to 20 seconds.
+Upgrades the Bind Lens, increasing the effect's{LF}duration from 20 to 30 seconds.
+Upgrades the Capture Lens, increasing the{LF}effect's duration from 10 to 15 seconds.
+Upgrades the Capture Lens, increasing the{LF}effect's duration from 15 to 20 seconds.
+Upgrades the Capture Lens, increasing the{LF}effect's duration from 20 to 30 seconds.
+Upgrades the Reward Lens, increasing the{LF}effect's duration from 10 to 15 seconds.
+Upgrades the Reward Lens, increasing the{LF}effect's duration from 15 to 20 seconds.
+Upgrades the Reward Lens, increasing the{LF}effect's duration from 20 to 30 seconds.
+Upgrades the Stun Lens, reducing Spirit Power cost from 100% to 80%.
+Upgrades the Stun Lens, reducing Spirit Power cost from 80% to 60%.
+Upgrades the Stun Lens, reducing Spirit Power cost from 60% to 40%.
+Upgrades the Blow Lens, reducing Spirit Power cost from 100% to 60%.
+Upgrades the Blow Lens, reducing Spirit Power cost from 60% to 40%.
+Upgrades the Blow Lens, reducing Spirit Power cost from 40% to 20%.
+Upgrades the Crush Lens, increasing damage from 2x to 2.5x.
+Upgrades the Crush Lens, increasing damage from 2.5x to 3x.
+Upgrades the Crush Lens, increasing damage from 3x to 4x.
+Upgrades the Zero Lens, increasing maximum{LF}damage from 2 times to 2.25 times.
+Upgrades the Zero Lens, increasing maximum{LF}damage from 2.25 times to 2.5 times.
+Upgrades the Zero Lens, increasing maximum{LF}damage from 2.5 times to 3 times.
+Upgrades the Restore Lens, increasing health{LF}recovered from 0.5x to 0.75x damage.
+Upgrades the Restore Lens, increasing health{LF}recovered from 0.75x to 1x damage.
+Upgrades the Restore Lens, increasing health{LF}recovered from 1x to 1.5x damage.
+Upgrades the Fatal Lens, reducing Spirit Power cost from 100% to 80%.
+Upgrades the Fatal Lens, reducing Spirit Power cost from 80% to 60%.
+Upgrades the Fatal Lens, reducing Spirit Power cost from 60% to 40%.
+Upgrades the Butterfly Lens, reducing Spirit Power cost from 80% to 60%.
+Upgrades the Butterfly Lens, reducing Spirit Power cost from 60% to 40%.
+Upgrades the Butterfly Lens, reducing Spirit Power cost from 40% to 20%.
+Upgrades the See Lens, reducing Spirit Power cost from 60% to 40%.
+Upgrades the See Lens, reducing Spirit Power cost from 40% to 20%.
+Upgrades the See Lens, reducing Spirit Power cost from 20% to 0%.
+This cannot be upgraded further.
+Do you want to spend %d points{LF}to upgrade the Camera Obscura's {LF}%ls function?
+Do you want to spend %d points{LF}to upgrade the %ls?
+Points Required
+Max Level
+Max Value
+▼▼▼EPISODE SELECT▼▼▼
+Select Difficulty
+Start Episode
+Check Items
+Case File
+Select which episode you want to play.
+Start the episode.
+EASY: For players who want to enjoy the story{LF}(scores will not be recorded)
+NORMAL: For players who want to enjoy the game
+HARD: For players who want to enjoy a real battle
+NIGHTMARE: For players willing to overcome their worst fears
+This lets you check how many of each item you have at the start of{LF}the episode. You can spend points to buy more items if you want.
+Check on information related to your search.
+Current Points:
+Total Points Spent:
+Small pills that restore some health.{LF}500 points for 1 container.
+Pure water that fully restores your health.{LF}1,000 points for 1 bottle.
+A black stone that revives you when you die.{LF}10,000 points for 1 stone.
+Cleansing flames that remove wetness and taint.{LF}5,000 points for 1 lantern.
+Old film. It has lost most of its power to exorcize ghosts.{LF}200 points for 1 shot.
+Old film. It is not effective at exorcizing ghosts and it takes time to load.{LF}500 points for 1 shot.
+Sanctified film that loads quickly.{LF}800 points for 1 shot.
+Special film that is extremely powerful but slow to load.{LF}5000 points for 1 shot.
+Special ink that allows its wearer to be hidden from ghosts.{LF}10,000 points for 1 bottle.
+Do you want to quit without adding items?
+Do you want to add items before starting the episode?{LF}Your new items and points balance will be updated once the episode starts.
+Can only be purchased once.{LF}A lens that allows you to experience spiritual phenomena. 10,000 points for 1 lens.
+Can only be purchased once.{LF}A ring that allows you to hear the "In This Cage" song. 1,000 points for 1 ring.
+Can only be purchased once.{LF}An outfit exclusively for Yuri. 30,000 points for 1 outfit.
+Can only be purchased once.{LF}An outfit exclusively for Miu. 30,000 points for 1 outfit.
+Can only be purchased once.{LF}An outfit exclusively for Ren. 30,000 points for 1 outfit.
+Can only be purchased once.{LF}An accessory exclusively for Yuri. 5,000 points for 1 accessory.
+Can only be purchased once.{LF}An accessory exclusively for Miu. 5,000 points for 1 accessory.
+Can only be purchased once.{LF}An accessory exclusively for Ren. 5,000 points for 1 accessory.
+Return to the Title Screen?
+
+Prologue
+A girl named Miu awakes in water.{LF}{LF}As she stands up, she sees countless bodies{LF}floating around her.{LF}{LF}The bodies stir, as if sensing Miu's presence...
+Escape the building.
+
+First Drop
+A novelist has sent Yuri and Hisoka{LF}to an old inn on a case.{LF}{LF}Yuri receives the Camera Obscura,{LF}and her first shadow reading job begins.{LF}They have been asked to find{LF}"Postmortem Photographs."
+Find the Postmortem Photographs.
+
+Second Drop
+It has been several days since the incident{LF}at the inn. Hisoka is out on a case. {LF}A young girl comes to the shop{LF}and finds a worried Yuri.{LF}{LF}Yuri is given a missing person case,{LF}something Hisoka forbade.
+Find Fuyuhi Himino.
+
+Third Drop
+Ren Hojo, the author who sent Hisoka{LF}to find the photographs, takes a closer{LF}look at the album.{LF}{LF}One photo catches his eye, and he decides{LF}to investigate further. He goes to the inn{LF}with a Camera Obscura and Rui, his assistant.
+Search for information.
+
+Interlude
+That mountain...{LF}{LF}After Fuyuhi's death, countless corpses{LF}washed into the Pool of Purification,{LF}along with the Camera Obscura.{LF}Hisoka must be up there somewhere.{LF}{LF}Yuri sets about looking for clues.
+Find a token that will lead you to Hisoka.
+
+Fourth Drop
+Fuyuhi had been searching for her friend,{LF}a girl called Haruka Momose.{LF}{LF}Yuri finds a photo of Haruka in Hisoka's{LF}desk, and uses it to follow her trace,{LF}leading her back to Mt. Hikami.
+Find Haruka Momose.
+
+Sixth Drop
+Yuri found Haruka trapped underground{LF}in a reliquary and brought her back, only{LF}to see her taken away by a ghost.{LF}{LF}Yuri heads to Mt. Hikami to look{LF}for new clues and to find another{LF}missing person, Miu Hinasaki.
+Find Miu Hinasaki.
+
+Fifth Drop
+From the writings he found at{LF}Ichiru Manor, Ren learns of a folklorist{LF}who lived on Mt. Hikami.{LF}{LF}Ren sets out to the Unfathomable Forest to{LF}see if the rumors of a{LF}"disappearing house" are true.
+Find the Veiled House.
+
+Seventh Drop
+Yuri finds Miu in the{LF}Shrine of the Ephemeral, but not Hisoka.{LF}{LF}Yuri's final hope is to follow the river{LF}upstream from where she found{LF}the Camera Obscura to its source,{LF}the Lake of the Departed.
+Find Hisoka Kurosawa.
+
+Eighth Drop
+Miu and Yuri sleep after returning{LF}from Mt. Hikami.{LF}{LF}Learning that Haruka has been taken{LF}by a ghost, Ren and Rui keep a{LF}watchful eye on the girls to prevent{LF}it happening again.
+Keep watch.
+
+
+
+
+
+Ninth Drop
+Yuri has vanished from the shop.{LF}{LF}Miu takes the Camera Obscura and heads{LF}to Mt. Hikami to search for her.
+Find Yuri Kozukata.
+
+Tenth Drop
+Ren goes in search of Rui, who has vanished{LF}from the antiques shop. He heads to the{LF}Veiled House, which is where he saw Rui{LF}in his dream.
+Find Rui Kagamiya.
+
+Twelfth Drop
+Rescued by Miu, Yuri decides to continue{LF}chasing after Hisoka.{LF}{LF}Across the mists of the Lake of the Departed{LF}stands a massive torii, leading to the{LF}Shrine on the Water.
+Find Hisoka Kurosawa.
+
+Eleventh Drop
+Miu's mother, Miku, is on Mt. Hikami.{LF}{LF}Convinced of this, Miu takes the{LF}Camera Obscura from Yuri's room{LF}while she sleeps.
+Find Miku Hinasaki.
+
+Thirteenth Drop
+Rui, Miu, Miku, Hisoka and Yuri{LF}have all returned from Mt. Hikami.{LF}{LF}The Dark Sun has followed them.{LF}The mountain will not let them go.{LF}{LF}Ren must protect them, alone.
+Stop the ghosts from getting into the shop.
+
+Last Drop
+Caught up in the madness of Mt. Hikami,{LF}Yuri, Miu, and Ren all make their way there,{LF}each for their own reasons.{LF}{LF}A heavy fog descends, as if to snuff out{LF}all hope of escape.
+Yuri, Ren, and Miu go to meet their fates.
+
+First Thread
+Ayane undertakes a quest to search for a girl{LF}named Tsumugi who has gone missing.{LF}{LF}Following her trail, Ayane makes her way{LF}into the abandoned inn, and encounters{LF}the impossible.
+Find Tsumugi.
+
+Second Thread
+That which should not be:{LF}the spirits of the dead.{LF}{LF}Unable to detect their presence,{LF}Ayane covers herself with protective charms{LF}and heads back to the mountain.
+Follow Tsumugi's trail.
+
+Third Thread
+The purple thread connected to Tsumugi{LF}vanishes at the Shrine of the Ephemeral{LF}atop Mt. Hikami.{LF}{LF}Ayane makes her way in.
+Find Tsumugi.
+
+Last Thread
+Ayane rescues Tsumugi from the shrine,{LF}but the two are surrounded by creatures{LF}from the Netherworld.{LF}{LF}Ayane takes Tsumugi with her{LF}and plans their escape.
+Escape with Tsumugi.
+▼▼▼PAUSE MENU▼▼▼
+Return to Game
+Close the pause screen and resume playing the game.
+Return to Cutscene
+Close the pause screen and resume playing the cutscene.
+Skip Cutscene
+Skip the current cutscene and resume playing the game.
+Settings
+Adjust the game's settings.
+Reload Last Checkpoint
+Restart the current game from the most recent checkpoint.
+Select New Episode
+Quit the game and return to episode selection.{LF}(Items purchased for this episode will be lost.)
+Quit Game
+Quit the game and return to the title screen.{LF}(Your progress will be saved up to the most recent checkpoint.)
+Last Saved
+Less than 1m ago
+About %dm ago
+Over 1 hour ago
+The game will restart from the most recent checkpoint.{LF}Do you wish to proceed?
+You will return to episode selection.{LF}Do you want to quit the current episode?{LF}(Items purchased for this episode will be lost.)
+You will quit the current episode and return to the{LF}title screen. You can resume the episode from the{LF}most recent checkpoint by selecting "Load Game."
+Restart from Checkpoint on EASY
+Restart the game from the last checkpoint on EASY.{LF}(Scores are not recorded on EASY.)
+Reload Last Checkpoint
+Restart the game from the most recent checkpoint.
+Select New Episode
+This will quit the current episode.{LF}You will return to episode selection.
+To Title Screen
+Quit and return to the title screen.{LF}Load the last checkpoint by selecting "Load Game."
+This will change the difficulty to EASY{LF}and restart the game from the most{LF}recent checkpoint.{LF}(Scores are not recorded on EASY.)
+▼▼▼PHOTO MENU▼▼▼
+Fatal Frame
+Shutter Chance
+Ghost Photograph
+Portrait
+Landscape
+Psychometry
+Spirit Photograph
+Psychic Photograph
+Phantom Exposé
+Doll Photo
+-
+Slow
+Bind
+Capture
+Reward
+Stun
+Blow
+Crush
+Zero
+Restore
+Fatal
+Butterfly
+Voice
+See
+Spirit Stone Flashlight
+Sort By
+Date Taken
+Photo Points
+Damage
+Ghost List
+Location Taken
+Episode
+Page %d / %d
+Save
+Save and Lock
+Lock
+Unlock
+Delete
+Do you wish to save{LF}the selected photo?
+Do you wish to save and{LF}lock the selected photo?
+Do you want to unlock{LF}the selected photo?
+Do you want to delete{LF}the selected photo?
+Locked photos cannot{LF}be deleted.
+Saving selected photo...
+You cannot save any{LF}more photos.
+Locking the selected{LF}photo...
+Unlocking the selected{LF}photo...
+Deleting the selected{LF}photo...
+The photo failed to load.
+This photo has not been{LF}saved and will be removed.
+▼▼▼TITLE SCREEN▼▼▼
+This game is a work of fiction. Any resemblance{LF}to actual people or organizations is entirely coincidental.{LF}Also, be advised that this game includes some graphic imagery.
+There is save data for an episode in progress.{LF}Do you want to resume from this point?
+Do you want to select a new episode?{LF}Your save data for the episode in progress{LF}will be overwritten at the next autosave.
+Start new game.{LF}All episode progress will be deleted.{LF}Do you wish to proceed?
+▼▼▼COSTUME SELECTION▼▼▼
+Normal Outfit
+White Kimono
+Bikini
+School Uniform
+Mio Amakura Outfit
+Rei Kurosawa Outfit
+Punk Ensemble
+Cutesy Goth Ensemble (Black)
+Swimsuit (Blue)
+Triathlon Suit
+Normal Outfit
+Kimono
+Kei Amakura Outfit
+Groom's Outfit
+Normal Outfit
+White Kimono
+Fashion Bikini
+Miku Hinasaki Outfit 1
+Miku Hinasaki Outfit 2
+Mayu Amakura Outfit
+Miku Hinasaki Outfit (The Tormented)
+Cutesy Goth Ensemble (White)
+Swimsuit (Yellow)
+Swimsuit (Pink)
+Black Glasses
+Calico Glasses
+Square Glasses
+Sunglasses
+No Glasses
+Red Glasses
+Silver Glasses
+Bunny Ears
+Fox Ears
+Cat Ears
+Bunny Tail
+Fox Tail
+Cat Tail
+White Lily
+Black Lily
+White Lily
+Black Lily
+Maid's Hairband
+"In This Cage" Ring
+"In This Cage" Ring
+Change the character's outfit to the selected item.
+Change the character's eyewear to the selected glasses.
+Equip the currently selected glasses to the character.
+Remove the currently selected glasses from the character.
+Equip the currently selected accessory to the character.
+Remove the currently selected accessory from the character.
+Do you want to apply the current outfit changes?
+You can now use %ls.
+%ls{LF}is now available for Yuri.
+%ls{LF}is now available for Ren.
+%ls{LF}is now available for Miu.
+Yuri's accessories are now available.
+Ren's accessories are now available.
+Miu's accessories are now available.
+%ls{LF}are now available for Yuri.
+%ls{LF}are now available for Ren.
+%ls{LF}are now available for Miu.
+NIGHTMARE difficulty has been unlocked.
+The secret episode{LF}"Stranger in the Rain"{LF}is now available.
+%s{LF}now available in Snap Mode.
+Fatal Glance
+There is save data for the trial version of the game.{LF}To continue on from the trial version,{LF}please select "New Game."{LF}
+There is save data for the trial version of the game.{LF}Do you want to continue from this save data?
+Do you want to start a new game?{LF}(Save data for the trial version or{LF}for the downloadable version will not be deleted.)
+There is save data for the full version of the game.{LF}Are you sure you want to overwrite the data?{LF}(Saved photographs will also be overwritten.)
+Points
+Held
+Subject
+Date
+Location
+Points
+Page
+Score
+Zero Suit Samus
+Princess Zelda
+Audio Language
+English
+Japanese
+You can set the audio to either English or the original Japanese.
+TRIAL VERSION
+Thank you for playing the free trial version!{LF}To continue, you can purchase the full game upgrade{LF}from Nintendo eShop.{LF}Would you like to leave the game and go to{LF}the eShop page for more information?
+FULL GAME UPGRADE
+You can purchase the full game upgrade from {LF}Nintendo eShop. Would you like to leave the game{LF}and go to the eShop page for more information?
+
+FULL GAME UPGRADE
+To Title Screen
+Successfully upgraded to the full version of the game.{LF}Select "Load Game" from the menu to continue playing.
+There is save data for the downloadable version of{LF}the game. To continue, please select "New Game"{LF}from the menu.
+There is save data for the downloadable version{LF}of the game. Do you wish to continue?
+Starting a new game will delete all previous save data.{LF}Do you wish to continue?
+Save data for the retail version of the game has been{LF}detected. Do you wish to make save data for the{LF}downloadable version?{LF}(The save data for the retail version will be overwritten.)
+Overwriting save data...
+Start new game
+Continue
+Overwrite save data
+Do you wish to overwrite the save data?{LF}(Any unsaved progress in the free trial{LF}version will be lost.)
+Start new game
+Max Points
+Episode
+Category
+Film
+Lens
+Photographer
+Damage
+Target
+
+Save data already exists for the full version of the game.{LF}If you start a new game this data will be lost.{LF}Do you wish to continue?
+Current save data is for the full version of the game.{LF}To load this game, please go to Nintendo eShop{LF}and download the full game upgrade.
+Successfully upgraded to the full version of the game.
+Costumes
+Accessories
+Deleting photographs saved in{LF}the full version of the game.
+Copying photographs to the retail version of the game.
+There is not enough space for the photographs.{LF}Stopping data transfer.
+Camera %02d
+As the downloadable content for this game has been {LF}deleted, if you select "Load Game" only the episodes {LF}from the trial version will be available.
+In order to play the full version of the game, {LF}you must first download the full game upgrade {LF}from Nintendo eShop.
+Do you want to start the game?
+There is save data for the downloadable version{LF}of the game. Do you wish to continue?{LF}(Saved photographs will be deleted.)
+Do you want to start a new game?{LF}(Save data for the trial version or{LF}for the downloadable version will not be deleted.)
+Walk
+Look Around
+Run
+Parallel Movement
+Focus (Shadow Reading)
+Pick Up Item
+Look In
+Aim Camera
+Aim Camera Backward
+Action
+Dodge Attack
+Ready Camera
+Show Menu
+Pause
+Show Detailed Map
+Walk
+Look Around
+Look Around Quickly
+Lock On
+Take Photo (Attack)
+Shake Ghost Off
+Dodge Attack
+Use Upgraded Lens
+Put Camera Away
+Switch Upgraded Lens
+Switch Film
+Rotate Camera on Z Axis
+Rotate Camera on X Axis
+Select
+Confirm
+Next Page
+Back
+Close Window
+Run/Lock On
+Ready Camera/Put Camera Away
+Operation Mode
+Classic
+Action
+Motion Sensor Sensitivity
+Select controller mode.
+Use a control style similar to previous games.
+Use an action-game control style.
+Adjust controller motion sensor sensitivity.
+Manual
+Follow the link for information on how to play and the controls.{LF}This link can be accessed from your PC or mobile device.
+Display Resolution
+Window Settings
+Overall Rendering Quality
+Texture Quality
+Shadow Quality
+Local Reflection Quality
+Effect Quality
+Anti-Aliasing
+Depth of Field
+Ambient Occlusion
+Bloom
+Light Shafts
+Detail Distance
+Point Lights Display Distance
+Default
+Borderless
+Fullscreen
+Low
+Normal
+High
+On
+Off
+Short
+Normal
+Long
+Cannot be selected while the game installation is incomplete.
+Check manual information.
+Show the Viewfinder Frame
+You can turn on/off the viewfinder frame in the photo mode.
+ON
+OFF
+Show the viewfinder frame during the photo mode.
+Hide the viewfinder frame during the photo mode.
+Vibration Function
+Vibration Feature

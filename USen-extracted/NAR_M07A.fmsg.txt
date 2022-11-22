@@ -1,0 +1,41 @@
+^00^30~067~Miu Hinasaki.{LF}It says here she went to Mt. Hikami looking for her mother.{LF}^00I can use this photo to find her trace,{LF}which should show me exactly where she went.
+A light is glowing dimly on the driver's console.{LF}It looks like the power is on.
+^11~14~I can use the control panel{LF}to get the cable car running.
+You pushed the cable car switch.
+I need to go and look for Miu.
+A small boat is floating in the courtyard.
+^00The Shrine of the Ephemeral...{LF}^00Miu is inside.
+^00An ornate black box.{LF}It looks slightly different from the one Haruka was trapped in.{LF}^00It's shut.{LF}Could Miu be inside?
+The camera is reacting to something...
+^00There's something in the picture...{LF}^00There's light pouring down from the ceiling.
+^00There seems to be another floor above this one.{LF}The shaft in the ceiling leads up there.
+^00There is a space in the middle of the altar,{LF}as if something should be placed there.
+^00There's some kind of hatch behind the altar.{LF}Maybe it's connected to the room below.{LF}^00I can't get it to open.{LF}^00The camera is reacting to the altar...
+I have to find the places shown in the photos.
+^00^30~051~You placed the ^11~09~Dark Sun Mirror^10 on the altar.
+^00There's something in the photo...{LF}^00It's someone standing in a room with caskets...
+^00It's a person standing in a small boat...
+^00There's something behind a lattice window...{LF}^00I'll have to find all these three places.
+You took a photo matching the psychic photograph.
+You took a photo matching the psychic photograph.
+You took a photo matching the psychic photograph.
+I should probably put the mirror on the altar.
+The hatch behind the altar opened...
+^00All the lights are out. Maybe the lightning{LF}caused the circuit breaker to kick in.{LF}^00There must be a power switch around here somewhere.
+^00All the lights on the control panel are out except this red one.{LF}^00That must be the main power switch.
+^00You pushed the main power switch.
+^00The power's back on.{LF}^00Now we can get down the mountain.
+^00According to the tourist brochure,{LF}there's a tunnel nearby.{LF}It opens up to the rooftop of the old inn.
+This way leads to the summit.{LF}I want to be going down, not up.
+I've got to hurry and get Miu off this mountain.
+Miu is too tired for a long walk.{LF}We should use the cable car to get down.
+That's as far as the cable car goes.{LF}There must be a path somewhere.
+This path leads farther up the mountain.{LF}We're looking for a way down right now.
+Right now we have to focus on getting out of here.
+Miu didn't come this way.{LF}I need to follow her trace.
+The door is being held shut by a powerful force.
+There must be a path that leads to the inn.
+^00Rubble is blocking the door.{LF}^00You cleared the rubble away.
+The cable car started moving.
+The ghost dropped something when it disappeared.
+^00Miu is in this "Shrine of the Ephemeral"...{LF}^00I have to find her and get her out of here.

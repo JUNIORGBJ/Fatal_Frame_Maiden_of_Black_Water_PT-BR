@@ -1,0 +1,136 @@
+Use ^20~10~ to look around.
+Use ^20~09~ to head towards the exit.
+Use ^20~10~ to search for an exit.
+Use ^20~09~ to get away from the ghosts.
+^20~09~ : Move   ^20~10~ : Look around
+Hold down ^20~34~ to run.
+Hold down ^20~34~ to run in the direction you're facing.
+Hold controller (^20~25~) in front of you.
+Hold controller（ ^20~25~ ） in front of you.
+Press ^20~33~ to enter Photo Mode.
+Once you're in Photo Mode, the viewfinder frame will appear on the screen.
+Use the ^20~27~ or move ^20~10~ to look around.
+Use the ^20~27~ or move ^20~10~ to get Hisoka in frame.
+○ will appear around the target.
+Photograph the target in the ○ by pressing ^20~14~.
+Move ^20~09~↓ down to back away without putting the Camera Obscura away.
+Use the ^20~26~ or move ^20~21~ to find the second ○.
+Photograph both ○ simultaneously.
+Use the ^20~30~ or move ^20~21~ to find the third ○.
+Use ^20~37~ / ^20~38~ to hold your capture area vertically to photograph all three ○ simultaneously.
+You can lock on to any target with a □.
+Hold down ^20~32~ to lock on to targets with a □ and press ^20~14~ to take a photo.
+Press ^20~14~ to take a photo while locked on to a target.
+Feel free to take more pictures if you wish. (To exit Photo Mode, press ^20~33~)
+
+Use the ^20~26~ or move ^20~10~ to find what the camera is reacting to.
+Hold ^20~32~ to lock on to the □, and then take a photo by pressing ^20~14~.
+Press ^20~14~ to take a photo while locked on to a target.
+
+
+
+Hold down ^20~29~ to find the trail.
+Take a photo by pressing ^20~14~.
+Move ^20~09~ in the direction you want to walk.
+Press ^20~33~ to put the camera away.
+Press ^20~40~ to open the door.
+Hold down ^20~29~ to pick up items.
+Hold down ^20~29~ to open the drawer.
+Press ^20~14~ to investigate.
+Press ^20~40~ to crawl through to the other side.
+Move with ^20~09~.
+Move ^20~23~^20~24~ to break its hold on you.
+Hold down ^20~32~ to lock on.
+You will stay locked on to a target, even if you move.
+If a ghost grabs you, counterattack by taking a photograph with^20~14~.
+Search with the ^20~25~ and hold down ^20~32~.
+Focus on the item by tilting the viewfinder with ^20~37~ / ^20~38~ while holding ^20~32~, and then pressing ^20~14~.
+^20~02~: Open menu
+^20~18~: Select lens
+^20~19~: Select film
+For as long as you hold down ^20~32~, the camera will follow the locked on target.
+From main menu (^20~04~), open Map and press ^20~03~ to see the map of the whole mountain.
+Hold down ^20~29~ and move ^20~09~ to follow the trace.
+The trace will vanish if any ghosts appear.
+Ghosts will try to attack or grab you.
+If a ghost grabs you, counterattack by photographing it (^20~14~).
+Match the angle, and the frame will turn red. One shot (^20~14~) will force the ghost to let go.
+Use the ^20~25~ or move ^20~10~ to bring the target's head into focus.
+Make sure the □ is in the center of the screen, and then hold ^20~32~ to lock on.
+Press ^20~14~ to use the film and photograph (attack) a ghost.
+Sometimes Spirit Fragments will appear when you deal damage to a ghost.
+While the film is being reloaded, the capture area disappears and you cannot take photos.
+You have to wait for the film to reload before you can take another picture.
+The film is ready when the capture area reappears.
+^00^11~12~Tutorial: Fighting Ghosts{LF}^00^11~14~Photograph a ghost's weak points (○) to deal damage to them.{LF}^00^11~14~The capture area (the rectangle in the center of the screen){LF}is your area of attack. You cannot take photos if you are out of film.
+^00^11~12~Tutorial: Spirit Fragments^10{LF}^00^11~14~Spirit Fragments break off when a ghost takes damage.{LF}After a time, they are reabsorbed.{LF}Photograph the fragments before that happens.^10{LF}^00^11~12~Tutorial: Targets and Shutter Chance^10{LF}^00^11~14~When 5 or more targets are in view,{LF}taking a photograph will knock back the ghosts.{LF}The capture area will go red during Shutter Chance.^10{LF}^00^11~14~Keep adjusting your position so that you have at least five targets,{LF}including ghosts and Spirit Fragments, in view to trigger Shutter Chance.^10
+Attract a ghost's attention and await its attack.
+Photograph (^20~14~) a ghost mid-attack (the screen will flash red) for a Fatal Frame shot .
+Fatal Frame: ^20~14~
+You can shoot photos continuously after a Fatal Frame shot.
+^00^11~12~Tutorial: Fatal Frame & Fatal Time^10{LF}^00^11~14~When the capture area flashes red as a ghost is attacking, you can{LF}take a Fatal Frame shot. You need to capture the ghost mid-attack.^10{LF}^00^11~14~Apart from a knock-back effect, Fatal Frame shots trigger Fatal Time,{LF}when you can take photos in close succession without using film.^10{LF}^00^11~14~Fatal Frame shots are very useful when spirits are too close{LF}to you to trigger Shutter Chance.^10
+Get five or more targets in view and take a Shutter Chance shot.
+Find ghosts indicated by the Spirit Filament (the red marks on the side of the screen).
+^00^11~12~Tutorial: Attack Range & Attack Power^10{LF}^00^11~14~The Camera Obscura only has an effect on ghosts within a specific range.{LF}Ghosts that are too far away will not take any damage.^10{LF}^00^11~14~The bigger the target (○), the more damage the camera will deal.^10{LF}^00^11~14~Get closer to ghosts for more powerful shots.^10
+
+
+Move with ^20~09~ until you're close enough to take photos.
+Use the Camera Obscura to banish the ghost.
+Touch the defeated ghost.
+Press ^20~01~ to display the map.
+Press ^20~36~ to point the camera straight ahead.
+Move ^20~09~ down to turn back.
+
+You don't have a Camera Obscura.
+Tilt the viewfinder and try different angles until the camera reacts.
+Tilt the viewfinder to get the same angle as in the photo.
+The surveillance camera feed will switch between cameras automatically.
+Current camera's location is shown the top of the screen.
+Press ^20~04~ while watching the camera feed to read.
+Ren will notice if something happens on screen.
+Press ^20~14~ to take photos while watching the camera feed.
+Press ^20~31~^11~14~ to stop watching the camera feed and get up. Should something strange occur on the camera, get up and investigate it.
+Press ^20~31~ to get up.
+Phantom Exposé: Get your camera ready and search for the object.
+Psychic Photograph: Get your camera ready and search for something to photograph.
+^00^11~14~The wetness gauge to the lower right of the screen will light up{LF}when you come in contact with water.^10{LF}^00^11~14~If you get drenched, you'll become an easy target for malevolent spirits.^10{LF}^00^11~14~Use ^11~09~Purifying Embers^10^11~14~ to dry yourself off.^10
+^00^11~14~Sometimes a ghost hand will appear when you try to reach for an object.^10{LF}^00^11~14~Release ^10^20~14~^11~14~ at the right moment to dodge it.^10{LF}^00^11~14~If you do get grabbed, use ^10^20~23~^11~14~ ^20~24~^11~14~ to break their hold on you.
+^00^11~14~Tutorial: Tainted^10{LF}^00^11~14~Ghost attacks may leave you tainted by the Black Water.{LF}If this happens, your health will continuously decrease.^10{LF}^00^11~14~Use ^11~09~Purifying Embers^10^11~14~ or defeat all present ghosts to remove it.^10
+Hold down ^20~29~ to follow the Purple Thread.
+Walk up to the spirit.
+Press ^20~33~ to ready the Spirit Stone Flashlight.
+Press ^20~33~ to put the Spirit Stone Flashlight away.
+Keep the ○ in your target reticle and press ^20~14~ to shine the light on them.
+Hold down ^20~29~ to charge up the flashlight, then release.
+Hold down ^20~32~ and tilt the viewfinder, then take a psychic photograph with ^20~14~.
+Type-14 Film has a limited number of shots (only Type-07 is unlimited).
+Press ^20~35~ to photograph ghosts currently in the capture area with the equipped lens.
+Press ^20~35~ to take consecutive shots.
+Synch Shot: Take a photo that matches the one you already have.
+Press ^20~33~ to enter Photo Mode.
+
+^00^11~12~Tutorial: Psychic Photographs{LF}^00^11~14~When you look around through the lens of the Camera Obscura,{LF}you may notice it reacting to objects which are not normally visible.{LF}^00^11~14~Lock on and photograph them to expose places or items{LF}they have a connection with.{LF}^00^11~14~Find the locations from the photographs and{LF}you may discover some clues there as well.
+^00^11~14~Find the place shown in the photograph.{LF}It's somewhere in this building.^10{LF}^00^11~14~To view the photograph again, open the main menu{LF}and go to the "Tokens" tab within Items/Records.^10
+^00^11~12~Tutorial: Phantom Exposé{LF}^00^11~14~The Camera Obscura will react to items that{LF}are normally hidden from the eyes of the living.{LF}^00^11~14~You can bring those items back to this world{LF}by photographing the place they were taken{LF}from with the correct angle and position.
+^00^11~12~Tutorial: Echoes of the Past{LF}^00^11~14~In places where the traces of the past are very strong,{LF}you may be able to view echoes of the past.{LF}^00^11~14~Photographing them will earn you Photo Points,{LF}which can be used to upgrade the cameras.
+Try not to attract the ghosts' attention.
+Stun your opponents with the Spirit Stone Flashlight to get past them.
+If a spirit notices you, stun it with the Spirit Stone Flashlight.
+Stand still and wait for it to walk past.
+Try not to make any noise.
+To dodge, press ^20~31~ just as you're about to be attacked.
+Press ^20~31~ to dodge.
+Approach Fuyuhi.
+Hold down ^20~14~ to touch Fuyuhi.
+Glance into Ose's soul (approach her and press ^20~29~).
+Photograph the scenery Dr. Aso is looking at.
+You can also press ^20~11~+^20~04~ to open Snap Mode at any time to capture
+any interesting moments and areas.
+Use ^20~30~ to hold your capture area vertically to photograph all three ○ simultaneously.
+Focus on the item by tilting the viewfinder with ^20~30~ while holding ^20~32~, and then pressing ^20~14~.
+Move ^20~10~ to look around.
+Move ^20~21~ to find the second ○.
+Move ^20~21~ to find the third ○.
+Move ^20~10~ to get Hisoka in frame.
+Move ^20~10~ to find what the camera is reacting to.
+Move ^20~10~ to bring the target's head into focus.

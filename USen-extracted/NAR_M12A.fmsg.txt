@@ -1,0 +1,14 @@
+^00I can sense that Yuri headed for the mountain.{LF}^00If I use the Camera Obscura, I might be able to save her.
+And...I may find clues as to where my mother is.
+^00The door won't budge.{LF}^00Yuri didn't come this way.{LF}^00And...I don't want to go in there again.
+^00The path to the shrine ends here.{LF}I have to go back and find another way.
+^00I have to get Yuri away from the mountain.{LF}But we need to find a way down first.{LF}^00The cable car would be the quickest way.
+^00That's her...{LF}^00She's too powerful, even the Camera Obscura does nothing...{LF}We have to run...
+^00Yuri didn't come this way.{LF}I need to follow her trace.
+That ghost might still be chasing after us.{LF}Let's get in the cable car and get out of here.
+The door is being held shut by a powerful force.
+^00That was mother...{LF}I have to get to her.
+^00Dense brush is blocking the way.{LF}I won't be able to get through.{LF}^00But that definitely was my mother.{LF}She's been here.
+^00I wonder what's down this way?{LF}^00Anyway, right now I need to find Yuri.{LF}She may know something that will help me.
+^00What the...{LF}^00The Camera Obscura... If Yuri can use it, so can I.
+^00^11~12~Tutorial: Slow Motion Shots^10{LF}^00^11~14~Hold down the shutter button ^20~14~^11~14~ to slow down ghosts.{LF}This consumes Spirit Power.{LF}^00^11~14~When you let go of ^20~14~^11~14~ or run out of Spirit Power,{LF}all targeted ghosts will take damage.

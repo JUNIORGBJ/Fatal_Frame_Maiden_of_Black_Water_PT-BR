@@ -1,0 +1,19 @@
+The Forbidden Flame must not perish.^01~90~
+Do not approach places not illuminated by{LF}the Forbidden Flame.^01~180~
+Do not approach the Shadowspring without the{LF}aid of the Forbidden Flame.^01~270~
+Reliquaries consecrated by the Forbidden Flame{LF}protect the Pillars from the Black Water.^01~220~
+Without the reliquary, the Pillar would soon be exhausted.^01~165~
+If the Pillar fails, the Black Water will overflow.{LF}This cannot be allowed to happen.^01~300~
+^00The Forbidden Flame must not perish.^01~90~
+Rui...^01~60~
+Ever since...ever since I saw her picture...^01~210~
+Yes... I have to go.^01~120~
+She was...so beautiful. Oh!^01~210~
+No... I can't... No, no! Stop! I-I can't do it...^01~210~
+Rui, let's get outta here.^01~120~
+Yes. I've been waiting for you for so long.^01~240~
+Ren, don't look at that picture.{LF}The woman in it, she's...^01~240~
+^00Ren, why didn't you say anything? You didn't{LF}answer me. If only you had, I wouldn't be...^01~550~
+Can you walk?^01~60~
+Yes, I should be fine.{LF}Thank you.^01~150~
+Rui!^01~30~

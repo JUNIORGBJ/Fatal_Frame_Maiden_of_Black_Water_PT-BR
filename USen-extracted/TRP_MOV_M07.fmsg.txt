@@ -1,0 +1,15 @@
+M...Mother...^01~50~
+Mother... Mother...^01~150~
+Let us fall together...^01~90~
+^00No one's picking up at Miu's place.^01~105~{LF}^00I'll try again tomorrow.^01~55~
+I have to go...one more time...^01~100~
+Ren, do you have a moment?^01~100~
+Yeah...^01~30~
+Mother...^01~60~
+^00You really think I can make it?^01~65~{LF}^00^01~25~{LF}^00I'm nothing.^01~90~{LF}^00^01~45~{LF}^00I'm empty.^01~100~{LF}^00That's how I can become anything.^01~95~
+^00You really think I can make it?^01~65~{LF}^00^01~25~{LF}^00I'm nothing.^01~40~{LF}^00^01~20~{LF}^00I'm empty.^01~50~{LF}^00^01~110~{LF}^00That's how I can become anything.^01~95~
+^00I do exactly as I'm told.^01~120~{LF}^00I know what you want all too well...it's so dumb.^01~155~
+^00It's all lies.^01~80~{LF}^00And lying only hurts more, right?^01~170~{LF}^00So idiotic.^01~35~
+Stay away... There's nothing here for you.^01~120~
+I'm not sick anymore... I'm not sick anymore...^01~350~
+Don't you do that again. Ever.^01~120~

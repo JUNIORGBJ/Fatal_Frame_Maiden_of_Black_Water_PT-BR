@@ -1,0 +1,21 @@
+^00Stay away, Yuri.^01~75~{LF}^00^01~20~{LF}^00You mustn't be here.^01~70~
+Hisoka...^01~40~
+^00I have become a Pillar.^01~75~{LF}^00^01~40~{LF}^00This is it for me.^01~40~
+^00If I stay here, you'll be safe.^01~130~{LF}^00^01~35~{LF}^00So please, just go.^01~85~
+No! I won't let you do it!^01~50~
+No! I won't let you do it!^01~120~
+We seem so much alike.^01~120~
+We seem so much alike.^01~120~
+If you still want to die, I'll die with you.^01~120~
+If you still want to die, I'll die with you.^01~120~
+^00You may think that you have no one...^01~85~{LF}^00^01~25~{LF}^00But that's not true. You're not alone.^01~95~{LF}^00^01~45~{LF}^00I'm here with you, so please, just stay with me.^01~100~{LF}^00^01~25~{LF}^00Even if it's just for a while.^01~40~{LF}^00^01~20~{LF}^00Just a little longer.^01~50~
+^00You may think that you have no one...^01~70~{LF}^00But that's not true. You're not alone.^01~125~{LF}^00I'm here with you, so please, just stay with me.^01~135~{LF}^00Even if it's just for a while.^01~60~{LF}^00Just a little longer.^01~60~
+^00Do you remember that time?^01~90~{LF}^00^01~30~{LF}^00The promise we made?^01~40~
+^00Do you remember that time?^01~55~{LF}^00The promise we made?^01~50~
+Please just stay, for a little while.^01~80~
+It's nice and warm...^01~40~
+^00It's such a little thing, but I've never really noticed^01~150~{LF}^00^01~45~{LF}^00just how much of a difference a little warmth can make.^01~131~
+I wanted to jump, but now...^01~130~
+Can I please stay here, just for a while?^01~120~
+This... This is just what I need... Right now.^01~170~
+It's nice and warm...^01~50~

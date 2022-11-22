@@ -1,0 +1,19 @@
+The sliding door is being held shut by some powerful force.
+
+
+
+
+
+
+
+
+
+Ren touches Ose (chooses her){LF}Ren opens the door to the Ghost Marriage room (chooses Shiragiku)
+Select Token
+Photo of a Bride
+Bundle of White Hair
+^00The place where Ghost Marriages took place.{LF}Is someone waiting for me inside?{LF}{LF}^00No, I have to make the choice.{LF}The groom must bring with him the token of his chosen bride.{LF}^00^30~066~A photo of a bride, she was one of the shrine maidens.{LF}{LF}^00She was offered to the Black Water as a sacrifice and to this day{LF}exists as an Immortal Flower, awaiting her companion.{LF}^00^30~033~A lock of white hair belonging to a young girl.{LF}It was among Dr. Aso's belongings.{LF}{LF}^00I've been seeing this girl in my dreams.{LF}She gave this token to Dr. Aso when he was a boy.{LF}^00They are both waiting. Which one do I choose?
+
+It's being held by some powerful force.
+There is something on the floor in the corner.
+Something got left behind when the girl disappeared.

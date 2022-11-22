@@ -1,0 +1,17 @@
+Hisoka's Camera Obscura is on the desk.
+Hisoka's Camera Obscura is on the desk.{LF}I shouldn't go anywhere without it.
+There's something under the bed.
+^00It's a ^11~09~Small Key^10.{LF}^00Maybe it opens the drawer in Hisoka's desk.
+^00The drawer is locked.{LF}^00The Camera Obscura is reacting to it...
+^30~041~You used the Small Key to unlock the drawer.
+^00Haruka Momose was marked in the file.{LF}^00It's the girl Fuyuhi was looking for.{LF}Hisoka must have gone to Mt. Hikami to find Haruka.{LF}^00Oh dear...
+I can't go looking for Hisoka without any clues.
+We use this room as a storeroom.{LF}It's full of antiques that Hisoka doesn't want to keep in the shop.
+^00There's something in the picture...{LF}^00This is... It's the storeroom on the first floor.
+^00The drawer is locked.{LF}^00The Camera Obscura is reacting to it...
+^00Hisoka used to make me a cup of coffee every day after closing.{LF}^00Drinking that rich, warm coffee was always so comforting...
+^00Hisoka...{LF}^00This time I'm the one who'll save you.
+^00Hisoka...{LF}^00She liked to sit at her desk to relax. The Japanese style of the room helped{LF}her de-stress.
+^00What was that?{LF}^00Is there something in that room?
+^30~041~You used the ^11~09~Small Key^10 to unlock the drawer.
+^00This file lists the missing person cases that Hisoka took on.{LF}^00^30~074~Haruka Momose...{LF}This is the girl that Fuyuhi was looking for.{LF}^00I may be able to track her down if I use this photograph as a token.

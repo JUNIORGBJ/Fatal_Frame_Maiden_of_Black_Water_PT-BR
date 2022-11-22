@@ -1,0 +1,44 @@
+^00It's over. It's all over. The mountain's waters are tainted.^01~270~{LF}^00The Immortal Flower will wither and The Black Water will overflow.^01~210~
+They were all... H-he killed them. All of them.^01~120~
+I have to kill them... Have to kill them...{LF}HAVE to kill them...^01~120~
+You must not look up at the sunset.^01~75~
+It is an unchanging twilight{LF}that casts a dark light on the Netherworld.^01~150~
+Allow your own heart to melt away.{LF}Only then can you truly glance into the souls of others.^01~350~
+When a shrine maiden's heart is full of the pain{LF}of those she's glanced, she returns to the water.^01~370~
+Miu, let's get out of here.^01~100~
+Who are you?^01~45~
+Come on, we need to go.^01~45~
+Will you end yourself with me?^01~220~
+The hands in the water. Lots of them...{LF}They're all beckoning.^01~190~
+Telling me to join them.^01~60~
+They've all melted away into the water.^01~90~
+The water connects them all.^01~90~
+I came here to save my mother. But I failed...{LF}I couldn't do anything.^01~260~
+We should get out of here.^01~90~
+This mountain isn't safe.^01~120~
+I know...^01~50~
+Then...why did you come here?^01~45~
+I'm just like you, you know.^01~55~
+...^01~45~
+You're Miu. Miu Hinasaki, right?^01~90~
+Your family seemed pretty worried...^01~60~
+No.^01~45~
+That woman isn't my family.^01~75~
+...?^01~45~
+No.^01~60~
+I'm sorry...^01~90~
+Thank you.^01~60~
+Maybe after this... I might even be able to save{LF}Mother somehow.^01~180~
+There must be another path we can take.^01~75~
+I have to find her soon, before she disappears.^01~170~
+I need to find my mother.^01~60~
+My mother is waiting.^01~60~
+Mother... Where are you?^01~60~
+I went there to save my mother.{LF}But I couldn't do anything.^01~210~
+What should I do?^01~50~
+Hngh... HngAAARGH!^01~360~
+^00Aaagh... ugggggh... AAAAAARGH!^01~340~{LF}^00I can't...stand... M-my legs...won't...^01~370~
+I can't...stand... M-my legs...won't...^01~150~
+Please... Take me...with you...^01~150~
+^00Mother...^01~60~{LF}^00Mother... wait...^01~120~
+Mother... wait...^01~75~

@@ -1,0 +1,51 @@
+^00Hisoka went to the lake on top of Mt. Hikami, of that I'm certain.{LF}^00A large torii gate is visible from the lakeside.{LF}There must be something out there.{LF}^00If Hisoka is out there, there might be some clues in her room{LF}as to why she went.
+^00Across the lake from the Shrine of the Ephemeral is...{LF}The Shrine on the Water.{LF}^00Is that where Hisoka went to?
+I'll be back... And I'll have Hisoka with me...
+^00Miu and her mother are asleep.{LF}There's no need to wake them.{LF}^00I've got to go and save Hisoka.
+^00Miu isn't here. I guess she woke up and wandered off somewhere.
+^00Miu's mother hasn't aged a day since that photograph was taken.{LF}^00How long had she been locked in that box?{LF}^00And now Hisoka...{LF}Hold on, I'm coming for you...
+^00Hisoka is in the Shrine on the Water on the other side of the Lake.{LF}^00There was a boat at the Shrine of the Ephemeral.{LF}I can use it to get across.
+The Shrine of the Ephemeral.{LF}There's a boat here.
+^00I saw a small boat here when I found Miu.{LF}^00That shrine maiden was in it...{LF}It must be the boat they used to reach the other shrine.
+^00The ancient rituals performed on Mt. Hikami continue to this day.{LF}^00If Hisoka is in the Shrine on the Water, it means she's become a Pillar...
+There's something in the boat.
+A camellia flower is engraved on the key.
+^00A gate stands in the water on the far side.{LF}^00The Shrine on the Water must be on the other side of that gate.{LF}^00The key to that gate must be somewhere in this building.
+^00The door is locked.{LF}^00A camellia flower is engraved on the lock.
+^00^30~056~You inserted the ^11~09~Camellia Plate Key^10 into the lock.{LF}^00The door is now open.
+^00A box appeared at the foot of the statue.{LF}^00It contains a plate key and a notebook.
+Cherry blossoms are engraved on the key.
+A lily flower is engraved on the key.
+^00The door is locked.{LF}^00A lily flower is engraved on the lock.
+^00^30~057~You inserted the ^11~09~Lily Plate Key^10 into the lock.{LF}^00The door is now open.
+^00Something is hanging there...{LF}It looks like a person.
+Hisoka is on the other side...
+^00There's something shiny on the corpse,{LF}or whatever it is that's hanging inside the well.{LF}^00I may be able to get it down.
+You loosened the rope.
+It's a large key. The engravings remind me of the black boxes.
+^00It's an altar of sorts, that looks like a chest. {LF}The lid has been made into a door.{LF}^00There's a large keyhole in it.
+^00^30~059~You inserted the ^11~09~Reliquary Key^10 into the lock.{LF}^00The reliquary is now open.
+A small box is placed in front of the crouching statue.{LF}It contains a plate key.
+The moon is engraved on the key.
+^00The door is locked.{LF}^00There are two locks on it, one with an engraving of cherry blossoms,{LF}and the other one of the moon.
+^00There are two locks, one with an engraving of the moon{LF}and the other with cherry blossoms.{LF}^00I'll need both keys to open this door.
+^00The crouching statues...{LF}They must represent three shrine maidens.{LF}^00I now have the moon and cherry keys.
+^00^30~058~You inserted the ^11~09~Cherry Plate Key^10 into the lock.{LF}^00^30~060~You inserted the ^11~09~Moon Plate Key^10 into the lock.{LF}^00The door is now open.
+Something turned below the statue.
+The gate is now open.{LF}I can cross over to the Shrine on the Water.
+^00There's a small boat in the courtyard.{LF}It must be the Boat of Passage.{LF}^00If I get the gate over there open,{LF}I should be able to cross the lake to the Shrine on the Water.
+^00I'm sure I'll find Hisoka in the Shrine on the Water.{LF}^00I have to find her...
+It'll be quicker to go down by the cable car.
+Miu hasn't returned my camera yet...
+^00Hisoka is on the summit of Mt. Hikami,{LF}in the place with the lake and a torii gate.{LF}^00How do I get there?{LF}Are there any clues in Hisoka's room?
+^00I can't cross the lake from the Twilit Peak.{LF}^00I need the boat from the Shrine of the Ephemeral.
+^00First, I'll need to find the boat in the Shrine of the Ephemeral.{LF}^00And then, Hisoka...
+^00I have to go to the Shrine of the Ephemeral.{LF}^00It's the only way to reach Hisoka.
+^00The door's locked.
+^00The door is being held shut by a powerful force.
+^00There's something in the photo...{LF}^00The gate is open and the Shrine on the Water's torii gate{LF}can be seen in the distance.
+^00The three maidens... The statue of the water guardian{LF}shrine maiden turned to face outside.{LF}^00That's where the gate to the lake is.{LF}Maybe it's open now?
+^00The camera is reacting to something...
+^00The gate is open.
+^00In the middle of the room is a statue of a crouching woman.{LF}It's the water guardian shrine maiden, I think.{LF}^00The camera is reacting to it.
+^00The crouching statue turned to face the window.{LF}^00That must be the direction of the Shrine on the Water.

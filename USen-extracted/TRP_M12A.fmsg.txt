@@ -1,0 +1,22 @@
+^00No! I didn't kill anyone!^01~140~{LF}^00No! Don't look at me with those EYES!^01~210~
+Are you here for me?^01~30~
+Hehehehehehe.^01~30~
+Teeheeheeheeheee.^01~30~
+Ahahahahahaha.^01~30~
+Soon the Pillar will fail...^01~170~
+The Black Water will overflow once more.^01~130~
+You shall serve as a fine Pillar.^01~180~
+Come on, let's go back.^01~150~
+OK...^01~80~
+Thank you.^01~60~
+Why were you here?^01~60~
+I can see them too, you know.{LF}Maybe even better than you.^01~160~
+Oh...^01~30~
+Does it scare you seeing things that others can't?^01~100~
+I'm not afraid. I have nothing to lose,{LF}so there's nothing to be scared of.^01~180~
+I know you're scared too.{LF}Scared of being alone.^01~140~
+I don't know what, but something about that{LF}sunset made me want to cry.^01~300~
+The twilight was so beautiful... But I was scared{LF}to be alone in the darkness that followed.^01~270~
+Someday, you'll decide to go alone...{LF}You'll end it all on your own.^01~240~
+You know this as well as I do.{LF}And yet, you seem to be confused.^01~240~
+Mother...{LF}Mother...wait...^01~80~

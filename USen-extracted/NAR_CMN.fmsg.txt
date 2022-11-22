@@ -1,0 +1,54 @@
+
+The door is locked.
+It won't open. {LF}It is being held shut by a powerful force.
+The door is now unlocked.
+Call the train to the platform?
+Select a destination.
+Hisoka is on the other side.
+You got %ls x%d.
+ 
+ 
+ 
+You found %ls x%d.
+You can't hold any more of these.
+Hold down ^20~14~ to see the Trace.
+There's nothing of interest in here.
+There's nothing useful in here.
+^00The lantern-lined path ends suddenly.{LF}^00I wonder where it used to lead to...
+The force that was blocking the door is gone.
+The door won't open. {LF}It must be locked from the other side.
+^00It's a finely decorated black wooden box.{LF}^00The lid is shut and I can't get it open.
+^00It's a finely decorated black wooden box.{LF}^00The lid is shut and I can't get it open.
+^00It's a finely decorated black wooden box.{LF}^00The lid is shut and I can't get it open.
+^00The door is locked.{LF}A camellia flower is engraved on the lock.
+^00The door is locked.{LF}A lily flower is engraved on the lock.
+^00It's an altar, but it looks like a huge box.{LF}The lid has been made into a door.{LF}^00There's a large keyhole in it.{LF}What could be inside?{LF}^00I guess the only way to find out is to get the key and go in.
+^00The door is locked.{LF}^00There are two locks on it, one with an engraving of a cherry blossom{LF}and on the other one of the moon.
+Pills made from a myriad of herbs.{LF}Consuming them will restore some health.
+Clean water used for purification.{LF}Restores your health completely.
+A black stone that emits a mysterious light.{LF}If you run out of health, it will protect you.
+A bottle of ink used for dark arts.{LF}The magic of the ink brings its user closer to death.
+Coals that light the Forbidden Flame.{LF}They dry you and remove the taint of the Black Water.
+Old film. It is not effective at exorcizing ghosts,{LF}and it takes a long time to load.
+New film in good condition. It is effective at exorcizing ghosts.
+Film with a symbol of purification. It is very{LF}effective at exorcizing ghosts and loads quickly.
+Special film. It is the most effective film at{LF}exorcizing ghosts, but it takes time to load.
+^00You got the ^11~09~Slow^10 lens, a lens that slows down{LF}the photographed subject for a set period of time.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Bind^10 lens, a lens that freezes{LF}the photographed subject for a time.{LF}Taking another photo will undo it.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Reward^10 lens, a lens that increases{LF}the number of points earned by taking photos for a short time.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Stun^10 lens, a lens that forcibly staggers{LF}the photographed subject.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Blow^10 lens, a lens that allows you to deal{LF}twice the normal damage output to targets.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Crush^10 lens, a lens that deals more damage{LF}to targets based on its level.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Zero^10 lens, a lens that deals more damage{LF}to targets the lower your health is.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Restore^10 lens, a lens that restores your health{LF}based on how much damage is dealt to the target.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Fatal^10 lens, a lens that triggers Fatal Time{LF}if a photo is taken during a Shutter Chance.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Butterfly^10 lens, a lens that causes twice as many{LF}Spirit Fragments as normal to appear.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Voice^10 lens, a lens that allows you to hear{LF}the voice of a locked-on, photographed subject.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~See^10 lens, a lens that will exorcize a ghost{LF}in one shot if it is in a "glance" state and glowing a pale white.{LF}^00To use it, equip it to your Camera Obscura{LF}and press ^20~35~ when you have enough Spirit Power.
+^00You got the ^11~09~Switch^10 upgrade.{LF}This allows you to equip and take pictures with different lenses.
+^00You got the ^11~09~Measure^10 upgrade.{LF}This displays the current health of a locked-on enemy.
+^00You got the ^11~09~Evade^10 upgrade.{LF}This allows you to detect threats capable of being dodged.
+^00You got the ^11~09~Optimal^10 upgrade.{LF}This makes every shot you take perfect, triggering Fatal Frame.
+^00You got the ^11~09~Infinite^10 upgrade.{LF}This allows you to take photos without using up any film.
+It's the cable car switch...{LF}I don't need to go anywhere at the moment.
+The Camera Obscura has no effect...

@@ -1,0 +1,2 @@
+^00It's dangerous here.{LF}We need to get out, fast.
+We need to leave this place as soon as possible.{LF}We don't have time to get distracted.

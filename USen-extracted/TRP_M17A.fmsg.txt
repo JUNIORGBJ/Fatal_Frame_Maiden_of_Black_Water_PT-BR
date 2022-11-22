@@ -1,0 +1,28 @@
+I thought I found you, but you were lost...{LF}I thought you could take it, but you fell.^01~210~
+Yuri... You'll leave me too...someday.^01~150~
+You can fight it with all your strength, but the{LF}current will sweep you away.^01~120~
+Yuri...^01~60~
+Mother...^01~90~
+Mafuyu...^01~90~
+Ren, I...^01~90~
+Please, wait.{LF}Don't... Don't go.^01~120~
+Ngh... No... No... Don't... D-don't... Don't...{LF}Look at me. Those eyes... Ngh... No... Ahh...^01~180~
+When I end it, I want to be wearing this{LF}kimono. It's the prettiest one that I own.^01~240~
+A gentle breeze... I like it here.{LF}This is where I want to end it.^01~290~
+Ugh... Ngh... All of them, with my own hands.^01~120~
+I have to kill them... Have to kill them...{LF}HAVE to kill them...^01~150~
+^00S-sorry. I'm...so so...rry...{LF}Soon... it'll all be...^01~390~
+Wait... Just a little more... A little more...{LF}There. Now... I can finally see you...^01~150~
+I want to end it with the sting of this blade.{LF}Such a fine blade... The finest in my house.^01~180~
+She'll glance into my soul.^01~120~
+She said we'd drown together.{LF}She said we'd end it together...didn't she?^01~180~
+We'll dissolve into the waters of the mountain.{LF}Into their very depths...together.^01~150~
+Such a lovely, quiet spot.{LF}I like it here. This is where I'll end it.^01~300~
+It's not...not my fault. How did this...happen?{LF}Who...? Why am I...alone...in a place like this?^01~210~
+I don't want to...die... Argh...{LF}M-my body...crushed... C-can't...move...^01~180~
+They've all been buried... All of them except me.{LF}My wife... My daughter...^01~150~
+They've all become one with the dirt...{LF}melted into the mountain... Like the sunset...^01~180~
+They've dissolved into the mountain...^01~120~
+I have been waiting.^01~75~
+^00Soon, I'll dissolve.^01~120~{LF}^00Dissolve, and vanish completely.^01~135~
+Hurry... Come to me. Embrace me.^01~185~

@@ -1,0 +1,3 @@
+You shall serve as a fine Pillar.^01~200~
+The sacred casket will protect you.{LF}It will keep you safe.^01~300~
+Immerse yourself in the water...{LF}Let your open wounds melt together...^01~150~

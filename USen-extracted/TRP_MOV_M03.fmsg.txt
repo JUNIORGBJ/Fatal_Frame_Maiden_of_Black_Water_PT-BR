@@ -1,0 +1,43 @@
+^00Mt. Hikami...^01~70~{LF}^00A place where many come to take their lives.^01~100~{LF}^00I'm positive that Fuyuhi must have come here.^01~150~
+Fuyuhi!^01~25~
+Haruka, she's here on the mountain.^01~103~
+Have you seen her?^01~30~
+^00No, but...she's here.^01~115~{LF}^00I...I have to find her.^01~85~
+I wonder...^01~30~
+^00Why did the two of us survive...^01~160~{LF}^00^01~107~{LF}^00We made a promise that we'd all die together.^01~166~
+^00Why did the two of us survive...^01~120~{LF}^00We made a promise that we'd all die together.^01~166~
+^00When will we get the chance^01~135~{LF}^00to join the others?^01~55~
+Hey, I'll go and look for Haruka.^01~83~
+Let's go back.^01~47~
+Yuri?^01~120~
+Fuyuhi, where are you?^01~75~
+Close your eyes, think back to that day...^01~120~
+Fuyuhi?^01~30~
+^00Play with me forever...^01~130~{LF}^00^01~30~{LF}^00I know I’ll remember you^01~200~{LF}^00^01~370~
+Play with me forever.^01~90~
+Play with me forever.^01~120~
+I know I'll remember you...^01~210~
+I know I'll remember you...^01~120~
+Forever and ever-^01~175~
+Forever and ever-^01~100~
+Ah...^01~120~
+Haruka!^01~60~
+You've seen too much.^01~70~
+^00You cannot leave the mountain.^01~90~{LF}^00^01~65~{LF}^00You will dissolve into nothing.^01~80~
+^00You cannot leave the mountain.^01~67~{LF}^00You will dissolve into nothing.^01~60~
+Um, excuse me...^01~45~
+Um, excuse me...{LF}Hello^01~45~
+^00I'm looking for Hisoka Kurosawa.^01~70~{LF}^00Is she here?^01~40~
+Oh, I'm sorry, but she's stepped out.^01~120~
+^00My name is Fuyuhi Himino.^01~90~{LF}^00I've been waiting for her to tell me if...if...if she could{LF}help me find someone.^01~180~{LF}^00I still haven't got a reply from her...^01~60~
+You're looking for someone?^01~40~
+^00She might have gone to the mountain.^01~70~{LF}^00...Mt. Hikami.^01~50~
+Mt. Hikami...^01~50~
+^00Someone told me^01~65~{LF}^00that they saw my friend there.^01~55~
+It's an infamous suicide spot, isn't it?^01~100~
+^00I don't know why Haruka would go to a place like that.^01~155~{LF}^00And without even saying a word to me...^01~95~
+Don't worry. As soon as Hisoka gets back, I'll tell her...^01~85~
+No, that's fine. I can't wait any longer.^01~100~
+I'll go look for her myself.^01~70~
+Huh? Come back!^01~50~
+Huh? Come back!^01~110~

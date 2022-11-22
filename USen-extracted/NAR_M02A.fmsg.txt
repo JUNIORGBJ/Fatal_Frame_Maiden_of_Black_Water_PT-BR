@@ -1,0 +1,13 @@
+You got the ^11~09~Postmortem Photograph^10.
+^00There's something in the photo...{LF}^00There's light coming out of a closet, and there{LF}is a doll on top of a chest of drawers.{LF}^00This might be where the key is.
+I need to find the key...
+^00You got the ^11~09~Key on Red Keychain^10.{LF}^00It might open that door from before.{LF}Go back to Hisoka.
+You opened the door with the ^30~046~^11~09~Key on Red Keychain^10.
+Was that...a shadow of the past?
+^00The ghost recoiled when you took a photograph of it.{LF}^00Maybe taking more will exorcize it for good...
+
+
+
+The photo shows an old, Japanese-style room.{LF}I should look for it in the old part of the inn.
+I have the key. I should get back to Hisoka.
+I still haven't found what we're looking for.{LF}It should be in that room.

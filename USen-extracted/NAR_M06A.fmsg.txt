@@ -1,0 +1,39 @@
+^00^30~074~Haruka Momose...{LF}This is the girl that Fuyuhi was looking for.{LF}^00Hisoka must have been trying to find her.
+^00The door is being held shut by a powerful force.{LF}Haruka is inside. There must be another way in.
+^00The door is being held shut by a powerful force.
+^00The door is being held shut by a powerful force.
+^00There are stairs below the doll display.{LF}Haruka might have gone down there.{LF}^00The wooden grate won't budge.{LF}There must be a way to open it.
+^00This wooden grate won't budge.{LF}There must be a way to open it.
+This photo might be showing me where to find the hidden effigy.
+^00I found this ^11~09~Effigy^10 on the floor.{LF}^00I should put it back on the doll display.
+I should probably stay here for now.
+^00I just spoke with Mr. Hojo.{LF}^00He agreed that we should come by as often as we can{LF}until Ms. Kurosawa gets back.{LF}^00Having someone be there for you can be a huge{LF}comfort at times like this.
+^00We'll do all we can to help you find Ms. Kurosawa.{LF}Don't hesitate to ask us if you need anything.{LF}^00I'm certain Ms. Kurosawa will be fine.{LF}She's a very strong, resourceful person.{LF}^00...Unlike Mr. Hojo.
+^00You say...{LF}Ms. Himino cut her own throat?{LF}^00Mr. Hojo was telling me...{LF}He said I tried to hang myself on the inn roof.{LF}^00Thankfully, he was there to save me.{LF}^00The shrine maiden that appeared after Ms. Himino's suicide{LF}might have been the same one that we saw on the roof.{LF}^00Something very strange is happening on that mountain.
+^00If you're looking for Mr. Hojo, he's in the office.{LF}^00He seemed quite exhausted, so he may be taking a nap.{LF}^00Has he no shame... Oh, I'm sorry.{LF}Feel free to wake him up if you need him.
+^00There's no one in Hisoka's room.{LF}^00I should tell Ren and Rui that she isn't back yet.
+^00That dream... It was just like the memory I saw{LF}when I touched Haruka in that cave. {LF}^00I need to know more. Maybe if I ask her...
+^00The door is locked.{LF}The lock is broken, I won't be able to open it.
+^00The door is locked.{LF}^00An iris flower is engraved on the lock.{LF}It seems I can't get out this way.
+He must be having a terrible nightmare.
+^00Haruka's trace led me to this room.{LF}^00There must be some clues here.
+There's no sign of Haruka this way.{LF}I need to follow her trace.
+^00Haruka didn't come this way.{LF}Her trace led me inside the building.
+An old doll appeared in the place shown in the photograph.
+^00I have to follow Haruka's trace.
+^00I can't shake off these ghosts.{LF}I have to think of something...
+^00^30~044~You placed the ^11~09~Effigy^10 on the doll display.
+^00It sounded as if something moved beneath the doll display.{LF}^00The wooden lattice blocking the hidden staircase has opened.
+The camera is reacting to something...
+^00The girl was sitting in the middle of the doll display.{LF}I should try placing the doll there.
+Haruka is somewhere in this shrine...
+^00There's something in the photo...{LF}^00It looks like a person...hanging from a tree.
+^00Was that...Haruka?{LF}^00Is there something under the doll display?
+^00A richly decorated black box is submerged in the water.{LF}^00The lid is shut...
+^00It's another black box like the one Haruka was in, it's underwater.{LF}^00The lid is shut.{LF}Is someone inside this one, too?
+^00The box the ghost came out of is open.{LF}It's full of dark water.{LF}^00Something that looks disturbingly like hair is floating on the surface.
+^00Haruka...{LF}I'd better give her some time to recover.{LF}^00I have to tell Ren and Rui about Hisoka...
+It sounded like something fell into the bushes.
+There's a doll on the stairs.
+^00Haruka...{LF}I'd better give her some time to recover.{LF}^00I have to tell Ren and Rui about Hisoka...
+I found Haruka.{LF}We need to get off this mountain.

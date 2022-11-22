@@ -1,0 +1,44 @@
+^00Fuyuhi took her own life, and Rui attempted suicide.{LF}The ghost of a shrine maiden appeared on both occasions.{LF}^00Yuri spoke of a black box that she found Haruka trapped in.{LF}^00Does the key to all these events lie in the mountain's dark past?{LF}^00A folklorist, Keiji Watarai, used to live there.{LF}His notes may shed some light on this mystery.
+^00The video tape Rui found is on the desk.{LF}It seems to be related to that folklorist.{LF}^00I should take a look at it.
+^00The Veiled House.{LF}^00From the Shrine of Dolls, into a cave...{LF}This may be the same route Yuri took.{LF}^00I should start by going there.
+Maybe I'll also find out some more about that Postmortem Photograph.
+Ren, aren't we going to search the Shrine of Dolls?
+Ren, the video showed the Shrine of Dolls.{LF}That's this way.
+I should check out the Shrine of Dolls.
+^00Ren, you're going the wrong way.{LF}^00Let's try another direction...
+^00The door is being held shut by a powerful force.{LF}^00Are we locked in?
+The door is being held shut by a powerful force.
+^00What was that?{LF}^00Rui...where did you go?
+^00It's Rui's journal.{LF}^00If I use this as a token, I can follow the trace{LF}to wherever Rui has been taken.
+^00Rui seems to be OK...{LF}I have to find the way to the Veiled House.{LF}^00Yuri said there's an entrance to a cave below{LF}the doll display in the front shrine.
+^00There are stairs leading underground below the doll display.{LF}I might be able to reach this "Womb Cavern" through there.{LF}^00But first, I have to find Rui...
+^00The heavy lattice door is locked.{LF}An iris flower is engraved on the lock.{LF}^00^30~052~You inserted the ^11~09~Iris Plate Key^10 into the lock.
+The door won't budge.
+The door won't budge.
+^00^30~066~It's exactly the same as the picture from that photo album...{LF}^00Did Kazuya come here because of it too?
+There's light coming from inside.{LF}Is someone in there?
+Kunihiko Aso...{LF}Was Dr. Aso somehow involved in this?
+Mist is pouring into the room...{LF}That's not a good sign. I should get out of here.
+What the...
+^00The path to the Veiled House is overgrown with vegetation.{LF}I doubt I'll be able to find it again.
+The lock is broken.{LF}I can't open the door.
+The door is being held shut by a powerful force.
+The door is being held shut by a powerful force.
+^00Was that...one of Keiji Watarai's memories?{LF}^00I have to get out of here.
+^00You got the Bind Lens.
+^00The door is locked.{LF}^00The Camera Obscura is reacting to it...
+The door won't budge.
+^00It's a finely decorated black wooden box.{LF}The lid is shut and I can't get it open.
+^00It's a finely decorated black wooden box.{LF}The lid is shut and I can't get it open.
+^00Was that...Haruka?{LF}Did she come out of this box?{LF}^00Yuri said she found her in a black box...{LF}Is there someone in each of these?
+^00It's a finely decorated black wooden box.{LF}The lid is shut and I can't get it open.
+^00The ladder leads up to the attic.{LF}Just like in the last part of the video...
+^00What the...?{LF}The ghost left a notebook behind when it disappeared.
+This must be the Shrine of Dolls that was in the video.
+It's an ornamental book stand.
+^00This leads outside the Unfathomable Forest.{LF}I have to find the Shrine of Dolls in the middle of the forest.
+^00I have to find Rui.{LF}^00The Veiled House is accessible through the cave{LF}located under the Shrine of Dolls.
+The Veiled House is accessible through the cave{LF}located under the Shrine of Dolls.
+I might as well use the cable car.
+The exit leading to the Veiled House must be somewhere in this cave.
+The ghost dropped something when it disappeared.

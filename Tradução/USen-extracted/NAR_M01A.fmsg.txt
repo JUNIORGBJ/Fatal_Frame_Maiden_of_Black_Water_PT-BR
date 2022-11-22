@@ -1,8 +1,0 @@
-^00Eu tenho que sair daqui...
-^00Parece ter uma caverna no outro lado da grade.{LF}Eu consigo ver algumas estátuas de pedra na escuridão.{LF}^00Devo estar no subterrâneo.{LF}Agora, como que eu saio daqui...?
-^00Tem uma luz no fim do corredor.{LF}^00Talvez tenha uma saída por lá.
-^00Elas estão correndo atrás de mim...{LF}^00Eu tenho que fugir.
-Por aqui não... Eu tenho que sair daqui...
-^00Tenho que encontrar uma saída.
-^00Näo abre. {LF}Está sendo trancado por uma força maior.
-Melhor eu não voltar para lá.{LF}Deve ter outra saída.

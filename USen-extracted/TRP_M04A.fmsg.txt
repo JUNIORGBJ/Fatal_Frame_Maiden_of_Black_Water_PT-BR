@@ -1,0 +1,62 @@
+So then, shouldn't you take the Camera Obscura?^01~60~
+You haven't used it yet, this could be your chance.^01~120~
+People say there's something...off about that place.^01~110~
+OK...^01~45~
+It's almost sunset. We should hurry.^01~90~
+Yeah... Let's go.^01~60~
+I think that's the inn where the album was{LF}found. This must be Ichiru Manor...^01~140~
+So, do you think you'll be able to use the Camera Obscura?^01~130~
+I think you should try it out first, just to be sure.^01~90~
+OK.^01~30~
+Think you'll be all right with it?^01~60~
+Hmm... Yeah, it'll be fine.^01~120~
+Is the camera working?^01~60~
+Well, you look like you, so...yeah?^01~75~
+Is that a good thing?^01~45~
+Err, we should go.^01~30~
+I don't think this is the way to the place Hisoka mentioned.^01~125~
+I think it's this way.^01~60~
+^00I hear, the older part of this inn, the part that's{LF}further back inside,^01~130~{LF}^00it was part of some temple or shrine.^01~130~
+After it became an inn, the proprietor's family lived here.^01~100~
+There was a massive landslide that hit Mt. Hikami,{LF}maybe they were all buried under the rubble.^01~180~
+Hey, it looks like the album you asked for was{LF}found in the old building.^01~145~
+Yeah.{LF}Sure looks that way.^01~90~
+It should be around here.^01~75~
+Yeah.^01~60~
+This must be the room where Hisoka found that album.^01~120~
+Yeah, it would seem so.^01~90~
+There still might be something that could help us.^01~90~
+The flames are calling...{LF}That picture... It's all because of that picture...^01~360~
+Hey, did you find something?^01~75~
+Yeah.^01~30~
+I can see them... I see them all.{LF}Calling to me from the water. Calling my name...^01~520~
+Let's go.^01~60~
+OK.^01~60~
+According to the stories, after the landslide,{LF}the owner of the inn moved to the third floor.^01~230~
+They say he burned himself to death there,{LF}or that he threw himself into the lake.^01~180~
+A common enough story.^01~60~
+Tell me about it.^01~60~
+Since then, they say that if you look up at the third-floor{LF}veranda, you'll see someone looking back down.^01~190~
+...Rui.^01~30~
+I'm sorry.^01~60~
+Rui, a-are you all right?^01~70~
+Yes, I'm fine...^01~90~
+...^01~45~
+The sunset... It's so beautiful.{LF}The mountain looks like it's melting...^01~330~
+If I could melt...into that sunset...{LF}If I could just melt away...^01~300~
+Into the lake... Into the setting sun...^01~160~
+Looks like there was a fire.^01~60~
+This must be where the innkeeper moved.^01~60~
+^00Rui!^01~30~{LF}^00Stop!^01~30~{LF}^00What's wrong?^01~30~{LF}^00The heck is going on?!^01~60~{LF}^00Is...something there?!^01~60~
+Is...something there?!^01~90~
+What's wrong?!^01~60~
+Rui!^01~30~
+Ruiii!^01~120~
+Thank you...^01~50~
+We're leaving.^01~50~
+OK.^01~30~
+Ren, I...^01~30~
+Once we get back.^01~30~
+Sure.^01~30~
+Mr. Hojo...^01~30~
+Yeah.^01~30~

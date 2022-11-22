@@ -1,0 +1,43 @@
+^00Mt. Hikami.{LF}Fuyuhi is somewhere on this mountain.{LF}^00^30~065~I should be able to use this picture of her to find her trace.
+^00The road splits. The trace should show me which way Fuyuhi went.
+^00The stairway to the shrine has collapsed.{LF}Probably in the same landslide that destroyed the inn.{LF}^00In any case, I can't go this way.{LF}Fuyuhi must have found another way through.
+^00A narrow path goes up towards the cliff.{LF}An old path to the shrine, perhaps?{LF}^00Maybe I can go that way.{LF}I should go back and check.
+There's something on the ground.
+^00^30~040~A tourist brochure?{LF}I wonder if Fuyuhi dropped it.{LF}^00It has a map of the mountain.
+^00This should be very useful.{LF}^00So this is the way from the Pool of Purification{LF}to the Unfathomable Forest. Got it.
+There's something under the waterfall.
+There's something down there.{LF}It's...
+^00Hisoka's Camera Obscura?{LF}What's it doing here?
+^00^11~14~You can now use the Camera Obscura.^10
+^00The Camera Obscura must have been carried here by the current.{LF}This means Hisoka is on the mountain too...{LF}^00But I should focus on finding Fuyuhi first.{LF}She can't have gone far.
+^00I can't see to the bottom.{LF}Nobody could survive a drop from this height.
+There was someone by the shrine on the other side of the river.{LF}Was it Fuyuhi?
+The bridge has collapsed.
+The bridge to the right still seems usable.{LF}I need to find a path that leads that way.
+Fuyuhi's trace ends here.
+^00Fuyuhi has been here.{LF}I can use this note to pick up her trace again.
+I have to find Fuyuhi...
+There's something on the riverbank.
+Oh... This was Hisoka's favorite...
+It must have been carried here by the river, just like the Camera Obscura.
+^00Fuyuhi isn't here. I have to find her.
+^11~14~If you touch a weakened ghost it triggers{LF}a Fatal Glance, and you will see its memories.^10
+^00Where did she go?{LF}^00That shrine maiden must have had something{LF}to do with Fuyuhi cutting her throat.{LF}^00I've got to get away before she finds me.
+^00That shrine maiden...{LF}^00She's the one that brought Fuyuhi here,{LF}the one who made her...
+^00I have to find Fuyuhi.{LF}She might know something about Hisoka.
+^00Fuyuhi didn't come this way.{LF}Her trace should lead me to her.
+^00Fuyuhi didn't come this way.{LF}Her trace should lead me to her.
+^00I have to find Fuyuhi.{LF}^00She might know something about Hisoka.
+^00The door is shut.{LF}It doesn't look like Fuyuhi went into the shrine.
+I need to get Fuyuhi out of here.
+^00I have to find Fuyuhi.
+I need to get Fuyuhi off the mountain.
+It's too dangerous, I can't stay here.{LF}I'll have to go back for now.
+^00A missing person case?{LF}^00Hisoka left a few days ago and hasn't been back.{LF}Maybe this is what she's been working on.
+Hisoka's room is upstairs...{LF}Maybe she left some clues as to her whereabouts.
+^00There was a photograph with the letter.{LF}^00It shows Fuyuhi looking shy, and another girl.{LF}They look close.
+^00Maybe Hisoka disappearing has something to do with Fuyuhi's case.{LF}^00Could there be any clues to her whereabouts in her room upstairs?
+There's something in the water.
+^00This is Hisoka's room.{LF}She really likes the traditional Japanese style.
+^00Hisoka gave me this room when I moved in.{LF}It used to be her bedroom.{LF}^00It's been a while since I moved in,{LF}but I still haven't unpacked anything.
+What was that?

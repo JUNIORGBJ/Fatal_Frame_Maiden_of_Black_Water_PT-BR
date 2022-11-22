@@ -1,0 +1,19 @@
+The surveillance cameras seem to be working.^01~65~
+Now we can see if anything comes to pay us a visit.^01~115~
+What's happening?^01~45~
+R-Rui, are you all right?^01~55~
+I'm fine...^01~50~
+Don't worry...^01~60~
+Are you all right?^01~85~
+I...need to go back to Mt. Hikami.^01~90~
+...Can you take me there?^01~80~
+What? No way! It's too dangerous!^01~90~
+Well, if that's your answer...^01~55~
+Thanks for everything.^01~65~
+Ah.^01~25~
+You don't mind if I borrow this, do you?^01~90~
+Maybe I'll be able to find Yuri as well.^01~95~
+Hold on, wait!^01~40~
+...Did you kill her?^01~35~
+I'm going. Goodbye.^01~75~
+^00I'm going.^01~40~{LF}^00^01~50~{LF}^00Goodbye.^01~30~

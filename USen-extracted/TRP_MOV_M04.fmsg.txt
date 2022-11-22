@@ -1,0 +1,16 @@
+Will you die with me?^01~80~
+^00She's beautiful.^01~45~{LF}^00But, she looks sad, too.^01~75~
+Yeah.^01~23~
+^00Isn't she the type of woman^01~60~{LF}that you get nervous around?^01~60~
+Yeah...^01~23~
+There may be more of this stuff out there.^01~100~
+Shall I call Hisoka?^01~120~
+^00No, let's go there ourselves.^01~49~{LF}^00It'll be quicker that way.^01~45~
+At THIS hour?!^01~55~
+It won't take long.^01~30~
+^00There's a local superstition warning people{LF}not to go up Mt. Hikami after dusk.^01~150~{LF}^00^01~45~{LF}^00If you climb the mountain in the twilight hours,^01~55~{LF}^00^01~20~{LF}^00it'll show you a different form, its true form.^01~130~{LF}^00^01~50~{LF}^00Only those who wish to die come here at that time.^01~120~
+Rui!^01~13~
+What were you doing?!^01~45~
+Can't you remember anything?^01~40~
+Let's go home.^01~45~
+^00You cannot leave the mountain.^01~90~{LF}^00^01~90~{LF}^00You will dissolve into nothing.^01~60~

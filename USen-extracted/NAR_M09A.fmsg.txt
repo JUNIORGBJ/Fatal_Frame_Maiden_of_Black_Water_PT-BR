@@ -1,0 +1,19 @@
+^00I found Miu...{LF}But I've made no progress with finding Hisoka.{LF}^00^30~050~This is all I have to go on.{LF}This photo, and the vision I saw when I touched Hisoka's charm.{LF}^00She was standing in water.{LF}^00There's a lake on the summit of Mt. Hikami.{LF}It's called the Lake of the Departed.{LF}Hisoka might be there.
+Hisoka might have headed to the lake on Mt. Hikami's summit.{LF}I should go there and check.
+^00Hisoka isn't in here.{LF}I have to find a path to the summit.
+^00The path ends here.{LF}I can't go any farther this way.
+^00It's the beach from before.{LF}Have I lost her?{LF}^00I should leave here and get away from the mountain right now.
+The camera is reacting to something...
+^00There's something in the photo...{LF}^00There are statues in a small shrine.{LF}I can see something white behind them.
+There are five statues in a line.{LF}Something's in the middle, behind them.
+It's a rooftop.{LF}Is there something on it?
+These look like places here on the Twilit Peak.{LF}They might be worth checking out.
+The ghost dropped an old doll draped in a red cloth{LF}when it disappeared.
+The ghost dropped an old doll draped in a red cloth{LF}when it disappeared.
+The ghost dropped an old doll draped in a red cloth{LF}when it disappeared.
+^00Some dolls are missing from the middle of the shelf.{LF}^00Someone must have taken them.
+You returned ^11~09~Effigy 1^10 to the shelf.
+You returned ^11~09~Effigy 2^10 to the shelf.
+You returned ^11~09~Effigy 3^10 to the shelf.
+You returned all the ^11~09~Effigies^10 to the shelf.
+The gate won't budge.

@@ -1,0 +1,8 @@
+^00I have to get out of here...
+^00It looks like there's a cave wall on the other side of the lattice.{LF}I can see some stone statues out in the darkness.{LF}^00I must be underground.{LF}Now, how do I get out of here...?
+^00There's light at the end of the corridor.{LF}^00Maybe there's a way out that way.
+^00They're chasing after me...{LF}^00I have to get out.
+Not this way... I've got to get out of here...
+^00I have to find a way out of here.
+^00It won't open. {LF}It is being held shut by a powerful force.
+I'd better not go back that way.{LF}There must be another way out.

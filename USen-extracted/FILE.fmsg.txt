@@ -1,0 +1,969 @@
+FILE_TYPE1_01_TITLE
+FILE_TYPE1_01_CONT
+FILE_TYPE1_01_INFO
+FILE_TYPE1_01_GET
+FILE_TYPE1_02_TITLE
+FILE_TYPE1_02_CONT
+FILE_TYPE1_02_INFO
+FILE_TYPE1_02_GET
+FILE_TYPE1_03_TITLE
+FILE_TYPE1_03_CONT
+FILE_TYPE1_03_INFO
+FILE_TYPE1_03_GET
+FILE_TYPE1_04_TITLE
+FILE_TYPE1_04_CONT
+FILE_TYPE1_04_INFO
+FILE_TYPE1_04_GET
+FILE_TYPE1_05_TITLE
+FILE_TYPE1_05_CONT
+FILE_TYPE1_05_INFO
+FILE_TYPE1_05_GET
+FILE_TYPE1_06_TITLE
+FILE_TYPE1_06_CONT
+FILE_TYPE1_06_INFO
+FILE_TYPE1_06_GET
+FILE_TYPE1_07_TITLE
+FILE_TYPE1_07_CONT
+FILE_TYPE1_07_INFO
+FILE_TYPE1_07_GET
+FILE_TYPE1_08_TITLE
+FILE_TYPE1_08_CONT
+FILE_TYPE1_08_INFO
+FILE_TYPE1_08_GET
+FILE_TYPE1_09_TITLE
+FILE_TYPE1_09_CONT
+FILE_TYPE1_09_INFO
+FILE_TYPE1_09_GET
+FILE_TYPE1_10_TITLE
+FILE_TYPE1_10_CONT
+FILE_TYPE1_10_INFO
+FILE_TYPE1_10_GET
+FILE_TYPE1_11_TITLE
+FILE_TYPE1_11_CONT
+FILE_TYPE1_11_INFO
+FILE_TYPE1_11_GET
+FILE_TYPE1_12_TITLE
+FILE_TYPE1_12_CONT
+FILE_TYPE1_12_INFO
+FILE_TYPE1_12_GET
+FILE_TYPE1_13_TITLE
+FILE_TYPE1_13_CONT
+FILE_TYPE1_13_INFO
+FILE_TYPE1_13_GET
+FILE_TYPE1_14_TITLE
+FILE_TYPE1_14_CONT
+FILE_TYPE1_14_INFO
+FILE_TYPE1_14_GET
+FILE_TYPE1_15_TITLE
+FILE_TYPE1_15_CONT
+FILE_TYPE1_15_INFO
+FILE_TYPE1_15_GET
+FILE_TYPE1_16_TITLE
+FILE_TYPE1_16_CONT
+FILE_TYPE1_16_INFO
+FILE_TYPE1_16_GET
+FILE_TYPE1_17_TITLE
+FILE_TYPE1_17_CONT
+FILE_TYPE1_17_INFO
+FILE_TYPE1_17_GET
+FILE_TYPE1_18_TITLE
+FILE_TYPE1_18_CONT
+FILE_TYPE1_18_INFO
+FILE_TYPE1_18_GET
+FILE_TYPE1_19_TITLE
+FILE_TYPE1_19_CONT
+FILE_TYPE1_19_INFO
+FILE_TYPE1_19_GET
+FILE_TYPE1_20_TITLE
+FILE_TYPE1_20_CONT
+FILE_TYPE1_20_INFO
+FILE_TYPE1_20_GET
+FILE_TYPE1_21_TITLE
+FILE_TYPE1_21_CONT
+FILE_TYPE1_21_INFO
+FILE_TYPE1_21_GET
+FILE_M06_07_TITLE
+FILE_M06_07_CONT
+FILE_M06_07_INFO
+FILE_M06_07_GET
+FILE_M06_08_TITLE
+FILE_M06_08_CONT
+FILE_M06_08_INFO
+FILE_M06_08_GET
+FILE_TYPE1_22_TITLE
+FILE_TYPE1_22_CONT
+FILE_TYPE1_22_INFO
+FILE_TYPE1_22_GET
+FILE_TYPE1_23_TITLE
+FILE_TYPE1_23_CONT
+FILE_TYPE1_23_INFO
+FILE_TYPE1_23_GET
+FILE_TYPE1_24_TITLE
+FILE_TYPE1_24_CONT
+FILE_TYPE1_24_INFO
+FILE_TYPE1_24_GET
+FILE_TYPE1_25_TITLE
+FILE_TYPE1_25_CONT
+FILE_TYPE1_25_INFO
+FILE_TYPE1_25_GET
+FILE_TYPE1_26_TITLE
+FILE_TYPE1_26_CONT
+FILE_TYPE1_26_INFO
+FILE_TYPE1_26_GET
+FILE_TYPE1_27_TITLE
+FILE_TYPE1_27_CONT
+FILE_TYPE1_27_INFO
+FILE_TYPE1_27_GET
+FILE_TYPE1_28_TITLE
+FILE_TYPE1_28_CONT
+FILE_TYPE1_28_INFO
+FILE_TYPE1_28_GET
+FILE_TYPE1_29_TITLE
+FILE_TYPE1_29_CONT
+FILE_TYPE1_29_INFO
+FILE_TYPE1_29_GET
+FILE_TYPE1_30_TITLE
+FILE_TYPE1_30_CONT
+FILE_TYPE1_30_INFO
+FILE_TYPE1_30_GET
+FILE_TYPE1_31_TITLE
+FILE_TYPE1_31_CONT
+FILE_TYPE1_31_INFO
+FILE_TYPE1_31_GET
+FILE_TYPE1_32_TITLE
+FILE_TYPE1_32_CONT
+FILE_TYPE1_32_INFO
+FILE_TYPE1_32_GET
+FILE_TYPE1_33_TITLE
+FILE_TYPE1_33_CONT
+FILE_TYPE1_33_INFO
+FILE_TYPE1_33_GET
+FILE_TYPE1_34_TITLE
+FILE_TYPE1_34_CONT
+FILE_TYPE1_34_INFO
+FILE_TYPE1_34_GET
+FILE_TYPE1_35_TITLE
+FILE_TYPE1_35_CONT
+FILE_TYPE1_35_INFO
+FILE_TYPE1_35_GET
+FILE_TYPE1_36_TITLE
+FILE_TYPE1_36_CONT
+FILE_TYPE1_36_INFO
+FILE_TYPE1_36_GET
+FILE_TYPE1_37_TITLE
+FILE_TYPE1_37_CONT
+FILE_TYPE1_37_INFO
+FILE_TYPE1_37_GET
+FILE_TYPE1_38_TITLE
+FILE_TYPE1_38_CONT
+FILE_TYPE1_38_INFO
+FILE_TYPE1_38_GET
+FILE_TYPE1_39_TITLE
+FILE_TYPE1_39_CONT
+FILE_TYPE1_39_INFO
+FILE_TYPE1_39_GET
+FILE_TYPE1_40_TITLE
+FILE_TYPE1_40_CONT
+FILE_TYPE1_40_INFO
+FILE_TYPE1_40_GET
+FILE_TYPE1_41_TITLE
+FILE_TYPE1_41_CONT
+FILE_TYPE1_41_INFO
+FILE_TYPE1_41_GET
+FILE_TYPE1_42_TITLE
+FILE_TYPE1_42_CONT
+FILE_TYPE1_42_INFO
+FILE_TYPE1_42_GET
+FILE_TYPE1_43_TITLE
+FILE_TYPE1_43_CONT
+FILE_TYPE1_43_INFO
+FILE_TYPE1_43_GET
+FILE_TYPE1_44_TITLE
+FILE_TYPE1_44_CONT
+FILE_TYPE1_44_INFO
+FILE_TYPE1_44_GET
+FILE_TYPE1_45_TITLE
+FILE_TYPE1_45_CONT
+FILE_TYPE1_45_INFO
+FILE_TYPE1_45_GET
+FILE_TYPE1_46_TITLE
+FILE_TYPE1_46_CONT
+FILE_TYPE1_46_INFO
+FILE_TYPE1_46_GET
+FILE_TYPE1_47_TITLE
+FILE_TYPE1_47_CONT
+FILE_TYPE1_47_INFO
+FILE_TYPE1_47_GET
+FILE_TYPE1_48_TITLE
+FILE_TYPE1_48_CONT
+FILE_TYPE1_48_INFO
+FILE_TYPE1_48_GET
+FILE_TYPE1_49_TITLE
+FILE_TYPE1_49_CONT
+FILE_TYPE1_49_INFO
+FILE_TYPE1_49_GET
+FILE_TYPE1_50_TITLE
+FILE_TYPE1_50_CONT
+FILE_TYPE1_50_INFO
+FILE_TYPE1_50_GET
+FILE_TYPE1_51_TITLE
+FILE_TYPE1_51_CONT
+FILE_TYPE1_51_INFO
+FILE_TYPE1_51_GET
+FILE_TYPE1_52_TITLE
+FILE_TYPE1_52_CONT
+FILE_TYPE1_52_INFO
+FILE_TYPE1_52_GET
+FILE_TYPE1_53_TITLE
+FILE_TYPE1_53_CONT
+FILE_TYPE1_53_INFO
+FILE_TYPE1_53_GET
+FILE_TYPE1_54_TITLE
+FILE_TYPE1_54_CONT
+FILE_TYPE1_54_INFO
+FILE_TYPE1_54_GET
+FILE_TYPE1_55_TITLE
+FILE_TYPE1_55_CONT
+FILE_TYPE1_55_INFO
+FILE_TYPE1_55_GET
+FILE_TYPE1_56_TITLE
+FILE_TYPE1_56_CONT
+FILE_TYPE1_56_INFO
+FILE_TYPE1_56_GET
+FILE_TYPE1_57_TITLE
+FILE_TYPE1_57_CONT
+FILE_TYPE1_57_INFO
+FILE_TYPE1_57_GET
+FILE_TYPE1_58_TITLE
+FILE_TYPE1_58_CONT
+FILE_TYPE1_58_INFO
+FILE_TYPE1_58_GET
+FILE_TYPE1_59_TITLE
+FILE_TYPE1_59_CONT
+FILE_TYPE1_59_INFO
+FILE_TYPE1_59_GET
+FILE_TYPE1_60_TITLE
+FILE_TYPE1_60_CONT
+FILE_TYPE1_60_INFO
+FILE_TYPE1_60_GET
+FILE_TYPE1_61_TITLE
+FILE_TYPE1_61_CONT
+FILE_TYPE1_61_INFO
+FILE_TYPE1_61_GET
+FILE_TYPE1_62_TITLE
+FILE_TYPE1_62_CONT
+FILE_TYPE1_62_INFO
+FILE_TYPE1_62_GET
+FILE_TYPE1_63_TITLE
+FILE_TYPE1_63_CONT
+FILE_TYPE1_63_INFO
+FILE_TYPE1_63_GET
+FILE_TYPE1_64_TITLE
+FILE_TYPE1_64_CONT
+FILE_TYPE1_64_INFO
+FILE_TYPE1_64_GET
+FILE_TYPE1_65_TITLE
+FILE_TYPE1_65_CONT
+FILE_TYPE1_65_INFO
+FILE_TYPE1_65_GET
+FILE_TYPE1_66_TITLE
+FILE_TYPE1_66_CONT
+FILE_TYPE1_66_INFO
+FILE_TYPE1_66_GET
+FILE_TYPE1_67_TITLE
+FILE_TYPE1_67_CONT
+FILE_TYPE1_67_INFO
+FILE_TYPE1_67_GET
+FILE_TYPE1_68_TITLE
+FILE_TYPE1_68_CONT
+FILE_TYPE1_68_INFO
+FILE_TYPE1_68_GET
+FILE_TYPE1_69_TITLE
+FILE_TYPE1_69_CONT
+FILE_TYPE1_69_INFO
+FILE_TYPE1_69_GET
+FILE_TYPE1_70_TITLE
+FILE_TYPE1_70_CONT
+FILE_TYPE1_70_INFO
+FILE_TYPE1_70_GET
+FILE_TYPE1_71_TITLE
+FILE_TYPE1_71_CONT
+FILE_TYPE1_71_INFO
+FILE_TYPE1_71_GET
+FILE_TYPE1_72_TITLE
+FILE_TYPE1_72_CONT
+FILE_TYPE1_72_INFO
+FILE_TYPE1_72_GET
+FILE_TYPE1_73_TITLE
+FILE_TYPE1_73_CONT
+FILE_TYPE1_73_INFO
+FILE_TYPE1_73_GET
+FILE_TYPE1_74_TITLE
+FILE_TYPE1_74_CONT
+FILE_TYPE1_74_INFO
+FILE_TYPE1_74_GET
+FILE_TYPE1_75_TITLE
+FILE_TYPE1_75_CONT
+FILE_TYPE1_75_INFO
+FILE_TYPE1_75_GET
+FILE_TYPE1_76_TITLE
+FILE_TYPE1_76_CONT
+FILE_TYPE1_76_INFO
+FILE_TYPE1_76_GET
+FILE_TYPE1_77_TITLE
+FILE_TYPE1_77_CONT
+FILE_TYPE1_77_INFO
+FILE_TYPE1_77_GET
+FILE_TYPE1_78_TITLE
+FILE_TYPE1_78_CONT
+FILE_TYPE1_78_INFO
+FILE_TYPE1_78_GET
+FILE_TYPE1_79_TITLE
+FILE_TYPE1_79_CONT
+FILE_TYPE1_79_INFO
+FILE_TYPE1_79_GET
+FILE_TYPE1_80_TITLE
+FILE_TYPE1_80_CONT
+FILE_TYPE1_80_INFO
+FILE_TYPE1_80_GET
+FILE_TYPE1_81_TITLE
+FILE_TYPE1_81_CONT
+FILE_TYPE1_81_INFO
+FILE_TYPE1_81_GET
+FILE_TYPE1_82_TITLE
+FILE_TYPE1_82_CONT
+FILE_TYPE1_82_INFO
+FILE_TYPE1_82_GET
+FILE_TYPE1_83_TITLE
+FILE_TYPE1_83_CONT
+FILE_TYPE1_83_INFO
+FILE_TYPE1_83_GET
+FILE_TYPE1_84_TITLE
+FILE_TYPE1_84_CONT
+FILE_TYPE1_84_INFO
+FILE_TYPE1_84_GET
+FILE_TYPE1_85_TITLE
+FILE_TYPE1_85_CONT
+FILE_TYPE1_85_INFO
+FILE_TYPE1_85_GET
+FILE_TYPE1_86_TITLE
+FILE_TYPE1_86_CONT
+FILE_TYPE1_86_INFO
+FILE_TYPE1_86_GET
+FILE_TYPE1_87_TITLE
+FILE_TYPE1_87_CONT
+FILE_TYPE1_87_INFO
+FILE_TYPE1_87_GET
+FILE_TYPE1_88_TITLE
+Closet Snapshot
+Taken at a door in the abandoned inn.{LF}There's a light coming from a closet.
+A Ghost Behind Hisoka
+A photo left in Hisoka's Camera Obscura.{LF}Yuri probably took it at the inn's entrance.
+A Creeping Shadow
+Taken on the second floor of the abandoned inn.{LF}Something can be seen in the duct.
+A Shining Black Box
+A reliquary in the Shrine of the Ephemeral.{LF}Light seems to be pouring down from the ceiling.
+An Eerie Shadow
+Somewhere within the Shrine of the Ephemeral.{LF}A figure is standing behind a row of caskets.
+A Shadow in a Boat
+Somewhere within the Shrine of the Ephemeral.{LF}A shadow is standing in a small boat.
+Shadow Behind Lattice
+Somewhere within the Shrine of the Ephemeral.{LF}A figure is hanging outside of the lattice window.
+A Light Under a Bed
+A photo taken near Hisoka's desk.{LF}Light escapes from under the bed.
+A Hanging Doll
+Taken at the doll stand in the Shrine of Dolls.{LF}Appears to show a large doll hanging from a tree.
+A Hanging Doll
+Taken at the doll stand in the Shrine of Dolls.{LF}Appears to show a large doll hanging from a tree.
+Opened Reliquary
+Taken in the cave beneath the Shrine of Dolls.{LF}Several reliquaries are submerged in the water.
+Children Among Rocks
+Shadows of children playing among the rocks.
+Gate over the Water
+A photo left in Hisoka's Camera Obscura.{LF}A large torii gate is on the surface of the water.
+Shadow Behind Statues
+Taken at a small shrine on the Twilit Peak.{LF}Something stands behind a row of Jizo statues.
+A Shadow in a Shrine
+Taken at a small shrine on the Twilit Peak.{LF}A figure behind some statues in a small shrine.
+Shadow on a Roof
+Taken at a small shrine on the Twilit Peak.{LF}Something seems to be watching from a rooftop.
+Portraits of the Deceased
+Taken in the folklorist's abandoned house.{LF}The portraits of a deceased couple.
+Gate in the Water
+A gate in the water at the Shrine of the Ephemeral.{LF}A torii and a building lie beyond the open gate.
+A Bride at a Dresser
+Taken at the back of the House of Joining.{LF}A figure stands in a room with a dresser.
+A Shadow at a Bridge
+A photo taken from Dr. Aso's standpoint.{LF}Someone is standing at the end of the bridge.
+Shadow in the Water
+A photo taken from Dr. Aso's standpoint.{LF}Someone is standing in the Pool of Purification.
+Dolls in a Shrine
+A photo taken from Dr. Aso's standpoint.{LF}Looks like the grounds of the Shrine of Dolls.
+Girl in Cherry Blossoms
+A photo taken from Dr. Aso's standpoint.{LF}A girl is sitting alone in a cherry tree.
+Shadows by a Shrine
+A photo taken from Dr. Aso's standpoint.{LF}The shadows of three children by a small shrine.
+A Shadow on a Beach
+A photo taken from Dr. Aso's standpoint.{LF}A white shadow is standing on a beach.
+Shadow in the Sunset
+A photo of Miku standing on the beach.{LF}An enormous sunset hangs over the lake.
+Haruka Momose. This student handbook must{LF}belong to the girl Fuyuhi was looking for.
+Haruka Momose. Compared to her photo with{LF}Fuyuhi, she has a somewhat darker expression.
+A photo of a slender, elegant young woman.{LF}So this is Miu Hinasaki...
+Kazuya Sakaki. He's a friend of Ren's, but I've{LF}never met him.
+A warm but lonely expression. She looks like{LF}she might fade away at any moment.
+Her face seems tinged with sadness. She's still{LF}missing, but her family has given up the search.
+A girl in school uniform. It's been crumpled up{LF}so many times, you can't make out the face.
+A cassette tape from an answering machine.{LF}The label shows a date and a client's name.
+A so-called "^11~09~effigy^10." I think it was made to look like me...
+^00A high school graduation photo. Just look at{LF}that intense expression...{LF}^00I wonder how much I've changed since then.{LF}I still have a hard time looking at mirrors.
+^00A mirror that seems to be made of stone.{LF}The light it reflects has an orange hue.{LF}^00You got the "^11~09~Dark Sun Mirror^10."
+^00A large envelope was stashed in the desk.{LF}^00There seems to be something inside.
+^00This is the only picture from the Camera Obscura that shows anything.{LF}^00A dark silhouette...standing on what looks like a body of water.{LF}^00The other photos are no good. They're all black,{LF}as if they were exposed to strong light.{LF}^00This doesn't tell me anything. Maybe there are more clues in Hisoka's room.
+There's an old cassette tape in here.{LF}The label has been left blank.
+^00There are several photos inside a large envelope.{LF}{LF}{LF}^00They're all landscapes and scenery... Looks like{LF}they were taken on Mt. Hikami.{LF}{LF}^00^11~14~You got Dr. Aso's photographs.
+A lock of white hair... The ribbon reminds me{LF}of that girl from my dreams.
+There was a cassette tape with the notepad.{LF}The label has been left blank.
+There was a cassette tape with the notepad.{LF}The label has been left blank.
+There was a cassette tape with the notepad.{LF}The label has been left blank.
+^30~052~It looks like an old metal plate key.
+^00Is this...hair?{LF}{LF}{LF}^00That girl in my dreams... The one I met in the{LF}Shrine of Dolls. This ribbon looks like hers.
+There's a video tape and some notes on the{LF}desk. They seem related to Mt. Hikami.
+
+Mt. Hikami's Downfall
+A book about spiritual activity on Mt. Hikami.{LF}It had been left in a hallway in the abandoned inn.
+^00Mt. Hikami has long been considered holy{LF}ground. For centuries people have been drawn to{LF}the many sacred shrines and places of worship,{LF}as well as the natural features such as the Twilit{LF}Peak and the Pool of Purification, which have{LF}themselves been treated with great reverence.{LF}{LF}^00The mountain was also popular with tourists and{LF}mountain climbers for the beauty of its abundant{LF}clear waters and ancient, mysterious forests. {LF}Worshippers and hikers alike used to find rest{LF}at Ichiru Manor, a hot spring resort near{LF}the foot of the mountain.{LF}{LF}^00Now, the inn lies desolate, devoid of visitors.{LF}{LF}The mountain never recovered from a{LF}devastating landslide it suffered many years ago.{LF}The shrine road to the summit was cut off and{LF}the flow of the water throughout the mountain{LF}was altered, forever changing the landscape.{LF}{LF}^00New roads that were under construction had to{LF}be abandoned, and Ichiru Manor was buried{LF}under a slew of rock, resulting in numerous{LF}fatalities. Among those lost were the family of{LF}Ichiru Manor's proprietor, effectively putting{LF}an end to the business.{LF}Mt. Hikami's days as a tourist destination were{LF}no more. Instead, the mountain gained notoriety{LF}as a suicide spot.{LF}{LF}^00Perhaps because it was traditionally a{LF}destination to which the dying would venture, the{LF}mountainis now a place for those wishing to end{LF}their own lives. By extension, it has also become{LF}a place for thrill-seekers interested in the occult.
+An old, dusty book has been left in the hallway.{LF}Maybe someone dropped it?
+Letter from Fuyuhi
+A letter from Fuyuhi Himino, left on Hisoka's desk.{LF}It relates to a missing person case.
+^00Dear Ms. Kurosawa,{LF}{LF}Please find Haruka. She went missing over a{LF}week ago. You do still take on missing person{LF}cases, don't you?{LF}{LF}I've contacted the police, but they're no help.{LF}They say she was probably "spirited away."{LF}^00Haruka wouldn't have gone anywhere without{LF}telling me. I'm certain something bad has{LF}happened.{LF}{LF}I can handle my own grief, but I can't stand the{LF}thought of her suffering somewhere. What if{LF}she's waiting for me to find her?{LF}{LF}I'm worried sick.{LF}^00Haruka is still alive. I know it. But something{LF}has to be done, and quick.{LF}{LF}Remember when you found that precious picture{LF}of me and Haruka?{LF}{LF}I was so happy to have it.{LF}Now I need your help once again.
+^00An open envelope has been left on the desk.{LF}The sender's name reads "Fuyuhi Himino."{LF}{LF}^00This must be Fuyuhi's missing person request.{LF}{LF}{LF}^00Maybe it could provide some clues as to where Hisoka and Fuyuhi went.
+Lost Item Case Files
+A book of lost item case files, with details on various cases.{LF}It was left on Hisoka's desk.
+^00Client:{LF}Missing Item: Diary{LF}Token: Photo of the deceased{LF}Details: Locate mother's diary.{LF}     Client seeks info on their late{LF}     mother. Relates to a deceased{LF}     individual - apply caution.{LF}Results: The caretaker of the{LF}     deceased had burned the diary{LF}     at her request.{LF}^00Client:{LF}Missing Item: Storeroom Key{LF}Token: Photo of the deceased{LF}Details: Locate storeroom key.{LF}     Item may already be lost.{LF}     Token and item belonged to{LF}     deceased - apply caution.{LF}Results: Item located. Had{LF}     been hidden by client's parent.{LF}     Returned to the client.{LF}^00Client:{LF}Missing Item: Diamond Ring{LF}Token: Ring's box{LF}Details: Client seeks lost{LF}     engagement ring. Requested{LF}     fiancé not be notified. Date{LF}     of wedding soon approaching.{LF}Result: Found on client's desk.{LF}     Was in an obvious place, but{LF}     somehow eluded the client.{LF}^00Client: Ren Hojo{LF}Missing Item: Album of{LF}     Postmortem Photographs{LF}Token: Postmortem Photograph{LF}Details: Reference material for{LF}     a book about traditional{LF}     practice in Mt. Hikami area.{LF}     Bad location, but minimal{LF}     danger anticipated. Client is{LF}     an acquaintance.{LF}^00Result: Found in old building{LF}     of abandoned inn.{LF}     Shadow attempted to drag{LF}     Yuri toward the Netherworld.{LF}     Should have gone alone.{LF}     Must warn Yuri to stay away{LF}     from the mountain.
+^00A folder reading "Lost Items" sits on the desk.{LF}Looks like it's bound by string.{LF}{LF}^00These seem to be notes on Hisoka's shadow reading cases.
+The Art of Shadow Reading
+A book about shadow reading. Looks like it's a firsthand account.
+^00Shadow reading is the ability to read traces of{LF}the past, not unlike the ability commonly{LF}known as "psychometry."{LF}{LF}By following these traces, it is possible to find{LF}things that have gone missing, or which were no{LF}longer visible; things that are demonstrably{LF}there, but for reasons unknown are all but{LF}invisible.{LF}^00Things the owner wished to be forgotten;{LF}things whose owners have passed away;{LF}things that no longer wish to be seen;{LF}things drawn partway into the Netherworld,{LF}invisible within our own.{LF}{LF}Such items can be "called back" to{LF}the world of the living.{LF}^00Unlike these objects, however, people who have{LF}been spirited away must not be chased after{LF}lightly.{LF}{LF}In many such cases, they have been taken by{LF}creatures of the Netherworld, who linger nearby.{LF}Utmost caution must always be applied.
+There's a book next to the files, entitled "The Art of Shadow Reading."
+The Deathly Mountain
+A book from the office of the antiques shop.{LF}It was mixed in with some of Hisoka's antiques.
+^00Mt. Hikami has long been feared to be haunted.{LF}In the past, it was said that sleeping with one's{LF}feet facing the mountain was taboo.{LF}{LF}Watching the sun set behind the mountain, too,{LF}was believed to invite forth beings from{LF}the Netherworld.{LF}^00Today, the mountain is said to call to those{LF}fascinated by death. Countless rumors abound of{LF}people spirited away to that accursed peak.{LF}{LF}They are said to venture to the mountain alone,{LF}leaving behind no trace of themselves.{LF}{LF}Some say the bodies of those who vanish can be{LF}found at the bottom of the Lake of the Departed{LF}on the mountain's summit.{LF}^00Since becoming a tourist destination,{LF}the prevalence of such frightening tales did{LF}seem to diminish for a while.{LF}{LF}^00Even so, despite its fleeting status as a tourist{LF}hotspot, Mt. Hikami is yet to shake its{LF}reputation as a cursed mountain: a place of{LF}death.{LF}Today, it has become a popular place at which to{LF}commit suicide.
+^00A book about Mt. Hikami was lying on the bookshelf.{LF}{LF}^00It seems to be about the traditions surrounding the mountain.
+Suicide at Mt. Hikami
+An old tome found in the shop's office.{LF}It's relatively new for one of Hisoka's purchases.
+^00How does a place become famed for suicide?{LF}{LF}As more people die, the place will gain{LF}a reputation, and people are drawn to these{LF}spots out of a desire not to be alone in the end.{LF}{LF}Interestingly, these suicide spots are{LF}rarely known as hotspots for spiritual activity.{LF}^00This is what makes Mt. Hikami distinct from the{LF}others.{LF}{LF}It has both a tradition of suicide, and has long{LF}been associated with ghost sightings.{LF}{LF}Then, there are the so-called "Maidens of{LF}Black Water."{LF}^00It is said that if you are found by one of those{LF}maidens, they will lead you to your death. Those{LF}caught in the maidens' gaze never again leave{LF}the mountain, or so the rumors go.{LF}{LF}There are also tales of specters on Mt. Hikami{LF}who relive their own deaths. Those who do not{LF}die in accordance with local practices become{LF}cursed, forced to relive their final moments{LF}for eternity.{LF}^00Many of the people who have been kept from{LF}committing suicide on Mt. Hikami claim to have{LF}seen a maiden, or one of these looping specters,{LF}and felt a strong compulsion to kill themselves.{LF}{LF}^00Perhaps it is because of these stories of maidens{LF}and ghosts that the mountain continues to be a{LF}popular spot for those looking to take their own{LF}life.
+^00A book about Mt. Hikami was lying on the bookshelf.{LF}{LF}^00It seems to be about the rumors surrounding Mt. Hikami{LF}as a site of spiritual activity.
+Note from a Tent
+Found in a tent in the Unfathomable Forest.{LF}It seems to describe a shrine maiden.
+^00How long have I been here?{LF}I suppose it doesn't matter.{LF}{LF}I'm glad I decided to do things right and come{LF}here to die. This place feels right.{LF}{LF}I thought I might get lonely, but there are{LF}people here. People who aren't alive.{LF}^00This place may be as strange as people say.{LF}{LF}{LF}I heard children playing just now.{LF}I tried to get a look at them, but they ran off{LF}before I could get close.{LF}{LF}Did they come here on their own?{LF}Or were they left here?{LF}{LF}^00Earlier, I heard the sound of raspy breathing and{LF}running.{LF}{LF}After that, I heard a scream.{LF}{LF}I was scared, and held my breath. I'm not scared{LF}of death, but THAT was terrifying.{LF}{LF}^00I saw a woman dressed in white today.{LF}{LF}She was draped in cloth, so I couldn't see her{LF}face. She seemed to stare at me for a while,{LF}then left.{LF}{LF}Which side is she on, I wonder?{LF}Will she be back?{LF}^00I saw her again. She turns up every day,{LF}watching me. I feel her gaze, but not her{LF}presence.{LF}{LF}As soon as I notice her, she disappears.{LF}{LF}She must be constantly watching me.{LF}^00I heard a voice.{LF}{LF}A mournful voice, like screaming.{LF}No... Like singing.{LF}{LF}It was a call of some kind.{LF}{LF}But not for me. Not yet.{LF}{LF}My time is yet to come.{LF}^00{LF}{LF}{LF}Everything I brought with me is gone.{LF}{LF}Now I have nothing.{LF}{LF}{LF}{LF}^00I like it here. Nothing matters now.{LF}{LF}This was the right choice.{LF}I'm glad I came.{LF}{LF}She will come soon.{LF}{LF}She will take me away.{LF}^00{LF}{LF}{LF}{LF}She is calling.{LF}	          I must go.
+A scrap from a notebook. It looks like it fell from the sleeping bag{LF}poking out of the tent.
+Sunken Note
+A note found in the Unfathomable Forest.{LF}The handwriting looks feminine.
+^00Watching the sunset makes me want to cry.{LF}{LF}I have no home to go back to.{LF}{LF}Nobody would be there if I went back.{LF}Everyone would be there, yet no one would.{LF}{LF}I know that now.{LF}^00That's why I came to the mountain.{LF}{LF}My grandma used to tell me never to go to the{LF}mountain at sunset, but my feet led me here.{LF}I chased the sun and it kept getting bigger.{LF}{LF}I couldn't stop.{LF}^00I felt the need to write something,{LF}so I'm scribbling this down.{LF}{LF}I had to go into the water.{LF}I had to write this first.{LF}I had to write something.{LF}{LF}What else should I write?{LF}{LF}^00She's calling to me.{LF}{LF}I have to go.{LF}{LF}Before the sun sets.
+A tattered note is floating at the edge of the marsh.{LF}It looks recent.
+Crumpled Note
+A note dropped in the Unfathomable Forest.{LF}It seems to have been severely crumpled.
+^00The tales I read about Mt. Hikami were true.{LF}{LF}I can't handle any more death.{LF}{LF}I've seen that girl hang herself over and over.{LF}I've had enough.{LF}{LF}When I try to run, I wind up back here.{LF}^00I found myself mimicking her.{LF}My body moved on its own, just like that girl.{LF}I felt I was doing the right thing.{LF}{LF}As I hung there, my final thought was that death{LF}takes a long time to come.{LF}{LF}I watched the sunset...{LF}^00When I awoke, I was back here.{LF}{LF}I should already be dead.{LF}{LF}Will I be forced to see that sunset again?{LF}To go through it all again?{LF}{LF}{LF}{LF}^00I am fading, bit by bit.{LF}{LF}I must go.
+There's a slip of crumpled paper on the ground.{LF}Something seems to be written on it.
+Apparent Suicide Note
+Some paper found in the Unfathomable Forest.{LF}It appears to be a suicide note.
+I like it here.{LF}{LF}I can die alone here.{LF}There's no one to stop me.{LF}I can take things slowly.{LF}{LF}A peaceful, dignified death.{LF}{LF}Life is nothing but misery and suffering.{LF}I'm sick of it.
+There's a slip of paper on the ground.{LF}It looks like something's written on it.
+Fuyuhi's Note 1
+A page from Fuyuhi Himino's diary.{LF}It seems to be about Mt. Hikami.
+^00I looked into Mt. Hikami. It's always been a{LF}spiritual place. Not spiritual as in holy, but{LF}spiritual as in filled with the spirits of the dead.{LF}{LF}Maybe that's why it's a suicide spot?{LF}Haruka wouldn't go to die alone, though.{LF}Not without telling me.{LF}^00The books said people get spirited away to{LF}the mountain. They get called towards it and{LF}disappear, alone.{LF}{LF}I read how it calls to people who are perceptive,{LF}anxious, meek and who lack family. My heart{LF}skipped a beat when I read that.{LF}^00It was describing Haruka perfectly.{LF}She's so kind and accepting.{LF}She always opens up to me.{LF}She's alert, even when she seems to be spacing{LF}out.{LF}{LF}She knows what I'm thinking.{LF}{LF}Maybe she was spirited away...{LF}{LF}^00But where do people go when they're spirited{LF}away? The more I think about it, the scarier it{LF}gets, and the more my heart starts pounding.
+There's a torn note lying on the ground.{LF}It looks like Fuyuhi Himino's.
+Fuyuhi's Note 2
+A note written by Fuyuhi Himino.{LF}It's about her missing friend, Haruka Momose.
+^00I don't know what to do now that Haruka's gone{LF}missing.{LF}{LF}I can't do anything on my own.{LF}It's like I can't breathe.{LF}{LF}We've been close since we were children.{LF}Now she's gone, I realize how important she is{LF}to me. How irreplaceable.{LF}^00I can't stop thinking I could have done{LF}something when she left that day.{LF}Maybe if I'd said something, I could have{LF}stopped her from going.{LF}{LF}The waiting is unbearable.{LF}{LF}I should have been the one to disappear.{LF}It should be me.{LF}^00If Haruka comes back, there's so much I want to{LF}tell her.{LF}{LF}I should tell her how I really feel, before we end{LF}things together.{LF}{LF}Maybe she's already known for a long time,{LF}but I'll tell her anyway. I have to tell her.
+There's a note lying among the dead leaves.{LF}It looks like Fuyuhi Himino's.
+Fuyuhi's Note 3
+A note found in front of the Shrine of Dolls.{LF}It's about Fuyuhi Himino and Haruka Momose.
+^00Haruka and I have been close since{LF}kindergarten.{LF}{LF}We sang a song together at graduation.{LF}It was called "The Song of Memories."{LF}{LF}Haruka and I looked at each other when we sang{LF}together. I'll never forget that.{LF}^00I think about those times a lot lately.{LF}{LF}They were the best.{LF}{LF}If I even hum that tune, I start to tear up.
+There's a page from a notebook on the ground.{LF}It looks like Fuyuhi's handwriting.
+Deteriorating Note
+A note found in the Unfathomable Forest.{LF}It seems to be about seeing a shrine maiden.
+^00This place will do. No one will find me here.{LF}This'll be a place just for me.{LF}{LF}I can melt away, bit by bit.{LF}{LF}I'll be like water, seeping into the ground.{LF}I won't be myself anymore.{LF}I'll be one with nature.{LF}^00Was I dreaming just now?{LF}{LF}A woman dressed in white was looking down at{LF}me. She looked like one of those shrine maidens{LF}I've heard about.{LF}{LF}I didn't have the strength to move,{LF}but she kept on watching me.{LF}^00She seemed harmless...{LF}{LF}I came here because I don't like people looking{LF}at me. They're always looking down on me.{LF}{LF}But being watched in my final moments felt{LF}strangely relieving.{LF}{LF}^00{LF}{LF}{LF}{LF}I'm glad I came here.
+A faded note found amidst the underbrush.
+Unfinished Manuscript
+Ren's unfinished manuscript.{LF}It doesn't even have a title yet.
+^00Memorial portraiture, the act of photographing{LF}dead bodies, was a practice in Western countries{LF}in the 19th Century, a time when photography{LF}was still a rare and expensive luxury.{LF}{LF}^00The bodies of recently deceased family members{LF}and loved ones were photographed in lifelike{LF}poses, as a solemn keepsake of remembrance.{LF}While researching the phenomenon, I discovered{LF}that a similar custom made its way to Japan,{LF}as well.{LF}{LF}^00Known as "Postmortem Photographs,"{LF}a small number of these photos still remain.{LF}{LF}I have been fortunate enough to obtain one such{LF}photograph, which I found to contain a certain{LF}beauty lacking in its Western counterparts.{LF}^00When photography first arrived in Japan,{LF}it was accompanied by the prevalent superstition{LF}that photographs could steal a person's soul.{LF}{LF}Whether anyone truly believed this or not,{LF}it surely gave Postmortem Photography a special{LF}significance in Japan.{LF}^00If photos were taken with this belief in mind,{LF}then Postmortem Photographs would not simply{LF}have been taken as keepsakes, or for mourning{LF}purposes. Rather, the practice may have carried{LF}a certain deeper spiritual significance.
+^00There's an unfinished manuscript on the desk.{LF}{LF}{LF}^00It doesn't yet have a title.{LF}I'll need more materials to solidify the theme.
+Hisoka's Letter
+A letter regarding a rare, old camera.{LF}It refers to the Camera Obscura as dangerous.
+^00To Ren Hojo,{LF}{LF}The camera you left me to look at is a device{LF}known as a Camera Obscura. Its purpose is to{LF}capture images of the supernatural: things{LF}invisible to the naked eye.{LF}{LF}^00These cameras are incredibly rare, with an almost{LF}mythical status in the antiques market.{LF}A few have been known to exist, but this is the{LF}first I've ever seen with compound lenses.{LF}{LF}^00I don't mean to frighten you, but rumor holds{LF}that to own a Camera Obscura is to invite{LF}misfortune. They say everyone who has owned{LF}one has either died, lost their mind, or gone{LF}missing. The cameras themselves have outlived{LF}many owners.{LF}^00While some aficionados do seek them out,{LF}the stories of previous owners meeting with such{LF}misfortune has had an impact on their value as{LF}antiques.{LF}{LF}My Camera Obscura was left to a local family{LF}after its previous owner passed away. They{LF}graciously gave it to me.{LF}^00I believe yours is still usable, but please do{LF}exercise caution in doing so.{LF}{LF}Sincerely, Hisoka Kurosawa{LF}^00P.S. The cover on your Camera Obscura is{LF}broken, but it seems it originally had a box{LF}shape.{LF}{LF}I doubt you'd sell it to me, but I would like to{LF}borrow it for a while if you don't mind. I am{LF}happy to compensate. Please think it over.
+It's a reply to the appraisal request for this Camera Obscura.{LF}It urges caution in using it.
+The Maiden Slayer
+A book about Mt. Hikami folklore.{LF}It refers to the ghosts of shrine maidens and their killer.
+^00The Maiden Slayer{LF}{LF}Mt. Hikami has long been steeped in legends{LF}revolving around suicide and ghosts.{LF}{LF}Revered as a sacred place since time immemorial,{LF}it was once the worshipping ground and home{LF}of many shrine maidens.{LF}^00Once, there was a man who fell in love with a{LF}maiden, and came to the mountain in order{LF}to court her. However, she remained loyal to her{LF}duties and refused his advances.{LF}{LF}Enraged, the man killed her and threw her into{LF}the river.{LF}{LF}^00Several days later, he returned with a torch and{LF}blade, and proceeded to brutally butcher all the{LF}shrine maidens on the mountain, tossing them{LF}into the river as he went.{LF}{LF}^00The waters of the mountain flowed red with{LF}blood, carrying the slaughtered corpses of the{LF}maidens all the way down to the{LF}Pool of Purification.{LF}It is said that the eyes of each of the shrine{LF}maidens had been gouged out.{LF}{LF}^00Just before killing the first maiden and tossing{LF}her into the river, the man's eyes met with those{LF}of his victim. Something in her eyes led him to{LF}murder the others, or so the legend goes.{LF}{LF}With all the maidens dead, he killed himself by{LF}cutting his own throat.{LF}^00The ghosts of shrine maidens, still drenched in{LF}those bloodied waters, have appeared on the{LF}mountain ever since.{LF}{LF}It is said that those who meet their eyes are led{LF}to their deaths; they follow the women into the{LF}water and drown themselves.{LF}{LF}^00Though only a legend, the story is believed to be{LF}based on an actual incident.{LF}Local records show that the bodies of several{LF}shrine maidens were discovered long ago,{LF}and that all rituals and rites ceased to be{LF}performed from that day on.
+^00I came across this book while researching Mt. Hikami.{LF}{LF}^00I don't think this story has anything to do with what's going on now,{LF}but you never know.
+Rui's Journal 1
+Part of Rui's journal, found on the bookshelf.{LF}It mentions finding something through shadow reading.
+^00Mr. Hojo can't clean up after himself.{LF}{LF}For someone who's lived alone for so long,{LF}he's incapable of housework. He can't cook and{LF}he's bad at tidying up.{LF}{LF}I'm more like his caretaker than his assistant.{LF}^00He loses things all the time, and whenever he{LF}doesn't have a book he needs, he blows up.{LF}He usually ends up asking Ms. Kurosawa for{LF}help.{LF}{LF}One time when I was trying to sort all his books,{LF}there was one I couldn't find anywhere. It's like{LF}it just disappeared.{LF}^00Ms. Kurosawa found it with her shadow reading.{LF}She went into his room on her own, then came{LF}back out a little while later with the missing{LF}book.{LF}{LF}She just smiled and said something about{LF}making the invisible visible. What is this{LF}shadow reading business, anyway?{LF}^00That reminds me of that one time...{LF}I was tidying up and I came across something I'd{LF}never seen before.{LF}{LF}It was like Ms. Kurosawa said: the invisible{LF}became visible.{LF}{LF}It was kept inside an old box. I don't even know{LF}what it was.{LF}^00I put it aside to sort out later on, but when I{LF}went to take a proper look, it had vanished.{LF}{LF}It must have gone invisible again.
+^00This looks like part of Rui's journal.{LF}It must have gotten mixed in here while tidying.{LF}{LF}^00I feel bad reading it, but...
+Messy Note 1
+This seemed to belong to the innkeeper.{LF}It mentions the view from the observation room.
+^00How long has it been since I lost everything?{LF}The mountain swallowed up half my inn. All I{LF}have left is that old album of Postmortem{LF}Photographs... The one left by my father.{LF}{LF}I don't even know who these photos are of,{LF}but it's the last vestige of family I have.{LF}^00How long have I spent here, wallowing in the{LF}darkness?{LF}...It doesn't matter.{LF}{LF}I'll burn it all, and then there will only be me.{LF}{LF}I think I'll end it up in the observation room on{LF}the roof. The sunset is lovely up there.
+There's a note lying on the shelf.{LF}Maybe it belonged to someone who lived here.
+Messy Note 3
+A note dropped by a ghost in the inn.{LF}It mentions Mikomori and the shrine maidens.
+^00This place has gone from a tourist hotspot to a{LF}suicide hotspot.{LF}{LF}But I suppose that was always the case.{LF}This mountain and death go together,{LF}side by side.{LF}{LF}{LF}^00Mikomori was once known as the Grove of{LF}Shrine Maidens. A sacred grove where the{LF}mountain's maidens oversaw the deaths of{LF}pilgrims, easing their passing to the other side.{LF}{LF}I like that. I envy it. I wish someone would be{LF}there to see me off.
+^00A soiled note has been left here.{LF}{LF}{LF}^00It looks like it was left by the innkeeper.
+Suicide Note
+A suicide note, probably from the innkeeper.{LF}He claims he was doing the right thing.
+{LF}The sunset beckons.{LF}{LF}It's calling me into the water.{LF}{LF}This is the right thing to do.
+There's a scrap of notebook paper on the floor.{LF}It looks like there's something written on it.
+Messy Note 4
+An old note from the third floor of the inn.{LF}It looks like the innkeeper's handwriting.
+^00The album of Postmortem Photographs was{LF}assembled by a folklorist who lived on the{LF}mountain.{LF}{LF}His name was Keiji Watarai. He became{LF}fascinated by the custom and moved to{LF}Mt. Hikami to study how it spread through{LF}Japan.{LF}^00My father seemed to take an interest in these{LF}photos as well. Strange foreign customs always{LF}fascinated him.{LF}{LF}While he was running the inn, he helped{LF}Watarai collect Postmortem Photographs{LF}from the nearby town.{LF}{LF}^00On Mt. Hikami, water itself was deified.{LF}{LF}It seems like Watarai wanted to get a deeper{LF}understanding of this unique outlook, so he set{LF}up a house in the forest to experience it{LF}firsthand.{LF}{LF}{LF}^00He was greatly aided by my father, who had{LF}already set up the inn by that point. He{LF}remodeled it from an old, unused shrine. I think{LF}he thought the extra religious heft would help{LF}attract more visitors.{LF}{LF}^00One day, the folklorist went missing. Several{LF}people formed a search party, but they were{LF}unable to find a trace. Even the road to his house{LF}seemed to have been lost to the woods.{LF}^00My father scoured the mountain too, but all he{LF}found was that photo album.{LF}{LF}He was soaking wet when he got back.{LF}I remember he was acting strangely. His eyes{LF}had this curious glint... Almost like he'd been{LF}possessed by something.{LF}{LF}^00The next thing I knew, my father went missing{LF}as well.{LF}I'd forgotten about the photos until I found{LF}them in the old building, after the landslide.{LF}But now I understand why my father left.{LF}Watarai, too.{LF}{LF}These photos are so beautiful.
+There's a note here.{LF}It seems to have been singed a little by fire.
+Messy Note 2
+This seemed to belong to the innkeeper.{LF}It mentions people being spirited away.
+^00Even before the landslide, there were always{LF}strange goings-on around here.{LF}{LF}Some years ago, two girls went missing on a{LF}college field trip. The police were stumped.{LF}A few days later, one of the girls turned up{LF}again, seemingly out of her mind.{LF}^00There were lots of theories, but most people{LF}believed they were simply "spirited away."{LF}That girl came back each year to look for her{LF}friend, like some sort of pilgrimage.{LF}{LF}Countless people have gone missing here over{LF}the years. We're all used to it by now.{LF}^00My father was "spirited away" too. As was the{LF}folklorist, Keiji Watarai.{LF}{LF}Next it'll be my turn, I bet. I'll vanish with the{LF}rest of them.{LF}{LF}I doubt anyone will think to come looking for{LF}me.
+^00There's a soiled notebook here.{LF}{LF}{LF}^00Like the one found in the old building, it looks like it belonged to{LF}the innkeeper.
+Yuri's Report
+A report on a shadow reading case written by Yuri.{LF}It's about the album of photographs she found.
+^00Found Item Report{LF}{LF}Client: Ren Hojo{LF}Report By: Yuri Kozukata{LF}Verified By: Hisoka Kurosawa{LF}Details of Request:{LF}     Find items pertaining to Postmortem{LF}     Photography on Mt. Hikami.{LF}     Obtain them if possible.{LF}^00Performed shadow reading using{LF}a Postmortem Photograph{LF}found on Mt. Hikami as a token.{LF}{LF}Located album of Postmortem{LF}Photographs in Ichiru Manor.{LF}{LF}Took custody of the object.
+This looks like a report written by Yuri.{LF}It seems to be about the photo album.
+Haruka Momose
+A file found in Hisoka's desk.{LF}It's a report on a missing person.
+^00Subject: Haruka Momose{LF}Client: F. Himino (friend){LF}Token: Personal photo{LF}Details: Client and subject{LF}     used to be café regulars.{LF}     A group suicide was reported{LF}     at the time of disappearance.{LF}     Connection unknown.{LF}Note: A quiet, gentle girl.{LF}     Seemed keen to please others.
+There was a file tucked away in the desk drawer.{LF}It contains photos and several sheets of paper.
+Miu Hinasaki
+A file found in Hisoka's desk.{LF}It's a report on a missing person.
+^00Subject: Miu Hinasaki{LF}Client: S. Iyama (foster mom){LF}Token: Personal photo{LF}Details: Went looking for her{LF}     birth mother, missing since{LF}     subject's childhood. Uttered{LF}     something about Mt. Hikami,{LF}     according to her talent agent.{LF}Note: Said to possess psychic{LF}     powers. Client is very worried.
+Miu Hinasaki... Looks like someone else who{LF}went missing on the mountain.
+Kazuya Sakaki
+A file found in Hisoka's desk.{LF}It's a report on a missing person.
+^00Subject: Kazuya Sakaki{LF}Client: Ren Hojo (friend){LF}Token: Personal photo{LF}Details: Known to wander off.{LF}     Went incommunicado while{LF}     gathering Postmortem{LF}     Photographs for Ren.{LF}     Awaiting possible contact.{LF}Note: Gives a bad impression.{LF}     Seems quite unlike Ren.
+A missing person file for one Kazuya Sakaki.{LF}I've heard Hisoka mention the name before.
+Hisoka's Journal 1
+A journal found in Hisoka's desk drawer.{LF}She's written about a client's feelings.
+^00Met with a potential client.{LF}{LF}Doesn't know whether subject is alive or dead.{LF}Says she may have wandered off somewhere.{LF}May be waiting for help...{LF}{LF}Doesn't want to leave home in case subject{LF}comes back on her own.{LF}^00I tripped up...said something I shouldn't have.{LF}I asked what she'd do when we find her. She{LF}laughed and said "When she gets back, there are{LF}things I want to tell her."{LF}{LF}Her smile looked forced. She looked worn down{LF}by it all. I should mind my own business.{LF}^00I'm worried about leaving Yuri alone, but this{LF}one is urgent.{LF}{LF}No time to lose. I have to go.
+There was a journal tucked away in the drawer.{LF}It looks like some notes relating to clients.
+Miku Hinasaki
+A missing person file found in the storeroom.{LF}Seems old. It looks like the search was called off.
+^00Subject: Miku Hinasaki{LF}Client: Sachi Iyama (friend){LF}Token: Personal photo{LF}Details: Disappeared searching{LF}     for her missing brother, but{LF}     was found. Mother of one;{LF}     father unknown. Disappeared{LF}     again three years later.{LF}Note: Photographer. Client is{LF}     her daughter's guardian. {LF}^00Result: Search abandoned.{LF}{LF}     Attempted shadow reading{LF}     several times, but traces were{LF}     too weak to follow. Suspect{LF}     subject is alive, but a newer or {LF}     stronger token is required.{LF}{LF}     It may be that the subject does{LF}     not want to be found.
+^00Some dusty old paperwork was also under there.{LF}{LF}{LF}^00It looks like a shadow reading request.{LF}"Case Closed" is written in large, red letters.
+Is this from when my mother went missing?{LF}Why would Yuri have this?
+Tsumugi Katashina
+A missing person file found in the storeroom.{LF}It's been called off as per the client's request.
+^00Subject: Tsumugi Katashina{LF}Client: Family physician{LF}Token: Personal photo{LF}Details: Unstable family.{LF}     Tendency to blame herself for{LF}     strife with her half-sister.{LF}     Bears self-inflicted wounds.{LF}Note: Strict family may be the{LF}     cause. Will ask doctor for care{LF}     after subject is found.{LF}^00Result: Search abandoned.{LF}{LF}     Contacted by the family.{LF}     Matter has been turned over{LF}     to the police. Have been asked{LF}     to drop the investigation.
+It looks like there are a few more pages in here.
+Yuri Kozukata
+A missing person file found in the storeroom.{LF}It's about Yuri.
+^00Subject: Yuri Kozukata{LF}Client:{LF}Token: Personal photo{LF}Details: Emotionally unstable{LF}     after family lost in accident.{LF}     Stopped going to school a{LF}     few days ago. Neighbors say{LF}     she left home as normal.{LF}Note: Claimed to see things{LF}     others can't. Now recovered.{LF}^00Result: Taken into custody{LF}     (observation required).{LF}{LF}     Safely in my custody. Believe{LF}     close attention is necessary.{LF}     Will look after her for a while.
+"Case Closed" is written in large, red letters.
+Akari Narumi
+A missing person file kept apart from the others.{LF}Mostly erased. What's left makes little sense.
+^00Subject: Akari Narumi{LF}Client: Kyoko Narumi{LF}Token: Personal Photo{LF}Details:{LF}{LF}{LF}{LF}{LF}{LF}{LF}^00Result: Subject deceased.{LF}{LF}{LF}{LF}{LF}                    nothing I could do
+^00There's an old file on top of some luggage.{LF}{LF}{LF}^00It looks like a report on a shadow reading case,{LF}but most of it has been erased, making it difficult to read.
+Haruka's Note 1
+A note found on the shrine pathway.{LF}It mentions being unsure of what lies ahead.
+{LF}I awoke to the sound of water.{LF}{LF}Should I press on, or go back?{LF}{LF}This is the point of no return.{LF}{LF}If I want to see Fuyuhi again...
+There's a note here, soaked in the water.{LF}It's written in small, feminine handwriting.
+Haruka's Note 2
+A note found in the Pool of Purification.{LF}It mentions watching the sunset.
+^00I came here because of the sunset.{LF}It was so beautiful, it made me want to cry.{LF}{LF}It was the same as the sunset I saw{LF}when I survived.{LF}{LF}The sun seemed to sink into the mountain.{LF}I had to come and see it.{LF}^00Melting away into the waters of the mountain{LF}seems natural... It seems right.{LF}{LF}I feel like the others are telling me to.{LF}The ones who didn't survive.{LF}{LF}The sunset is drawing closer.{LF}Or maybe I'm drawn to it.
+There's a note lying in the water.{LF}Maybe it's from Haruka.
+Haruka's Note 3
+A note found outside the Shrine of Dolls.{LF}It mentions going somewhere alone.
+Fuyuhi didn't see the sunset.{LF}Only I could see it.{LF}{LF}That's why I have to go alone.{LF}{LF}The light of the setting sun lives on in{LF}the mountain.{LF}{LF}{LF}I wish Fuyuhi could've seen it.
+There's a note lying on the collapsed bridge.{LF}Such small handwriting... I think it's Haruka's.
+Haruka's Note 4
+A note left in the Shrine of Dolls, in tiny writing.{LF}It mentions the "Song of Memories."
+^00Ever since we survived, I've felt like every day{LF}could be my last.{LF}{LF}I feel closer to Fuyuhi than ever. It's nice sharing{LF}secrets with her... Sharing my guilt.{LF}{LF}We often talk about the past. I remember a lot{LF}of things from back then...{LF}^00Like how her face was the first picture I drew in{LF}kindergarten. We split the sheet of paper and{LF}drew each other.{LF}{LF}I remember growing taller than her, and how she{LF}stayed at my house while hers was being{LF}renovated. We often talk about that kind of{LF}stuff.{LF}^00Most of all, I remember singing the{LF}Song of Memories at kindergarten graduation.{LF}I looked over at Fuyuhi and she was already{LF}looking at me, waving.{LF}{LF}Whenever I hear that song, it makes me want to{LF}go back there...to that time.{LF}My whole life has been flashing before my eyes.{LF}^00Of all the moments, that's the one I want to{LF}keep on living over and over, forever.
+There's a note here written in small writing.{LF}It looks like Haruka must have come here.
+Shrine of Dolls 1
+A handwritten note found in the Shrine of Dolls.{LF}It's a record from when the shrine was rebuilt.
+^00Having sat abandoned for many years,{LF}the Shrine of Dolls has now undergone{LF}significant reconstruction.{LF}{LF}In the past, local legends tell that the shrine used{LF}so-called "effigies" as offerings. These effigies are{LF}likely the old dolls that were found inside.{LF}^00The road to the shrine was improved, and so{LF}the number of visitors gradually increased. There{LF}was no end to the visitors bringing their own{LF}dolls to add to those left outside.{LF}{LF}Assuming this practice to be harmless, no effort{LF}has been made to prevent it.{LF}^00As we were repairing the old dolls, we learned{LF}that each of them is engraved with a name.{LF}{LF}We also found tiny teeth, bones, and small{LF}bundles of hair tucked away inside.{LF}{LF}Were these mere keepsakes, or perhaps{LF}something more?{LF}^00The purpose of the shrine has since become{LF}clear.{LF}{LF}It appears these dolls were believed to contain{LF}the souls of deceased children and were likely{LF}offered to the shrine as some kind of ritual.{LF}{LF}^00We also learned of a cave below the shrine.{LF}Known as the Womb Cavern, it housed several{LF}human remains.{LF}Perhaps initially, it was not dolls offered up at{LF}the shrine, but people. It seems the cavern may{LF}be where the bodies were disposed.{LF}{LF}^00We are considering renovating the cavern into{LF}storage space, placing the bones into dolls of{LF}their own and holding a joint memorial service{LF}for them all.
+There's an old document lying in the dresser.{LF}It seems to be a record of something.
+Shrine of Dolls 3
+A handwritten note found in the Shrine of Dolls.{LF}It's about children playing with dolls.
+^00I've been having those dreams again, where I'm{LF}playing with the kids. I've started looking{LF}forward to playing with them. Sometimes I don't{LF}even want to wake up.{LF}{LF}I looked into it, and the games we've been{LF}playing actually used to exist.{LF}^00One is called "Spirited Away."{LF}{LF}Everyone hides each other's dolls and whoever{LF}finds theirs last is "spirited away." That is,{LF}they go out of the game.{LF}{LF}Wooden dolls were usually used, made from the{LF}sticks of trees on the mountain.{LF}^00The next game was called "Ghost Marriage."{LF}{LF}Everyone hides their dolls, except one person,{LF}called the "Outsider." That person then chooses{LF}a partner of the opposite sex and searches for{LF}their doll.{LF}{LF}^00It's a bit like hide-and-seek, only the owner of a{LF}doll that's found is said to be "bound," that is,{LF}married, to the Outsider. However, if the{LF}Outsider finds the wrong doll, then the owner of{LF}that doll becomes the "Outsider" instead.{LF}{LF}^00My theory is that these games are based on{LF}actual rituals that took place on the mountain.{LF}In my dreams, the games go on until the{LF}children disappear into the mist.{LF}{LF}I wonder what would happen if they took me{LF}with them?
+There's an old document inside the drawer, covered in a bunch of doll parts.
+The Doll Memorial
+A document found in the Shrine of Dolls.{LF}It mentions a doll memorial ceremony.
+^00I decided to conduct a memorial ritual of{LF}sending a doll downriver, as is described in{LF}Mt. Hikami folklore.{LF}{LF}Here on the mountain, the flowing waters have{LF}long been deified. Life springs from the water,{LF}then returns to it.{LF}{LF}^00All of the bones in the cave beneath the shrine{LF}had been laid into the waters. This was probably{LF}considered to be a way of returning life to the{LF}water.{LF}{LF}{LF}{LF}{LF}^00The shrine was built upon the Pure Water River,{LF}with a walkway crossing it.{LF}{LF}I have found numerous dolls at the bottom of{LF}the river and downstream. These dolls were{LF}likely placed on the water as a form of memorial{LF}for those they depicted.
+There's an old notebook left in the hallway.
+Bloodstained Note 1
+A handwritten note found outside the Shrine of Dolls.{LF}There are spots of what looks like blood on it.
+I must kill them all.{LF}{LF}Every shrine maiden.{LF}{LF}I can't stand their eyes.{LF}{LF}I must gouge them out.{LF}{LF}{LF}They have seen too much.
+There's an old handwritten note here.{LF}It's covered in black smears.
+The Veiled House
+Rui's notes on the video entitled "The Veiled House."
+^00The diary found at the old inn mentioned a{LF}folklorist who lived on Mt. Hikami. I have found{LF}more information on him, including his name,{LF}in books on the occult.{LF}{LF}^00This folklorist, Keiji Watarai, went to the{LF}mountain due to his obsession with the{LF}mysteries of the sect living there. He then went{LF}missing, as mentioned in the diary, and rumors{LF}about what happened to him abound.{LF}^00They say that he didn't just die or go missing,{LF}but rather he stumbled on something the{LF}mountain wanted kept hidden, and so his entire{LF}house was swallowed up by the mist.{LF}{LF}This is the origin of one of Mt. Hikami's more{LF}recent stories of a haunted house.{LF}^00While the veracity of this is unclear, I looked{LF}into a video tape, left behind by someone who{LF}stumbled across the house. The video is{LF}apparently famous in occult circles.{LF}{LF}I contacted the publisher, and received the{LF}following response.{LF}^00"Dear Rui Kagamiya,{LF}{LF}Thank you for contacting us.{LF}{LF}The video you are looking for is no longer in{LF}print, but there are some copies in our{LF}warehouse. This video prompted a huge amount{LF}of feedback from customers.{LF}^00The tape was found near a river on Mt. Hikami.{LF}It is unknown who filmed it. There were many{LF}sections too damaged by water to be usable, and{LF}so we took what was left and edited it together.{LF}{LF}The master copy of the video was confiscated by{LF}the police. ^00They conducted a search of the{LF}mountain, but were unable to find who shot the{LF}film, or even the house's location.{LF}{LF}Now that entering the Unfathomable Forest is{LF}prohibited, we advise you not look into this on{LF}your own.{LF}{LF}Koji Kakimoto,{LF}Suigensha Film Division"{LF}^00I believe the building visible at the start of the{LF}video is the Shrine of Dolls.{LF}{LF}After that, we see what seems to be a cave, but{LF}it's hard to make anything out.{LF}{LF}From the large number of books seen in the{LF}house, it's likely that it really is the former home{LF}of Keiji Watarai.
+It's a report written in Rui's handwriting, along with commentary on{LF}the video.
+Rui's Journal 2
+Rui's journal, found in Ren's study.{LF}It's about Ren's dreams.
+^00Mr. Hojo often cries out in his sleep.{LF}{LF}He won't tell me much, but it seems like he has a{LF}recurring dream, about a ceremony from his{LF}childhood.{LF}{LF}As a young boy, Mr. Hojo said he spent a{LF}summer with relatives at the base of Mt. Kagiroi.{LF}^00He's mentioned playing in an old house and in{LF}a shrine on the mountain, and some kind of{LF}festival he went to. Mr. Hojo doesn't talk about{LF}his past much, so what he has told me I{LF}remember clearly.{LF}{LF}Is he dreaming of that ceremony? I went to{LF}festivals as a child, but all I remember is{LF}having a good time.{LF}^00It doesn't sound like the festival Mr. Hojo{LF}dreams about is any fun.{LF}{LF}He often cries "Don't look at me!" in his sleep.{LF}{LF}He's always had a hard time with people staring{LF}at him. He especially dislikes it when women look{LF}at him for too long.{LF}^00He won't even look Ms. Kurosawa or{LF}Miss Kozukata in the eye sometimes.{LF}{LF}He doesn't have that issue with me, though.{LF}{LF}Are the women he's dreaming about really that{LF}frightening?
+^00These look like notes of Rui's.{LF}Maybe she dropped them.{LF}I wonder if it's OK to read this...
+Rui's Journal 3
+Rui's notes, found at the Shrine of Dolls.{LF}It mentions Ren acting strangely.
+^00Mr. Hojo has started acting strangely. It's like{LF}his mind is completely elsewhere.{LF}{LF}This all started when he saw that photo.{LF}He's usually on the lazy side, but now he's{LF}obsessed with tracking down these photos. {LF}{LF}^00I have to go with him, if only to make sure he{LF}doesn't wander off willy-nilly.{LF}{LF}Would he put this much effort into searching for{LF}me if I went missing, I wonder?
+Rui's notebook has fallen on the floor.{LF}Maybe it has some clues.
+Shrine of Dolls 2
+A notebook found in the Shrine of Dolls.{LF}A priest has written about his dreams.
+^00The children are playing. Sometimes I wake up{LF}at night, feeling their presence. The following{LF}morning, dolls that I know I've put away have{LF}moved someplace else.{LF}{LF}The more this happens, the more clearly I hear{LF}the sounds of playing, and the more often I have{LF}dreams where I'm there among the children,{LF}playing with them.{LF}^00I can't make out the children clearly, but I think{LF}my late daughter is one of them.{LF}{LF}Last night, it felt like I was being watched.{LF}I awoke to find a white-haired girl staring at me.{LF}{LF}She said, "Don't worry. Your daughter is playing{LF}with the doll you fixed." After that, she{LF}disappeared.{LF}^00Those eyes... It's like she could see everything.{LF}She even seemed to answer the very question{LF}that was on my mind.
+There's a soiled notebook lying in the hallway.{LF}Maybe it belonged to a priest who lived here.
+Shrine of Dolls 4
+A notebook found in the Shrine of Dolls.{LF}It mentions a dream with a reliquary and a girl.
+^00Today's dream was stifling.{LF}{LF}It was night, and several men carrying burning{LF}flames spent a long time exploring the area{LF}underneath the main shrine.{LF}{LF}They carried a huge reliquary underground,{LF}burying it where no one would ever find it.{LF}^00That white-haired girl was sleeping inside the{LF}box.{LF}{LF}She was waiting for someone, but it wasn't me.{LF}I didn't have what she wanted. At least, I felt like{LF}I didn't.{LF}{LF}I remember feeling so incredibly sad when I{LF}woke up.
+There's a soiled notebook lying in the hallway.{LF}Maybe it belonged to a priest who lived here.
+Folklorist's Notes 1
+Notes written by Keiji Watarai, the folklorist.{LF}He explains why he came to Mt. Hikami.
+^00There is a peculiar custom in this country.{LF}It varies from region to region, but the root{LF}is the same. It is mysterious, yet somehow{LF}beautiful.{LF}{LF}In order to understand it, I traveled across the{LF}country before settling on this mountain.{LF}^00The beauty of the morning dew, the palpable{LF}heartbreak of the sun setting behind the{LF}mountain, and the grave and solemn night that{LF}envelops it.{LF}{LF}On the mountain, water itself is revered.{LF}But why? To try and understand this, I have{LF}made this mountain my home.
+There was an old notebook lying on the shelf.{LF}It's written in very elegant handwriting.
+Folklorist's Notes 2
+Notes written by Keiji Watarai, the folklorist.{LF}They mention seeing a shrine maiden in the mist.
+^00I saw the silhouette of a shrine maiden from{LF}within the mist that envelops the mountain.{LF}{LF}With great care, she made her way slowly up{LF}the mountain.{LF}{LF}Something about her seemed somehow...{LF}unnatural.{LF}{LF}^00I've been told there are no more shrine maidens{LF}on the mountain now.{LF}{LF}Long ago, many maidens were murdered here.{LF}Perhaps they returned to the water?{LF}{LF}Would that then imply they are trapped within{LF}the mist?
+There was an old notebook lying on the stack of books.{LF}It's written in elegant handwriting.
+Folklorist's Notes 3
+Notes written by Keiji Watarai, the folklorist.{LF}They're about Postmortem Photography.
+^00Postmortem Photography made its way over{LF}from the west along with the spread of the{LF}camera.{LF}{LF}When photography was still rare, images of{LF}the deceased helped the surviving family{LF}members deal with their grief.{LF}{LF}^00The Postmortem Photographs that still exist in{LF}Japan used the same methodology as their{LF}western counterparts, but the significance{LF}seemed to differ.{LF}{LF}Those taken here in the Mt. Hikami region,{LF}especially, seem to embody a certain melancholic{LF}beauty.{LF}^00I believe these photos were the work of a{LF}scientist named Kunihiko Aso. Having{LF}researched photos from other areas as well, it{LF}seems he was the one behind many of them.{LF}{LF}^00His surviving records indicate a determination to{LF}use photography to "capture the soul."{LF}Seeing these strange and captivating{LF}photographs, I've come to believe he had some{LF}degree of success in doing so.{LF}{LF}^00An old friend of mine used to call cameras{LF}"lonely boxes."{LF}I'm not sure if he meant that the subject appears{LF}trapped alone in this dark box when viewed{LF}through the viewfinder, or that looking through{LF}the viewfinder meant peering out through the{LF}dark, all alone.{LF}{LF}^00At any rate, I find those words have a certain{LF}resonance.
+There was an old notebook on the bookshelf.{LF}It seems to be about Postmortem Photography.
+Folklorist's Notes 4
+Notes written by Keiji Watarai, the folklorist.{LF}They talk about death on the mountain.
+^00The waters of this mountain are beautiful.{LF}A large volume of water flows from a lake at{LF}the summit, becoming rivers and waterfalls and{LF}enveloping the mountain in mist. Water covers{LF}everything; it is the source of this mountain's{LF}beauty, as well as its sense of mystery.{LF}^00According to local tradition, Mt. Hikami is{LF}where one could die a "proper" death.{LF}{LF}It has long been considered a spiritual spot,{LF}and the subject of much worship, making it a{LF}righteous destination for those seeking death.{LF}{LF}^00The Mt. Hikami sect taught that, upon dying,{LF}people "return" to water.{LF}{LF}Here on the mountain, water is considered the{LF}source of the soul. A person's soul is then said to{LF}return to water upon death, rather than moving{LF}on to an afterlife.{LF}^00Those ready for death would gather at the{LF}mountain and return their lives to the water.{LF}{LF}Water connects everything.{LF}{LF}To look at this scenery, I can understand how it{LF}has become a spiritual place: a place fit for{LF}passing from this world.{LF}^00I'm glad I came here.{LF}{LF}The people on this mountain have a yearning for{LF}death. That is to say, they have a yearning for{LF}water, and a yearning for nature.{LF}{LF}Life and death are both connected to water.
+There was an old notebook on the bookshelf.{LF}It seems to be about death on the mountain.
+Folklorist's Notes 5
+A notebook found in the folklorist's house.{LF}It seems to be about human sacrifices.
+^00It is said that human sacrifice was once practiced{LF}throughout this region.{LF}{LF}Rather than returning people to the water upon{LF}death, the ritual involved placing so-called{LF}"Pillars" in special reliquaries and sending them{LF}to the water while still alive.{LF}^00It was the role of shrine maidens to become such{LF}Pillars. They would take on the memories of the{LF}dying, and thereafter return to water themselves.{LF}{LF}In doing so, it was believed the subjects would{LF}continue living on as Pillars.{LF}^00In Japan, there was once a sect of Buddhist{LF}monks who would inter themselves in boxes{LF}buried underground for the sake of{LF}enlightenment. These monks were said to show{LF}they were still alive by ringing bells and{LF}chanting.{LF}{LF}This practice may be related.{LF}^00But what did the maidens who became Pillars{LF}fear, or hope to appease?{LF}{LF}There are various teachings in Japan about where{LF}the afterlife, also known as the Netherworld or{LF}the hereafter, is located.{LF}{LF}Some teachings say it is above the mountains or{LF}across the sea, where others claim it lies{LF}underground, within the very earth itself.{LF}^00Here on the mountain, it is said to lie within the{LF}water, implying a close link between water and{LF}death.{LF}{LF}The Pillars within the reliquaries would be in a{LF}place close to death, but would go on living.{LF}{LF}^00Perhaps it was the special reliquaries that allowed{LF}them to evade death and continue living, frozen{LF}in time.{LF}It is thought that perpetuating these Pillars{LF}allowed those close to death to live longer lives.{LF}{LF}In a sense, it was believed that proximity to{LF}death helped develop a resistance to it.
+The notebook on this desk has no dust on it.{LF}It's as if someone was just writing in it.
+Folklorist's Notes 6
+A notebook found in the folklorist's house.{LF}He's written about Kunihiko Aso.
+^00Mt. Hikami seems to have been both revered and{LF}feared as a "mountain of death," where only{LF}those prepared to die may enter, and those who{LF}visited were never allowed to leave.{LF}{LF}^00Visitors to the mountain had to pass through{LF}the shrine grove at the foot of the mountain,{LF}where shrine maidens kept strict watch in{LF}allowing only the qualified - that is, the dying -{LF}to enter.{LF}^00Today, the shrine at this grove has been rebuilt{LF}as an inn, whose innkeeper kindly let me borrow{LF}records of the time period.{LF}{LF}The records from the shrine's final year list one{LF}individual who was able to leave the mountain{LF}alive.{LF}^00Kunihiko Aso{LF}{LF}After taking his Postmortem Photographs, it{LF}seems he was invited to the mountain to{LF}photograph the maidens.{LF}{LF}I have heard his research into the hereafter{LF}allowed him to develop a special camera.{LF}^00If I could see these photos of the shrine maidens{LF}taken with this special camera, I'm certain I{LF}could come closer to unraveling the mysteries of{LF}Mt. Hikami.{LF}{LF}^00When invited to the mountain, it is said he was{LF}allowed into a house visited only by a select few{LF}individuals.{LF}If I were invited to the mountain, would I be{LF}able to reach this place, too?{LF}{LF}I truly wish I could.
+This looks like a notebook of the folklorist's.{LF}Could that ghost just now have been...?
+Folklorist's Notes 7
+Notes written by Keiji Watarai, the folklorist.{LF}He talks about finding a photograph.
+^00On the way to the summit, I found a photo on a{LF}small path lined with spider lilies.{LF}{LF}The path seemed to head into the forest, but it{LF}has become overgrown and is unpassable.{LF}{LF}Could it lead to that mansion, that only the{LF}invited can find?{LF}^00It is different from other Postmortem{LF}Photographs.{LF}{LF}I can only describe it as being beautiful.{LF}{LF}It had a beauty and a sadness unlike the others{LF}I've seen.{LF}{LF}Was she alive?{LF}^00As soon as I thought how beautiful she was,{LF}I was bound. I heard whispers of love from{LF}the photograph. They were the words of a curse.{LF}{LF}Love after death.{LF}I must go to that place.{LF}{LF}My heart has been captivated.
+There's a note lying where that ghost was...
+Note from Miu
+A note found inside the cable car.{LF}She's written about her mother leaving.
+^00My mother left when I was three years old.{LF}{LF}I barely remember her. She hugged me, and then{LF}she disappeared into the sunset.{LF}{LF}There was nothing I could do.{LF}{LF}I cried, staring at the sunset.{LF}^00Why did I just watch her go?{LF}Why did I let her go?{LF}{LF}I can't just wait for her.{LF}I have to go.{LF}{LF}There are things I want to tell her when I see{LF}her.
+It isn't very dirty. In fact, it seems newly written.{LF}Maybe Miu left this here.
+Writings on Glancing
+Writings found at the Shrine of the Ephemeral.{LF}They're about "glancing."
+^00    A shrine maiden's glance allows her to see{LF}    the hearts of those returning to the water.{LF}{LF}      The maidens take their pain, their sins,{LF}    and all their secrets, to ease their passing.{LF}{LF}   Maidens whose hearts are full are made into{LF}                            Pillars.{LF}^00  Those secrets taken on by the shrine maidens{LF} are sealed in the reliquaries with them, that they{LF}     might never find their way back outside.
+^00There's an old text atop the writing desk.{LF}^00I can make out the word "glance."
+The Immortal Flower
+Old writings found in front of an altar inside the Shrine of the Ephemeral.{LF}They're about the Immortal Flower.
+^00    Those who are to be Pillars are placed into{LF}         reliquaries filled with Black Water.{LF}{LF}     The maiden lays within the Black Water.{LF}       This is not death but an eternal sleep.{LF}{LF}       She shall not age, but stay as she was,{LF}                   an Immortal Flower.{LF}^00  Sleeping in the Black Water brings dreams of{LF}               death, endlessly repeating.{LF}{LF} When the maiden can stand no more, her body{LF}     dissolves, and her role as a Pillar is ended.{LF}{LF}         Only the strongest maidens become{LF}                   an Immortal Flower.{LF}^00  Via this eternal suffering we become eternal.{LF}{LF}             Such is our role in appeasing{LF}                    the Shadowspring.
+^00There is an old text on the floor by the altar.{LF}^00It appears to be about the "Immortal Flower."
+Mt. Hikami's Strictures
+An old text dropped at the Shrine of the Ephemeral.{LF}It's about Mt. Hikami's strictures.
+^00  The Shadowspring, source of the Black Water.{LF}{LF}  To contain the Shadowspring, to prevent that{LF}  Black Water from bursting forth, Mt. Hikami{LF}       must be bolstered with the reliquaries.{LF}{LF}^00Maidens cross from the Shrine of the Ephemeral{LF}    to the Shrine on the Water on the Boat of{LF}       Passage, to become the Great Pillars.{LF}{LF}       Caskets are used so as to not taint the{LF}mountain's soil. Reliquaries are used to protect{LF}                the purity of the water.{LF}{LF}^00   The waters of Mt. Hikami are the source of{LF}                            the soul.{LF}{LF}         The Pure Water must be protected.{LF}     The Black Water must not be allowed to{LF}                          overflow.
+^00I found some old papers with writing on them.{LF}^00They seem to be about Mt. Hikami's strictures.
+Tainted Waters
+An old text left on the flooded floor.{LF}It's about something being tainted.
+^00      The Black Water must not be allowed to{LF}                            overflow.{LF}{LF}    The Black Water is the Netherworld itself.{LF}{LF}  Should the Pure Water ever be tainted by the{LF}    Black Water, a calamity shall surely occur.{LF}^00       The world of the living shall become{LF}                     the Netherworld.{LF}{LF}The souls of man shall rot, and those who would{LF}       return to water shall become the dead.{LF}{LF}     The Black Water must not be allowed to{LF}                              overflow.
+^00I found some old papers with writing on them.{LF}^00They seem to be about something being "tainted."
+The Shadow-touched
+An old text dropped in the Shrine of the Ephemeral.{LF}It mentions the "Shadow-touched."
+^00              Touch not the Black Water.{LF}{LF}   To immerse in such darkness is to melt and{LF}                            rot away.{LF}{LF} Only those who wish for death can endure such{LF}                             agony.{LF}^00  We Shadow-touched are all bound for death.{LF}{LF}We shall carry the reliquaries and submerge them{LF}        in the Black Water until we too have{LF}                            rotted away.{LF}{LF}      The Black Water must not be allowed to{LF}                              overflow.
+^00An old text left beneath the lattice window.{LF}^00I can make out the word "Shadow-touched."
+Cave-in Record
+A record of the tunnel cave-in.{LF}It talks about the relief efforts after the accident.
+^00This makes three landslides. It's blocked off the{LF}tunnel, trapping 18 workers inside.{LF}{LF}Reports say that this time the wall on the{LF}summit side collapsed, bringing in water which{LF}caused further damage.{LF}{LF}There must be a flooded cave.{LF}^00We've found the survivors, but given the risk of{LF}further injury rescue efforts have been{LF}suspended.{LF}{LF}Water is still rushing out, making any rescue{LF}attempt inordinately difficult.{LF}^00We are waiting for the deluge to stop before{LF}attempting aid. We've recovered 13 bodies.{LF}Something has left the corpses black and rotting,{LF}like they're melting or something.{LF}{LF}We've searched almost all of the tunnel, but still{LF}haven't found those last five bodies.{LF}^00We found a hole inside that looks like it was dug{LF}from the inside by hand. It appears to connect to{LF}the caverns.{LF}{LF}Though it's unlikely, we're going to continue the{LF}search to see if anyone escaped into the caves.{LF}^00A number of black boxes were discovered in the{LF}caves. Their lids are shut tight, and they can't be{LF}opened. They seem to be filled with water.{LF}{LF}They may be anthropologically significant, so we{LF}need permission to move them before{LF}continuing our search.{LF}^00There are repeated reports of spotting a woman{LF}in a white kimono inside the cavern.{LF}{LF}^00Amongst the search party, several of those{LF}involved in moving the black boxes have had{LF}their hands or other body parts turn black, and{LF}started to show signs of necrosis. We are{LF}advising against touching the boxes.{LF}{LF}Three people are missing.{LF}^00We found the body of the search party leader,{LF}as well as two workers caught in the cave-in,{LF}in Mikomori Pond.{LF}{LF}Their bones are all broken, and they exhibit the{LF}same black corrosion as the others.{LF}^00With the death of the search party leader, the{LF}search has been called off.{LF}{LF}There are growing rumors of a "curse," so the{LF}workers seem relieved.{LF}{LF}^00Construction has officially been abandoned.{LF}We're blocking off the site.
+^00What appears to be a report is inside this damp, string-tie file folder.{LF}^00It's a record on what happened during the tunnel cave-in.
+M09_01_TITLE
+M09_01_INFO
+M09_01_CONT
+M09_01_GET
+Hisoka's Journal 2
+This is Hisoka's journal, found in the Forbidden Valley.{LF}She's talks about someone's whereabouts.
+Beyond the Forbidden Valley is the sacred{LF}ground at the summit. The Twilit Peak, and{LF}the Lake of the Departed.{LF}{LF}If she has the ability, it's possible she was led{LF}there.{LF}{LF}Or perhaps I'm the one who's being called to{LF}that place.
+^00Hisoka's journal has been left here.{LF}^00It appears she came this way after all.
+Black Diary 1
+Old notes found amongst a pile of reliquaries on the Twilit Peak.{LF}They talk about the "Great Pillar."
+We must forge more Pillars.{LF}{LF}The Great Pillar is collapsing.{LF}{LF}The Black Water will overflow.{LF}The Black Water must be contained before{LF}the Great Pillar melts away.
+A journal with a black cover has been left here.{LF}Did it belong to that old woman?
+Water-design Journal 1
+A journal with a white cover and a flowing water pattern.{LF}It's about becoming a shrine maiden.
+^00I became a shrine maiden after I survived that{LF}flood.{LF}{LF}I was half-dead when I awoke, alone amongst{LF}the corpses.{LF}{LF}I could see things. Things that no one else could{LF}see.{LF}{LF}That was my calling.{LF}^00I purified my body, and when I arrived at{LF}the mountain, I was overwhelmed with a{LF}cacophony of voices.{LF}{LF}The talking trees, the whispering stones,{LF}the weeping water.{LF}{LF}Echoes of past prayers piled up one on top of{LF}another.{LF}^00Time slowed to a crawl, and I could see each{LF}individual raindrop that fell.{LF}{LF}The veins on every leaf stood out vividly.{LF}{LF}Images of death flashed in front of me. I could{LF}smell the choking stench of death.{LF}^00I was told I would need more training.{LF}{LF}I wanted to flee as soon as I arrived, but I had{LF}no home to run away to.{LF}{LF}No matter where I go, it will be the same.{LF}In the end, I will be alone.
+^00Another journal has been left in the same place.{LF}^00It has been written in beautiful handwriting.
+The Rear Shrine
+An old text found at a shrine on the Twilit Peak.{LF}It's about the Rear Shrine of Dolls.
+^00   The lost orphaned children are called by the{LF}                      sunset to climb{LF}{LF}     called by the sun as it sets in the realm of{LF}  the dead, crossing over into the Netherworld{LF}{LF}       So that they might cross over into the{LF}  Netherworld as they come together and play{LF}{LF}              we honor them with effigies
+It's titled "The Rear Shrine."{LF}This must be what the shrine was dedicated to.
+Local Customs
+It's a book about old customs from this region.{LF}It talks about something called "Mikomori."
+^00"Mikomori"{LF}In the area around Mt. Hikami there is a custom{LF}of receiving water from the mountain.{LF}The people call it "Mikomori," and it is placed in{LF}casks to bring into their homes, used only for{LF}special ceremonies.{LF}{LF}^00It is used to give a newborn its first bath, or to{LF}cleanse the bodies of the dead.{LF}{LF}This stems from the belief that the soul comes{LF}from the water, and returns to it in death.{LF}^00Another use for this water is known as the{LF}"cry of the mountain."{LF}{LF}According to an old woman in the village, there{LF}is a saying:{LF}{LF}"When Hikami lets out a cry, one must wash in{LF}Mikomori."{LF}^00When Mt. Hikami "cries out," or rumbles, one{LF}ritually immerses oneself or otherwise wets{LF}oneself with the water.{LF}{LF}The custom likely comes from the mountain's{LF}sound being a bad omen, and they use the{LF}Pure Water as a sort of ward.{LF}^00"But when the water dries, your daughters may{LF}be gone. Do not go in search when the{LF}mountain is awake."{LF}{LF}This must refer to girls being taken to the{LF}mountain after the ward has worn off, an{LF}explanation for the number of girls going{LF}missing in the area.
+^00I found a book titled "Local Customs."{LF}^00It seems to be about the customs in the area around Mt. Hikami.
+Tales of Photography
+It's a book of introductory anecdotes passed down in the Mikomori region.
+^00The Mikomori region has many anecdotes{LF}regarding the act of photographing the dead.{LF}{LF}Many are simple superstitions, but some allow us{LF}a glimpse into the customs of another time.{LF}{LF}These stories show both great understanding,{LF}and great fear.{LF}^00"Vanishing"{LF}{LF}A man showed a photograph to a friend.{LF}{LF}The picture showed the faint silhouette of a{LF}person.{LF}{LF}Upon seeing the silhouette, the man cried out{LF}and ran, leaving the photo where it was.{LF}^00Each time the man looked at the photo, the{LF}silhouette grew more and more distinct.{LF}{LF}It was his friend.{LF}{LF}It is said that his friend disappeared after that.{LF}^00"The Photo Bride"{LF}{LF}A local fool suddenly declared that he had{LF}married.{LF}{LF}The village threw a celebration but no one had{LF}seen the bride.{LF}{LF}Someone went to man's house, and could hear{LF}the sounds of a woman talking within.{LF}^00However, looking inside he saw only the man{LF}from behind, with no sign of a woman.{LF}{LF}Days pass, and the man hasn't left his house,{LF}so one of the villagers went to check on him.{LF}There was no one in the house; only an old{LF}photograph left behind.{LF}^00In the photo was a bride hiding her face, and the{LF}missing man was at her side.{LF}{LF}The man who saw the photo said the bride{LF}appeared to be smiling.
+It's a book about local folk anecdotes.
+Yuri's Notebook 1
+A notebook that was left atop Yuri's desk.{LF}She's written about the things she sees.
+^00When my heart gets weak, I can't even breathe.{LF}It takes all my strength just to breathe.{LF}{LF}All I can do is take the breath, and then hope to{LF}take another.{LF}{LF}I grow exhausted and spend all my strength just{LF}to live, I am aware of death, and I see.{LF}^00People whispering.{LF}People with broken faces.{LF}People with ruined bodies.{LF}People who stare at me from bloody sockets.{LF}People crying endlessly.{LF}{LF}All I can do is close my eyes, cover my ears,{LF}and wait for the moment to pass.{LF}^00They are always watching me.{LF}{LF}They say I don't belong here.{LF}{LF}It should have gotten better.{LF}{LF}I should have gotten better.
+Yuri's notebook. It seems she's written in it like a diary.
+The Ghost Marriage
+A book about the "Ghost Marriage" ceremony.{LF}It was written by the folklorist, Keiji Watarai.
+^00The custom of marrying the dead is seen{LF}elsewhere too, but the "Ghost Marriage" of{LF}Mt. Hikami was unique.{LF}{LF}Rather than being done to mourn the dead,{LF}the Ghost Marriage seems to have been part of a{LF}ritual in which shrine maidens were sacrificed.{LF}^00Similar traditions join the dead with an{LF}imaginary spouse depicted in votive pictures.{LF}{LF}However, on Mt. Hikami it seems living men{LF}were brought in to be bound to the maidens.{LF}{LF}Once on the mountain, the men were not{LF}allowed to leave.{LF}^00The Ghost Marriage brought in "Outsiders" to{LF}soothe the soul of the shrine maiden, and to{LF}strengthen the Pillar she had become.{LF}{LF}Unable to leave the mountain, the shrine{LF}maidens would wait for a man to come and die{LF}with them.
+^00This book was written by the folklorist, Keiji Watarai.{LF}Maybe it can shed some light.
+The Female Perspective
+A book about the traditions of Mt. Hikami's shrine maidens.{LF}It's by Keiji Watarai.
+^00The shrine maidens of Mt. Hikami were tasked{LF}with leading pilgrims to death.{LF}{LF}They were feared, and people thought a maiden's{LF}glance stripped away the soul.{LF}{LF}Tales of ghost shrine maidens are common on{LF}Mt. Hikami.{LF}^00My research into Japanese folklore has{LF}led me to believe that an underlying fear of{LF}women permeates this very culture.{LF}{LF}But who were the shrine maidens?{LF}{LF}As women who immersed themselves in water{LF}and led people to their deaths,{LF}the shrine maidens of Mt. Hikami call to mind{LF}tales of bewitching sirens.{LF}^00The traditions of Mt. Hikami came to an end in{LF}an incident where the shrine maidens were all{LF}murdered.{LF}{LF}The incident was most likely spurred on by this{LF}fear the locals had of the shrine maidens.
+^00This appears to be a book by folklorist Keiji Watarai about shrine maidens.{LF}^00Maybe there's something in here about the maidens of Mt. Hikami.
+Tales of the Sunset
+A book about folk stories of the sunset.{LF}It looks like it was written by the folklorist Keiji Watarai.
+^00Mt. Hikami's name is thought to mean{LF}"mountain that climbs higher than the sun."{LF}{LF}Some posit that it was once written in a way{LF}that means "mountain of the sun gods," but that{LF}is far from certain.{LF}{LF}What is certain is that many tales{LF}about the sunset still persist to this day.{LF}^00"People must only climb the mountain{LF}as the sun is setting."{LF}{LF}This likely comes from a local ceremony where{LF}those going to the mountain to greet their{LF}deaths would go at sunset, when the{LF}Netherworld was said to be closest to ours. {LF}^00"One mustn't look at the mountain at sunset."{LF}"You must stay inside when the mountain cries."{LF}{LF}The "Dark Sun" was a god of misfortune and{LF}calamity.{LF}{LF}The setting sun over Mt. Hikami was said to be{LF}an omen of this "Dark Sun," drawing people in{LF}to their doom.{LF}^00As for the "cry," tremors are also often seen{LF}as a portent of calamity.{LF}{LF}On Mt. Hikami it was thought that it was{LF}the water rumbling, and it is said that{LF}if you could hear it, you were eligible{LF}to become a shrine maiden.{LF}{LF}Other sources say that locals washed in special{LF}water when these tremors happened.
+^00This is a book by the folklorist, Keiji Watarai.{LF}^00Mt. Hikami's sunsets, the rumbling...{LF}Maybe there's some clue in here.
+Drenched Note
+A note left on a bed in the shop. It says how "everyone will end"{LF}in small handwriting.
+^00Once the sunset reaches here, the end won't be{LF}far off.{LF}{LF}After that, the mountain will let out a mighty{LF}roar, and everything will overflow.{LF}{LF}It will overflow, and everyone will end together.{LF}It'll be good. It'll be over.{LF}^00Since it'll be over, I came to see everyone.{LF}{LF}So that we can die properly before the end{LF}comes.
+There's a wet note left atop the bed.
+Rui's Journal 4
+Rui's journal, found at the folklorist's house.{LF}It talks about a change in relationship.
+^00Mr. Hojo is captivated by the woman in that{LF}photograph.{LF}{LF}He's never been good with women.{LF}{LF}But, he's starting to change.{LF}{LF}I can't do anything about it, he's changing.{LF}^00I’d like to keep things between us{LF}just as they are.{LF}{LF}The relationship we have now.{LF}{LF}I like the ambiguity.{LF}{LF}But, he's going to decide sooner or later.{LF}{LF}I wonder, which way will he choose?
+Rui's notes have fallen on the floor. What could this mean?
+Note from Miku 1
+A note dropped at a dead end in the Forbidden Valley. It says "I have to go."
+{LF}  I have to go.{LF}{LF}  I'm so sorry.{LF}{LF}  Forgive me.
+There's a scrap of paper on the ground.{LF}Did my mother leave this?
+Black Diary 2
+Notes dropped amongst the reliquaries on the Twilit Peak.{LF}They talk about the Pillars.
+^00There are two boxes for shrine maidens.{LF}{LF}Those who will be Pillars are to be placed in{LF}reliquaries. The pain of having their limbs{LF}crushed gives them strength.{LF}{LF}Those who can be stronger Pillars are placed in{LF}caskets.{LF}^00Through the Ghost Marriage, Pillars can last{LF}even longer.{LF}{LF}The caskets are made large enough to also{LF}accommodate the groom she is joined to.{LF}{LF}To protect the casket, guardians shall be{LF}submerged around it.
+An old book with a black cover has been dropped on the ground.
+Water-design Journal 2
+A journal with a white cover and a water pattern.{LF}It talks about the "Great Pillar crumbling."
+^00Another shrine maiden goes to{LF}the Shrine of the Ephemeral to become a Pillar.{LF}{LF}The Black Water is restless. During the Witching{LF}Hour, the mountain lets out a shriek.{LF}{LF}The Funeral Celebrant laments that the{LF}Great Pillar will soon succumb.{LF}^00The Wedding Celebrant is hurriedly making{LF}votives.{LF}{LF}The Ghost Marriages have begun.{LF}{LF}Maidens cannot be joined while in the mortal{LF}world. Only Pillars can enter into{LF}Ghost Marriages.{LF}^00Perhaps this Ghost Marriage is meant to console{LF}maidens alone in their caskets.{LF}{LF}Since surviving that flood, I've thought I would{LF}live alone and that I would die alone.{LF}{LF}Perhaps here on Mt. Hikami, that can be{LF}changed.
+^00Another journal has been left in the same place.{LF}^00It's written in beautiful handwriting.
+On Flamekeepers
+An old text that was on the fire altar in the hut that appeared in the{LF}Unfathomable Forest.
+^00       The Forbidden Flame mustn't go out.{LF}  It purifies water and drives back the darkness.{LF}{LF} The Forbidden Flame fends off the Black Water,{LF}   and only those who hold the flame can stand{LF}                     the Shadowspring.{LF}{LF}         The Forbidden Flame must remain.
+An old text has been left atop a burning altar.{LF}It seems to be about being a Flamekeeper.
+Shiragiku's Journal 1
+A journal with a red cover and a white chrysanthemum pattern.{LF}It must belong to the girl who was at the Shrine of Dolls.
+^00Until I am seven, I am with the gods. I am{LF}unborn. When I turn seven, I will be human.{LF}{LF}That's why I will become a Pillar before I turn{LF}seven.{LF}{LF}I am not long for this life, but if I become a{LF}Pillar I will not die, I will be an Immortal{LF}Flower.{LF}^00I will go on forever, undying.{LF}{LF}But will I be alone forever?
+A journal with a white chrysanthemum emblem.{LF}This belongs to the white-haired girl.
+Rui's Journal 5
+Rui's journal, left at the folklorist's house.{LF}She's written about "waiting."
+Mr. Hojo came for me once before.{LF}{LF}He'll come for me again.{LF}{LF}I'm waiting.{LF}I will keep waiting.{LF}{LF}Waiting is all I can do.
+I found one of Rui's journals.{LF}Seems she came here after all.
+Folklorist's Notes 8
+These notes appear to be those of Keiji Watarai, the folklorist.{LF}He's written about some calamity.
+^00The old texts found at the shrines tell of a{LF}disaster.{LF}{LF}The waters, tainted and black, flowed down the{LF}waterfalls, sullying the pools, and became a{LF}black mist that enveloped the mountain. The sun{LF}turned a muddy crimson. The border between{LF}worlds blurred.{LF}^00Now, the waters are clear, and the mists are{LF}white.{LF}{LF}It is unknown whether this disaster actually{LF}happened, or whether it was passed down as a{LF}mere cautionary tale.{LF}{LF}If it really did occur, what must the locals have{LF}thought?{LF}^00Did the mountain rumble, appearing shrouded{LF}in black shadows? Did the rivers look like long{LF}strands of black hair? Did people see the{LF}Black Water running down the paths? The truth{LF}is unclear.{LF}{LF}What is clear is that the waters now are clean{LF}and pure.
+I found an old notebook atop the desk.
+Kazuya's Note 3
+The note was dropped by that ghost that looked like Kazuya.{LF}It's blackened and damp.
+^00It was over the moment I saw that photograph.{LF}I'm done for.{LF}{LF}The moment I fixed my eyes on that lonely face,{LF}I bound myself to her. I know that if I change{LF}my mind, I'm dead.{LF}{LF}I've been chosen to be her groom.{LF}^00I have to go now.{LF}{LF}She's been waiting for so long.{LF}{LF}She's waiting just ahead.{LF}{LF}But not for me.{LF}{LF}She's waiting for another.
+These notes are crumpled and heavily damaged.{LF}There's something written here.
+On Choosing a Bride
+An old text that was in the big, abandoned mansion.{LF}It talks about choosing a bride.
+^00     Grooms are brought in from other places.{LF}{LF}          The groom makes his choice from{LF}                    illustrated votives.{LF}{LF}  The Wedding Celebrant calls upon the chosen{LF}    Immortal Flower, and the two are brought{LF}                           together.{LF}^00 The Immortal Flowers are waiting for someone{LF}             to join them in their caskets.{LF}{LF}         All they can do is wait for a partner.{LF}                   They cannot choose.{LF}{LF}      That is the Immortal Flowers' final wish.
+An old text was left on the floor.
+On Bridehood
+An old text that was hidden in the large mansion's storeroom.{LF}It talks of Ghost Marriage.
+^00     The bride chosen has an audience with her{LF}                             groom.{LF}{LF}   If the man can look on the Black Water with{LF}     unwavering resolve, the Ghost Marriage is{LF}                           successful.{LF}{LF}     If it fails, he shall be placed in a separate{LF}                          reliquary.{LF}^00The bride will be returned to her casket alone to{LF}            wait anew for another selection.
+I found an old document. I can make out the words "Ghost Marriage."
+Regarding Bridegrooms
+An old document that was dropped in the large mansion's banquet hall.{LF}It talks of bridegrooms.
+^00The bridegroom's soul, after the Ghost Marriage,{LF}  is bound with the bride and placed with her in{LF} the casket, so that the Pillar can remain strong.{LF}{LF}  The votive of the wedding is finished, and the{LF}       groom's soulless body is interred in the{LF}                     Forbidden Valley.{LF}^00        The souls of men driven mad by the{LF}    Ghost Marriage are enshrined in unmarked{LF}          graves in the Forbidden Valley.{LF}{LF}   The corpse is placed in a reliquary alone and{LF}   interred in the depths of the Womb Cavern.
+An old text left at the seat of honor in the banquet hall.{LF}I can make out "bridegroom"...
+Dr. Aso's Records 1
+Handwritten notes left in the room with the peephole.{LF}They talk of Postmortem Photographs.
+^00As photography is still so expensive, it's common{LF}to dress the deceased up for Postmortem{LF}Photographs.{LF}{LF}Upon seeing those pictures, I decided to make a{LF}camera.{LF}{LF}Postmortem Photographs are more than simple{LF}mementos.{LF}^00They capture death and the soul in a way the eye{LF}can't.{LF}{LF}I devoted myself completely to making a camera{LF}that could capture what we can't see.{LF}{LF}As soon as I had a working prototype I began{LF}taking Postmortem Photographs.{LF}^00I traveled the country, taking photographs of{LF}dead bodies.{LF}{LF}People were thankful to have the subjects' spirits{LF}preserved.{LF}{LF}The people in Tamai, Ayukawa and Katase, near{LF}Mt. Hikami, were particularly elated. They said{LF}they were "like the Pillars."{LF}^00But this is still not the camera I was after.{LF}It still only captures visible light.{LF}{LF}I have to capture what the eye cannot,{LF}the portion composed of "shadows."{LF}{LF}If I do, perhaps I can prove the existence of an{LF}invisible world.
+^00An old book with a blue cover has fallen on the floor.{LF}^00The name "Kunihiko Aso" is on the spine. This must have been left by{LF}Dr. Aso, inventor of the Camera Obscura.
+Bloodstained Note 2
+A handwritten note that was on the fire altar in the hut that appeared.{LF}It is stained with blood.
+This mountain must end.{LF}{LF}You must take it with you.{LF}{LF}Do not leave it behind.{LF}{LF}Do not allow it to linger.
+An old text has been left by the fire altar.{LF}I can see black stains in several places.
+Kazuya's Note 1
+A part of what seems to be Kazuya's notes.{LF}He's written about the coming wedding ceremony.
+^00I don't know where I am, or how I got here.{LF}{LF}The last thing I remember is calling him on the{LF}phone.{LF}{LF}Maybe if he could have stopped me,{LF}I wouldn't have ended up here.{LF}^00The ceremony will start soon.{LF}{LF}This is the end.
+^00New-looking notes have been dropped here.{LF}^00I recognize the handwriting. It's Kazuya's.
+Kazuya's Note 2
+A note that was dropped in the shadow{LF}of the partition screen in the hallway.
+^00I'm so scared, I can't stop shaking.{LF}{LF}I have to go.{LF}{LF}I chose her, so we have to die together.{LF}{LF}She's been waiting for so long.
+^00Notes have been dropped in the shadow of the partition screen.{LF}^00Something has been written in shaky handwriting.
+The Black Reliquaries
+An old text found in the hut that appeared in the Unfathomable Forest.{LF}It talks about reliquaries.
+^00      The reliquaries protect the maidens from{LF}                       the Black Water.{LF}{LF}    They are filled with the Black Water, and a {LF}                    maiden is shut inside.{LF}{LF}     The maiden becomes a Pillar, protecting{LF}                     the Pure Water.{LF}{LF}^00      The reliquaries prevent the Pillar from{LF}   melting away, keeping her within the water.{LF}{LF}  They must not be opened before the Pillar has{LF}	             crumbled.{LF}{LF}    The only one who can open the reliquary is{LF}                       the one inside.
+There was an old text lying on the floor.{LF}It mentions reliquaries and Black Water.
+Yuri's Notebook 2
+A notebook that was left on Yuri's desk.{LF}She's written about hearing voices.
+^00When did I realize I could see things that others{LF}could not? When did I realize I could hear the{LF}voices of dead people?{LF}{LF}They tell me things. They whisper to me, the{LF}same things over and over.{LF}^00I have to cover my ears so that I don't{LF}accidentally listen.{LF}{LF}If I listen to them, I'll know. And if I know,{LF}I'll accept it.{LF}{LF}Many, many, many voices, all talking to me.{LF}{LF}It doesn't make any sense.{LF}^00If only I could stop them from whispering to{LF}me.
+A notebook has been left on the desk.{LF}This looks like Yuri's diary.
+Hisoka's Journal 3
+Notes that were left on Hisoka's desk.{LF}She's written about her feelings towards Yuri.
+^00I never did learn why Akari went missing.{LF}{LF}I guess she took that secret to the grave. It may{LF}seem trivial to other people, but it must have{LF}been important to her.{LF}{LF}Maybe people really can't understand one{LF}another.{LF}^00I managed to save Yuri.{LF}{LF}I don't know why she went missing, though.{LF}When I touch her, I see nothing.{LF}{LF}Maybe there was no reason. And that worries{LF}me, like peering through darkness.{LF}^00Yuri will leave someday.{LF}{LF}It's OK if I don't know why.{LF}{LF}It's OK if we don't really understand each other.{LF}{LF}As long as she is in my arms, Yuri will be here{LF}with me.
+A small notebook has been left on the desk.{LF}It looks like Ms. Kurosawa's journal.
+Note from Miku 2
+This was left outside the mansion deep in the Forbidden Valley.
+^00I was abandoned.{LF}{LF}Four years ago, Miu came into my life.{LF}{LF}But now, I have to leave her.{LF}{LF}I don't have long left. I can feel that the end is{LF}close.{LF}^00Everyone dies alone. But, I don't want to be{LF}alone.{LF}{LF}I have learned of a thing called Ghost Marriage.
+There's a scrap of paper on the ground.{LF}Did my mother leave this?
+Note from Miku 3
+This scrap of paper was left on a dresser in the mansion deep in the{LF}Forbidden Valley.
+^00I have to go now.{LF}{LF}I could always see things no one else could see.{LF}Only Mafuyu understood me.{LF}{LF}I could never tell him how I feel, though.{LF}He left before I could tell him.{LF}^00I could never look him in the eye.{LF}{LF}He'd have known how I feel if I let myself look{LF}at him like that.{LF}{LF}It was difficult being with him, but it was better{LF}than being alone.{LF}^00He doesn't need to understand me. I don't need{LF}to be with him forever.{LF}{LF}If I can just ease my brother's suffering for a{LF}moment as he keeps the gates of the underworld{LF}sealed.{LF}^00In the end, who will be by my side?{LF}{LF}Let me do this, please.{LF}{LF}Forgive me.
+^00There's a scrap of paper by the dresser.{LF}^00Was she here...? Did my mother leave this?
+White Diary
+A small notebook left by the old woman in the white kimono.{LF}It talks about waiting for "Aso."
+^00The Ghost Marriage allows Pillars to persist{LF}longer.{LF}{LF}Maidens who become Pillars must be bound to{LF}someone.{LF}{LF}Sad though it may be, no maiden can endure the{LF}pain they suffer within the reliquary on her own.{LF}^00We brought many men to wed Ose, but they all{LF}had a change of heart; the joinings failed. I feel{LF}she might be waiting for Master Aso to come{LF}back to her.{LF}{LF}^00But even if he does come, there is no guarantee{LF}that she will be the one he chooses.{LF}{LF}They may have made a promise, but we know{LF}that Outsiders have fickle hearts.
+A book with a white cover...{LF}Did that old woman write this?
+Note from Ren
+This note appears to be from Ren.{LF}He's written about a recurring dream.
+^00I had that dream again.{LF}{LF}The one where I swing that knife down on a girl{LF}in a ceremony.{LF}{LF}Before I bring down the knife our eyes meet.{LF}When they do, I feel a jolt of fear like she's seen{LF}into my soul. The girl then falls into a box.{LF}^00Did it really happen?{LF}{LF}If it was real, then what happened to that girl?{LF}{LF}When I woke up, my pulse was pounding. I am{LF}beset with overwhelming regret, pain, and{LF}sadness.{LF}^00The ceremony must be from that summer when{LF}I was a boy, when I stayed with the Aso family{LF}on Mt. Kagiroi.{LF}{LF}I'd play with the local children all over the place,{LF}even on the grounds of Kagiroi Shrine until the{LF}sun set. I think that's when it must have started.{LF}^00I've been thinking about going back to{LF}Mt. Kagiroi for some time now.{LF}{LF}But, I'm scared of learning the truth about{LF}that dream.{LF}{LF}I hear it's all been demolished. Maybe there's{LF}nothing left to tell me if it's a dream or not.
+A notebook has been left on the floor.{LF}Did it belong to the person staying in this room?
+Hisoka's Journal 4
+A small notebook that was left in Hisoka's room.{LF}It talks about people having secrets.
+^00Everyone has secrets. Secrets they never tell{LF}anyone. Secrets that cannot be shared.{LF}{LF}When people go missing, they take those secrets{LF}with them. Maybe it's the weight of those secrets{LF}that drives them to disappear. They must want to{LF}escape the heavy burden.{LF}^00Someday, Yuri may learn of my secrets,{LF}my scars.{LF}{LF}But then we might finally be able to open up to{LF}each other.{LF}{LF}Maybe I'll be able to face this, head-on,{LF}and make a fresh start.
+A notebook that has fallen next to the bed.{LF}Is this Hisoka's journal?
+Shrine on the Water
+It's an old text about Mt. Hikami.{LF}It talks about the Shrine on the Water and its traditions.
+^00Oral tradition tells us of the{LF}"Shrine on the Water."{LF}{LF}It is said to be the source of life, and home to{LF}the sun god.{LF}{LF}People summoned by the cry of the mountain{LF}are said to pass through the shrine on their way{LF}to the gods.{LF}^00There are claims of people offering up their{LF}thoughts and their souls to release them from{LF}their suffering.{LF}{LF}The shrine appears in several folktales, but{LF}unfortunately no trace of the building itself has{LF}ever been found.{LF}^00The question is, where is this shrine located?{LF}Could it lie on top of a literal body of water,{LF}as the name suggests?{LF}{LF}The Lake of the Departed on the summit is{LF}always covered in mist. {LF}{LF}The silhouette of a torii gate can be seen when{LF}the sun sets.{LF}^00If that is the Shrine on the Water, it is likely{LF}that only certain individuals - those granted{LF}special permission - were allowed to approach{LF}it via boat.
+An old text about the Shrine on the Water that was left on a bookshelf.
+Dedication
+This old text was left on the altar with the hanging lanterns in{LF}the Shrine of the Ephemeral.
+^00The Shrine of the Ephemeral houses three Pillars{LF}       who guard the mountain's Pure Water.{LF}{LF}                  One for the caskets.{LF}            One for the Forbidden Flame.{LF}                  One for the water.{LF}{LF}         The water passes through the Shrine,{LF}                   purified by the flame.{LF}^00 To proceed, one must receive permission from{LF}                      two maidens.{LF}{LF}   With the two keys, receive the blessing of the{LF}                 maidens on the water.
+It mentions the Shrine of the Ephemeral.{LF}It seems to be about why it was built.
+The Three Pillars
+An old text left at the statue clutching its knees at{LF}the Shrine of the Ephemeral.
+^00  Once, the Black Water flowed forth, but three{LF}      strong Pillars threw themselves in, and{LF}             the Shadowspring was sated.{LF}{LF}     The three Pillars eventually succumbed to{LF}                        the darkness.{LF}{LF}                They live on as statues,{LF}           in the Shrine of the Ephemeral.{LF}^00  The three Pillars collapsed, and five more took{LF} their place. All of Mt. Hikami became a barrier;{LF}     one the Black Water could not overcome.{LF}{LF} So long as Mt. Hikami stands, the Black Water{LF}               shall never again overflow.
+An old text was left in front of the statue clutching its knees.
+The Taboo of Glancing
+An old text left at the altar beneath the Shrine of the Ephemeral.{LF}It talks about "glancing."
+^00        To glance into someone is to take on{LF}             their thoughts, their secrets. {LF}{LF} The weak do so with a touch; while the strong{LF}        can do it with a look, a true glance.{LF}{LF}                   Howsoever it is done,{LF}                the result shall be the same.{LF}^00          This power is of the Netherworld.{LF}{LF}  By drenching oneself in the mountain's waters,{LF}      the heart melts, and joins with the water,{LF}          strengthening the one who glances. {LF}{LF}    Getting closer to death also brings strength,{LF}       allowing one to take on more thoughts,{LF}                          more secrets.{LF}^00    Strong thoughts make for stronger Pillars.{LF}{LF}   The thoughts are sealed with the Pillar inside{LF}                        the reliquary.{LF}{LF}To open the box and let these thoughts overflow{LF}       is to invite disaster, and is forbidden.
+An old text has been left on the altar.{LF}I can make out the word "glance."
+Water-design Journal 3
+An old book marked with a flowing water pattern.{LF}It talks about the powers of the shrine maidens.
+^00Through training, shrine maidens approach{LF}death.{LF}{LF}The closer they get, the more they lose{LF}themselves. But the maiden must keep strong.{LF}{LF}By getting closer to death, it is possible to know{LF}everything.{LF}^00This is how we are able to glance people's{LF}thoughts.{LF}{LF}We all leave behind powerful echoes of our self,{LF}and as long as these echoes remain a soul cannot{LF}move on.{LF}{LF}A shrine maiden must help the soul pass to{LF}the Netherworld.{LF}^00They must take on those final thoughts.{LF}Resonate with them, and continue to embrace{LF}them.{LF}{LF}This is the shrine maidens' true role.
+It's a white book with a water design.
+Water-design Journal 4
+An old book marked with a flowing water pattern.{LF}It talks about being chosen to be the Great Pillar.
+^00I have been chosen to be the Great Pillar.{LF}{LF}This is such an honor. A girl from a tiny village{LF}becoming the Great Pillar.{LF}{LF}The other maidens wept. They wouldn't stop{LF}crying, so I had to console them.{LF}^00I will be the Great Pillar. They gave me the name{LF}"Kurosawa."{LF}{LF}From now on, I shall be called Ose Kurosawa.
+It's a white book with a water design.{LF}This must have belonged to that bride.
+Opening Reliquaries
+Old writings found in the room with the open reliquary.{LF}They talk about the qualities required to be put in a reliquary.
+ Those without the power shall not be placed in{LF}                          reliquaries.{LF}{LF}If one who is weak is placed inside, they will not{LF}survive the pain of the Black Water and enter the{LF}                        Netherworld.{LF}{LF}  Those tainted souls shall not be given a proper{LF}                              death.
+An old text was left on the darkened floor.
+On the Mountain's Cry
+An old text left in the Shrine of the Ephemeral.{LF}It talks about the "cry of the mountain."
+^00    Maidens in the Black Water, in reliquaries,{LF}                            as Pillars.{LF}{LF}  The maidens sleep as Pillars, neither alive nor{LF}     dead, reliving the pain of others in a cycle{LF}                             unending.{LF}{LF}The stronger the Pillar, the greater the pain they{LF}                              endure.{LF}^00    When the pain is too much the box opens,{LF}     and the Pillar melts into the Black Water.{LF}{LF}            This weakens the ward against{LF}the Shadowspring, and so the mountain cries out{LF}                              in pain.{LF}{LF}       A cry as of the maidens' pain, a sign of{LF}                     calamities to come.
+An old text was left on a crumbling bookshelf.
+Hisoka's Journal 5
+A small notebook that was in Hisoka's room.{LF}She talks about not being able to save "Akari."
+^00I couldn't make it. Just as I thought I had her,{LF}she fell. Akari. I couldn't save her.{LF}{LF}"Forgive me." Those words still echo in my{LF}mind.{LF}{LF}Maybe in chasing after Akari, I pushed her too{LF}far.{LF}^00"I'm so relieved." "Thank you."{LF}The forced niceties made it so much harder.{LF}{LF}After that call, I cried so much I thought I might{LF}die.{LF}{LF}She slipped through my fingers.{LF}I feel like Yuri will, too.
+This notebook looks like it's Hisoka's.{LF}Maybe there's some kind of clue in it.
+Yuri's Notebook 3
+A notebook that was left atop Yuri's desk.{LF}She's written about when Hisoka saved her.
+^00The words "I won't let you" brought me back to{LF}my senses. They overwhelmed me.{LF}{LF}The words were so powerful, so absolute.{LF}They really got to me.{LF}{LF}But what really got me to stick around was{LF}something small.{LF}^00Hisoka's favorite words.{LF}"Sometimes a cup of coffee can make all the {LF}difference."{LF}{LF}It was such a little thing, but I never noticed it.
+This looks like Yuri's diary.{LF}Maybe there're some clues in it?
+In the Reliquaries
+This book was left on the counter after Kazuya disappeared.{LF}It looks like it's by Keiji Watarai.
+^00The "black boxes" found on Mt. Hikami were{LF}filled with life, with death, and with fear.{LF}In short, they were filled with human sacrifices.{LF}{LF}Shrine maidens were put in these reliquaries to{LF}protect the locals by appeasing the{LF}"Shadowspring."{LF}^00This "Shadowspring" served as a bridge to the{LF}Netherworld.{LF}{LF}In other words, beneath the water, the source of{LF}all life, exists the underworld.{LF}{LF}The "Black Water" came from the underworld{LF}itself and with it came disaster and ruin.{LF}^00The border between life and death was faint in{LF}that place.{LF}{LF}The shrine maidens were said to take on the{LF}memories of people who came to die.{LF}{LF}This seems to be similar to the spirit channeling{LF}seen in other parts of the country.{LF}^00To take on the memories of the dying is to share{LF}in death.{LF}{LF}The maidens glanced people's souls as they died,{LF}taking their secrets as they were sealed in the{LF}reliquaries. The shrine maidens became one with{LF}the water to connect with the people they{LF}glanced.{LF}^00The shrine maidens ferried people to their death,{LF}via the water.{LF}{LF}The maidens of Mt. Hikami presided over death,{LF}but this may have been in effort to protect those{LF}still living.
+This book seems to be about reliquaries.
+On the Shadowborn
+This book was in the storeroom Miu was sleeping in.{LF}It talks about the "Shadowborn."
+^00Where Ghost Marriages take place, tales of{LF}children of the dead are often found.{LF}{LF}They are known as "Shadowborn" or "Children{LF}of the Underworld," and are feared by the{LF}people.{LF}^00"The Shadowborn"{LF}{LF}Once, a man beloved by a girl living in a small{LF}village went missing in the mountains.{LF}{LF}Every day, the girl went to the mountain shrine{LF}to pray for his return, but years went by, and the{LF}man never came back.{LF}^00After ten years, the girl had lost her mind. She{LF}went on living and talking to a man who wasn't{LF}there.{LF}{LF}One day, the villagers noticed that she was with{LF}child.{LF}{LF}She said that the man who had gone missing was{LF}the father.{LF}^00Ignoring the talk in the village about the identity{LF}of the father, she gave birth alone.{LF}{LF}The baby girl that was born had the missing{LF}man's eyes.{LF}{LF}As for the man, he was an outsider who had{LF}stumbled upon the village. It later transpired{LF}he was killed by the villagers ten years prior.{LF}^00When the child learned how to speak, she asked{LF}the villagers,{LF}{LF}"Why did you kill my father?"
+I found an old book about "Shadowborn."
+Ghost Brides
+A book by the folklorist Keiji Watarai.{LF}It talks about the "Ghost Marriage" ceremonies.
+^00Maidens within the caskets suffer through an{LF}eternal cycle of life and death as they slowly{LF}melt into the water.{LF}{LF}To protect the mountain, the shrine maidens{LF}must endure that pain and suffering alone.{LF}{LF}Until they can take no more.{LF}^00There is a ceremony to soothe the suffering of{LF}the maidens' souls, allowing the Pillar to persist{LF}longer.{LF}{LF}This is the "Ghost Marriage."{LF}^00Living men are brought to the mountain as{LF}grooms for the suffering shrine maidens.{LF}{LF}They choose their maiden, and then exchange{LF}their vows.{LF}{LF}At the moment their souls join, her soul is said{LF}to return to this world.{LF}^00The maiden is then placed back into her casket,{LF}groom in tow, so that she can continue to{LF}uphold the border between life and death.{LF}{LF}Until a maiden is bound by Ghost Marriage,{LF}she is alone.{LF}{LF}She must wait to be chosen.{LF}^00This ritual invokes emotions that transcend life{LF}and death. Perhaps this is part of the{LF}deep-rooted beliefs of this region, where{LF}nature is both feared and revered by the{LF}people.
+^00An old book has fallen on the floor.{LF}^00I can see the words "Ghost Marriage."{LF}It looks like it's by the folklorist, Keiji Watarai.
+Rui's Journal 6
+A notebook that Rui dropped while sleeping.{LF}It talks about needing to choose someone.
+^00This might be the end. My body is growing{LF}colder and my blood runs clear, like water.{LF}{LF}My body shakes with the mountain.{LF}I can't move.{LF}{LF}I wanted Mr. Hojo to get away at least,{LF}but he can't escape. He has become an Outsider.{LF}^00He must choose.{LF}{LF}The one he doesn't choose will be thrown away.{LF}I don't think Mr. Hojo will be able to do it.{LF}But it's already too late.{LF}{LF}He needs to choose someone.{LF}He needs to end it with someone.
+Rui must've been writing this before going to bed.
+Water & Mt. Hikami
+A book about Mt. Hikami's fixation on water.{LF}It was written by the folklorist, Keiji Watarai.
+^00Water has been deified on Mt. Hikami for{LF}centuries.{LF}{LF}The water from the Lake of the Departed{LF}envelops the mountain in mist.{LF}{LF}To the locals the water is the source of the soul,{LF}and where the soul returns to in death.{LF}^00This belief likely spread due to water being tied{LF}to everything within the wet and humid climate.{LF}{LF}The people fear nature, revere it, and live among{LF}it.{LF}{LF}This may show the true character of the locals.
+Was Rui reading this before she went to sleep?
+Water, Life, and Death
+A book that fell under Yuri's bed.{LF}It talks about the Mt. Hikami locals' ideas on life and death.
+^00The beliefs of Mt. Hikami are related to beliefs{LF}found all over the country.{LF}{LF}The water is life, and in death the soul must{LF}return there.{LF}{LF}People came to the mountain to "return" their{LF}souls to the mother that gave it to them.{LF}^00To "die a proper death."{LF}{LF}The belief that dying in the mountain's water{LF}was somehow "proper."{LF}{LF}This shows a strong yearning for nature itself,{LF}with death as just another part thereof.
+There's a book underneath the bed.
+Yuri's Notebook 4
+A notebook that was in Yuri's room.{LF}She's written about a dream involving a shrine maiden.
+^00I dreamt of a shrine maiden. Of becoming a{LF}shrine maiden. She lifted her blindfold and{LF}glanced at a dying man, then covered her eyes{LF}and wept.{LF}{LF}I didn't cry.{LF}{LF}I didn't even cry when Hisoka stopped me from{LF}jumping.{LF}^00Hisoka cried, though.{LF}{LF}I wonder when I last cried?{LF}{LF}As a child I used to cry at the sunset.{LF}{LF}Now when I see the sunset I just stare,{LF}transfixed. It feels like I'm melting away,{LF}being called away to the other side.
+^00It's my diary. The doctor at the hospital said I should keep one.{LF}^00That I should record my thoughts, dreams, things I could see and hear,{LF}and write them down to read later after I'd calmed down.{LF}^00In the end, he still didn't believe me.
+Hisoka's Journal 6
+A small notebook that was in Hisoka's room.{LF}She's written about a dream she had.
+^00I dreamt of a river. It was the river of death, and{LF}we had to cross it.{LF}{LF}Everyone fought the current, until one by one,{LF}they grew weary and were swept away. I couldn't{LF}save them. In the end I was swept away, alone.{LF}^00Everyone was fighting against the current,{LF}moving as one.{LF}{LF}I felt relieved that we were all connected.{LF}Then I woke up.{LF}{LF}^00When I touched Yuri on that cliff, I saw her{LF}anguish.{LF}{LF}Her survivor's guilt. Her fixation with death,{LF}and her hesitation to chase it.{LF}{LF}Maybe I'm drawn to Yuri, and she to me,{LF}because we are both fighting against the current.
+It's Hisoka's journal...
+The Shadowspring Tale
+A book that was left on the store counter at some point.{LF}It's about a folktale from Mt. Hikami.
+^00They say on Mt. Hikami:{LF}{LF}"The Shadowspring is here,{LF}{LF}but it is on the other side."{LF}{LF}It is a curious saying. It must mean that the{LF}spring is both of this world and yet not of this{LF}world.{LF}^00The Black Water flows from the Shadowspring.{LF}Within it lies the underworld itself.{LF}{LF}For centuries the shrine maidens have protected{LF}the Shadowspring, believing it to be a bridge{LF}between worlds.{LF}{LF}Tales abound of such bridges.{LF}^00Are there people all over the country protecting{LF}these bridges as Mt. Hikami does, by drowning{LF}shrine maidens?{LF}{LF}Perhaps Ose Kurosawa, the last{LF}Immortal Flower, was one such sacrifice.
+It's a book about an old legend.{LF}It looks like it was written by the folklorist, Keiji Watarai.
+Water-design Journal 5
+A journal with a white cover and a flowing water pattern.{LF}It seems to be about "glancing."
+^00At first the glance is done with a touch, or an{LF}embrace. By the end, thoughts can be taken unto{LF}oneself with a look.{LF}{LF}All people have secrets.{LF}{LF}Being glanced allows them to return to the water{LF}in peace. Without secrets, or suffering.{LF}^00I can see you as well.{LF}{LF}You are fixated with death.{LF}You are afraid of being alone.{LF}{LF}I shall embrace you.{LF}{LF}Come to me.
+That woman, the shrine maiden... She's calling to me...
+Water-design Journal 6
+A journal with a white cover and a flowing water pattern.{LF}It talks about glancing shrine maidens.
+^00             Whenever a Pillar crumbles, {LF}{LF}           whenever a shrine maiden falls,{LF}{LF}           the rest of us, bound by water,{LF}{LF}            must take on those emotions.{LF}{LF}           I have glanced so many deaths,{LF}^00              the pain is overflowing.{LF}          The final thoughts of the dead{LF}{LF}              whirl like a maelstrom.{LF}{LF}            I cannot handle any more.{LF}{LF}          My heart has reached its limit.
+She's taken the Boat of Passage... to the Shrine on the Water...
+Water-design Journal 9
+A journal with a white cover and a flowing water pattern.{LF}It talks about becoming a Pillar.
+^00I wasn't sure when I should go, but now I know.{LF}I always had to go someday, but one must decide{LF}on one's own in order to become a strong Pillar.{LF}{LF}I will be a Pillar. I will enter the casket. In the{LF}unending solitude I will continue to hold on to{LF}the pain I glanced.{LF}^00I will become the undying, an Immortal Flower.{LF}I shall fall through the Black Water for eternity.{LF}Such is my duty.{LF}{LF}All the death, all the secrets.{LF}{LF}But who is willing to glance the secrets of a{LF}shrine maiden, the secrets that I hold?
+She's further inside...waiting...
+Rui's Journal 7
+Rui's journal was on the sofa in the study.{LF}It talks about wanting to be with someone.
+^00Mr. Hojo won't choose me.{LF}I can't do anything about that.{LF}{LF}But I'm fine. I'm fine with it.{LF}{LF}The more I say that, the more I want to cry.{LF}The tears wash me clean. Clean of my clingy{LF}possessiveness, my jealousy, my desire to give in{LF}to him.{LF}^00He doesn't have to choose me.{LF}{LF}I just want to be at his side for as long as he'll{LF}let me.{LF}{LF}He'll grow so used to me there I'll become{LF}invisible to him.{LF}{LF}Like water. I will vanish. I will become{LF}transparent, colorless.
+It's Rui's journal. Something's written in it.
+Book Next to the Hair
+A book that was in a box of the late Dr. Aso's effects.{LF}It tells of a token received from a girl.
+^00How long has it been since I found it?{LF}{LF}That ceremony. Was it real? If not, then what is{LF}this hair?{LF}{LF}My memories are hazy. I was caught up in the{LF}passion of the ceremony. I brought down the{LF}blade. Then, darkness.{LF}^00I made a promise to find that girl and bring her{LF}this token.{LF}{LF}I feel like she's still waiting, even though it's{LF}been longer than I care to think about.{LF}{LF}Even at my age--no, because of my age--that{LF}innocent promise we made weighs heavily{LF}on me.{LF}^00A forgotten promise, one that cannot be{LF}unmade.{LF}{LF}Where can I possibly take this token that the{LF}promise might be fulfilled?
+^00There was a notebook underneath the bundle of hair.{LF}^00Was this...the original owner of the box... Did Dr. Aso write this?
+Dr. Aso's Records 2
+Handwritten notes left by Dr. Aso.{LF}They talk about when he came to the mountain.
+^00The shrine maiden's grove.{LF}{LF}I received a special invitation to visit this{LF}mountain, where only people who return to the{LF}water are allowed to go.{LF}{LF}The mountain whence none return alive. This{LF}mountain has a unique custom.{LF}^00They believe water to be holy.{LF}The people here yearn for a proper death.{LF}{LF}People come here, chanting about wanting to be{LF}the water.{LF}{LF}They are so sincere, I think I am starting to{LF}believe them.{LF}^00So many people with the same belief. If this is{LF}carried on through the generations, perhaps their{LF}prayers will be answered.
+^00These look like Dr. Aso's notes.{LF}^00Are they from when he visited the mountain?
+Dr. Aso's Records 3
+Handwritten notes left by Dr. Aso.{LF}They talk about the waters flowing down the mountain.
+^00The air is so clean here.{LF}{LF}Calm, pure water flows. And the mist is full of{LF}vital energy.{LF}{LF}Everything here has an aura. In the woods, one{LF}can feel not only the animals and trees; the water{LF}itself has an energy.{LF}^00I understand now. The water is alive. "We are{LF}born from water and to water we return."{LF}"The water connects us all."{LF}{LF}Perhaps the shrine maidens with their{LF}well-honed senses perceive this aura, and lead{LF}the people to a proper death.{LF}{LF}Here, in this place,{LF}I am not alone.
+In the past, Dr. Aso visited the mountain and took photographs...
+Dr. Aso's Records 4
+Handwritten notes left by Dr. Aso.{LF}They talk about spending time on "Mt. Kagiroi."
+^00This mountain reminds me of the time I spent{LF}on Mt. Kagiroi in my youth.{LF}{LF}Back then, I believed without a doubt in an{LF}invisible world. When did I stop? And why?{LF}{LF}This mountain air has awoken a long-forgotten{LF}memory.{LF}^00I was dozing under a tree, and dreamt of that{LF}ceremony.{LF}{LF}I received something that day in my dream, in{LF}my past.{LF}{LF}Was it a dream? Or did it really happen?
+What did Dr. Aso see here on the mountain?
+Shiragiku's Journal 2
+A handwritten journal left in the Shrine of Dolls by that girl.{LF}It talks about playing hide-and-seek.
+^00I'm not like the others. My hair and eyes make{LF}me special. I was told I wouldn't live long.{LF}{LF}That I wouldn't even live to be seven years old.{LF}{LF}They all hid from me, like they might catch{LF}something. Only he didn't run.{LF}^00When we played hide-and-seek, we hid together{LF}in our secret place. Nobody could find us there.{LF}Why did we ever leave?{LF}{LF}The first time I cried was when I had to leave{LF}that place.{LF}{LF}The ceremony is tomorrow.
+This journal... Did that white-haired girl leave this?
+Shiragiku's Journal 3
+A handwritten journal left in the Shrine of Dolls by that girl.{LF}It talks about exchanging vows.
+^00At the ceremony on Mt. Kagiroi I cut a lock of{LF}my hair as a token. And as a farewell.{LF}{LF}I fell once. I thought I was dead, but I wasn't.{LF}I survived.{LF}{LF}When I opened my eyes, he was there. I am here{LF}because of him.{LF}That's why I chose him.{LF}{LF}^00On Mt. Kagiroi, girls chosen to be Pillars can{LF}pick their partner.{LF}{LF}I will be placed in a box and be taken to the{LF}mountain. We will exchange vows, be bound{LF}together for eternity.
+^00That girl left this journal here.{LF}^00Does she have some connection to Dr. Aso?
+Dr. Aso's Records 5
+Handwritten notes left by Dr. Aso.{LF}They talk about his thoughts on the "world unseen."
+^00A mountain whence none return alive. I shall{LF}surely never see such beauty again.{LF}{LF}Must I die alone?{LF}{LF}When a person dies, do they just disappear? I do{LF}not believe so. I believe they simply move on, to{LF}a world unseen.{LF}^00Here they talk of such a place.{LF}{LF}A world invisible to the human eye.{LF}The Netherworld.
+What did Dr. Aso feel here on the mountain?
+Dr. Aso's Records 6
+Handwritten notes left by Dr. Aso.{LF}They talk about his thoughts on the afterlife.
+^00What happens to a person's thoughts after they{LF}die?{LF}{LF}If the soul truly exists, where then does it go? {LF}{LF}To the other world?{LF}That world which we cannot see?{LF}^00What if we could perceive that place, that{LF}Netherworld.{LF}{LF}What if we could capture an image of the soul{LF}itself.
+What's Dr. Aso trying to say here?
+Dr. Aso's Records 7
+Handwritten notes left by Dr. Aso.{LF}They talk about dying alone.
+^00I feel I shall die alone.{LF}{LF}Death is a solitary pursuit.{LF}{LF}Here, on the mountain, they don't believe in{LF}dying alone.{LF}{LF}They believe that dying as a couple, in a {LF}Ghost Marriage, can transcend that.{LF}^00They do not die together; the man follows after,{LF}vowing an eternal bond. It is a unique form of{LF}double suicide.{LF}{LF}I can't keep myself from thinking about it.{LF}{LF}I shall likely be thinking about "double suicide"{LF}even as I die.
+Dr. Aso... It sounds like he had some regrets in the end.
+Water-design Journal 7
+A journal with a white cover and a flowing water pattern.{LF}It's about meeting "him."
+            Why did he have to show up?{LF}             I'd finally made my decision.{LF}{LF}           He'll never come back for me.{LF}                I cried when he left me.{LF}           I cried until I couldn't breathe.{LF}            I cried until I thought I might{LF}                melt away into nothing.{LF}{LF}              Those words are a curse.
+^00Did the bride in the white kimono leave this journal?{LF}^00She's waiting for someone to visit her, too.
+Water-design Journal 8
+A journal with a white cover and a flowing water pattern.{LF}It's about touching "him."
+^00I knew as soon as we touched.{LF}{LF}He was worried that he would live and die alone.{LF}{LF}When I survived, all alone, I thought the same{LF}thing. I can't imagine a greater pain.{LF}^00I wanted to tell him he wouldn't die alone.{LF}{LF}Here on the mountain, we are all one within{LF}the water.{LF}{LF}But I felt that, if I said that, he would know my{LF}deepest desire.
+A small notebook has been placed on a cushion.
+Shiragiku's Journal 4
+A journal with a red cover and a white chrysanthemum pattern.{LF}It talks about a token.
+^00On Mt. Kagiroi, the Pillar chooses her partner.{LF}{LF}I chose him.{LF}{LF}I gave him my token, my soul.{LF}{LF}He took my soul with him, and he will bring it{LF}back.{LF}^00{LF}{LF}{LF}We can hide, together.{LF}{LF}In that confining darkness, together,{LF}just like before.{LF}{LF}^00{LF}{LF}{LF}{LF}He will come for me.
+This must be the white-haired girl's journal.{LF}Has she been waiting all this time as well?
+Bloodstained Note 3
+A small handwritten note dropped by the Man with a Blade.{LF}It's blackened and burnt.
+^00They're all dead.{LF}{LF}I am alone at last.{LF}{LF}I cannot die a proper death.{LF}{LF}But that doesn't matter.{LF}{LF}That one thing is mine.{LF}It is mine alone.{LF}^00I crushed them all.{LF}{LF}I took back what they saw, what they stole from{LF}me.{LF}{LF}Now there is no one left to see what I am,{LF}what I've done.{LF}{LF}I can die. Alone.
+That man dropped this old text...
+Note Left Behind 1
+A note found on the inn's rooftop.{LF}It talks about disappearing.
+^00I can't stay at home anymore. It's me.{LF}I shouldn't be there.{LF}{LF}My mother and sister get hurt when they try to{LF}be nice.{LF}{LF}I'm weak, and I'm lost.{LF}I'm so weak, I can't even kill myself.{LF}{LF}I wish I could disappear.
+There's a scrap of paper on the rain-soaked concrete.
+Note Left Behind 2
+A note found on the road to the Shrine of the Ephemeral.{LF}It talks about voices.
+I don't need a voice.{LF}{LF}Mine is like my mother's.{LF}More than my sister's is.{LF}{LF}I wish it were the other way.{LF}Then it would've been easier.{LF}{LF}If I'm quiet, no one gets hurt.{LF}Nobody will be sad.
+There's a scrap of paper on the rain-soaked ground.
+Note Left Behind 3
+A note left at the Shrine of the Ephemeral.{LF}It talks about wanting to be strong.
+             She told me I can be strong,{LF}             so long as I have this thread.{LF}{LF}               I don't know what to do.{LF}{LF}                  I want to be strong.{LF}{LF}             Thinking I can't be strong is{LF}            worse than not thinking at all.
+What appears to be a scrap of notebook paper has been dropped here.
