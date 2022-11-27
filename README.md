@@ -1,7 +1,7 @@
 ## :small_blue_diamond:Tradução: 99% Revisão: 56%
 
 <h1 align="center"><figure>
-  <img src="R_logo.png">
+  <img src="FatralFrame.png">
 </figure></h1>
 
 ## :small_blue_diamond:Sobre a Tradução.
