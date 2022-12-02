@@ -1,4 +1,4 @@
-## :small_blue_diamond:Tradução: 99% Revisão: 56%
+## :small_blue_diamond:Tradução: 99% Revisão: 64%
 
 <h1 align="center"><figure>
   <img src="FatralFrame.png">
