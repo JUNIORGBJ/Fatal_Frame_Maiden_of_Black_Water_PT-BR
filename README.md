@@ -1,5 +1,3 @@
-## :small_blue_diamond:Tradução: 99% Revisão: 64%
-
 <h1 align="center"><figure>
   <img src="FatralFrame.png">
 </figure></h1>
@@ -21,7 +19,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 ## :small_blue_diamond:Instalação
 
 
-**ATMOSPHERE** Basta colocar a pasta ```0100BEB015604000``` no caminho ```Atmosphere\Contents``` para quem usa esse desbloqueio
+**ATMOSPHERE** Basta colocar a pasta ```0100BEB015604000``` e ```0100BEB015605001``` no caminho ```Atmosphere\Contents``` para quem usa esse desbloqueio
 
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
